@@ -41,3 +41,11 @@ Die Meteoritensammlung macht einen besonderen Theil des
 5. Eine Stelle von einem Hausenblasenabdruck der Flache _C_, Fig. 4, unter dem Mikroscop, an welcher man die Aetzungslinien und Rhabditkrystalle sieht.
 
 6. Eine Stelle von einem Hausenblasenabdruck einer ahnlichen geatzten Flache des Eisens von Seelasgen, wie sie Fig. 4, Taf. 2 dargestellt ist. Die Rhabditkrystalle sind untereinander ungefahr rechtwinklig, der Schnitt des Eisens muss an dieser Stelle also ungefahr parallel einer Spalungsflache gehen. Die Rhabditkrystalle der einen Lage sind sammtlich zufallig grosser als die der andern. An den Durchschnitten der auf den Spaltungsflachen rechtwinklig stehenden Krystalle, sieht man, dafs die Quershcnitte rechtwinklig, aber ihre Seiten an dieser Stelle nich immer, wenn auch zuweilen, den Hexaderflachern parallel sind, die auf der Schnittflache rechtwinklig stehen. In der Mitte ein Einshluss.
+
+7. Die Stelle Fig. 6 mit ihrer Umgebung in naturlicher Grosse.
+
+8. Eine Stelle eines Hausenblasenabdrucks von einer andern geatzten Schnittflache des Eisens von Seelasgen als die, worauf sich Fig. 6 bezieht.
+
+9. Eine Stelle eines Hausenblasenabdrucks der geatzten Schnittflache _D_ Fig. 3 des Eisens von Braunau. Man sieht die Langsschnitte der Rhabditkrystalle, die der Kante von _D_ und _C_ parallel liegen; sie sind hier an den Enden aber anders begranzt als die Rhabditkrystalle bei dem Eisen von Seelasgen Fig. 6.
+
+10.

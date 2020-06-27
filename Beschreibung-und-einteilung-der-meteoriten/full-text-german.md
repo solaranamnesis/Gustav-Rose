@@ -18,4 +18,6 @@ Gelesen in der Akademie der Wissenschaften am 7. und 14. Aug. 1862 und am 11. Ju
 
 Die Meteoritensammlung macht einen besonderen Theil des 
 
+...
+
 #### Kupfertafeln

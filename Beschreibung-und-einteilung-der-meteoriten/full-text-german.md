@@ -20,4 +20,6 @@ Die Meteoritensammlung macht einen besonderen Theil des
 
 ...
 
+### Inhaltsübersicht
+
 #### Kupfertafeln

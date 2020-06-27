@@ -56,21 +56,21 @@ Die Meteoritensammlung macht einen besonderen Theil des
 
 ##### Tafel 2
 
-1\. Eine geatzte Schnittlfache des Meteoreisens von Zacatecas in naturlicher Grosse.
+1\. Eine geätzte Schnittlfäche des Meteoreisens von Zacatecas in natürlicher Grösse.
 
-2\. und 3\. Die in diesem Eisen vorkommenden Schreibersitkrystalle, wie sie an den Stellen _a_ und _b_ von einem Hausenblasenabdruck der Schnittflache Fig. 1 unter dem Mikroscop erscheinen.
+2\. und 3\. Die in diesem Eisen vorkommenden Schreibersitkrystalle, wie sie an den Stellen _a_ und _b_ von einem Hausenblasenabdruck der Schnittfläche Fig. 1 unter dem Mikroscop erscheinen.
 
-4\. Geatzte Schnittflache des Meteoreisens von Seelasgen.
+4\. Geätzte Schnittfläche des Meteoreisens von Seeläsgen.
 
-5\. Durchschnitt von einer Troilitparthie in dem Meteoreisen von Seelasgen; sie ist zunachst von einer Hulle von Tanit (?) und dann von den Zusammensetzungsstucken des Meteoreisens umgeben.
+5\. Durchschnitt von einer Troilitparthie in dem Meteoreisen von Seeläsgen; sie ist zunächst von einer Hülle von Tänit (?) und dann von den Zusammensetzungsstücken des Meteoreisens umgeben.
 
-6\. Eine geatzte Platte des Meteoreisens von Bohumilitz in naturlicher Grosse.
+6\. Eine geätzte Platte des Meteoreisens von Bohumilitz in natürlicher Grösse.
 
-7\. Hausenblasenabdruck der mit _a_, _b_, _c_, _d_, _e_, _f_, _g_ bezeichneten Stellen von Fig. 6 bei geringer Vergrosserung; _c_, _d_, _e_, _f_, _g_ sind die Schalen des Meteoreisens mit ihren Aetzlinien und eingeschlossenen Rhabditkrystallen, welche beide aber nur unvollstandig wiedergegeben sind; _a_ und _b_ die von ihnen eingeschlossenen Raume mit den Tanitblattern, _h_ ein anderer Einschluss.
+7\. Hausenblasenabdruck der mit _a_, _b_, _c_, _d_, _e_, _f_, _g_ bezeichneten Stellen von Fig. 6 bei geringer Vergrösserung; _c_, _d_, _e_, _f_, _g_ sind die Schalen des Meteoreisens mit ihren Aetzlinien und eingeschlossenen Rhabditkrystallen, welche beide aber nur unvollständig wiedergegeben sind; _a_ und _b_ die von ihnen eingeschlossenen Räume mit den Tänitblättern, _h_ ein anderer Einschluss.
 
-8\. Der Einschluss _h_ von Fig. 7 noch mehr vergrossert. Er ist zu vergleichen mit dem Einschluss in dem Meteoreisen von Seelasgen Fig. 6 Taf. 1.
+8\. Der Einschluss _h_ von Fig. 7 noch mehr vergrössert. Er ist zu vergleichen mit dem Einschluss in dem Meteoreisen von Seeläsgen Fig. 6 Taf. 1.
 
-9\. Schnittflache des Chondrits von Siena; Theile von graulichschwarzer Farbe schneiden an anderen von lichte graulichweifser Farbe scharf ab.
+9\. Schnittfläche des Chondrits von Siena; Theile von graulichschwarzer Farbe schneiden an anderen von lichte graulichweifser Farbe scharf ab.
 
 ##### Tafel 3
 

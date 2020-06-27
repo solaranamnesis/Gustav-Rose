@@ -22,6 +22,8 @@ Die Meteoritensammlung macht einen besonderen Theil des
 
 ### Inhaltsübersicht
 
+...
+
 #### Erklärung der Kupfertafeln
 
 (Die Starke der Vergrosserung ist bei den mikroscopischen Zeichnungen selbst angegeben.)

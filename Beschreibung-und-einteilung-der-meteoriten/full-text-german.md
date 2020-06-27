@@ -40,19 +40,19 @@ Die Meteoritensammlung macht einen besonderen Theil des
 
 5\. Eine Stelle von einem Hausenblasenabdruck der Fläche _C_, Fig. 4, unter dem Mikroscop, an welcher man die Aetzungslinien und Rhabditkrystalle sieht.
 
-6\. Eine Stelle von einem Hausenblasenabdruck einer ähnlichen geatzten Fläche des Eisens von Seeläsgen, wie sie Fig. 4, Taf. 2 dargestellt ist. Die Rhabditkrystalle sind untereinander ungefähr rechtwinklig, der Schnitt des Eisens muss an dieser Stelle also ungefähr parallel einer Spalungsfläche gehen. Die Rhabditkrystalle der einen Lage sind sämmtlich zufällig grösser als die der andern. An den Durchschnitten der auf den Spaltungsflächen rechtwinklig stehenden Krystalle, sieht man, dafs die Quershcnitte rechtwinklig, aber ihre Seiten an dieser Stelle nich immer, wenn auch zuweilen, den Hexaderflachern parallel sind, die auf der Schnittflache rechtwinklig stehen. In der Mitte ein Einshluss.
+6\. Eine Stelle von einem Hausenblasenabdruck einer ähnlichen geatzten Fläche des Eisens von Seeläsgen, wie sie Fig. 4, Taf. 2 dargestellt ist. Die Rhabditkrystalle sind untereinander ungefähr rechtwinklig, der Schnitt des Eisens muss an dieser Stelle also ungefähr parallel einer Spalungsfläche gehen. Die Rhabditkrystalle der einen Lage sind sämmtlich zufällig grösser als die der andern. An den Durchschnitten der auf den Spaltungsflächen rechtwinklig stehenden Krystalle, sieht man, dafs die Quershcnitte rechtwinklig, aber ihre Seiten an dieser Stelle nich immer, wenn auch zuweilen, den Hexaderflächern parallel sind, die auf der Schnittfläche rechtwinklig stehen. In der Mitte ein Einshluss.
 
-7\. Die Stelle Fig. 6 mit ihrer Umgebung in naturlicher Grosse.
+7\. Die Stelle Fig. 6 mit ihrer Umgebung in natürlicher Grösse.
 
-8\. Eine Stelle eines Hausenblasenabdrucks von einer andern geatzten Schnittflache des Eisens von Seelasgen als die, worauf sich Fig. 6 bezieht.
+8\. Eine Stelle eines Hausenblasenabdrucks von einer andern geätzten Schnittfläche des Eisens von Seeläsgen als die, worauf sich Fig. 6 bezieht.
 
-9\. Eine Stelle eines Hausenblasenabdrucks der geatzten Schnittflache _D_ Fig. 3 des Eisens von Braunau. Man sieht die Langsschnitte der Rhabditkrystalle, die der Kante von _D_ und _C_ parallel liegen; sie sind hier an den Enden aber anders begranzt als die Rhabditkrystalle bei dem Eisen von Seelasgen Fig. 6.
+9\. Eine Stelle eines Hausenblasenabdrucks der geätzten Schnittfläche _D_ Fig. 3 des Eisens von Braunau. Man sieht die Längsschnitte der Rhabditkrystalle, die der Kante von _D_ und _C_ parallel liegen; sie sind hier an den Enden aber anders begranzt als die Rhabditkrystalle bei dem Eisen von Seeläsgen Fig. 6.
 
-10\. Eine der wasserhellen Stellen der Olivinplatte Fig. 11 vergrossert; man sieht die geradlinigen, unter einander parallelen, haarformigen Einschlusse des Olivins.
+10\. Eine der wasserhellen Stellen der Olivinplatte Fig. 11 vergrössert; man sieht die geradlinigen, unter einander parallelen, haarförmigen Einschlüsse des Olivins.
 
-11\. Eine kleine Platte in naturlicher Grosse, die aus einem Olivinkrystall aus dem Pallas-Eisen geschnitten und mit vielen braun gefarbten Kluften durchsetzt ist, so dafs nur wenig Stellen wasserhell geblieben sind.
+11\. Eine kleine Platte in natürlicher Grösse, die aus einem Olivinkrystall aus dem Pallas-Eisen geschnitten und mit vielen braun gefärbten Klüften durchsetzt ist, so dafs nur wenig Stellen wasserhell geblieben sind.
 
-12\. Die haarformigen Einschlusse von Fig. 10 einer andern kleinen Olivinplatte von der Schnittflache des Krystalls schief durchschnitten, noch mehr vergrossert.
+12\. Die haarförmigen Einschlüsse von Fig. 10 einer andern kleinen Olivinplatte von der Schnittfläche des Krystalls schief durchschnitten, noch mehr vergrössert.
 
 ##### Tafel 2
 

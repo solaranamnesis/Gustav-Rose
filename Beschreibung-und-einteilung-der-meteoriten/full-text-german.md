@@ -36,4 +36,8 @@ Die Meteoritensammlung macht einen besonderen Theil des
 
 3. Ein Stuck Eisen von Braunau des Berl. Museums etwas vergrossert gezeichnet, an welchem zwei Spaltungsflachen _A_ und _C_, und eine Schnittlfache _D_ sich befinden, welche letztere ungefahr einer Dodecaederflache parallel geht. Die Ruckseite ist von naturlicher Oberflache begranzt. Die Flachen _ACD_ sind geatzt, und dadurch die kleinen Rhabditkrystalle sichtbar gemacht, deren ganz bestimmte Lage in Bezug auf die Hexaederflachen theils durch kleine Striche theils durch Punkte, je nachdem die Krystalle parallel einer Hexaederflache liegen oder rechtwinklig auf ihr stehen, angegeben ist, die aber sonst hier nur willkuhrlich eingezeichnet sind, und daher die Menge und Gruppirung derselben wie sie in der Wirklichkeit stattfindet nicht angeben.
 
-4.
+4. Ein kleines Stuck des Eisens von Braunau aus dem Berliner Museum in naturlicher Grosse, an welchem 3 Flachen _A_, _B_, _C_ moglichst genau parallel den Spaltungsflachen angeschliffen und sodann geatzt sind.
+
+5. Eine Stelle von einem Hausenblasenabdruck der Flache _C_, Fig. 4, unter dem Mikroscop, an welcher man die Aetzungslinien und Rhabditkrystalle sieht.
+
+6. Eine Stelle von einem Hausenblasenabdruck einer ahnlichen geatzten Flache des Eisens von Seelasgen, wie sie Fig. 4, Taf. 2 dargestellt ist. Die Rhabditkrystalle sind untereinander ungefahr rechtwinklig, der Schnitt des Eisens muss an dieser Stelle also ungefahr parallel einer Spalungsflache gehen. Die Rhabditkrystalle der einen Lage sind sammtlich zufallig grosser als die der andern. An den Durchschnitten der auf den Spaltungsflachen rechtwinklig stehenden Krystalle, sieht man, dafs die Quershcnitte rechtwinklig, aber ihre Seiten an dieser Stelle nich immer, wenn auch zuweilen, den Hexaderflachern parallel sind, die auf der Schnittflache rechtwinklig stehen. In der Mitte ein Einshluss.

@@ -76,4 +76,12 @@ Die Meteoritensammlung macht einen besonderen Theil des
 
 1\. 2\. 7\. 1 und 2 sind Stellen einer dunn geschliffenen Platte des Chondrits von Erxleben unter dem Mikroscop; Fig. 7 zeigt diese Platte in naturlicher Grosse. _a_ und _b_ Fig. 1 und 2 sind ziemlich regelmassig begranzte Krystalle, wahrscheinlich Olivin, _d_ in Fig. 1 wahrscheinlich Durchschnitte von Kugeln, _n_ und die ubrigen vertical gestrichelten Parthien Nickeleisen, _m_ und die horizontal gestrichelten Parthien Magnetkies, die schwarzen Parthien Chromeisenerz und die noch zu bestimmende schwarze Substanz; _c_ in Fig. 1 die schwarze Substanz, die nur in der Mitte etwas Nickeleisen enthalt, welches auf der Ruckseite die ganze Flache von _c_ einnimmt. Wo die durchsichtigen (Olivin-)Krystalle an Nickeleisen, Magnetkies oder die schwarze Substanz angranzen, sind sie meistentheils regelmassig begranzt, was man besonder bei _a_ und _b_ in Fig. 2 sehen kann.
 
-3.
+3\. Der Krystall (Olivin) _a_ von Fig. 1 starker vergrossert; man erkennt nun darin mehrere Hohlungen, die eine Flussigkeit mit einer Luftblase einschliessen, wie diess auch bei tellurischen Krystallen vorkommt.
+
+4\. Der Krystall _b_ von Fig. 1 starker vergrossert; man sieht nun, dass die dunkle Farbund der Rander dadurch entsteht, dass sich auf ihnen eine Menge schwarzer Korner befinden.
+
+5\. Die kleine Kugel bei _a_ von Fig. 7, wie Fig. 1 und 2 vergrossert; man sieht die grauen Streifen in ihr, die ebenfalls eine grosse Menge von kleinen schwarzen Kornern enthalten.
+
+6\. Ein Theil dieser Kugel noch starker und wie 3 und 4 vergrossert; die schwarzen Korner in den grauen Streifen sind noch deutlicher.
+
+8\.

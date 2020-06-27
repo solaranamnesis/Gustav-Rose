@@ -30,29 +30,29 @@ Die Meteoritensammlung macht einen besonderen Theil des
 
 ##### Tafel 1
 
-1\. Die Ecke _o_ desselben vergrössert dargestellt, an welcher möglichst genau alle Aetzungslinien, die an demselben mit der Lupe beobachtet werden konnten, angegeben sind. Man sieht an dieser Zeichnung, dass die Aetzungslinien wohl meistentheils parallel den Durchschnittslinien mit den Leucitoeder (_a_ : _a_ : 1/2 _a_), wie z. B. die Linien _lm_ und _mn_, doch auch zuweilen parallel den Durchschnittslinien mit dem Triakisoctaeder (_a_ : 1/2 _a_ : 1/2 _a_), wie die Linien _uv_ und _vw_ gehen.
+[Figur 1](https://cdn.solaranamnesis.com/GustavRose/Table1/Fig1.png) — Die Ecke _o_ desselben vergrössert dargestellt, an welcher möglichst genau alle Aetzungslinien, die an demselben mit der Lupe beobachtet werden konnten, angegeben sind. Man sieht an dieser Zeichnung, dass die Aetzungslinien wohl meistentheils parallel den Durchschnittslinien mit den Leucitoeder (_a_ : _a_ : 1/2 _a_), wie z. B. die Linien _lm_ und _mn_, doch auch zuweilen parallel den Durchschnittslinien mit dem Triakisoctaeder (_a_ : 1/2 _a_ : 1/2 _a_), wie die Linien _uv_ und _vw_ gehen.
 
-2\. Eine Hexaederfläche des Meteoreisens, in welcher die Richtungen angegeben sind nach welchen die Fläche nach der Aetzung gestreift erscheint.
+[Figur 2](https://cdn.solaranamnesis.com/GustavRose/Table1/Fig2.png) — Eine Hexaederfläche des Meteoreisens, in welcher die Richtungen angegeben sind nach welchen die Fläche nach der Aetzung gestreift erscheint.
 
-3\. Ein Stück Eisen von Braunau des Berl. Museums etwas vergrössert gezeichnet, an welchem zwei Spaltungsflächen _A_ und _C_, und eine Schnittlfäche _D_ sich befinden, welche letztere ungefähr einer Dodecaederfläche parallel geht. Die Rückseite ist von natürlicher Oberfläche begränzt. Die Flächen _ACD_ sind geätzt, und dadurch die kleinen Rhabditkrystalle sichtbar gemacht, deren ganz bestimmte Lage in Bezug auf die Hexaederflächen theils durch kleine Striche theils durch Punkte, je nachdem die Krystalle parallel einer Hexaederfläche liegen oder rechtwinklig auf ihr stehen, angegeben ist, die aber sonst hier nur willkührlich eingezeichnet sind, und daher die Menge und Gruppirung derselben wie sie in der Wirklichkeit stattfindet nicht angeben.
+[Figur 3](https://cdn.solaranamnesis.com/GustavRose/Table1/Fig3.png) — Ein Stück Eisen von Braunau des Berl. Museums etwas vergrössert gezeichnet, an welchem zwei Spaltungsflächen _A_ und _C_, und eine Schnittlfäche _D_ sich befinden, welche letztere ungefähr einer Dodecaederfläche parallel geht. Die Rückseite ist von natürlicher Oberfläche begränzt. Die Flächen _ACD_ sind geätzt, und dadurch die kleinen Rhabditkrystalle sichtbar gemacht, deren ganz bestimmte Lage in Bezug auf die Hexaederflächen theils durch kleine Striche theils durch Punkte, je nachdem die Krystalle parallel einer Hexaederfläche liegen oder rechtwinklig auf ihr stehen, angegeben ist, die aber sonst hier nur willkührlich eingezeichnet sind, und daher die Menge und Gruppirung derselben wie sie in der Wirklichkeit stattfindet nicht angeben.
 
-4\. Ein kleines Stück des Eisens von Braunau aus dem Berliner Museum in natürlicher Grösse, an welchem 3 Flächen _A_, _B_, _C_ möglichst genau parallel den Spaltungsflächen angeschliffen und sodann geätzt sind.
+[Figur 4](https://cdn.solaranamnesis.com/GustavRose/Table1/Fig4.png) — Ein kleines Stück des Eisens von Braunau aus dem Berliner Museum in natürlicher Grösse, an welchem 3 Flächen _A_, _B_, _C_ möglichst genau parallel den Spaltungsflächen angeschliffen und sodann geätzt sind.
 
-5\. Eine Stelle von einem Hausenblasenabdruck der Fläche _C_, Fig. 4, unter dem Mikroscop, an welcher man die Aetzungslinien und Rhabditkrystalle sieht.
+[Figur 5](https://cdn.solaranamnesis.com/GustavRose/Table1/Fig5.png) — Eine Stelle von einem Hausenblasenabdruck der Fläche _C_, Fig. 4, unter dem Mikroscop, an welcher man die Aetzungslinien und Rhabditkrystalle sieht.
 
-6\. Eine Stelle von einem Hausenblasenabdruck einer ähnlichen geatzten Fläche des Eisens von Seeläsgen, wie sie Fig. 4, Taf. 2 dargestellt ist. Die Rhabditkrystalle sind untereinander ungefähr rechtwinklig, der Schnitt des Eisens muss an dieser Stelle also ungefähr parallel einer Spalungsfläche gehen. Die Rhabditkrystalle der einen Lage sind sämmtlich zufällig grösser als die der andern. An den Durchschnitten der auf den Spaltungsflächen rechtwinklig stehenden Krystalle, sieht man, dafs die Quershcnitte rechtwinklig, aber ihre Seiten an dieser Stelle nich immer, wenn auch zuweilen, den Hexaderflächern parallel sind, die auf der Schnittfläche rechtwinklig stehen. In der Mitte ein Einshluss.
+[Figur 6](https://cdn.solaranamnesis.com/GustavRose/Table1/Fig6.png) — Eine Stelle von einem Hausenblasenabdruck einer ähnlichen geatzten Fläche des Eisens von Seeläsgen, wie sie Fig. 4, Taf. 2 dargestellt ist. Die Rhabditkrystalle sind untereinander ungefähr rechtwinklig, der Schnitt des Eisens muss an dieser Stelle also ungefähr parallel einer Spalungsfläche gehen. Die Rhabditkrystalle der einen Lage sind sämmtlich zufällig grösser als die der andern. An den Durchschnitten der auf den Spaltungsflächen rechtwinklig stehenden Krystalle, sieht man, dafs die Quershcnitte rechtwinklig, aber ihre Seiten an dieser Stelle nich immer, wenn auch zuweilen, den Hexaderflächern parallel sind, die auf der Schnittfläche rechtwinklig stehen. In der Mitte ein Einshluss.
 
-7\. Die Stelle Fig. 6 mit ihrer Umgebung in natürlicher Grösse.
+[Figur 7](https://cdn.solaranamnesis.com/GustavRose/Table1/Fig7.png) — Die Stelle Fig. 6 mit ihrer Umgebung in natürlicher Grösse.
 
-8\. Eine Stelle eines Hausenblasenabdrucks von einer andern geätzten Schnittfläche des Eisens von Seeläsgen als die, worauf sich Fig. 6 bezieht.
+[Figur 8](https://cdn.solaranamnesis.com/GustavRose/Table1/Fig8.png) — Eine Stelle eines Hausenblasenabdrucks von einer andern geätzten Schnittfläche des Eisens von Seeläsgen als die, worauf sich Fig. 6 bezieht.
 
-9\. Eine Stelle eines Hausenblasenabdrucks der geätzten Schnittfläche _D_ Fig. 3 des Eisens von Braunau. Man sieht die Längsschnitte der Rhabditkrystalle, die der Kante von _D_ und _C_ parallel liegen; sie sind hier an den Enden aber anders begranzt als die Rhabditkrystalle bei dem Eisen von Seeläsgen Fig. 6.
+[Figur 9](https://cdn.solaranamnesis.com/GustavRose/Table1/Fig9.png) — Eine Stelle eines Hausenblasenabdrucks der geätzten Schnittfläche _D_ Fig. 3 des Eisens von Braunau. Man sieht die Längsschnitte der Rhabditkrystalle, die der Kante von _D_ und _C_ parallel liegen; sie sind hier an den Enden aber anders begranzt als die Rhabditkrystalle bei dem Eisen von Seeläsgen Fig. 6.
 
-10\. Eine der wasserhellen Stellen der Olivinplatte Fig. 11 vergrössert; man sieht die geradlinigen, unter einander parallelen, haarförmigen Einschlüsse des Olivins.
+[Figur 10](https://cdn.solaranamnesis.com/GustavRose/Table1/Fig10.png) — Eine der wasserhellen Stellen der Olivinplatte Fig. 11 vergrössert; man sieht die geradlinigen, unter einander parallelen, haarförmigen Einschlüsse des Olivins.
 
-11\. Eine kleine Platte in natürlicher Grösse, die aus einem Olivinkrystall aus dem Pallas-Eisen geschnitten und mit vielen braun gefärbten Klüften durchsetzt ist, so dafs nur wenig Stellen wasserhell geblieben sind.
+[Figur 11](https://cdn.solaranamnesis.com/GustavRose/Table1/Fig11.png) — Eine kleine Platte in natürlicher Grösse, die aus einem Olivinkrystall aus dem Pallas-Eisen geschnitten und mit vielen braun gefärbten Klüften durchsetzt ist, so dafs nur wenig Stellen wasserhell geblieben sind.
 
-12\. Die haarförmigen Einschlüsse von Fig. 10 einer andern kleinen Olivinplatte von der Schnittfläche des Krystalls schief durchschnitten, noch mehr vergrössert.
+[Figur 12](https://cdn.solaranamnesis.com/GustavRose/Table1/Fig12.png) — Die haarförmigen Einschlüsse von Fig. 10 einer andern kleinen Olivinplatte von der Schnittfläche des Krystalls schief durchschnitten, noch mehr vergrössert.
 
 ##### Tafel 2
 

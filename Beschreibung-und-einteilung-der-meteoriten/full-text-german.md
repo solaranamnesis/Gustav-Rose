@@ -23,3 +23,11 @@ Die Meteoritensammlung macht einen besonderen Theil des
 ### Inhaltsübersicht
 
 #### Erklärung der Kupfertafeln
+
+(Die Starke der Vergrosserung ist bei den mikroscopischen Zeichnungen selbst angegeben.)
+
+##### Tafel 1
+
+1. Die Ecke _o_ desselben bergrossert dargestellt, an welcher moglichst genau alle Aetzungslinien, die an demselben mit der Lupe beobachtet werden konnten, angegeben sind. Man sieht an dieser Zeichnung, dass die Aetzungslinien wohl meistentheils parallel den Durchschnittslinien mit den Leucitoeder (_a_ : _a_ : 1/2 _a_), wie z. B. die Linien _lm_ und _mn_, doch auch zuweilen parallel den Durchschnittslinien mit dem Triakisoctaeder (_a_ : 1/2 _a_ : 1/2 _a_), wie die Linien _uv_ und _vw_ gehen.
+
+2.

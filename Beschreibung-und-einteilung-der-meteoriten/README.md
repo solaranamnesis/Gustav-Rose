@@ -4,7 +4,7 @@
 
 ### By Gustav Rose
 
-Attempt at a translation of Dr. Hermann Karsten's 1881 work: "Die Meteorite und ihre Organismen", from the original (Fraktur) German to English, I welcome all pull requests of submitted translations and/or edits.
+Attempt at a translation of Gustav Rose's 1863 (separate print in 1864) work, I welcome all pull requests of submitted translations and/or edits.
 
 [English - Plain Text](full-text-english.md)  
 [English - PDF]()  

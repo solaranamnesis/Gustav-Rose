@@ -73,3 +73,7 @@ Die Meteoritensammlung macht einen besonderen Theil des
 9\. Schnittflache des Chondrits von Siena; Theile von graulichschwarzer Farbe schneiden an anderen von lichte graulichweifser Farbe scharf ab.
 
 ##### Tafel 3
+
+1\. 2\. 7\. 1 und 2 sind Stellen einer dunn geschliffenen Platte des Chondrits von Erxleben unter dem Mikroscop; Fig. 7 zeigt diese Platte in naturlicher Grosse. _a_ und _b_ Fig. 1 und 2 sind ziemlich regelmassig begranzte Krystalle, wahrscheinlich Olivin, _d_ in Fig. 1 wahrscheinlich Durchschnitte von Kugeln, _n_ und die ubrigen vertical gestrichelten Parthien Nickeleisen, _m_ und die horizontal gestrichelten Parthien Magnetkies, die schwarzen Parthien Chromeisenerz und die noch zu bestimmende schwarze Substanz; _c_ in Fig. 1 die schwarze Substanz, die nur in der Mitte etwas Nickeleisen enthalt, welches auf der Ruckseite die ganze Flache von _c_ einnimmt. Wo die durchsichtigen (Olivin-)Krystalle an Nickeleisen, Magnetkies oder die schwarze Substanz angranzen, sind sie meistentheils regelmassig begranzt, was man besonder bei _a_ und _b_ in Fig. 2 sehen kann.
+
+3.

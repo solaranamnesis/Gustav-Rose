@@ -56,21 +56,21 @@ Die Meteoritensammlung macht einen besonderen Theil des
 
 ##### Tafel 2
 
-1\. Eine geätzte Schnittlfäche des Meteoreisens von Zacatecas in natürlicher Grösse.
+[Figur 1](https://cdn.solaranamnesis.com/GustavRose/Table2/Fig1.png) — Eine geätzte Schnittlfäche des Meteoreisens von Zacatecas in natürlicher Grösse.
 
-2\. und 3\. Die in diesem Eisen vorkommenden Schreibersitkrystalle, wie sie an den Stellen _a_ und _b_ von einem Hausenblasenabdruck der Schnittfläche Fig. 1 unter dem Mikroscop erscheinen.
+[Figur 2](https://cdn.solaranamnesis.com/GustavRose/Table2/Fig2.png) und [Figur 3](https://cdn.solaranamnesis.com/GustavRose/Table2/Fig3.png) — Die in diesem Eisen vorkommenden Schreibersitkrystalle, wie sie an den Stellen _a_ und _b_ von einem Hausenblasenabdruck der Schnittfläche Fig. 1 unter dem Mikroscop erscheinen.
 
-4\. Geätzte Schnittfläche des Meteoreisens von Seeläsgen.
+[Figur 4](https://cdn.solaranamnesis.com/GustavRose/Table2/Fig4.png) — Geätzte Schnittfläche des Meteoreisens von Seeläsgen.
 
-5\. Durchschnitt von einer Troilitparthie in dem Meteoreisen von Seeläsgen; sie ist zunächst von einer Hülle von Tänit (?) und dann von den Zusammensetzungsstücken des Meteoreisens umgeben.
+[Figur 5](https://cdn.solaranamnesis.com/GustavRose/Table2/Fig5.png) — Durchschnitt von einer Troilitparthie in dem Meteoreisen von Seeläsgen; sie ist zunächst von einer Hülle von Tänit (?) und dann von den Zusammensetzungsstücken des Meteoreisens umgeben.
 
-6\. Eine geätzte Platte des Meteoreisens von Bohumilitz in natürlicher Grösse.
+[Figur 6](https://cdn.solaranamnesis.com/GustavRose/Table2/Fig6.png) — Eine geätzte Platte des Meteoreisens von Bohumilitz in natürlicher Grösse.
 
-7\. Hausenblasenabdruck der mit _a_, _b_, _c_, _d_, _e_, _f_, _g_ bezeichneten Stellen von Fig. 6 bei geringer Vergrösserung; _c_, _d_, _e_, _f_, _g_ sind die Schalen des Meteoreisens mit ihren Aetzlinien und eingeschlossenen Rhabditkrystallen, welche beide aber nur unvollständig wiedergegeben sind; _a_ und _b_ die von ihnen eingeschlossenen Räume mit den Tänitblättern, _h_ ein anderer Einschluss.
+[Figur 7](https://cdn.solaranamnesis.com/GustavRose/Table2/Fig7.png) — Hausenblasenabdruck der mit _a_, _b_, _c_, _d_, _e_, _f_, _g_ bezeichneten Stellen von Fig. 6 bei geringer Vergrösserung; _c_, _d_, _e_, _f_, _g_ sind die Schalen des Meteoreisens mit ihren Aetzlinien und eingeschlossenen Rhabditkrystallen, welche beide aber nur unvollständig wiedergegeben sind; _a_ und _b_ die von ihnen eingeschlossenen Räume mit den Tänitblättern, _h_ ein anderer Einschluss.
 
-8\. Der Einschluss _h_ von Fig. 7 noch mehr vergrössert. Er ist zu vergleichen mit dem Einschluss in dem Meteoreisen von Seeläsgen Fig. 6 Taf. 1.
+[Figur 8](https://cdn.solaranamnesis.com/GustavRose/Table2/Fig8.png) — Der Einschluss _h_ von Fig. 7 noch mehr vergrössert. Er ist zu vergleichen mit dem Einschluss in dem Meteoreisen von Seeläsgen Fig. 6 Taf. 1.
 
-9\. Schnittfläche des Chondrits von Siena; Theile von graulichschwarzer Farbe schneiden an anderen von lichte graulichweifser Farbe scharf ab.
+[Figur 9](https://cdn.solaranamnesis.com/GustavRose/Table2/Fig9.png) — Schnittfläche des Chondrits von Siena; Theile von graulichschwarzer Farbe schneiden an anderen von lichte graulichweifser Farbe scharf ab.
 
 ##### Tafel 3
 

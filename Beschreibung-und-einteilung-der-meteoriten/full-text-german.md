@@ -2,19 +2,19 @@
 
 ## Von Gustav Rose
 
-### Aus den Abhandlungen der Konigl. Akademie der Wissenschaften zu Berlin 1863
+### Aus den Abhandlungen der Königl. Akademie der Wissenschaften zu Berlin 1863
 
 ### Mit vier Kupfertafeln
 
 ## Berlin
 
-### Gedruckt in der Druckerei der Koniglichen Akademie der Wissenschaften
+### Gedruckt in der Druckerei der Königlichen Akademie der Wissenschaften
 
 ### 1864
 
-#### In commission bei F. Dummler's Verlags-Buchhandlung Harrwitz und Gossmann
+#### In commission bei F. Dümmler's Verlags-Buchhandlung Harrwitz und Gossmann
 
-Gelesen in der Akademie der Wissenschaften am 7. und 14. Aug. 1862 und am 11. Juni 1863. Anfang des Druckes am 4. Juli 1864, bis wohin einige neue Zusatze hinzugefugt sind. Die Seitenzahl bezeichnet die laufende Pagina des Jahrgangs 1863 in den Abhandlungen der physikalischen Klasse der Konigl. Akademie Wissenschaften.
+Gelesen in der Akademie der Wissenschaften am 7. und 14. Aug. 1862 und am 11. Juni 1863. Anfang des Druckes am 4. Juli 1864, bis wohin einige neue Zusätze hinzugefügt sind. Die Seitenzahl bezeichnet die laufende Pagina des Jahrgangs 1863 in den Abhandlungen der physikalischen Klasse der Königl. Akademie Wissenschaften.
 
 Die Meteoritensammlung macht einen besonderen Theil des 
 
@@ -26,21 +26,21 @@ Die Meteoritensammlung macht einen besonderen Theil des
 
 #### Erklärung der Kupfertafeln
 
-(Die Starke der Vergrosserung ist bei den mikroscopischen Zeichnungen selbst angegeben.)
+(Die Stärke der Vergrösserung ist bei den mikroscopischen Zeichnungen selbst angegeben.)
 
 ##### Tafel 1
 
-1\. Die Ecke _o_ desselben bergrossert dargestellt, an welcher moglichst genau alle Aetzungslinien, die an demselben mit der Lupe beobachtet werden konnten, angegeben sind. Man sieht an dieser Zeichnung, dass die Aetzungslinien wohl meistentheils parallel den Durchschnittslinien mit den Leucitoeder (_a_ : _a_ : 1/2 _a_), wie z. B. die Linien _lm_ und _mn_, doch auch zuweilen parallel den Durchschnittslinien mit dem Triakisoctaeder (_a_ : 1/2 _a_ : 1/2 _a_), wie die Linien _uv_ und _vw_ gehen.
+1\. Die Ecke _o_ desselben vergrössert dargestellt, an welcher möglichst genau alle Aetzungslinien, die an demselben mit der Lupe beobachtet werden konnten, angegeben sind. Man sieht an dieser Zeichnung, dass die Aetzungslinien wohl meistentheils parallel den Durchschnittslinien mit den Leucitoeder (_a_ : _a_ : 1/2 _a_), wie z. B. die Linien _lm_ und _mn_, doch auch zuweilen parallel den Durchschnittslinien mit dem Triakisoctaeder (_a_ : 1/2 _a_ : 1/2 _a_), wie die Linien _uv_ und _vw_ gehen.
 
-2\. Eine Hexaederflache des Meteoreisens, in welcher die Richtungen angegeben sind nach welchen die Flache nach der Aetzung gestreift erscheint.
+2\. Eine Hexaederfläche des Meteoreisens, in welcher die Richtungen angegeben sind nach welchen die Fläche nach der Aetzung gestreift erscheint.
 
-3\. Ein Stuck Eisen von Braunau des Berl. Museums etwas vergrossert gezeichnet, an welchem zwei Spaltungsflachen _A_ und _C_, und eine Schnittlfache _D_ sich befinden, welche letztere ungefahr einer Dodecaederflache parallel geht. Die Ruckseite ist von naturlicher Oberflache begranzt. Die Flachen _ACD_ sind geatzt, und dadurch die kleinen Rhabditkrystalle sichtbar gemacht, deren ganz bestimmte Lage in Bezug auf die Hexaederflachen theils durch kleine Striche theils durch Punkte, je nachdem die Krystalle parallel einer Hexaederflache liegen oder rechtwinklig auf ihr stehen, angegeben ist, die aber sonst hier nur willkuhrlich eingezeichnet sind, und daher die Menge und Gruppirung derselben wie sie in der Wirklichkeit stattfindet nicht angeben.
+3\. Ein Stück Eisen von Braunau des Berl. Museums etwas vergrössert gezeichnet, an welchem zwei Spaltungsflächen _A_ und _C_, und eine Schnittlfäche _D_ sich befinden, welche letztere ungefähr einer Dodecaederfläche parallel geht. Die Rückseite ist von natürlicher Oberfläche begränzt. Die Flächen _ACD_ sind geätzt, und dadurch die kleinen Rhabditkrystalle sichtbar gemacht, deren ganz bestimmte Lage in Bezug auf die Hexaederflächen theils durch kleine Striche theils durch Punkte, je nachdem die Krystalle parallel einer Hexaederfläche liegen oder rechtwinklig auf ihr stehen, angegeben ist, die aber sonst hier nur willkührlich eingezeichnet sind, und daher die Menge und Gruppirung derselben wie sie in der Wirklichkeit stattfindet nicht angeben.
 
-4\. Ein kleines Stuck des Eisens von Braunau aus dem Berliner Museum in naturlicher Grosse, an welchem 3 Flachen _A_, _B_, _C_ moglichst genau parallel den Spaltungsflachen angeschliffen und sodann geatzt sind.
+4\. Ein kleines Stück des Eisens von Braunau aus dem Berliner Museum in natürlicher Grösse, an welchem 3 Flächen _A_, _B_, _C_ möglichst genau parallel den Spaltungsflächen angeschliffen und sodann geätzt sind.
 
-5\. Eine Stelle von einem Hausenblasenabdruck der Flache _C_, Fig. 4, unter dem Mikroscop, an welcher man die Aetzungslinien und Rhabditkrystalle sieht.
+5\. Eine Stelle von einem Hausenblasenabdruck der Fläche _C_, Fig. 4, unter dem Mikroscop, an welcher man die Aetzungslinien und Rhabditkrystalle sieht.
 
-6\. Eine Stelle von einem Hausenblasenabdruck einer ahnlichen geatzten Flache des Eisens von Seelasgen, wie sie Fig. 4, Taf. 2 dargestellt ist. Die Rhabditkrystalle sind untereinander ungefahr rechtwinklig, der Schnitt des Eisens muss an dieser Stelle also ungefahr parallel einer Spalungsflache gehen. Die Rhabditkrystalle der einen Lage sind sammtlich zufallig grosser als die der andern. An den Durchschnitten der auf den Spaltungsflachen rechtwinklig stehenden Krystalle, sieht man, dafs die Quershcnitte rechtwinklig, aber ihre Seiten an dieser Stelle nich immer, wenn auch zuweilen, den Hexaderflachern parallel sind, die auf der Schnittflache rechtwinklig stehen. In der Mitte ein Einshluss.
+6\. Eine Stelle von einem Hausenblasenabdruck einer ähnlichen geatzten Fläche des Eisens von Seeläsgen, wie sie Fig. 4, Taf. 2 dargestellt ist. Die Rhabditkrystalle sind untereinander ungefähr rechtwinklig, der Schnitt des Eisens muss an dieser Stelle also ungefähr parallel einer Spalungsfläche gehen. Die Rhabditkrystalle der einen Lage sind sämmtlich zufällig grösser als die der andern. An den Durchschnitten der auf den Spaltungsflächen rechtwinklig stehenden Krystalle, sieht man, dafs die Quershcnitte rechtwinklig, aber ihre Seiten an dieser Stelle nich immer, wenn auch zuweilen, den Hexaderflachern parallel sind, die auf der Schnittflache rechtwinklig stehen. In der Mitte ein Einshluss.
 
 7\. Die Stelle Fig. 6 mit ihrer Umgebung in naturlicher Grosse.
 

@@ -96,18 +96,18 @@ Die Meteoritensammlung macht einen besonderen Theil des
 
 ##### Tafel 4
 
-1\. Olivinkrystall aus dem Pallas-Eisen; er ist fast vollstandig bis auf die Zusammensetzungsflache _d_, in welcher er sich mit einem andern Krystalle begranzt hatte, ist aber fast vollkommen abgerundet bis auf einzelne Flachen, die sich nicht in Kanten schneiden, und daher auch runde Umrisse haben. Die vorhandenen Flachen liegen merkwurdiger Weise alle in einer Zone, in der Zone der Langsprismen, die auf diese Weise recht vollstandig ausgebildet ist.
+1\. Olivinkrystall aus dem Pallas-Eisen; er ist fast vollständig bis auf die Zusammensetzungsfläche _d_, in welcher er sich mit einem andern Krystalle begränzt hatte, ist aber fast vollkommen abgerundet bis auf einzelne Flächen, die sich nicht in Kanten schneiden, und daher auch runde Umrisse haben. Die vorhandenen Flächen liegen merkwürdiger Weise alle in einer Zone, in der Zone der Längsprismen, die auf diese Weise recht vollständig ausgebildet ist.
 
-2\. Rohrenartige Einschlusse von verschiedenem Ansehen, wie sie in dem Olivin des Pallas-Eisen vorkommen, noch mehr vergrossert als in Fig. 10 Tafel 1, wo sie in ihrer naturlichen Lage gezeichnet sind.
+2\. Röhrenartige Einschlüsse von verschiedenem Ansehen, wie sie in dem Olivin des Pallas-Eisen vorkommen, noch mehr vergrössert als in Fig. 10 Tafel 1, wo sie in ihrer natürlichen Lage gezeichnet sind.
 
 3\. und 4\. Olivinkrystalle aus dem Chondrit von Stauropol.
 
-5\. Kuglige Zusammenhaufung von Olivinkrystallen in demselben Chondrit.
+5\. Kuglige Zusammenhäufung von Olivinkrystallen in demselben Chondrit.
 
 6\. und 7\. Kugeln aus diesem Chondrit.
 
 8\. Eine Kugel in dem Chondrit von Krasnoi-Ugol, neben welcher sich rechts eine kleinere Kugel, die wahrscheinlich ein kugliger Olivinkrystall ist, befindet.
 
-9\. Zusammenhaufung von Kugeln in demselben Chondrit.
+9\. Zusammenhäufung von Kugeln in demselben Chondrit.
 
 10\. Kugliger Olivin aus dem Chondrit von Timochin.

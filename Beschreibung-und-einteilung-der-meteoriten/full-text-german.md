@@ -84,4 +84,8 @@ Die Meteoritensammlung macht einen besonderen Theil des
 
 6\. Ein Theil dieser Kugel noch starker und wie 3 und 4 vergrossert; die schwarzen Korner in den grauen Streifen sind noch deutlicher.
 
-8\.
+8\. Durchschnitt einer Kugel in einer dunngeschliffenen Platte des Chondrits von Kl. Wenden; die Kugel ist von anderer Art als die Fig. 5, viel durchsichtiger und mit einer Menge schwarzer untereinander ziemlich paralleler Quersprunge durchsetzt, wahrscheinlich ein unvollkommen ausgebildeter Olivinkrystall. Etwas Nickeleisen ist in ihr eingewachsen.
+
+9\. Meteoreisen vom Cap der guten Hoffnung, mit zwei fast unter rechtem Winkel zusammen stofsenden Schnittflachen, die geatzt sind, in naturlicher Grosse. Man sieht hellere und dunklere breite Streifen sich gerader Richtung uber die Flachen hinziehen. Bie _B_, _D_, _G_ finden sich Rostflecken; in dem hellen Streifen bei _g_ ist ein regelmassig begranzter Troilitkrystall, bei _A_ sind Schreibersit oder Rhabditkrystalle eingewachsen; kleinere dergleichen Krystalle finden sich auf der ubrigen Flache hier und da und glanzen bei bestimmter Beleuchtung.
+
+10\.

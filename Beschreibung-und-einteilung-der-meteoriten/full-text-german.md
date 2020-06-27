@@ -74,25 +74,25 @@ Die Meteoritensammlung macht einen besonderen Theil des
 
 ##### Tafel 3
 
-1\. 2\. 7\. 1 und 2 sind Stellen einer dunn geschliffenen Platte des Chondrits von Erxleben unter dem Mikroscop; Fig. 7 zeigt diese Platte in naturlicher Grosse. _a_ und _b_ Fig. 1 und 2 sind ziemlich regelmassig begranzte Krystalle, wahrscheinlich Olivin, _d_ in Fig. 1 wahrscheinlich Durchschnitte von Kugeln, _n_ und die ubrigen vertical gestrichelten Parthien Nickeleisen, _m_ und die horizontal gestrichelten Parthien Magnetkies, die schwarzen Parthien Chromeisenerz und die noch zu bestimmende schwarze Substanz; _c_ in Fig. 1 die schwarze Substanz, die nur in der Mitte etwas Nickeleisen enthalt, welches auf der Ruckseite die ganze Flache von _c_ einnimmt. Wo die durchsichtigen (Olivin-)Krystalle an Nickeleisen, Magnetkies oder die schwarze Substanz angranzen, sind sie meistentheils regelmassig begranzt, was man besonder bei _a_ und _b_ in Fig. 2 sehen kann.
+1\. 2\. 7\. 1 und 2 sind Stellen einer dünn geschliffenen Platte des Chondrits von Erxleben unter dem Mikroscop; Fig. 7 zeigt diese Platte in natürlicher Grösse. _a_ und _b_ Fig. 1 und 2 sind ziemlich regelmässig begränzte Krystalle, wahrscheinlich Olivin, _d_ in Fig. 1 wahrscheinlich Durchschnitte von Kugeln, _n_ und die übrigen vertical gestrichelten Parthien Nickeleisen, _m_ und die horizontal gestrichelten Parthien Magnetkies, die schwarzen Parthien Chromeisenerz und die noch zu bestimmende schwarze Substanz; _c_ in Fig. 1 die schwarze Substanz, die nur in der Mitte etwas Nickeleisen enthält, welches auf der Rückseite die ganze Fläche von _c_ einnimmt. Wo die durchsichtigen (Olivin-)Krystalle an Nickeleisen, Magnetkies oder die schwarze Substanz angränzen, sind sie meistentheils regelmässig begränzt, was man besonder bei _a_ und _b_ in Fig. 2 sehen kann.
 
-3\. Der Krystall (Olivin) _a_ von Fig. 1 starker vergrossert; man erkennt nun darin mehrere Hohlungen, die eine Flussigkeit mit einer Luftblase einschliessen, wie diess auch bei tellurischen Krystallen vorkommt.
+3\. Der Krystall (Olivin) _a_ von Fig. 1 stärker vergrössert; man erkennt nun darin mehrere Höhlungen, die eine Flüssigkeit mit einer Luftblase einschliessen, wie diess auch bei tellurischen Krystallen vorkommt.
 
-4\. Der Krystall _b_ von Fig. 1 starker vergrossert; man sieht nun, dass die dunkle Farbund der Rander dadurch entsteht, dass sich auf ihnen eine Menge schwarzer Korner befinden.
+4\. Der Krystall _b_ von Fig. 1 stärker vergrössert; man sieht nun, dass die dunkle Färbund der Ränder dadurch entsteht, dass sich auf ihnen eine Menge schwarzer Körner befinden.
 
-5\. Die kleine Kugel bei _a_ von Fig. 7, wie Fig. 1 und 2 vergrossert; man sieht die grauen Streifen in ihr, die ebenfalls eine grosse Menge von kleinen schwarzen Kornern enthalten.
+5\. Die kleine Kugel bei _a_ von Fig. 7, wie Fig. 1 und 2 vergrössert; man sieht die grauen Streifen in ihr, die ebenfalls eine grosse Menge von kleinen schwarzen Körnern enthalten.
 
-6\. Ein Theil dieser Kugel noch starker und wie 3 und 4 vergrossert; die schwarzen Korner in den grauen Streifen sind noch deutlicher.
+6\. Ein Theil dieser Kugel noch stärker und wie 3 und 4 vergrössert; die schwarzen Körner in den grauen Streifen sind noch deutlicher.
 
-8\. Durchschnitt einer Kugel in einer dunngeschliffenen Platte des Chondrits von Kl. Wenden; die Kugel ist von anderer Art als die Fig. 5, viel durchsichtiger und mit einer Menge schwarzer untereinander ziemlich paralleler Quersprunge durchsetzt, wahrscheinlich ein unvollkommen ausgebildeter Olivinkrystall. Etwas Nickeleisen ist in ihr eingewachsen.
+8\. Durchschnitt einer Kugel in einer dünngeschliffenen Platte des Chondrits von Kl. Wenden; die Kugel ist von anderer Art als die Fig. 5, viel durchsichtiger und mit einer Menge schwarzer untereinander ziemlich paralleler Quersprünge durchsetzt, wahrscheinlich ein unvollkommen ausgebildeter Olivinkrystall. Etwas Nickeleisen ist in ihr eingewachsen.
 
-9\. Meteoreisen vom Cap der guten Hoffnung, mit zwei fast unter rechtem Winkel zusammen stofsenden Schnittflachen, die geatzt sind, in naturlicher Grosse. Man sieht hellere und dunklere breite Streifen sich gerader Richtung uber die Flachen hinziehen. Bie _B_, _D_, _G_ finden sich Rostflecken; in dem hellen Streifen bei _g_ ist ein regelmassig begranzter Troilitkrystall, bei _A_ sind Schreibersit oder Rhabditkrystalle eingewachsen; kleinere dergleichen Krystalle finden sich auf der ubrigen Flache hier und da und glanzen bei bestimmter Beleuchtung.
+9\. Meteoreisen vom Cap der guten Hoffnung, mit zwei fast unter rechtem Winkel zusammen stofsenden Schnittflächen, die geätzt sind, in natürlicher Grösse. Man sieht hellere und dunklere breite Streifen sich gerader Richtung über die Flächen hinziehen. Bie _B_, _D_, _G_ finden sich Rostflecken; in dem hellen Streifen bei _g_ ist ein regelmässig begränzter Troilitkrystall, bei _A_ sind Schreibersit oder Rhabditkrystalle eingewachsen; kleinere dergleichen Krystalle finden sich auf der übrigen Fläche hier und da und glänzen bei bestimmter Beleuchtung.
 
-10\. Die Flache _AC_ von Fig. 9 in anderer Lage, bei welcher nun die dunklen Streifen hell und die hellen dunkel erscheinen.
+10\. Die Fläche _AC_ von Fig. 9 in anderer Lage, bei welcher nun die dunklen Streifen hell und die hellen dunkel erscheinen.
 
-11\. Stelle an der Granze der Streifen _g_ und _h_ von dem Hausenblasenabdruck der Flache _AC_ Fig. 9. Die Flache erscheint mit seinen Kornern bedeckt, die in dem Streifen _h_ rund, in dem Streifen _g_ mit andern gemengt sind, die in die Lange gezogen erscheinen.
+11\. Stelle an der Gränze der Streifen _g_ und _h_ von dem Hausenblasenabdruck der Fläche _AC_ Fig. 9. Die Fläche erscheint mit seinen Körnern bedeckt, die in dem Streifen _h_ rund, in dem Streifen _g_ mit andern gemengt sind, die in die Länge gezogen erscheinen.
 
-12\. Stelle von einer dunngeschliffenen Platte des Chondrits von Chantonnay in ebenso starker Vergrosserung, wie die Fig. 3 und 4. Sie zeigt eine Gruppe durchsichtiger (Olivin-)Krystalle, die fast ganz von der schwarzen Substanz umgeben, und daher fast ganz regelmassig begranzt sind, und feine untereinander parallele haarformige Einschlusse haben, wie die Olivinkrystalle in dem Pallas-Eisen.
+12\. Stelle von einer dünngeschliffenen Platte des Chondrits von Chantonnay in ebenso starker Vergrösserung, wie die Fig. 3 und 4. Sie zeigt eine Gruppe durchsichtiger (Olivin-)Krystalle, die fast ganz von der schwarzen Substanz umgeben, und daher fast ganz regelmässig begränzt sind, und feine untereinander parallele haarförmige Einschlüsse haben, wie die Olivinkrystalle in dem Pallas-Eisen.
 
 ##### Tafel 4
 

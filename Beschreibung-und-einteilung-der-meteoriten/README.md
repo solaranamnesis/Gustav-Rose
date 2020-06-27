@@ -1,6 +1,6 @@
 # Beschreibung und Eintheilung der Meteoriten auf Grund der sammlung im Mineralogischen Museum zu Berlin
 
-##
+## A Description and Classification of Meteorites based on the Collection in the Mineralogical Museum of Berlin
 
 ### By Gustav Rose
 

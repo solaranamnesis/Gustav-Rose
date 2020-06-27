@@ -74,7 +74,7 @@ Die Meteoritensammlung macht einen besonderen Theil des
 
 ##### Tafel 3
 
-[Figur 1](https://cdn.solaranamnesis.com/GustavRose/Table3/Fig1.png) [Figur 2](https://cdn.solaranamnesis.com/GustavRose/Table3/Fig1.png) [Figur 7](https://cdn.solaranamnesis.com/GustavRose/Table3/Fig7.png) — 1 und 2 sind Stellen einer dünn geschliffenen Platte des Chondrits von Erxleben unter dem Mikroscop; Fig. 7 zeigt diese Platte in natürlicher Grösse. _a_ und _b_ Fig. 1 und 2 sind ziemlich regelmässig begränzte Krystalle, wahrscheinlich Olivin, _d_ in Fig. 1 wahrscheinlich Durchschnitte von Kugeln, _n_ und die übrigen vertical gestrichelten Parthien Nickeleisen, _m_ und die horizontal gestrichelten Parthien Magnetkies, die schwarzen Parthien Chromeisenerz und die noch zu bestimmende schwarze Substanz; _c_ in Fig. 1 die schwarze Substanz, die nur in der Mitte etwas Nickeleisen enthält, welches auf der Rückseite die ganze Fläche von _c_ einnimmt. Wo die durchsichtigen (Olivin-)Krystalle an Nickeleisen, Magnetkies oder die schwarze Substanz angränzen, sind sie meistentheils regelmässig begränzt, was man besonder bei _a_ und _b_ in Fig. 2 sehen kann.
+[Figur 1](https://cdn.solaranamnesis.com/GustavRose/Table3/Fig1.png), [Figur 2](https://cdn.solaranamnesis.com/GustavRose/Table3/Fig2.png), [Figur 7](https://cdn.solaranamnesis.com/GustavRose/Table3/Fig7.png) — 1 und 2 sind Stellen einer dünn geschliffenen Platte des Chondrits von Erxleben unter dem Mikroscop; Fig. 7 zeigt diese Platte in natürlicher Grösse. _a_ und _b_ Fig. 1 und 2 sind ziemlich regelmässig begränzte Krystalle, wahrscheinlich Olivin, _d_ in Fig. 1 wahrscheinlich Durchschnitte von Kugeln, _n_ und die übrigen vertical gestrichelten Parthien Nickeleisen, _m_ und die horizontal gestrichelten Parthien Magnetkies, die schwarzen Parthien Chromeisenerz und die noch zu bestimmende schwarze Substanz; _c_ in Fig. 1 die schwarze Substanz, die nur in der Mitte etwas Nickeleisen enthält, welches auf der Rückseite die ganze Fläche von _c_ einnimmt. Wo die durchsichtigen (Olivin-)Krystalle an Nickeleisen, Magnetkies oder die schwarze Substanz angränzen, sind sie meistentheils regelmässig begränzt, was man besonder bei _a_ und _b_ in Fig. 2 sehen kann.
 
 [Figur 3](https://cdn.solaranamnesis.com/GustavRose/Table3/Fig3.png) — Der Krystall (Olivin) _a_ von Fig. 1 stärker vergrössert; man erkennt nun darin mehrere Höhlungen, die eine Flüssigkeit mit einer Luftblase einschliessen, wie diess auch bei tellurischen Krystallen vorkommt.
 
@@ -96,18 +96,18 @@ Die Meteoritensammlung macht einen besonderen Theil des
 
 ##### Tafel 4
 
-1\. Olivinkrystall aus dem Pallas-Eisen; er ist fast vollständig bis auf die Zusammensetzungsfläche _d_, in welcher er sich mit einem andern Krystalle begränzt hatte, ist aber fast vollkommen abgerundet bis auf einzelne Flächen, die sich nicht in Kanten schneiden, und daher auch runde Umrisse haben. Die vorhandenen Flächen liegen merkwürdiger Weise alle in einer Zone, in der Zone der Längsprismen, die auf diese Weise recht vollständig ausgebildet ist.
+[Figur 1](https://cdn.solaranamnesis.com/GustavRose/Table4/Fig1.png) — Olivinkrystall aus dem Pallas-Eisen; er ist fast vollständig bis auf die Zusammensetzungsfläche _d_, in welcher er sich mit einem andern Krystalle begränzt hatte, ist aber fast vollkommen abgerundet bis auf einzelne Flächen, die sich nicht in Kanten schneiden, und daher auch runde Umrisse haben. Die vorhandenen Flächen liegen merkwürdiger Weise alle in einer Zone, in der Zone der Längsprismen, die auf diese Weise recht vollständig ausgebildet ist.
 
-2\. Röhrenartige Einschlüsse von verschiedenem Ansehen, wie sie in dem Olivin des Pallas-Eisen vorkommen, noch mehr vergrössert als in Fig. 10 Tafel 1, wo sie in ihrer natürlichen Lage gezeichnet sind.
+[Figur 2](https://cdn.solaranamnesis.com/GustavRose/Table4/Fig2.png) — Röhrenartige Einschlüsse von verschiedenem Ansehen, wie sie in dem Olivin des Pallas-Eisen vorkommen, noch mehr vergrössert als in Fig. 10 Tafel 1, wo sie in ihrer natürlichen Lage gezeichnet sind.
 
-3\. und 4\. Olivinkrystalle aus dem Chondrit von Stauropol.
+[Figur 3](https://cdn.solaranamnesis.com/GustavRose/Table4/Fig3.png) und [Figur 4](https://cdn.solaranamnesis.com/GustavRose/Table4/Fig4.png) — Olivinkrystalle aus dem Chondrit von Stauropol.
 
-5\. Kuglige Zusammenhäufung von Olivinkrystallen in demselben Chondrit.
+[Figur 5](https://cdn.solaranamnesis.com/GustavRose/Table4/Fig5.png) — Kuglige Zusammenhäufung von Olivinkrystallen in demselben Chondrit.
 
-6\. und 7\. Kugeln aus diesem Chondrit.
+[Figur 6](https://cdn.solaranamnesis.com/GustavRose/Table4/Fig6.png) und [Figur 7](https://cdn.solaranamnesis.com/GustavRose/Table4/Fig7.png) — Kugeln aus diesem Chondrit.
 
-8\. Eine Kugel in dem Chondrit von Krasnoi-Ugol, neben welcher sich rechts eine kleinere Kugel, die wahrscheinlich ein kugliger Olivinkrystall ist, befindet.
+[Figur 8](https://cdn.solaranamnesis.com/GustavRose/Table4/Fig8.png) — Eine Kugel in dem Chondrit von Krasnoi-Ugol, neben welcher sich rechts eine kleinere Kugel, die wahrscheinlich ein kugliger Olivinkrystall ist, befindet.
 
-9\. Zusammenhäufung von Kugeln in demselben Chondrit.
+[Figur 9](https://cdn.solaranamnesis.com/GustavRose/Table4/Fig9.png) — Zusammenhäufung von Kugeln in demselben Chondrit.
 
-10\. Kugliger Olivin aus dem Chondrit von Timochin.
+[Figur 10](https://cdn.solaranamnesis.com/GustavRose/Table4/Fig10.png) — Kugliger Olivin aus dem Chondrit von Timochin.

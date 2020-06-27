@@ -48,4 +48,11 @@ Die Meteoritensammlung macht einen besonderen Theil des
 
 9. Eine Stelle eines Hausenblasenabdrucks der geatzten Schnittflache _D_ Fig. 3 des Eisens von Braunau. Man sieht die Langsschnitte der Rhabditkrystalle, die der Kante von _D_ und _C_ parallel liegen; sie sind hier an den Enden aber anders begranzt als die Rhabditkrystalle bei dem Eisen von Seelasgen Fig. 6.
 
-10.
+10. Eine der wasserhellen Stellen der Olivinplatte Fig. 11 vergrossert; man sieht die geradlinigen, unter einander parallelen, haarformigen Einschlusse des Olivins.
+
+11. Eine kleine Platte in naturlicher Grosse, die aus einem Olivinkrystall aus dem Pallas-Eisen geschnitten und mit vielen braun gefarbten Kluften durchsetzt ist, so dafs nur wenig Stellen wasserhell geblieben sind.
+
+12. Die haarformigen Einschlusse von Fig. 10 einer andern kleinen Olivinplatte von der Schnittflache des Krystalls schief durchschnitten, noch mehr vergrossert.
+
+##### Tafel 2
+

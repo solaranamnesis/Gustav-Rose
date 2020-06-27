@@ -88,4 +88,26 @@ Die Meteoritensammlung macht einen besonderen Theil des
 
 9\. Meteoreisen vom Cap der guten Hoffnung, mit zwei fast unter rechtem Winkel zusammen stofsenden Schnittflachen, die geatzt sind, in naturlicher Grosse. Man sieht hellere und dunklere breite Streifen sich gerader Richtung uber die Flachen hinziehen. Bie _B_, _D_, _G_ finden sich Rostflecken; in dem hellen Streifen bei _g_ ist ein regelmassig begranzter Troilitkrystall, bei _A_ sind Schreibersit oder Rhabditkrystalle eingewachsen; kleinere dergleichen Krystalle finden sich auf der ubrigen Flache hier und da und glanzen bei bestimmter Beleuchtung.
 
-10\.
+10\. Die Flache _AC_ von Fig. 9 in anderer Lage, bei welcher nun die dunklen Streifen hell und die hellen dunkel erscheinen.
+
+11\. Stelle an der Granze der Streifen _g_ und _h_ von dem Hausenblasenabdruck der Flache _AC_ Fig. 9. Die Flache erscheint mit seinen Kornern bedeckt, die in dem Streifen _h_ rund, in dem Streifen _g_ mit andern gemengt sind, die in die Lange gezogen erscheinen.
+
+12\. Stelle von einer dunngeschliffenen Platte des Chondrits von Chantonnay in ebenso starker Vergrosserung, wie die Fig. 3 und 4. Sie zeigt eine Gruppe durchsichtiger (Olivin-)Krystalle, die fast ganz von der schwarzen Substanz umgeben, und daher fast ganz regelmassig begranzt sind, und feine untereinander parallele haarformige Einschlusse haben, wie die Olivinkrystalle in dem Pallas-Eisen.
+
+##### Tafel 4
+
+1\. Olivinkrystall aus dem Pallas-Eisen; er ist fast vollstandig bis auf die Zusammensetzungsflache _d_, in welcher er sich mit einem andern Krystalle begranzt hatte, ist aber fast vollkommen abgerundet bis auf einzelne Flachen, die sich nicht in Kanten schneiden, und daher auch runde Umrisse haben. Die vorhandenen Flachen liegen merkwurdiger Weise alle in einer Zone, in der Zone der Langsprismen, die auf diese Weise recht vollstandig ausgebildet ist.
+
+2\. Rohrenartige Einschlusse von verschiedenem Ansehen, wie sie in dem Olivin des Pallas-Eisen vorkommen, noch mehr vergrossert als in Fig. 10 Tafel 1, wo sie in ihrer naturlichen Lage gezeichnet sind.
+
+3\. und 4\. Olivinkrystalle aus dem Chondrit von Stauropol.
+
+5\. Kuglige Zusammenhaufung von Olivinkrystallen in demselben Chondrit.
+
+6\. und 7\. Kugeln aus diesem Chondrit.
+
+8\. Eine Kugel in dem Chondrit von Krasnoi-Ugol, neben welcher sich rechts eine kleinere Kugel, die wahrscheinlich ein kugliger Olivinkrystall ist, befindet.
+
+9\. Zusammenhaufung von Kugeln in demselben Chondrit.
+
+10\. Kugliger Olivin aus dem Chondrit von Timochin.

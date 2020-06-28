@@ -202,7 +202,7 @@ Die 3. Art ist ein körniges Gemenge von Meteoreisen und Magnetkies mit Olivin u
 
 II\. Die Steinmeteorite sind in 7 Arten zu theilen, für die ich die folgenden Namen vorschlage:
 
-1\. Chondrit (von , die kleine Kugel). Sie ist die erste und hauptsächlichste Art, die den größten Theil der Steinmeteorite enthält. Sie ist durch kleine Kugeln ausgezeichnet, die aus einem noch nicht bestimmten Magnesia-Silicat bestehen und in einem feinkörnigen Gemenge eingemengt sind, das aus Olivin, Chromeisenerz, einer schwarzen noch zu bestimmenden Substanz, sowie aus Nickeleisen und Magnetkies besteht.
+1\. Chondrit (von χὀνδϼοϛ, die kleine Kugel). Sie ist die erste und hauptsächlichste Art, die den größten Theil der Steinmeteorite enthält. Sie ist durch kleine Kugeln ausgezeichnet, die aus einem noch nicht bestimmten Magnesia-Silicat bestehen und in einem feinkörnigen Gemenge eingemengt sind, das aus Olivin, Chromeisenerz, einer schwarzen noch zu bestimmenden Substanz, sowie aus Nickeleisen und Magnetkies besteht.
 
 2\. Howardit zu Ehren Howard’s benannt, dem wir die erste Analyse eines Meteorsteins verdanken; ein feinkörniges Gemenge von Olivin mit einem weißen Silicat, möglicher Weise Anorthit, und mit einer geringen Menge von Chromeisenerz und Nickeleisen. Sie enthält die Meteorsteine von Loutolax, Bialystock und Mässing u. s.w.
 

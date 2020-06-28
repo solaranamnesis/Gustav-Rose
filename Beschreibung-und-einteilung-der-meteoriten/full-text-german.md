@@ -216,7 +216,7 @@ II\. Die Steinmeteorite sind in 7 Arten zu theilen, für die ich die folgenden N
 
 6\. Die kohligen Meteorite, wie von Bokkeveld und Alais, die ich nicht genauer untersucht habe und für die ich daher noch einen eigenen Nannen aus Setze.
 
-7\. Eukrit von sügures wohl bestimmbar, da die mineralogische Beschaffenheit dieser Art bis auf einige Nebendinge ganz klar ist, und ihre wesentlichen Gemengtheile vollkommen bestimmbar sind. Ein hauptsächlich aus Augit und Anorthit bestehendes körniges Gemenge mit einer geringen Menge Magnetkies, meistens noch geringerer Menge Nickeleisen, zuweilen mit kleinen, näher zu bestimmenden tafelartigen Krystallen (Juvenas) und mit etwas Olivin (Petersburg, V. St.). Es gehören hierhin die Meteoriten von Juvenas, Stannern, Jonzac und Petersburg.
+7\. Eukrit von εὔϰϼιτοϛ wohl bestimmbar, da die mineralogische Beschaffenheit dieser Art bis auf einige Nebendinge ganz klar ist, und ihre wesentlichen Gemengtheile vollkommen bestimmbar sind. Ein hauptsächlich aus Augit und Anorthit bestehendes körniges Gemenge mit einer geringen Menge Magnetkies, meistens noch geringerer Menge Nickeleisen, zuweilen mit kleinen, näher zu bestimmenden tafelartigen Krystallen (Juvenas) und mit etwas Olivin (Petersburg, V. St.). Es gehören hierhin die Meteoriten von Juvenas, Stannern, Jonzac und Petersburg.
 
 ## I. Eisenmeteorite.
 

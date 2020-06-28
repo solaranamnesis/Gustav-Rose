@@ -22,6 +22,62 @@ Die Meteoritensammlung macht einen besonderen Theil des
 
 ### Inhaltsübersicht
 
+#### Geschichte der Meteoritensammlung in dem mineralogischen Museum von Berlin auf Grund deren die neue Eintheilung der Meteoriten gemacht ist
+
+#### Partsch's systematische Eintheilung der Meteoriten
+
+#### Shepard's systematische Eintheilung der Meteoriten
+
+#### von Reichenbach's systematische Eintheilung der Meteoriten
+
+#### Neue systematische Eintheilung der Meteoriten
+
+### 1\. Eisenmeteorite
+
+#### Geschichte der Untersuchungen über die Natur der Eisenmeteorite
+
+#### Meteoreisen
+
+Die Meteoreisenmassen sind:
+
+##### a) Stücke eines Individuums (Krystalls) ohne schalige Zusammensetzung
+
+##### b) Aggregate grobkörniger Individuen ebenfalls ohne schalige Zusammensetzung
+
+##### c) Individuen mit schaligen Zusammensetzungstücken parallel den Flächen des Octaeders (Meteoreisen, das durch Aetzung Widmanstättensche Figuren giebt)
+
+##### d) Aggregate mit grosskörnigen, schalig zusammengesetzten Individuen
+
+##### e) Aggregate mit feinkörnigen Zusammensetzungsstücken
+
+#### Pallasit
+
+#### Mesosiderit
+
+### 2\. Steinmeteorite
+
+#### Chondrit
+
+##### Aeufsere Beschaffenheit
+
+##### Mikroscopische Untersuchung
+
+##### Chemische Beschaffenheit
+
+#### Howardit
+
+#### Chassignit
+
+#### Shalkit
+
+#### Kohlige Meteorite
+
+#### Eukrit
+
+### Schlussbemerkungen
+
+
+
 ...
 
 #### Erklärung der Kupfertafeln

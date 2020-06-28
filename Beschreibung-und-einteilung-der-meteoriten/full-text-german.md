@@ -24,13 +24,13 @@ Gelesen in der Akademie der Wissenschaften am 7. und 14. Aug. 1862 und am 11. Ju
 
 #### [Geschichte der Meteoritensammlung in dem mineralogischen Museum von Berlin auf Grund deren die neue Eintheilung der Meteoriten gemacht ist](#geschichte-der-meteoritensammlung-in-dem-mineralogischen-museum-von-berlin-auf-grund-deren-die-neue-eintheilung-der-meteoriten-gemacht-ist-1)
 
-#### Partsch's systematische Eintheilung der Meteoriten
+Partsch's systematische Eintheilung der Meteoriten
 
-#### Shepard's systematische Eintheilung der Meteoriten
+Shepard's systematische Eintheilung der Meteoriten
 
-#### von Reichenbach's systematische Eintheilung der Meteoriten
+von Reichenbach's systematische Eintheilung der Meteoriten
 
-#### Neue systematische Eintheilung der Meteoriten
+Neue systematische Eintheilung der Meteoriten
 
 ### 1\. Eisenmeteorite
 

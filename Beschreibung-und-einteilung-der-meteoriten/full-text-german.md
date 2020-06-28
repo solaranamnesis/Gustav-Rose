@@ -208,7 +208,7 @@ II\. Die Steinmeteorite sind in 7 Arten zu theilen, für die ich die folgenden N
 
 3\. Chassignit, von Chassigny, dem Fallorte des einzigen bekannten Meteoriten dieser Art; ein kleinkörniger eisenreicher Olivin mit sparsam eingemengten kleinen Körnern von Chromeisenerz.
 
-4\. Chladnit nach Chladni benannt; ein Gemenge von Shepardit (Mg2Si3) mit einem noch näher zu bestimmenden thonerde-haltigen Silicate mit geringen Mengen von Nickeleisen, Magnetkies und einigen anderen noch zu bestimmenden Substanzen. Hierher gehört auch nur ein Meteorit, der von Bishopville.*
+4\. Chladnit nach Chladni benannt; ein Gemenge von Shepardit (Mg₂Si₃) mit einem noch näher zu bestimmenden thonerde-haltigen Silicate mit geringen Mengen von Nickeleisen, Magnetkies und einigen anderen noch zu bestimmenden Substanzen. Hierher gehört auch nur ein Meteorit, der von Bishopville.*
 
 *) Mit Chladnit hat zwar Shepard, der diesen Meteorit zuerst untersucht und beschrieben hat, schon das in ihm vorkommende Magnesia-Silicat bezeichnet, doch schien es mir zweckmäßiger, nach Chladni, der sich um die Meteoritenkunde so viele Verdienste erworben hat, einen Meteoriten, als ein Mineral zu benennen, wenn sich dieses auch bis jetzt nur in einem Meteoriten gefunden hat. Ich möchte dann weiter vorschlagen, den bisherigen Chladnit: Shepardit zu nennen, der zwar auch schon einer in diesen Meteoriten sparsam vorkommenden Substanz gegeben ist, die nach Shepard Schwefelchrom ist, die indessen doch in ihren Eigenschaften noch erst sehr wenig gekannt ist; Vorschläge, mit denen Hr. Shepard selbst sich einverstanden gegen mich erklärt hat. 
 
@@ -228,7 +228,7 @@ II\. Die Steinmeteorite sind in 7 Arten zu theilen, für die ich die folgenden N
 
 ##### Tafel 1
 
-[Figur 1](https://cdn.solaranamnesis.com/GustavRose/Table1/Fig1.png) — Die Ecke _o_ desselben vergrössert dargestellt, an welcher möglichst genau alle Aetzungslinien, die an demselben mit der Lupe beobachtet werden konnten, angegeben sind. Man sieht an dieser Zeichnung, dass die Aetzungslinien wohl meistentheils parallel den Durchschnittslinien mit den Leucitoeder (_a_ : _a_ : 1/2 _a_), wie z. B. die Linien _lm_ und _mn_, doch auch zuweilen parallel den Durchschnittslinien mit dem Triakisoctaeder (_a_ : 1/2 _a_ : 1/2 _a_), wie die Linien _uv_ und _vw_ gehen.
+[Figur 1](https://cdn.solaranamnesis.com/GustavRose/Table1/Fig1.png) — Die Ecke _o_ desselben vergrössert dargestellt, an welcher möglichst genau alle Aetzungslinien, die an demselben mit der Lupe beobachtet werden konnten, angegeben sind. Man sieht an dieser Zeichnung, dass die Aetzungslinien wohl meistentheils parallel den Durchschnittslinien mit den Leucitoeder (_a_ : _a_ : ½_a_), wie z. B. die Linien _lm_ und _mn_, doch auch zuweilen parallel den Durchschnittslinien mit dem Triakisoctaeder (_a_ : ½_a_ : ½_a_), wie die Linien _uv_ und _vw_ gehen.
 
 [Figur 2](https://cdn.solaranamnesis.com/GustavRose/Table1/Fig2.png) — Eine Hexaederfläche des Meteoreisens, in welcher die Richtungen angegeben sind nach welchen die Fläche nach der Aetzung gestreift erscheint.
 

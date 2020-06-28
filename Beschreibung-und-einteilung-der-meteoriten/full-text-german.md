@@ -198,11 +198,11 @@ Die 1. Art besteht aus Nickeleisen, das nur in geringer Menge mit einigen Eisenv
 
 Die 2. Art besteht aus demselben Meteoreisen, worin Krystalle von Olivin porphyrartig eingewachsen sind. Der von Pallas am Jenisei gefundene Eisenmeteorit war der erste der Art, den man kennen lernte; er ist bekannt unter dem Namen Pallas-Eisen und bildet noch immer einen Hauptrepräsentanten dieser Art; ich schlage daher vor, die ganze Art Pallasit zu nennen.
 
-Die 3. Art ist ein körniges Gemenge von Meteoreisen und Magnetkies mit Olivin und Augit. Ich nenne sie Mesosiderit von μἐσοϛ in der Mitte stehend und σἰδηϼοϛ Eisen, da sie aus einer ziemlich gleichen Menge von metallischen Eisenverbindungen und Silicaten besteht und so gewissermaßen in der Mitte zwischen den Eisen- und Steinmeteoriten steht.
+Die 3. Art ist ein körniges Gemenge von Meteoreisen und Magnetkies mit Olivin und Augit. Ich nenne sie Mesosiderit von μἐσοϛ in der Mitte stehend und σἰδηϱοϛ Eisen, da sie aus einer ziemlich gleichen Menge von metallischen Eisenverbindungen und Silicaten besteht und so gewissermaßen in der Mitte zwischen den Eisen- und Steinmeteoriten steht.
 
 II\. Die Steinmeteorite sind in 7 Arten zu theilen, für die ich die folgenden Namen vorschlage:
 
-1\. Chondrit (von χὀνδϼοϛ, die kleine Kugel). Sie ist die erste und hauptsächlichste Art, die den größten Theil der Steinmeteorite enthält. Sie ist durch kleine Kugeln ausgezeichnet, die aus einem noch nicht bestimmten Magnesia-Silicat bestehen und in einem feinkörnigen Gemenge eingemengt sind, das aus Olivin, Chromeisenerz, einer schwarzen noch zu bestimmenden Substanz, sowie aus Nickeleisen und Magnetkies besteht.
+1\. Chondrit (von χὀνδϱοϛ, die kleine Kugel). Sie ist die erste und hauptsächlichste Art, die den größten Theil der Steinmeteorite enthält. Sie ist durch kleine Kugeln ausgezeichnet, die aus einem noch nicht bestimmten Magnesia-Silicat bestehen und in einem feinkörnigen Gemenge eingemengt sind, das aus Olivin, Chromeisenerz, einer schwarzen noch zu bestimmenden Substanz, sowie aus Nickeleisen und Magnetkies besteht.
 
 2\. Howardit zu Ehren Howard’s benannt, dem wir die erste Analyse eines Meteorsteins verdanken; ein feinkörniges Gemenge von Olivin mit einem weißen Silicat, möglicher Weise Anorthit, und mit einer geringen Menge von Chromeisenerz und Nickeleisen. Sie enthält die Meteorsteine von Loutolax, Bialystock und Mässing u. s.w.
 
@@ -216,7 +216,7 @@ II\. Die Steinmeteorite sind in 7 Arten zu theilen, für die ich die folgenden N
 
 6\. Die kohligen Meteorite, wie von Bokkeveld und Alais, die ich nicht genauer untersucht habe und für die ich daher noch einen eigenen Nannen aus Setze.
 
-7\. Eukrit von εὔϰϼιτοϛ wohl bestimmbar, da die mineralogische Beschaffenheit dieser Art bis auf einige Nebendinge ganz klar ist, und ihre wesentlichen Gemengtheile vollkommen bestimmbar sind. Ein hauptsächlich aus Augit und Anorthit bestehendes körniges Gemenge mit einer geringen Menge Magnetkies, meistens noch geringerer Menge Nickeleisen, zuweilen mit kleinen, näher zu bestimmenden tafelartigen Krystallen (Juvenas) und mit etwas Olivin (Petersburg, V. St.). Es gehören hierhin die Meteoriten von Juvenas, Stannern, Jonzac und Petersburg.
+7\. Eukrit von εὔϰϱιτοϛ wohl bestimmbar, da die mineralogische Beschaffenheit dieser Art bis auf einige Nebendinge ganz klar ist, und ihre wesentlichen Gemengtheile vollkommen bestimmbar sind. Ein hauptsächlich aus Augit und Anorthit bestehendes körniges Gemenge mit einer geringen Menge Magnetkies, meistens noch geringerer Menge Nickeleisen, zuweilen mit kleinen, näher zu bestimmenden tafelartigen Krystallen (Juvenas) und mit etwas Olivin (Petersburg, V. St.). Es gehören hierhin die Meteoriten von Juvenas, Stannern, Jonzac und Petersburg.
 
 ## I. Eisenmeteorite.
 

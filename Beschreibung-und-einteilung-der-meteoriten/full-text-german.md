@@ -102,7 +102,7 @@ Die Meteoreisenmassen sind:
 
 ### Nachtrag
 
-## Erklärung der Kupfertafeln
+## [Erklärung der Kupfertafeln](#erklärung-der-kupfertafeln-1)
 
 ---
 

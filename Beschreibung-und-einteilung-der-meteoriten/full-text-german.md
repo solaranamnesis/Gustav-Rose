@@ -120,6 +120,88 @@ Durch den Ankauf der Sammlung des Medicinal-Raths Bergemann im Jahre 1837 erhiel
 
 *) Vergl. die Monatsberichte der Akademie von 1862 S. 644.
 
+Von vielen Seiten aufgefordert, ein Verzeichnis der in dem Berliner mineralogischen Museum befindlichen Meteoriten bekannt zu machen, schien es mir zweckmäßig in diesem Verzeichniß nicht, wie man gewöhnlich zu thun pflegt, die Eisen- und Steinmeteorite in der zufälligen Ordnung ihrer Falloder Fundzeit aufzuführen, sondern das Gleichartige zusammenstellend, sie nach ihrer mineralogischen Beschaffenheit zu ordnen. Ich fand zu einer solchen Anordnung um so mehr Veranlassung, als ich beabsichtigte, mit einem solchen Verzeichnis eine neue Aufstellung der Meteoriten des Berliner Museums vorzunehmen. Ich habe deshalb sämmtliche Meteoriten des Museums genau untersucht und dazu sämmtliche Stein- und Eisenmeteorite anschleifen lassen, und letztere geätzt, da man nur auf diese Weise bei den ersteren einen Ueberblick über die Gemengtheile erhalten, bei den letzteren die Structur erkennen kann, eine Arbeit, die lange aufhielt. Außerdem hatte ich von einem großen Theil der ersteren dünne Platten schleifen lassen, und von den geätzten Flächen der letzteren Hausenblasenabdrücke gemacht, um sie unter dem Mikroskop zu beobachten, und bin nun dadurch zu den Resultaten gelangt, die ich mir erlaube, hiermit der Akademie vorzulegen.
+
+Systematische Anordnungen der Meteoriten sind schon von Partsch*, Shepard* und in der neusten Zeit von von Reichenbach* versucht worden. Partsch theilt die Meteoriten ein zuerst in Stein- und Eisenmeteorite, und letztere in normale und anomale; eine Eintheilung und Benennung, die Reichenbach sehr tadelt, da man bei Meteoriten von normal und anomal nicht reden könne. Vergleicht man aber die Reihung selbst, so ist diese sehr naturgemäß. Zu den anomalen rechnet er nur 4, die von Alais, Capland, Chassigny und Simonod, von denen die drei ersteren allerdings auch von besonderer Art sind. Den von Simonod kenne ich nicht, er wird von Reichenbach als Meteorit ganz verworfen.* Die normalen werden in 2 Abtheilungen getheilt, in solche die kein metallisches Eisen enthalten, wie a) die von Juvenas, Stannern, Constantinopel, Jonzac, die nach der damaligen Annahme aus Augit und Labrador bestehen und b) die von Bialystock, Loutolax, Nobleborough und Mässing, die außerdem noch Olivin enthalten und ein breccienartiges Ansehen haben, worauf dann die große Schaar derer folgt, die Eisen eingesprengt enthalten. Hätte Partsch die ganze erstere Abtheilung noch zu den anomalen gerechnet, so wäre die Eintheilung noch passender gewesen, und hätte er die Meteoriten der ersteren Abtheilung ungewöhnliche, die der letzteren gewöhnliche genannt, so würden diese Ausdrücke Reichenbach vielleicht weniger Gelegenheit zum Anstoß gegeben haben. Aber die Eintheilung ist doch immer noch nicht näher gerechtfertigt und zu unbestimmt.
+
+*) Die Meteoriten oder die vom Himmel gefallenen Steine und Eisenmassen im k. k. Hof-Mineralien-Cabinette zu Wien 1843, S. 162. 
+
+*) Report on American meteorites (from the Amer. Journ. of Science and arts, 2. Ser). New Haven 1848 p. 16.
+
+*) Anordnung und Eintheilung der Meteoriten in Poggendorffs Annalen 1859, B. 107, S. 155.
+
+*) A. a. O. S. 163. 
+
+Das Meteoreisen theilt Partsch in ästiges und derbiges; das erstere erhält durch eingemengten Olivin eine schwammige Gestalt, das letztere hat eine unbestimmte Form und geringe Beimengungen. Zu den ersteren gehö- ren die Meteoriten von Atacama, Krasnojarsk (das Pallas-Eisen) und von Brahin, zu den letzteren alle übrigen, die nun noch weiter, je nachdem sie durch Aetzung mehr oder weniger deutliche oder auch gar keine Widman- stättenschen Figuren geben, eingetheilt werden.
+
+Die Eintheilung von Shepard bezieht sich zwar hauptsächlich nur auf die Amerikanischen Meteorite, nimmt aber doch auch auf einige ausländische Rücksicht. Er theilt die Meteorite ebenfalls zuerst ein in Eisen- und Stein- meteorite und beide dann weiter wie folgt:
+
+I. Classe: Eisenmeteorite.
+
+1. Ordnung: Dehnbare und gleichartige.
+
+1.Sect.: Reine (Scriba, Walker County).
+
+2. Sect.: Legirte.
+
+a) Feinkörnige (Green County, Texas, Dikson County, Burlington).
+
+b) Grobkörnige (De Kalb, Ashville, Guildford, Carthago).
+
+2. Ordnung: Dehnbare und ungleichartige.
+
+1. Sect.: Blasig-olivinige (Krasnojarsk).
+
+2. Sect.: Blasig-pyritische (Cambria).
+
+3. Sect.: Pyritisch-graphitische (Cocke County).
+
+3. Ordnung: Spröde.
+
+1.Sect.: Reine (Redford County, Randolph County).
+
+2. Sect.: Legirte (Otsego County).
+
+II. Classe: Steinmeteorite.
+
+1. Ordnung: Trachytische.
+
+1. Sect.: Olivinige.
+
+a) Grobkörnige (Weston, Richmond).
+
+b) Feinkörnige (Nobleboro, Little Piney).
+
+2. Sect.: Augitisch (Juvenas).
+
+3. Sect.: Chadnitisch (Bishopville).
+
+4. Sect.: Kohlig (Cold Bockeveld).
+
+2. Ordnung: Trappartige.
+
+1. Sect.: Gleichartige (Chantonnay).
+
+2. Sect.: Porphyrartige (Renazzo).
+
+3. Ordnung: Bimmsteinartige (Waterville).*
+
+Reichenbach giebt wohl den, meiner Meinung nach einzig richtigen Weg zur Eintheilung der Meteoriten an, befolgt ihn aber selbst nicht. Er sagt, es wäre am natürlichsten, die Meteorite nach der Verschiedenheit der Mineralspecies, die sie enthalten, einzutheilen, da wir diese aber noch zu wenig kennen, so müssen wir es so machen wie die Botaniker beim natürlichen Systeme der Pflanzen und die Meteoriten nach der allgemeinen Aehnlichkeit reihen. Er theilt demnach dieselben in 9 Sippen und jede wieder in verschiedene Gruppen, indem er mit den eisenfreien Steinmeteoriten von Langres (Chassigny), Bishopville, Jonzac, Juvenas, Stannern, Constantinopel anfängt, durch die eisenhaltigen zu den Eisenmeteoriten fortgeht, die noch Olivin enthalten, und mit den aus fast reinem Eisen bestehenden Meteoriten schließt. Es kann nicht fehlen, dass ein so scharfblickender Kenner der Meteoriten, wie Baron Reichenbach, nicht eine Menge neuer interessanter Zusammenstellungen macht und Beziehungen zwischen Meteorsteinen hervorhebt, die früher nicht beachtet waren; sein System ist aber doch nur, wie er selbst das Verfahren der Botaniker nennt, ein „geistreiches Tatonnement", es ist ihm derselbe Vorwurf zu machen, den er dem Partschen Systeme macht, es fehlt ihm ein Eintheilungsprincip; wir scheinen doch hinreichend in der Kenntnis der Meteoriten vorgerückt, um vollständig die strengen Grundsätze in Anwendung bringen zu können, die uns bei der Eintheilung der Gebirgsarten, mit denen die Meteoriten doch vollständig zu vergleichen sind, leiten. Wie man dort aus einem jeden selbstständigen Gemenge eine besondere Gebirgsart macht, so muß man es auch hier thun, und wenn man allerdings auch noch nicht vollständig alle Gemengtheile der Meteoriten genau kennt, so weiß man davon doch so viel, um das Zusammengehörige zusammenstellen zu können.
+
+Ich behalte zuerst die alte Eintheilung in Eisen- und Steinmeteorite bei, je nachdem die Meteorite nur oder vorzugsweise aus Eisen und zwar Nickeleisen, oder vorzugsweise aus einem Gemenge von Silicaten bestehen, in denen das Nickeleisen nur untergeordnet oder gar nicht enthalten ist.
+
+I. Die Eisenmeteorite machen 3 Arten aus, Meteoritenarten kann man sie nennen, wie man in der Petrographie Gebirgsarten oder Felsarten sagt.
+
+Die 1. Art besteht aus Nickeleisen, das nur in geringer Menge mit einigen Eisenverbindungen gemengt ist; ich nenne sie Meteoreisen.
+
+Die 2. Art besteht aus demselben Meteoreisen, worin Krystalle von Olivin porphyrartig eingewachsen sind. Der von Pallas am Jenisei gefundene Eisenmeteorit war der erste der Art, den man kennen lernte; er ist bekannt unter dem Namen Pallas-Eisen und bildet noch immer einen Hauptrepräsentanten dieser Art; ich schlage daher vor, die ganze Art Pallasit zu nennen.
+
+Die 3. Art ist ein körniges Gemenge von Meteoreisen und Magnetkies mit Olivin und Augit. Ich nenne sie Mesosiderit von uéros in der Mitte stehend und Görges Eisen, da sie aus einer ziemlich gleichen Menge von metallischen Eisenverbindungen und Silicaten besteht und so gewissermaßen in der Mitte zwischen den Eisen- und Steinmeteoriten steht.
+
+II. Die Steinmeteorite sind in 7 Arten zu theilen, für die ich die folgenden Namen vorschlage: 
+
+*) Nicht meteorisch.
+
 ...
 
 #### Erklärung der Kupfertafeln

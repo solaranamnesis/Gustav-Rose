@@ -186,6 +186,8 @@ b) Feinkörnige (Nobleboro, Little Piney).
 
 3\. Ordnung: Bimmsteinartige (Waterville).*
 
+*) Nicht meteorisch.
+
 Reichenbach giebt wohl den, meiner Meinung nach einzig richtigen Weg zur Eintheilung der Meteoriten an, befolgt ihn aber selbst nicht. Er sagt, es wäre am natürlichsten, die Meteorite nach der Verschiedenheit der Mineralspecies, die sie enthalten, einzutheilen, da wir diese aber noch zu wenig kennen, so müssen wir es so machen wie die Botaniker beim natürlichen Systeme der Pflanzen und die Meteoriten nach der allgemeinen Aehnlichkeit reihen. Er theilt demnach dieselben in 9 Sippen und jede wieder in verschiedene Gruppen, indem er mit den eisenfreien Steinmeteoriten von Langres (Chassigny), Bishopville, Jonzac, Juvenas, Stannern, Constantinopel anfängt, durch die eisenhaltigen zu den Eisenmeteoriten fortgeht, die noch Olivin enthalten, und mit den aus fast reinem Eisen bestehenden Meteoriten schließt. Es kann nicht fehlen, dass ein so scharfblickender Kenner der Meteoriten, wie Baron Reichenbach, nicht eine Menge neuer interessanter Zusammenstellungen macht und Beziehungen zwischen Meteorsteinen hervorhebt, die früher nicht beachtet waren; sein System ist aber doch nur, wie er selbst das Verfahren der Botaniker nennt, ein „geistreiches Tatonnement", es ist ihm derselbe Vorwurf zu machen, den er dem Partschen Systeme macht, es fehlt ihm ein Eintheilungsprincip; wir scheinen doch hinreichend in der Kenntnis der Meteoriten vorgerückt, um vollständig die strengen Grundsätze in Anwendung bringen zu können, die uns bei der Eintheilung der Gebirgsarten, mit denen die Meteoriten doch vollständig zu vergleichen sind, leiten. Wie man dort aus einem jeden selbstständigen Gemenge eine besondere Gebirgsart macht, so muß man es auch hier thun, und wenn man allerdings auch noch nicht vollständig alle Gemengtheile der Meteoriten genau kennt, so weiß man davon doch so viel, um das Zusammengehörige zusammenstellen zu können.
 
 Ich behalte zuerst die alte Eintheilung in Eisen- und Steinmeteorite bei, je nachdem die Meteorite nur oder vorzugsweise aus Eisen und zwar Nickeleisen, oder vorzugsweise aus einem Gemenge von Silicaten bestehen, in denen das Nickeleisen nur untergeordnet oder gar nicht enthalten ist.
@@ -198,9 +200,7 @@ Die 2. Art besteht aus demselben Meteoreisen, worin Krystalle von Olivin porphyr
 
 Die 3. Art ist ein körniges Gemenge von Meteoreisen und Magnetkies mit Olivin und Augit. Ich nenne sie Mesosiderit von μἐσοϛ in der Mitte stehend und σἰδηϼοϛ Eisen, da sie aus einer ziemlich gleichen Menge von metallischen Eisenverbindungen und Silicaten besteht und so gewissermaßen in der Mitte zwischen den Eisen- und Steinmeteoriten steht.
 
-II\. Die Steinmeteorite sind in 7 Arten zu theilen, für die ich die folgenden Namen vorschlage: 
-
-*) Nicht meteorisch.
+II\. Die Steinmeteorite sind in 7 Arten zu theilen, für die ich die folgenden Namen vorschlage:
 
 ...
 

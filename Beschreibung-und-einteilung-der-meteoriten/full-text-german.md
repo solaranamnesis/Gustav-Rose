@@ -16,6 +16,10 @@
 
 ---
 
+Gelesen in der Akademie der Wissenschaften am 7. und 14. Aug. 1862 und am 11. Juni 1863. Anfang des Druckes am 4. Juli 1864, bis wohin einige neue Zusätze hinzugefügt sind. Die Seitenzahl bezeichnet die laufende Pagina des Jahrgangs 1863 in den Abhandlungen der physikalischen Klasse der Königl. Akademie Wissenschaften.
+
+---
+
 ### Inhaltsübersicht
 
 #### Geschichte der Meteoritensammlung in dem mineralogischen Museum von Berlin auf Grund deren die neue Eintheilung der Meteoriten gemacht ist
@@ -103,8 +107,6 @@ Die Meteoreisenmassen sind:
 ---
 
 ## Geschichte der Meteoritensammlung in dem mineralogischen Museum von Berlin auf Grund deren die neue Eintheilung der Meteoriten gemacht ist
-
-Gelesen in der Akademie der Wissenschaften am 7. und 14. Aug. 1862 und am 11. Juni 1863. Anfang des Druckes am 4. Juli 1864, bis wohin einige neue Zusätze hinzugefügt sind. Die Seitenzahl bezeichnet die laufende Pagina des Jahrgangs 1863 in den Abhandlungen der physikalischen Klasse der Königl. Akademie Wissenschaften.
 
 Die Meteoritensammlung macht einen besonderen Theil des mineralogschen Museums der Berliner Universität aus. Als bei der Gründung der Universität im Jahre 1810 auch das mineralogische Museum durch Uebernahme der Mineraliensammlung der früheren General-Bergbau-Direction gegründet wurde, waren die wenigen Meteoriten, die sich in derselben befanden, noch nicht getrennt und mit den übrigen Mineralien vereinigt. Wie viele Meteoriten sich schon damals in ihr befanden, läßt sich nicht angeben, da darüber die Nachweisungen fehlen, indessen enthielt sie doch schon manche kostbare Stücke, wie ein großes prachtvolles Exemplar von dem Pallas-Eisen, das in einer Sammlung Russischer Mineralien enthalten war, die Kaiser Alexander I dem Könige Friedrich Wilhelm III im Jahre 1803 zum Geschenk gemacht hatte, so wie ein großes Stück von dem Durango-Eisen, welches Al. von Humboldt aus Mexiko mitgebracht und dem damaligen Director Dietrich Karsten für die Sammlung übergeben hatte. Weiss, der nach Karstens Tode Director des mineralogischen Museums wurde, hatte ein großes Interesse für die Meteoriten und ließ keine Gelegenheit vorübergehen, die sich ihm zur Erwerbung von Meteoriten darbot, doch fand sich dieselbe im Anfang, wo das Interesse für die Meteoriten überhaupt noch nicht so lebhaft war wie jetzt, nicht häufig. Die erste größere Bereicherung erhielt das Museum erst durch den Ankauf der Mineraliensammlung von Klaproth nach dessen im Jahre 1817 erfolgten Tode, indem sich darin nach Weglassung aller Arten, die sich später als unächt erwiesen haben, Steinmeteorite von 12 Fundörtern und Eisenmeteorite von 5 Fundörtern befanden, und mehrere derselben in mehreren Exemplaren vertreten waren. In dem im Jahre 1826 vollendeten Kataloge des Museums sind Meteorite von 31 Fundörtern aufge- führt, und zwar Steinmeteorite von 21 und Eisenmeteorite von 9 Fundörtern. Aber schon im nächsten Jahre vermehrte sich die Sammlung um mehr als das Doppelte durch das Vermächtniß Chladni's, wodurch die ganze berühmte Meteoritensammlung dieses um die Meteoritenkunde so verdienten Gelehrten dem Berliner Museum zufiel*. Sie bestand in Steinmeteoriten von 31 und Eisenmeteoriten von 10 verschiedenen Fundörtern, unter denen 18 neue Meteorite sich befanden.
 

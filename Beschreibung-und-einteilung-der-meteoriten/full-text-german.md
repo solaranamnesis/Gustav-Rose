@@ -202,6 +202,24 @@ Die 3. Art ist ein körniges Gemenge von Meteoreisen und Magnetkies mit Olivin u
 
 II\. Die Steinmeteorite sind in 7 Arten zu theilen, für die ich die folgenden Namen vorschlage:
 
+1\. Chondrit (von , die kleine Kugel). Sie ist die erste und hauptsächlichste Art, die den größten Theil der Steinmeteorite enthält. Sie ist durch kleine Kugeln ausgezeichnet, die aus einem noch nicht bestimmten Magnesia-Silicat bestehen und in einem feinkörnigen Gemenge eingemengt sind, das aus Olivin, Chromeisenerz, einer schwarzen noch zu bestimmenden Substanz, sowie aus Nickeleisen und Magnetkies besteht.
+
+2\. Howardit zu Ehren Howard’s benannt, dem wir die erste Analyse eines Meteorsteins verdanken; ein feinkörniges Gemenge von Olivin mit einem weißen Silicat, möglicher Weise Anorthit, und mit einer geringen Menge von Chromeisenerz und Nickeleisen. Sie enthält die Meteorsteine von Loutolax, Bialystock und Mässing u. s.w.
+
+3\. Chassignit, von Chassigny, dem Fallorte des einzigen bekannten Meteoriten dieser Art; ein kleinkörniger eisenreicher Olivin mit sparsam eingemengten kleinen Körnern von Chromeisenerz.
+
+4\. Chladnit nach Chladni benannt; ein Gemenge von Shepardit (Mg2Si3) mit einem noch näher zu bestimmenden thonerde-haltigen Silicate mit geringen Mengen von Nickeleisen, Magnetkies und einigen anderen noch zu bestimmenden Substanzen. Hierher gehört auch nur ein Meteorit, der von Bishopville.*
+
+*) Mit Chladnit hat zwar Shepard, der diesen Meteorit zuerst untersucht und beschrieben hat, schon das in ihm vorkommende Magnesia-Silicat bezeichnet, doch schien es mir zweckmäßiger, nach Chladni, der sich um die Meteoritenkunde so viele Verdienste erworben hat, einen Meteoriten, als ein Mineral zu benennen, wenn sich dieses auch bis jetzt nur in einem Meteoriten gefunden hat. Ich möchte dann weiter vorschlagen, den bisherigen Chladnit: Shepardit zu nennen, der zwar auch schon einer in diesen Meteoriten sparsam vorkommenden Substanz gegeben ist, die nach Shepard Schwefelchrom ist, die indessen doch in ihren Eigenschaften noch erst sehr wenig gekannt ist; Vorschläge, mit denen Hr. Shepard selbst sich einverstanden gegen mich erklärt hat. 
+
+5\. Shalkit, der Meteorstein von Shalka, ein körniges Gemenge von vorwaltendem Olivin mit Shepardit und Chromeisenerz.
+
+6\. Die kohligen Meteorite, wie von Bokkeveld und Alais, die ich nicht genauer untersucht habe und für die ich daher noch einen eigenen Nannen aus Setze.
+
+7\. Eukrit von sügures wohl bestimmbar, da die mineralogische Beschaffenheit dieser Art bis auf einige Nebendinge ganz klar ist, und ihre wesentlichen Gemengtheile vollkommen bestimmbar sind. Ein hauptsächlich aus Augit und Anorthit bestehendes körniges Gemenge mit einer geringen Menge Magnetkies, meistens noch geringerer Menge Nickeleisen, zuweilen mit kleinen, näher zu bestimmenden tafelartigen Krystallen (Juvenas) und mit etwas Olivin (Petersburg, V. St.). Es gehören hierhin die Meteoriten von Juvenas, Stannern, Jonzac und Petersburg.
+
+## I. Eisenmeteorite.
+
 ...
 
 #### Erklärung der Kupfertafeln

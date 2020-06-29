@@ -234,17 +234,17 @@ Am meisten bereichert wurde unsere Kenntnis von der chemischen Beschaffenheit de
 
 *) A. a. O. von 1834 B. 33, S. 123.
 
-- | _a_ | _b_ | _c_  
-Eisen 93,775 88,042 88,231  
-Nickel 3,812 10,732 7,517  
-Kobalt 0,213 0,455 0,762  
-Magnesium - 0,050 0,279  
-Mangan - 0,132 Spur  
-Zinn und Kupfer - 0,066 Spur  
-Kohle - 0,043 -  
-Schwefel - Spur Spur  
-Unlösliches 2,200 0,480 2,211  
-100,000 100,000 100,000  
+ | _a_ | _b_ | _c_  
+Eisen | 93,775 | 88,042 | 88,231  
+Nickel | 3,812 | 10,732 | 7,517  
+Kobalt | 0,213 | 0,455 | 0,762  
+Magnesium | - | 0,050 | 0,279  
+Mangan | - | 0,132 | Spur  
+Zinn und Kupfer | - | 0,066 | Spur  
+Kohle | - | 0,043 | -  
+Schwefel | - | Spur | Spur  
+Unlösliches | 2,200 | 0,480 | 2,211  
+ | 100,000 | 100,000 | 100,000  
 
 Der in verdünnter Salpetersäure unlösliche Rückstand bestand aus metallischen Körnern und Schüppchen, die schwer zu Boden liegen, und aus einer feiner vertheilten schwarzen kohleähnlichen Masse, die sich leicht in der Flüssigkeit aufschlämmen läßt. Die ersteren waren merkwürdiger Weise Phosphormetalle und bestanden aus:
 

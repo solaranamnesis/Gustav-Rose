@@ -220,6 +220,45 @@ II\. Die Steinmeteorite sind in 7 Arten zu theilen, für die ich die folgenden N
 
 ## I. Eisenmeteorite.
 
+Die ersten bestimmten Angaben über die Natur des Meteoreisens haben wir von Howard im Jahre 1802 erhalten, der bei Gelegenheit der chemischen Analyse des 1798 bei Benares in Bengalen gefallenen Meteorsteins die merkwürdige Entdeckung machte, daß das in demselben eingesprengte Eisen Nickel enthalte.* Er fand darin 35 pC. und einen ähnlichen Gehalt in andern gediegenen Eisenmassen, die für meteorisch angesehen wurden, in dem Eisen von Otumpa in Brasilien, von Krasnojarsk in Sibirien (dem Pallas-Eisen), dem Eisen aus Böhmen und vom Senegal.
+
+*) Philosophical transactions von 1802 und daraus in Gilberts Annalen.
+
+Klaproth bestätigte später den Nickelgehalt bei der Untersuchung des Meteoreisens von Agram und Ellbogen, wenngleich er die Menge darin weit geringer fand (nur 3,5 und 2,5 pC.), und man war nun seit der Zeit gewohnt, den Nickelgehalt als ein charakteristisches Kennzeichen des Meteoreisens zu betrachten, und bei zufällig auf der Oberfläche der Erde gefundenen Eisenmassen ihren meteorischen Ursprung erst dann anzunehmen, wenn die chemische Untersuchung einen Gehalt an Nickel nachgewiesen hatte, eine Annahme, wozu man auch jetzt noch berechtigt ist, da man noch nie ein Meteoreisen ohne Nickelgehalt gefunden hat. Tellurisches gediegenes Eisen enthält keinen Nickel, ist überhaupt eine außerordentliche Seltenheit und wohl zufällig nur durch einen Reductionsproceß entstanden.
+
+Später fand Stromeyer in dem Meteoreisen neben dem Nickel etwas Kobalt, das ja auch in den tellurischen Mineralien so häufig das Nickel zu begleiten pflegt und darauf auch etwas Kupfer, und Laugier in dem Meteoreisen von Krasnojarsk und Brahin etwas Chrom, 0,5 pC., das aber wie das in den Meteorsteinen vorkommende, wo es Laugier schon früher gefunden hatte, von eingemengtem Chromeisenerz herrührt.
+
+Am meisten bereichert wurde unsere Kenntnis von der chemischen Beschaffenheit des Meteoreisens durch die genauen Analysen derselben von Berzelius, die er zuerst auf Veranlassung des Grafen Caspar Sternberg mit dem in Böhmen aufgefundenen Eisen von Bohumilitz* und dann bei seiner großen Arbeit über die Meteoriten überhaupt, die durch die Übersendung der 1833 bei Blansko in Mähren gefallenen Meteorsteine durch Ba- ron von Reichenbach veranlaßt wurde, mit dem Meteoreisen von Krasnojarsk (dem Pallas-Eisen) und dem von Elbogen* angestellt hatte. Er schied durch Behandlung des Meteoreisens mit verdünnter Salpetersäure einen darin löslichen und einen andern darin unlöslichen Theil, und fand auf diese Weise bei dem Eisen von Bohumilitz (a), Krasnojarsk (b), und Elbogen (c):
+
+*) Poggendorffs Annalen von 1833 B. 27, S. 118.
+
+*) A. a. O. von 1834 B. 33, S. 123.
+
+- | _a_ | _b_ | _c_  
+Eisen 93,775 88,042 88,231  
+Nickel 3,812 10,732 7,517  
+Kobalt 0,213 0,455 0,762  
+Magnesium - 0,050 0,279  
+Mangan - 0,132 Spur  
+Zinn und Kupfer - 0,066 Spur  
+Kohle - 0,043 -  
+Schwefel - Spur Spur  
+Unlösliches 2,200 0,480 2,211  
+100,000 100,000 100,000  
+
+Der in verdünnter Salpetersäure unlösliche Rückstand bestand aus metallischen Körnern und Schüppchen, die schwer zu Boden liegen, und aus einer feiner vertheilten schwarzen kohleähnlichen Masse, die sich leicht in der Flüssigkeit aufschlämmen läßt. Die ersteren waren merkwürdiger Weise Phosphormetalle und bestanden aus:
+
+
+
+
+
+
+
+
+
+
+
+
 ...
 
 #### Erklärung der Kupfertafeln

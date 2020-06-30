@@ -248,6 +248,36 @@ Unlösliches | 2,200 | 0,480 | 2,211
 
 Der in verdünnter Salpetersäure unlösliche Rückstand bestand aus metallischen Körnern und Schüppchen, die schwer zu Boden liegen, und aus einer feiner vertheilten schwarzen kohleähnlichen Masse, die sich leicht in der Flüssigkeit aufschlämmen läßt. Die ersteren waren merkwürdiger Weise Phosphormetalle und bestanden aus:
 
+Eisen | 65987 | 48,67 | 68,11  
+Nickel | 15,008 | 18,33 | 17,72  
+Magnesium | – | 9,66 | 17,72  
+Phosphor | 14,023 | 18,47 | 14,17  
+Kiesel | 2,037 | - | -  
+Kohle | 1,422 | - | -  
+98,477 | 95,13 | 100,00  
+
+Die letztere, die beim Erhitzen rauchte und sodann verglimmte, wurde nur bei dem Pallas-Eisen quantitativ untersucht und bestand hier aus:
+
+Eisen 57,18
+Nickel 34,00
+Magnesium 4,52
+Zinn und Kupfer 3,75
+Kohle 0,55
+
+Eine Spur von Phosphor, die Berzelius fand, glaubt er umschlosse- nen Theilen der Phosphorverbindung zuschreiben zu müssen. Bei dem Rückstand aus dem Bohumilitz-Eisen wurde auch noch etwas Kiesel und Chromeisenerz gefunden. Dieser feinere Theil des Rückstands ist daher von dem schwereren wesentlich verschieden zusammengesetzt.
+
+Durch Berzelius wurden also in dem Meteoreisen 6 neue Stoffe aufgefunden: Phosphor, Zinn, Mangan, Magnesium, Kiesel und Kohle, von denen der Phosphor ganz besonders bemerkenswerth ist, da solche Phosphormetalle, wie sie in dem Meteoreisen hiernach enthalten sind, unter den tellurischen Mineralien nicht bekannt sind.
+
+Nach Berzelius wurden nun noch Analysen von anderen Meteoreisenmassen und von andern Chemikern nach denselben oder ähnlichen Methoden gemacht, die aber ganz ähnliche Resultate gegeben haben.* In allen wurde ein in verdünnter Säure unlöslicher, hauptsächlich aus Phosphornickeleisen bestehender Rückstand erhalten, derselbe war wie bei Berzelius stets nur in sehr geringer und in sehr veränderlicher Menge enthalten, und außerdem waren die Verhältnisse von Phosphor gegen Eisen und Nickel so verschieden, daß sich eine gemeinschaftliche Formel für die chemische Zusammensetzung dieser Verbindung nicht aufstellen läßt.* Diesem unlös- lichen Rückstand hat Haidinger bei Gelegenheit der von Patera ausgeführ- ten Analyse des Meteoreisens von Arva, worin derselbe in verhältnismäßig großer Menge enthalten ist, den Namen Schreibersit gegeben* zu Ehren des früheren Directors des kaiserlichen Mineralienkabinets in Wien, der sich um die Meteoritenkunde durch die Herausgabe seiner Beiträge zur Geschichte und Kenntniß meteorischer Stein- und Metallmassen verdient gemacht hat.
+
+*) Vergl. die Aufzählung derselben in Rammelsbergs Mineralchemie S. 902.
+
+*) Es geht dies aus den Berechnungen von Rammelsberg hervor, wonach bei den verschiedenen Analysen auf 1 Atom Phosphor 2, 3, 5, 6, 8, 14, 15, 18, 30 Atome Metall kommen. (A. a. O. S. 948) Es scheint aber nicht, dass man die beiden Arten des Rückstandes, die Berzelius wohl unterschieden, getrennt hat.
+
+*) Oesterreich. Blätter für Lit. 1847, N. 175, S. 644 und N. Jahrbuch für Min. von 1848 S. 698.
+
+Aber schon viel früher, als Berzelius durch seine chemischen Unter- suchungen die gemengte Beschaffenheit des Meteoreisens darthat, hatte sie von Widmanstätten in Wien auf eine andere Weise bewiesen. Derselbe zeigte nämlich schon 1808, daß wenn man an dem Meteoreisen angeschliffene und polierte Flächen mit einer schwachen Säure ätzt, gewisse Figuren hervortreten, die man seitdem die Widmanstättenschen Figuren genannt hat. Die Fläche, die vor dem Aetzen ganz gleichartig aussieht, oder nur bei höchster Politur und nach dem Anhauchen schwache Andeutungen der Figuren giebt, erscheint nun überall mit schmalen, glanzlosen, unter einander parallelen Streifen bedeckt, die nach verschiedenen Richtungen gehend, sich unter verschiedenen schiefen Winkeln durchneiden, von dünnen, hervortretenden, metallisch glänzenden Leisten eingefaßt werden und dunklere matte Felder einschließen, was alles eine sehr complicirte Structur des Meteoreisens anzeigt. Besonders schön fielen diese Figuren auf dem großen Stücke aus, das 1812 von der Elbogener Eisenmasse abgeschnitten und nach Wien gebracht war. Da die schmalen einfassenden Leisten, die wenig oder gar nicht von der verdünnten Säure angegriffen werden, bei der Aetzung aus der übrigen Masse etwas hervortreten, so kam Widmanstätten auf die Idee, die geätzten Eisenmassen wie einen Schriftsatz in der Buchdruckerpresse abdrucken zu lassen, was auch vollkommen gelang. Er konnte dadurch vollkommen naturgetreue Abbildungen liefern, wie sie die Kunst nicht darzustellen ver
+
 
 
 

@@ -314,6 +314,21 @@ Die Analyse gab also in dem Bandeisen einen etwas größern Nickelgehalt, auch e
 
 In den Eisenmeteoriten, die keine Widmanstättensche Figuren geben, hat nach Reichenbach die eine oder die andere andere dieser Eisenarten Ueberhand genommen und die andern kommen dann nur ganz unregelmäßig und untergeordnet und zum Theil auch gar nicht darin vor. So besteht das Eisen von Braunau fast nur aus Balkeneisen, und das Eisen vom Cap der guten Hoffnung und von Rasgata ist Reichenbach geneigt, als fast ganz aus Fülleisen bestehend anzunehmen.
 
+Die meisten Abänderungen des Meteoreisens enthalten aber nun noch einen andern Gemengtheil, feine nadelförmige Krystalle oder Nadeln, wie sie Reichenbach kurzweg nennt. Wöhler* beobachtete sie zuerst bei dem Meteoreisen von einem unbekannten Fundort* sowohl auf dessen polirter und geätzter Fläche, als auch in dem Rückstande bei seiner Behandlung mit verdünnter Salpetersäure, wo sie unter dem Mikroskop kenntlich wurden. Reichenbach zeigte*, daß sie in den meisten Eisenmeteoriten enthalten sind und bei der Aetzung einer polirten Fläche derselben zum Vorschein kommen, wobei sie einen ausgezeichneten Parallelismus durch die ganze Masse zeigen. Ihre Länge überschreitet selten 2 Linien. Reichenbach hält sie für eine vollkommnere Ausbildung des Bandeisens.*
+
+*) Annalen der Chem. u. Pharm. B. 81, S. 254.
+
+*) Reichenbach hält dies Meteoreisen für das von Santa Rosa in Columbien, da es aber Widmanstättensche Figuren giebt, stimmt es wenigstens nicht mit dem überein, welches Boussingault von dort mitgebracht und an v. Humboldt geschenkt hat.
+
+*) Vergl. Poggendorffs 1862, B. 115, S. 148.
+
+*) Zu diesen Einmengungen würden auch noch die kleinen Eisenküchelchen zu zählen sein, die ich zuerst und dann ausführlich Reichenbach beschrieben (Poggendorffs Ann. 1861 B. 113, S. 187 und B. 115, S. 152), und die auch auf der geschliffenen Fläche in ihren Durchschnitten sichtbar werden sollen. Die Annahme von solchen Kügelchen beruht aber, wie ich mich jetzt überzeugt habe, auf einem Irrthum. Die angeblichen runden Kugeln sind nichts anderes als Stellen, die beim Aetzen durch eine ansitzende Luftblase vor dem Angriff der Säure geschützt waren. Die Luftblase bildete sich durch die Art, wie ich das Meteoreisen ätzte und die darin bestand, dass ich dasselbe mit der polirten wohl gereinigten Fläche in die verdünnte Säure tauchte und darin eine halbe bis eine ganze Minute hielt, wobei dann öfter eine Luftblase an der Fläche sitzen blieb, die den Angriff der Säure verhinderte. Wenn man die Fläche vorher mit Wasser nass macht oder die Fläche nicht mit einem Male unter die Oberfläche der Säure bringt, sondern erst mit einer Seite und sie dann mehr und mehr neigt, bis sie ganz in Wasser eingetaucht ist, so bleiben keine Luftblasen hängen. Daher kommt es, dass, wie Reichenbach erwähnt, er die Eisenkügelchen nur bei den Stücken des Berliner Museums und nicht in den Stücken seiner eigenen Sammlung gesehen hatte. 
+
+Außer den genannten, vorzugsweise aus metallischem Eisen bestehenden Einmengungen kommen in den Eisenmeteoriten noch andere, theils gröbere theils feinere, mehr oder weniger häufig vor. Zu den ersteren gehören Schwefeleisen, Graphit und besonders Olivin.
+
+Das Schwefeleisen ist nach den Untersuchungen von Smith und Rammelsberg kein Magnetkies, wie man bisher angenommen hatte, son
+
+
 ...
 
 #### Erklärung der Kupfertafeln

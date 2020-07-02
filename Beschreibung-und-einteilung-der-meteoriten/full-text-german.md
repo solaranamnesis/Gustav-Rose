@@ -296,8 +296,23 @@ Sehr wichtige und interessante Untersuchungen über die Structur des Meteoreisen
 
 Reichenbach prüfte diese 4 Eisenarten noch weiter nach einer Methode, die schon Widmanstätten angewandt hatte, durch das Anlaufen in der Hitze. Er zeigte, daß das Balkeneisen zuerst anläuft, dann das Fülleisen und zuletzt das Band- und Glanzeisen. Da nun auch das erstere von der Säure am leichtesten, die letzteren am schwersten angegriffen werden, so sieht man, daß die Wirkungen der Hitze und der Säure gleichen Schritt halten, wie denn auch beide Erscheinungen auf stärkerer oder schwächerer Verwandtschaft zum Sauerstoff beruhen. Bei einer Hitze, bei welcher das Balkeneisen schon dunkelblau geworden ist, erscheint das Fülleisenbläulichroth und das Bandeisen goldgelb. Stahl läuft aber bekanntlich bei 230° C. gelb, bei 263° purpurroth, bei 290° blau an. Die Hitze also, die das Balkeneisen schon blau macht, färbt erst das Fülleisen purpurroth und das Bandeisen goldgelb.
 
-Eine vollständige Trennung sämmtlicher Gemengtheile für die chemische Untersuchung konnte Reichenbach nicht bewerkstelligen, doch glückte es ihm wenigstens einigermaßen für einen derselben, für das Bandeisen. Manche dieser Eisenmeteoriten, wie namentlich der von Cosby Creeck, die vor ihrer Auffindung vielleicht lange Zeit in der feuchten Erde gelegen haben, sind nämlich an der Oberfläche sehr stark oxydiert und zertheilen sich hier parallel den Blättern des Bandeisens in Platten, welche Zertheilung durch leises Hämmern noch vollständiger bewirkt werden kann. Die oxydierten Platten des Balkeneisens sind aber hier mit papierdünnen Blättern des Bandeisens bedeckt, die sich nun mit Leichtigkeit von dem Balkeneisen ablösen und so in hinreichender Menge zur Analyse gewinnen
+Eine vollständige Trennung sämmtlicher Gemengtheile für die chemische Untersuchung konnte Reichenbach nicht bewerkstelligen, doch glückte es ihm wenigstens einigermaßen für einen derselben, für das Bandeisen. Manche dieser Eisenmeteoriten, wie namentlich der von Cosby Creeck, die vor ihrer Auffindung vielleicht lange Zeit in der feuchten Erde gelegen haben, sind nämlich an der Oberfläche sehr stark oxydiert und zertheilen sich hier parallel den Blättern des Bandeisens in Platten, welche Zertheilung durch leises Hämmern noch vollständiger bewirkt werden kann. Die oxydierten Platten des Balkeneisens sind aber hier mit papierdünnen Blättern des Bandeisens bedeckt, die sich nun mit Leichtigkeit von dem Balkeneisen ablösen und so in hinreichender Menge zur Analyse gewinnen lassen.* Reichenbach verfuhr so mit dem Eisen von Cosby; das gesammelte Bandeisen untersuchte er zuerst in Rücksicht des specifischen Gewichtes, er fand dasselbe 7,428, etwas größer als das specifische Gewicht der ganzen Masse, das 7,260 beträgt, es wurde sodann von seinem Sohne Reinold v. Reichenbach analysiert, der zugleich auch eine Analyse der ganzen Masse machte. Er fand* in dem Bandeiscn (a) und in der ganzen Masse nach 2 Analysen (b) und (c):
 
+*) Diese Blättchen von Bandeisen können so zuweilen von bedeutender Grösse erhalten werden; so beschreibt Reichenbach ein Stück von dem Cosby-Eisen in seiner Sammlung das mit einem Blatte Bandeisen bedeckt ist, das eine Länge von 3 Zoll bei einer Breite von 2 Zoll hat.
+
+*) Vergl. Poggendorffs Ann. 1861 B. 114, S. 258.
+
+a | b | c  
+Eisen | 85,714 | 90,125 | 89,324  
+Nickel | 13,215 | 9,786 | 10,123  
+Kobalt | 0,550 | 9,786 | 0,422  
+Schwefel | 0,226 | Spur | Spur  
+Phosphor | 0,295 | 0,089 | 0,131  
+ | 100 | 100 | 100  
+
+Die Analyse gab also in dem Bandeisen einen etwas größern Nickelgehalt, auch etwas mehr Schwefel und Phosphor und dafür weniger Eisen als in der ganzen Masse, welches Verhältnis gegen die übrigen Gemengtheile sich noch etwas größer stellen würde, wenn man bei der Analyse der ganzen Masse das Bandeisen hätte entfernen können. Reichenbach glaubte indessen durch diese Analyse noch keine völlige Aufklärung über die chemische Beschaffenheit des Bandeisens erhalten zu haben, da er bei der Besichtigung desselben unter dem Mikroskop fand, daß noch eine Menge anders gearteter Körperchen in demselben eingelagert waren.
+
+In den Eisenmeteoriten, die keine Widmanstättensche Figuren geben, hat nach Reichenbach die eine oder die andere andere dieser Eisenarten Ueberhand genommen und die andern kommen dann nur ganz unregelmäßig und untergeordnet und zum Theil auch gar nicht darin vor. So besteht das Eisen von Braunau fast nur aus Balkeneisen, und das Eisen vom Cap der guten Hoffnung und von Rasgata ist Reichenbach geneigt, als fast ganz aus Fülleisen bestehend anzunehmen.
 
 ...
 

@@ -326,8 +326,22 @@ Die meisten Abänderungen des Meteoreisens enthalten aber nun noch einen andern 
 
 Außer den genannten, vorzugsweise aus metallischem Eisen bestehenden Einmengungen kommen in den Eisenmeteoriten noch andere, theils gröbere theils feinere, mehr oder weniger häufig vor. Zu den ersteren gehören Schwefeleisen, Graphit und besonders Olivin.
 
-Das Schwefeleisen ist nach den Untersuchungen von Smith und Rammelsberg kein Magnetkies, wie man bisher angenommen hatte, son
+Das Schwefeleisen ist nach den Untersuchungen von Smith und Rammelsberg kein Magnetkies, wie man bisher angenommen hatte, sondern einfach Schwefeleisen, FeS, Troilit, wie es Haidinger zu nennen vorgeschlagen hat*; also eine Verbindung, die unter den Mineralien der Erde bisher noch nicht bekannt ist. Es besteht nach Rammelsberg* in zwei Abänderungen aus dem Eisen von Seeläsgen (a) und Sevier County (b) und nach der Berechnung nach der Formel (c) aus:
 
+*) Zur Erinnerung an den Berichterstatter des Meteoritenfalls von Albareto bei Modena 1766, Domenico Troili, der schon lange vor Chladni die Thatsächlichkeit der Meteoteoritenfälle bewies, freilich ohne seiner Meinung Geltung verschaffen zu können. Vergl. Sitzungsber. d. k. Akad. der Wiss. März 1863.
+
+*) Monatsber. d. k. Pr. Akad. d. Wiss. 1864 S. 29. 
+
+ | a | b | c  
+Eisen | 63,41 | 62,22 | 63,64  
+Nickel | - | 1,76 | -  
+Mangan | 0,64 | - | -  
+Schwefel | 35,91 | 36,01 | 36,36  
+ | 99,96 | 99,99 | 100,0  
+
+Es enthält also bald Nickel (Schwefelnickel) bald ist es, obgleich mitten in dem nickelhaltigen Meteoreisen vorkommend, davon frei, wie der Olivin in dem Pallas-Eisen (s. weiter unten), doch scheint das erstere häufiger zu sein, da auch Smith in dem Troilit aus dem Meteoreisen von Tazewell etwas Nickel angiebt. 
+
+Der Troilit ist bis jetzt in dem Meteoreisen nur derb vorgekommen, in mehr oder weniger großen Körnern und unregelmäßigen Massen, zuweilen in der Form von Cylindern von mehr als 1 Zoll Größe und mehreren Linien Dicke, wie Reichenbach beobachtet hat. Er ist im Bruch uneben, zeigt aber öfter dünnschalige Zusammensetzungsstücke, wie dies öfter beim Magnetkies, z. B. von Bodenmais vorkommt; tombakbraun, metallisch glänzend, specifisches Gewicht 4,787 (Seeläsgen), 4,817 (Sevier County). Dieß hohe specifische Gewicht unterscheidet ihn von dem Magnetkiese, dessen Gewicht nicht über 4,623 hinauszieht. Ebenso unterscheidet er sich durch sein Verhalten gegen Chlorwasserstoffsäure, indem er sich darin ohne einen Rückstand von Schwefel auflöst. Nickeleisen, Chromeisenerz und Graphit kommen öfter in ihm eingemengt vor, doch ist er zuweilen auch davon ganz frei, wie die Analyse des Troilits von Seeläsgen durch Rammelsberg beweist.
 
 ...
 

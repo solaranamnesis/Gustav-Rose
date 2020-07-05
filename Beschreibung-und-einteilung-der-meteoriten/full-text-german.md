@@ -359,7 +359,17 @@ Die Widmanstättenschen Figuren waren früher in den Olivin-haltigen Eisenmeteor
 
 *) Die Meteoriten S. 91.
 
-Zu den feinern Einmengungen, die sich in den Eisenmeteoriten finden, gehören eine Menge kleiner mikroskopischer, meist farbloser, doch auch farbiger glänzender Steinchen von mehr als Quarzhärte, die Wöhler außer dem Schreibersit als Rückstand bei der Auflösung des Eisens von Rasgata
+Zu den feinern Einmengungen, die sich in den Eisenmeteoriten finden, gehören eine Menge kleiner mikroskopischer, meist farbloser, doch auch farbiger glänzender Steinchen von mehr als Quarzhärte, die Wöhler außer dem Schreibersit als Rückstand bei der Auflösung des Eisens von Rasgata erhielt, jedoch nicht weiter untersuchte und einige kleine Quarzkrystalle, die ich in dem Eisen von Toluca beobachtete* und die noch so groß und glänzend waren, daß ich ihre Winkel mit Genauigkeit bestimmen konnte. Sie steckten zwar nur in der äußern oxydierten Rinde, doch so, dass man nicht daran zweifeln konnte, daß sie sich in dem Meteoreisen gebildet hatten und nicht erst später hineingekommen waren.
+
+*) Poggendorffs Ann. 1861 B. 113, S. 184.
+
+Alle diese Eisenmeteorite, die man zufällig auf der Oberfläche der Erde findet, sind mit solcher Rinde von Eisenoxydhydrat umgeben, die sich erst durch Oxydation gebildet hat. Diese Oxydation geht aber in der Regel nicht weit, und die so entstandene Rinde schützt die Eisenmeteorite vor ihrer Zerstörung und bewirkt, dafs sie sich Jahrtausende weiter unversehrt erhalten. Sie ist die Ursache, daß die Eisenmeteorite, die nur so selten fallen, daß man nur die Fallzeit von dreien kennt, doch häufig gefunden werden, so dass man jetzt in den Sammlungen mehr als halb so viel Eisen- wie Steinmeteoriten hat. Die Eisenmeteoriten, welche man hat fallen sehen und unmittelbar nach ihrem Falle gesammelt hat, wie die von Agram und Braunau, haben keine solche Rinde von Brauneisenerz; die rundlichen Erhabenheiten und Vertiefungen, die sich überall an der Oberfläche derselben finden, sind, wie Reichenbach gezeigt hat, mit einem dünnen Ueberzuge von Magneteisenerz bedeckt, der sich bei dem Durchzuge durch die Luft an der Oberfläche durch Schmelzung und Oxydation bildet*, und so äußerst dünn ist, weil das gebildete Magneteisenerz beim Schmelzen abtropft und nur das wenigste durch Adhäsion haften bleibt. Unter diesem Ueberzuge findet sich dann eine 1 bis 1 Linien dicke Lage, in welcher das Eisen ganz körniggeworden ist, wie auch schon Reichenbach bei dem Eisen von Braunau beobachtet hat* und auch in den Abdrücken dieses Eisens von Haidinger zu sehen ist*, was beweist, daß das Eisen vor der Oxydation seinen Aggregatzustand ändert. Daß sich auf der Oberfläche dieser Eisenmassen beim
+
+*) Poggendorffs Ann. 1858 B. 103, S. 637. Reichenbach spricht hier von Eisenoxydul, was wohl nur heißen soll Oxydoxydul oder Magneteisenerz.
+
+*) A. a. O. 1862 B. 115, S. 135.
+
+*) Sitzungsberichte der math.-naturw. Classe d. k. Akad. der Wissensch. 1855 B. 15, S. 354, Fig. 5.
 
 ...
 

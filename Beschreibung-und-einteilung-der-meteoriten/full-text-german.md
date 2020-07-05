@@ -363,13 +363,41 @@ Zu den feinern Einmengungen, die sich in den Eisenmeteoriten finden, gehören ei
 
 *) Poggendorffs Ann. 1861 B. 113, S. 184.
 
-Alle diese Eisenmeteorite, die man zufällig auf der Oberfläche der Erde findet, sind mit solcher Rinde von Eisenoxydhydrat umgeben, die sich erst durch Oxydation gebildet hat. Diese Oxydation geht aber in der Regel nicht weit, und die so entstandene Rinde schützt die Eisenmeteorite vor ihrer Zerstörung und bewirkt, dafs sie sich Jahrtausende weiter unversehrt erhalten. Sie ist die Ursache, daß die Eisenmeteorite, die nur so selten fallen, daß man nur die Fallzeit von dreien kennt, doch häufig gefunden werden, so dass man jetzt in den Sammlungen mehr als halb so viel Eisen- wie Steinmeteoriten hat. Die Eisenmeteoriten, welche man hat fallen sehen und unmittelbar nach ihrem Falle gesammelt hat, wie die von Agram und Braunau, haben keine solche Rinde von Brauneisenerz; die rundlichen Erhabenheiten und Vertiefungen, die sich überall an der Oberfläche derselben finden, sind, wie Reichenbach gezeigt hat, mit einem dünnen Ueberzuge von Magneteisenerz bedeckt, der sich bei dem Durchzuge durch die Luft an der Oberfläche durch Schmelzung und Oxydation bildet*, und so äußerst dünn ist, weil das gebildete Magneteisenerz beim Schmelzen abtropft und nur das wenigste durch Adhäsion haften bleibt. Unter diesem Ueberzuge findet sich dann eine 1 bis 1 Linien dicke Lage, in welcher das Eisen ganz körniggeworden ist, wie auch schon Reichenbach bei dem Eisen von Braunau beobachtet hat* und auch in den Abdrücken dieses Eisens von Haidinger zu sehen ist*, was beweist, daß das Eisen vor der Oxydation seinen Aggregatzustand ändert. Daß sich auf der Oberfläche dieser Eisenmassen beim
+Alle diese Eisenmeteorite, die man zufällig auf der Oberfläche der Erde findet, sind mit solcher Rinde von Eisenoxydhydrat umgeben, die sich erst durch Oxydation gebildet hat. Diese Oxydation geht aber in der Regel nicht weit, und die so entstandene Rinde schützt die Eisenmeteorite vor ihrer Zerstörung und bewirkt, dafs sie sich Jahrtausende weiter unversehrt erhalten. Sie ist die Ursache, daß die Eisenmeteorite, die nur so selten fallen, daß man nur die Fallzeit von dreien kennt, doch häufig gefunden werden, so dass man jetzt in den Sammlungen mehr als halb so viel Eisen- wie Steinmeteoriten hat. Die Eisenmeteoriten, welche man hat fallen sehen und unmittelbar nach ihrem Falle gesammelt hat, wie die von Agram und Braunau, haben keine solche Rinde von Brauneisenerz; die rundlichen Erhabenheiten und Vertiefungen, die sich überall an der Oberfläche derselben finden, sind, wie Reichenbach gezeigt hat, mit einem dünnen Ueberzuge von Magneteisenerz bedeckt, der sich bei dem Durchzuge durch die Luft an der Oberfläche durch Schmelzung und Oxydation bildet*, und so äußerst dünn ist, weil das gebildete Magneteisenerz beim Schmelzen abtropft und nur das wenigste durch Adhäsion haften bleibt. Unter diesem Ueberzuge findet sich dann eine 1 bis 1 Linien dicke Lage, in welcher das Eisen ganz körniggeworden ist, wie auch schon Reichenbach bei dem Eisen von Braunau beobachtet hat* und auch in den Abdrücken dieses Eisens von Haidinger zu sehen ist*, was beweist, daß das Eisen vor der Oxydation seinen Aggregatzustand ändert. Daß sich auf der Oberfläche dieser Eisenmassen beim Liegen in und auf der feuchten Erde nicht bloß Eisenoxydhydrat, sondern auch Magneteisenerz bildet, hat Krantz gezeigt*, der auf der Oberfläche des Eisens von Toluca octaëdrische Krystalle dieser Substanz beobachtet hat.
 
 *) Poggendorffs Ann. 1858 B. 103, S. 637. Reichenbach spricht hier von Eisenoxydul, was wohl nur heißen soll Oxydoxydul oder Magneteisenerz.
 
 *) A. a. O. 1862 B. 115, S. 135.
 
 *) Sitzungsberichte der math.-naturw. Classe d. k. Akad. der Wissensch. 1855 B. 15, S. 354, Fig. 5.
+
+*) Poggendorffs Ann. 1857, B. 101, S. 152.
+
+1. Meteoreisen.
+
+Das Meteoreisen von den verschiedenen Orten, wo man es zufällig gefunden oder hat fallen sehen, ist von verschiedener Art. Diese Massen sind:
+
+a) nur Stücke eines Individuums oder eines Krystalls ohne schalige Zusammensetzung,
+
+b) Aggregate grobkörniger Individuen, ebenfalls ohne schalige Zusammensetzung,
+
+c) Individuen mit schaligen Zusammensetzungsstücken parallel den Flächen des Octaëders (Meteoreisen, das durch Aetzung Widmanstättensche Figuren giebt),
+
+d) Aggregate mit großkörnigen, schalig zusammengesetzten Individuen,
+
+e) Aggregate mit feinkörnigen Zusammensetzungsstücken.
+
+a) Meteoreisenmassen, welche Stücke eines Krystalls ohne schalige Zusammensetzung sind.
+
+Hierher gehört vor Allen:
+
+1) das Eisen von Braunau in Böhmen (gefallen am 14. Juni 1847), das schon oben S. 34 erwähnt ist und an welchem Haidinger die Beobachtung machte, daß es Spaltungsflächen ganz gleicher Art nach drei untereinander rechtwinkligen Richtungen, also nach den Flächen des Hexaëders hat. Das Meteoreisen hat also dieselbe Form, wie das künstlich dargestellte reine Eisen, bei welchem sich auch oft Massen mit körnigen Zusammensetzungsstücken finden, die die Spaltungsflächen des Hexaëders deutlich wahrnehmen lassen.*
+
+*) Z. B. bei dem Eisen, das lange Zeit als Rostbalken gedient hat.
+
+Neumann zeigte*, daß, wenn man eine polirte Schnittfläche dieses Meteoreisens mit verdünnter Salpetersäure ätzt, sich auf derselben eine Menge gerader und unter einander paralleler Linien oder linienförmiger Furchen bilden, die meistensheils eng neben einander liegen und nach mehreren
+
+*) Naturwissenschaftliche Abhandlungen, herausgegeben von Haidinger, 1849, B. 3, Abth. 2, S. 45.
 
 ...
 

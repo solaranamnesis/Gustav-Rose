@@ -373,7 +373,7 @@ Alle diese Eisenmeteorite, die man zufällig auf der Oberfläche der Erde findet
 
 *) Poggendorffs Ann. 1857, B. 101, S. 152.
 
-1. Meteoreisen.
+### 1\. Meteoreisen
 
 Das Meteoreisen von den verschiedenen Orten, wo man es zufällig gefunden oder hat fallen sehen, ist von verschiedener Art. Diese Massen sind:
 

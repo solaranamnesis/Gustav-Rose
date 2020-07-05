@@ -391,7 +391,7 @@ a) Meteoreisenmassen, welche Stücke eines Krystalls ohne schalige Zusammensetzu
 
 Hierher gehört vor Allen:
 
-1) das Eisen von Braunau in Böhmen (gefallen am 14. Juni 1847), das schon oben S. 34 erwähnt ist und an welchem Haidinger die Beobachtung machte, daß es Spaltungsflächen ganz gleicher Art nach drei untereinander rechtwinkligen Richtungen, also nach den Flächen des Hexaëders hat. Das Meteoreisen hat also dieselbe Form, wie das künstlich dargestellte reine Eisen, bei welchem sich auch oft Massen mit körnigen Zusammensetzungsstücken finden, die die Spaltungsflächen des Hexaëders deutlich wahrnehmen lassen.*
+1\. das Eisen von Braunau in Böhmen (gefallen am 14. Juni 1847), das schon oben S. 34 erwähnt ist und an welchem Haidinger die Beobachtung machte, daß es Spaltungsflächen ganz gleicher Art nach drei untereinander rechtwinkligen Richtungen, also nach den Flächen des Hexaëders hat. Das Meteoreisen hat also dieselbe Form, wie das künstlich dargestellte reine Eisen, bei welchem sich auch oft Massen mit körnigen Zusammensetzungsstücken finden, die die Spaltungsflächen des Hexaëders deutlich wahrnehmen lassen.*
 
 *) Z. B. bei dem Eisen, das lange Zeit als Rostbalken gedient hat.
 

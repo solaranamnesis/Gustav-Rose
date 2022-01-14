@@ -395,7 +395,7 @@ Hierher gehört vor Allen:
 
 *) Z. B. bei dem Eisen, das lange Zeit als Rostbalken gedient hat.
 
-Neumann zeigte*, daß, wenn man eine polirte Schnittfläche dieses Meteoreisens mit verdünnter Salpetersäure ätzt, sich auf derselben eine Menge gerader und unter einander paralleler Linien oder linienförmiger Furchen bilden, die meistensheils eng neben einander liegen und nach mehreren
+Neumann zeigte,* daß, wenn man eine polirte Schnittfläche dieses Meteoreisens mit verdünnter Salpetersäure ätzt, sich auf derselben eine Menge gerader und unter einander paralleler Linien oder linienförmiger Furchen bilden, die meistensheils eng neben einander liegen und nach mehreren sich unter verschiedenen Winkeln durchschneidenden Richtungen gehen, von denen aber die Linien einer oder zweier Richtungen stets vorwalten, die Linien der andern Richtungen nur untergeordnet und mehr stellenweise vorkommen. Er bestimmte mit grosser Sorgfalt die Lage dieser Linien und zeigte, dass sie auf einer Hexaëderfläche nach sechs Richtungen gehen, nach den zwei Diagonalen der Hexaëderfläche, _ac_ und _bd_ (Taf. 1 Fig. 2) und nach 4 andern Richtungen, die den Linien _af_, _ag_, _df_, und _de_, die aus 2 benachbarten Winkeln nach den Mitten der gegenüberliegenden Seiten gezogen werden können, parallel gehen. Die beiden Diagonalen _ac_ und _db_ schneiden sich also unter rechten Winkeln und ebenso je 2 der übrigen Linien, die aus verschiedenen Winkeln der Hexaëderfläche auslaufen, wie _ag_ und _df_ oder _af_ und _de_, dagegen die beiden Linien, die aus einem Winkel auslaufen, wie _de_ und _df_, gegen einander Winkel von 36° 52′ und jede dieser
 
 *) Naturwissenschaftliche Abhandlungen, herausgegeben von Haidinger, 1849, B. 3, Abth. 2, S. 45.
 

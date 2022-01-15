@@ -425,7 +425,7 @@ Noch deutlicher als mit blossen Augen erscheinen die kleinen eingewachsenen Krys
 
 ##### Tafel 1
 
-[Figur 1](https://cdn.solaranamnesis.com/GustavRose/Table1/Fig1.png) — Die Ecke _o_ desselben vergrössert dargestellt, an welcher möglichst genau alle Aetzungslinien, die an demselben mit der Lupe beobachtet werden konnten, angegeben sind. Man sieht an dieser Zeichnung, dass die Aetzungslinien wohl meistentheils parallel den Durchschnittslinien mit den Leucitoeder (_a_ : _a_ : ½_a_), wie z. B. die Linien _lm_ und _mn_, doch auch zuweilen parallel den Durchschnittslinien mit dem Triakisoctaeder (_a_ : ½_a_ : ½_a_), wie die Linien _uv_ und _vw_ gehen.
+[Figur 1](https://cdn.solaranamnesis.com/GustavRose/Table1/Fig1.png) — Die Ecke _o_ desselben vergrössert dargestellt, an welcher möglichst genau alle Aetzungslinien, die an demselben mit der Lupe beobachtet werden konnten, angegeben sind. Man sieht an dieser Zeichnung, dass die Aetzungslinien wohl meistentheils parallel den Durchschnittslinien mit den Leucitoeder (_a_ : _a_ : ½ _a_), wie z. B. die Linien _lm_ und _mn_, doch auch zuweilen parallel den Durchschnittslinien mit dem Triakisoctaeder (_a_ : ½ _a_ : ½ _a_), wie die Linien _uv_ und _vw_ gehen.
 
 [Figur 2](https://cdn.solaranamnesis.com/GustavRose/Table1/Fig2.png) — Eine Hexaederfläche des Meteoreisens, in welcher die Richtungen angegeben sind nach welchen die Fläche nach der Aetzung gestreift erscheint.
 

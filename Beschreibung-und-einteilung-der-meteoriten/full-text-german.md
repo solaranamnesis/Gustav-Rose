@@ -407,6 +407,8 @@ Es ist schwer zu sagen, wofür man diese Linien halten soll. Sie charakterisiren
 
 *) Sitzungsberichte der math. naturw. Classe der k. k. Akad. der Wiss. B. 15, S. 355. 
 
+Ich habe an dem Stücke Fig. 4 versucht, die Fortsetzung der Linien einer Fläche auf den benachbarten zu verfolgen, um zu entscheiden, ob die Linien den Durchschnitten des Hexaëders mit dem Triakisoctaëder oder dem Leucitoëder parallel gehen, aber ich fand, dass bald das eine, bald das andre der Fall war, wie aus Fig. 1 zu ersehen ist. Die meisten dieser Linien, wie _lm_ und _mn_, _rs_ und _st_, _ps_ und _sq_, gehen allerdings parallel den Durchschnitten mit dem Leucitoëder, doch andere wie _uv_ und _vw_ parallel den Durchschnitten mit dem Triakisoctaëder. Es ist freilich oft schwer die zusammengehörigen Linien zu erkennen, doch glaube ich mich nicht zu irren, wenn ich annehme, dass die Durchnittslinien nach beiden Formen vorkommen.
+
 ...
 
 #### Erklärung der Kupfertafeln

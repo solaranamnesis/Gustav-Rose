@@ -419,6 +419,10 @@ Noch deutlicher als mit blossen Augen erscheinen die kleinen eingewachsenen Krys
 
 Es scheint mir zweckmässig, diese kleinen eingewachsenen Krystalle mit einem besonderen Namen zu bezeichnen, ich werde sie daher in dem Folgenden mit dem Namen Rhabdit, von ῥάβδος [rhabdos] der Stab, benennen.
 
+Ausser diesen feinen Rhabdit-Krystallen finden sich in dem Braunauer Eisen noch andere etwas grössere unregelmässig, zum Theil auch regelmässig begränzte Einmengungen, die von der verdünnten Salpetersäure auch nicht angegriffen werden und beim Aetzen des Eisens ihren metallischen Glanz und ihre stahlgraue Farbe behalten. Bei der Auflösung des Eisens in Salpetersäure oder Chlorwasserstoffsäure bleiben diese Einmengungen zurück, und man erkennt in dem Rückstande Krystalle mit regelmässigen Formen. Fischer sah darin längliche, rechtwinklige Tafeln*; ich sah unter dem Mikroskop diese und andere Formen, doch war die angewandte Menge zu gering, um genügende Beobachtungen zu machen.
+
+*) Poggendorff's Ann. B. 73. S. 592.
+
 ...
 
 #### Erklärung der Kupfertafeln

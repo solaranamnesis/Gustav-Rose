@@ -417,6 +417,8 @@ Noch deutlicher als mit blossen Augen erscheinen die kleinen eingewachsenen Krys
 
 *) Das Eisenkorn, welches die Fig. 6 Taf. 1 gezeichnete Stelle, sowie den später zu erwähnenden dreieckigen Einschluss enthält, ist Fig. 7 in natürlicher Grösse gezeichnet.
 
+Es scheint mir zweckmässig, diese kleinen eingewachsenen Krystalle mit einem besonderen Namen zu bezeichnen, ich werde sie daher in dem Folgenden mit dem Namen Rhabdit, von ῥάβδος [rhabdos] der Stab, benennen.
+
 ...
 
 #### Erklärung der Kupfertafeln

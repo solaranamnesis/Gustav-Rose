@@ -576,7 +576,7 @@ Was es mit dieser Einmengung für eine Bewandtnils bat, ist schwer zu sagen. Der
 
 46\. Tazewell, Claiborne County, Tennessee, Ver. St. 1854. Die Widm. Fig. sehr geradlinig und in ihnen dünue Streifen von Schreibersit, die sich aber merkwürdiger Weise nur in den Schalen einer Richtung finden, was das Meteoreisen von Tazeweil vor allen übrigen Abänderungen auszeichnel. Auch hier kleine Einmengungen von Troilit, der mit einer speisgelben metallischen Einfassung umgeben ist.
 
-d\. Meteoreisenmassen, die Aggregato grolskörniger, schalig zusammengesetzier Individuen sind.
+d\. Meteoreisenmassen, die Aggregate grofskörniger, schalig zusammengesetzter Individuen sind.
 
 ...
 

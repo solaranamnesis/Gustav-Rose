@@ -505,6 +505,79 @@ Verschieden von diesem Meteoreisen ist ein anderes, welches Hr. Ehrenberg ohne n
 
 18\. Seneca River, New York, Ver. St. 1851. Kleines Stück. Die Meteoreisenschalen ebenfalls körnig, in den dickern Schreibersit. Mit dünnen Tänitblättchen ausgefüllte Zwischenfelder häufig.
 
+19\. Toluca-Thal, Mexico 1784, Von den vielen Eisenmassen, die in dem fast 3 Meilen langen Raume des Toluca-Thales von einigen Unzen bis zu mehreren Utro. schwer, gefunden sind, und wahrscheinlich alle von einem Falle herrühren,* besitzt das Berliner Museum mehrere schöne Stücke; eine grolse Platie, einen Fufs lang, 7 Zoll breit und 10 Pfund 12,8 Loth wiegend, von Hrn. Shepard erhalten; eine kleinere Platte 5 1/2, Zoll lang und beinahe 4 Zoll breit, von Hrn. G. A. Stein erhalter, der die 230 Pfund schwere Masse, von der sie abgeschnitten, selbst aus Mexiko milgebracht halte; ein überall mit Rinde umgebenes, gröfseres Stück von der Form eiuer plattgedrückten Kugel, von Hrn. Krantz erhalten, vor ihrer Theilung in 2 platte Stücke 3 Pfund 1,814 Loth schwer; ein kleineres, mehr cylinderförmiges Stück 24,93 Loth sehwer, von dem k. Pr. Minister- Residenten in Washington Hrn. von Gerolt zum Geschenk erhalten, und mehrere andere kleinere Stücke, Jarunier eins aus «ler Chladnischen Sarmmluug, bei welchem freilich nur als Fundort Mexico angegeben war, das über den durch Aetzung erhaltenen Figuren nach hierher gehört. Alle diese Stücke verhalten sich bei der Aetzung sehr äbnlich; sie geben alle sehr schöne, überall gleiche Widmanst. Figuren und berreisen dadurch, dafs sie alle einem Falle angehören. Die Schalen sind mehr als liniendick, sehr gerade und deutlich gestreift. Der Rhabdit ist darin sehr fein, in den meisten Stücken der Sammlung sieht man gröfstentheils nur die Querschnitte der kleinen Krystalle, was ein geflecktes Ansehen der Schalen hbervorbringt. Bei gewisser Beleuchtung sind dieselben 1heils glänzend ıkeils matt, wie besonders bei dem Stücke des Dr. Krantz, und zwar sind auch hier nach allen Richtungen laufende Schalen theils glänzend, theils matt, Schreiberait findet sich nicht, dagegen noch Partbien vou Troilit und Graphit. Die grofßse Platte enthält ersteren in grofser Menge und in Paribien, die über 2 Zoll lang sind. Gewöhnlich kommen Troilit und Graphit miteinander verbunden vor, doch üinden sie sich auch voneinander getrennt, und ebenso kommen beide mit einer Hülle einer speisgelb gefärbten, metallischen Substanz umgeben vor, finden sich aber auch obne dieselbe. Das Steinsche Stück enthält den Troilit nur in kleinern Parthien; Graphit habe ich darin nieht bemerkt. Dafs in diesem Eisen zuweilen auch Quarz in sehr kleinen Krystallen vorkommt, zeigt das Stück im Besitz des Dr. Nagel in Berlin (vgl. oben S. 42), wo er allerdings nur in der oxydirten Rinde beobachtet ist, und endlich haben Wöhler und v. Reichenbach in einem von Stein erhaltenen, ursprünglich 19 Pfund wiegenden Stücke etwas Olivin beobachtet, der indessen in den Stücken der Berliner Sammlung nicht zu sehen ist. Das Krautzsche und Geroltsche Stück, welche beide rundum mit natürlicher Oberfläche begränzt sind, zeigen auf ihr dieselben runden Vertiefungen wie das Braunauer Eisen, die Überlläche ist indessen meisteniheils schon in Eisenoxydhydrat urngeändert, und die durch Schmelzung entstandene Rinde von Magneteisenerz nur steilenweise erhalten. Dafs an der Oberfläche des Toluca-Eisens Krantz kleine Üctaöder von Magneteisenerz beobachtet hat, ist oben angegeben (S. 43).
+
+Das Toluca- Eisen ist vielfach chemisch untersucht. Die Analysen, die in Wöhler's Laboratorium nach denselben Methoden mit Theilen von sehr verschiedenen Stücken angestellt sind,* haben kein völlig übereinstimmendes Resultat gegeben; die Analysen von Uricoechea und Pugh z. B. Abweichungen im Nickelgehalt von 5,02 bis 9,05 pC., dach bemerkt darüber schon Wöhler, dafs bei der gemengien Beschaffenheit des Meteoreisens, woron immer nur ein sehr kleiner Theil untersucht werden könnte, diefs kein Bevreis wäre, dafs die analysirten Stücke von verschiedenen Meteoriten berrührten. Die Uebereinstimmung der Widmanst, Figuren beweist in diesem Fall besser den gleichen Ursprung aller dieser Massen als. die chemische Analyse. Sind aber die vielen in dem Toluca-Thal gefundenen Eisenmassen eines und desselben Ursprungs, so gehören sie einem der bedeutendsten Meteoritenfälle an, von denen man Kunde hat. Bemerkenswerth ist, dafs Pugh nur in der oxydirten Rinde, die er auch untersucht hat, Kieselsäure und zwar 7,47 pC. gefunden bat, In dem Rückstande von Theilen der vom Dr. Stein milgebrachten Stücke fanden Uricoechea und Pugh auch Körner von Olivin und einigen anderen nicht bestimmten rubinrothen und himmelbiauen Mineralien. Dergleicben jand auch Böking, ohne sie näher zu bestimmen, und außerdem noch etwas Graphit.
+
+20\. Misteca, im Staate Oajaca, Mexico, 1834. Ein parallelepipedisches Stöck von 2 Pfd. 13,7 Lth., Abschnitt von einem, dem Geh. Bergraih Burkart in Bonn gehörigen Stücke.* Es ist von zwei Schnittflächen, einer Bruchfliche und im übrigen von natürlicher Oberfläche begränzt. Die Schliffflächen zeigen sehr schöne Widmanst, Figuren, die denen des Toluca-Eisens sehr ähnlich, doch dadurch ausgezeichnet sind, dals auf ihnen die eingewachsenen Rhabdit-Krystalle viel größser und zahlreicher sind. Die Aetzungslinien sind sebr schwach und nur an manchen Stellen sichtbar. Troilit immer ın sehr kleinen Parthien, doch findet sich auf der einen Schnittfläche eine kleine, krumm cylinderförmige Böblung, worin Troilit gesegsen zu haben scheint. Eine gröfßsere runde Rinne auf der Überüiäche war vielleicht früher auch damit gefüllt. Die Bruchiläche ist schwach angelaufen, doch sind darauf die Schalen des Meteoreisens noch gut zu schen. Die natürliche Oberfläche ist an einer Stelle durch Hammerschläge verletzt, an andern zeigt sie die dünne Rinde von Magneteisenerz noch deutlich.
+
+
+21\. Sierra blanca, unweit Villa nueva de Hnuazjuguilla in Mexico, 1784; ein Stück aus der Sammlung des Medieinal-Raiha Bergemann,* 15,28 Loth schwer. Die Widmanst. Figuren sind denen des Toluca-Eisens sehr ähnlich, die Aetzungslinien deutlicher, der Rhabdit undeutlicher, kein Schreibersit.
+
+23\. Tula (Netschaövo) Rufsland 1856. Ein drei Zoll langes, ziemlich quadratisches Prisma mit lauter Schnittflächen bis auf eine der Eordflächen, die natürliche Oberfläche ist; von Hrn. Dr. Auerbach in Moskau erhalten. Die Widmanst. Fig. sehr schön, die Schalen so dick wie im Toluca-Eisen, die Aetzungslinien fein, Rhabdit nicht recht sichtbar. Auf einer der Seiten des Prisma’s sieht man den Durchschnitt einer Einmengung, die sich von einem Ende, fast 5 Linien breit, bis fast zum andern fortzieht, wo sie sich auskeilt, Sie besteht aus einem Gemenge von Nickeleisen mit einem harten, schwarzen, matten und undurchsichtigen Silicate. Haidinger* hat von dem Stücke der Wiener Sammlung, das mehrere dergleichen Einmengimgen enthält, einen Abdruck gegeben, und Auerbach* bat neuerdings das Silicat analysirt. Er fand darin:
+
+Eisenoxydul 31,64  
+Masnesia 16,63  
+Kalk 0,77  
+Natron 1,22  
+Kali 0,20  
+Thönerde 9,93  
+Kieselsäure 37,76  
+
+hält es aber selbst noch für ein remenge, da es sich von Chlorwasserstoffsäure nur zum Theil zersetzen läfst.
+
+Was es mit dieser Einmengung für eine Bewandtnils bat, ist schwer zu sagen. Dergleichen Einmengungen sind bei andern Eisenmeteoriten noch nicht vorgekommen. Da die ursprünglich an 600 Russische Pfunde schwere Masse, um sie zu zerkleinern, in ein Schmiedefeuer gebracht worden ist, so könnte man glauben, dals die Einmengung sich erst durch die Behandlung im Feuer gebildet hat, doch isı das Gremenge des Silicats und des Eisens in demselben so fein, die chemische Zusammensetzung des Silicats durch den grolsen Magnesiagehalt so verschieden von den gewöhnlichen Bisenschlacken, die Widmanst. Fig. in dem Eisen sind so regelmäßig, dafs diese Annahme doch ihre Schwierigkeit hat.
+
+23\. Robertson County, Tennessee, V. St. 1861. Kleines Stück, die Widmanst. Fig. ähnlich denen des Tula-Eisens.
+
+24\. Carthago, Smith County, Tennessee, V. St. 1844. Ein grofses, 1 Pfd, 16,44 Lth. schweres Stuck , in Form eines dreiseitigen Prisma's, von Hrn. von Reichenbach erhalten. Zwei Seitenflächen sind Schnittlächen, die dritte eine natürliche Klufifläche. Die Widmanst, Fig. sind sehr schön, ähnlich denen des Toluca-Eisens. Troilit ist in kleinen Partbien eingemengt. Er hat stets eine kleine Einfassung von Meteoreisen, jenseits welcher erst die Widmanst. Fig. anfangen. In der einen Parthie von Troilit ist ein kleines Korn von Chromeisenerz eingemengt (s. oben S. 39).
+
+25\. Burlington, Otsego County, New York, Ver. St. 1819. Mehrere kleine Stücke, Widmanst. Fig. wie Toltuea.
+
+26\. Marshall County, Kentucky, V. St. 1856, schöne Widmanst. Fig.; darin ziemlich viel Schreibessit.
+
+27\. St. Rosa bei Tunja, Columbien, ein ganz kleines Stück, 0,025 Loth schwer, das von Prof. Karsten aus Golumbien mitgebracht ist. So klein es ist, so konnte ich doch noch eine Fläche anscbleiten lassen und ätzen, und daran ganz deutliche Widmanst. Fig. erkennen.
+
+28\. Orange Flufs, Süd-Africa, 1856, dünne Platte, ähnlich dem von Marshall Cty, auch mit etwas Schreibersit.
+
+29\. Texas (Red River), Ver. St. 1814. Eine 4 Zoll lange, dünne Platte. Geschenk von Hrn. B. Silliman. Schöne Widmanst. Figuren. Die Schalen etwas schmäler als bei Toluca. Ein wohlgersthener Abdruck von einer geätzten Platte des Texas-Eisens behndet sich in Silliman’s Jourpal.
+
+30\. Lenarto, Scharosch, Ungarn, 1815. Dicke der Schalen wie bei Texas; sehr feine Aetzlinien, in einigen Stücken ziemlich viel Schreibersit, in andern weniger.
+
+31\. Durango, Mexico, 1504. Ein gröfseres Stück, 1 Pfd, 2,67 Lth. schwer, und mebrere kleinere, Gescheok von Al. vr. Humboldt. Die Widmanst. Fig. noch schmäler als bei dem Texas-Eisen. Troilit in kleinen Parthien eingemengi.
+
+32\. Werchne-Udinsk, West-Sibirien, 1854. Eine dicke Platte, 1 Pfd. 4,17 Lih. schwer, au den Bändern bis auf eine Schnitifläche mit natürlieber Oberlläche begränzt. Letztere ist uneben und mit nur schr dünner Rinde von Magneteisenerz bedeckt, das in kleinen Vertiefungen, überall aber undenutlich krystallisirt ist. Die Hauptflächen zeigen geätzt sehr schöne Wid. Fig. Troilit in kleinen Parthien hier und da eingeschlossen.
+
+33\. Elbogen, Böhmen, 1811. Ein 9,92 Lth. schweres Stück, eine dünne Platte und ein aus der Masse geschmiedetes Federmesser; sämmtliche Stücke aus der Chladnischen Sammlung. Die Widm, Fig. desselben sind aus dem schönen Abdruck in dem Werke des Hrn. von Schreibers bekannt.
+
+34\. Nebraska Territory, Ver. St. 1856.
+
+35\. Madoc, Ober-Canatla 1854.
+
+36\. Black mountain, Buncumbe Cty, Nord-Carolina, V. St. 1835.
+
+37\. Caille, Grasse, Var, Frankreich, 1828. Eine drei Zoll lange, 5,69 Lth. schwere Platte, Die Wid. Fig. sehr geradlinig und schön.
+
+38\. Agram (Hraschina), Croatien, gefallen den 26. Mai 1751.
+
+39\. Ashville, Buncumbe County, Nord-Carolina, Ver. St. 1839. Schöne Widmanst, Fig., aber schr schnell rostend.
+
+40\. Guildford, Nord-Garolina, Ver. St. 1830.
+
+41\. Löwenflufs, Grofs Namaqualand, Süd-Africa 1853.
+
+42\. Lockport (Cambria), New-York, V. St. 1845. Eine fast zwei Zoll lange Platte. Feine Widm. Fig. mit vielen rundlichen, haselnußsgroßsen Parthien von Troilit, die oft zusammengehäufi, aber steis mit einer dünnen Hülle einer lichten speisgelben Legirtng umgeben sind.
+
+43\. Jewell Hill, Madison County, Nord-Carolina, Ver. St. 1856. Eine ähnliche, nur dickere Platte: ebenfalls sehr feine Widmanst. Fig.
+
+44\. Oldham County (Lagrange), Kentucky, Ver. St. 1856. Zwei grofse, dicke Platten, an den Rändern zum Teil mit natürlicher Überfläche begränzt, und eine kleinere Platte. Die Widen. Fig. sehr fein.
+
+45\. Putnam County, Georgia, V. St. 1854. Die Widm. Fig. sehr gerade, fein unıd zierlich. In dem kleinen Stücke findel sich ein Einschlufs von Troilit, in welchem kleine Parthien von Nickeleisen eingemengt sind.
+
+46\. Tazewell, Claiborne County, Tennessee, Ver. St. 1854. Die Widm. Fig. sehr geradlinig und in ihnen dünue Streifen von Schreibersit, die sich aber merkwürdiger Weise nur in den Schalen einer Richtung finden, was das Meteoreisen von Tazeweil vor allen übrigen Abänderungen auszeichnel. Auch hier kleine Einmengungen von Troilit, der mit einer speisgelben metallischen Einfassung umgeben ist.
+
+d\. Meteoreisenmassen, die Aggregato grolskörniger, schalig zusammengesetzier Individuen sind.
+
 ...
 
 #### Erklärung der Kupfertafeln

@@ -1003,6 +1003,198 @@ Von schwarzen Körnern finden sich einzelne gröfsere und kleinere in der Masse 
 
 Autiser diesem Eisen bemerkte ich auch nach sehr kleine, metallisch glänzende Körner von bräunlichgelber Farbe, die olfenbar Magnetkies sind. Sie finden sich aber nur so sparsam, dals man gewils wird Stücke auflösen können, ohne den Geruch nach Schwefelwasserstoff zu bemerken. Ein solches Korn Magnetkies sab auch Partsch, der aber wiederum von dem sediegenen Eisen nichts angiebt.
 
+Die zerreibliche Grundmasse, in welcher die angegebenen Gemengtheile liegen, schmilzt vor dem Löthrohr zu eicem schwarzen Glase, das nur sehr schwach mägnetisch ist und sich in Phosphorsalz nur sehr langsam mit Hinterlassung eines Rückstandes vou Bieselsäure auflöst. Das entstandene (zlas ist grünlichweifs, so lange es heils ist, wird beim Erkalten erst wasserhell und opalisirt zuletzt.
+
+Das specifische Gewicht des Steins giebt Rummler zu 3,07 an.
+
+Aeulserlich ist der Stein mit einer schwarzen glänzenden Rinde umgeben.
+
+Ä Bei einer leider nur unvollständig gebliebenen Analyse dieses interessanten Meieorsteins zersetzte Berzelius denselben, nachdem alles dem Magnete Folgsame ausgezogen war, mit Königswasser und erhielt nur 6,45 pl. unlöslichen Rückstand; 93,55 Theile wurden von der Säure zersetzt. Diese bestanden aus:
+
+
+
+Magnesia 32,92 Sauerstoff 13,17  
+Eisenoxydul 28,61 Sauerstoff 6,35  
+Manganoxydul 0,79 Sauerstoff 0,18  
+Thonerde 0,26 Sauerstoff 0,12  
+Kieseisäure 37,42 Sauerstoff 19,42  
+Zinnoxyd, Kupferoxyd, Kali und Natron Spur  
+100,00  
+
+Hiernach hälte dieser Theil die Zusammensetzung eines Olivins, der 1 Atom Eisenoxydul gegen 2 Atome Magnesia enthält. Indessen ist er doch nicht für ein einfaches Mineral zu halten, da der Augenschein lehrt, dals er ein Gemenge ist.
+
+Ihe unzersetzten 6,45 wurden mit Flulssäure behandelt, wodurch unsefähr 1 pC. Chroimeisenerz unaufgelöst blieb; das übrige war ein Silicat von Tbouerde, Eisenoxydul, Manganoxydul, Kalk und Magnesia, nach Berzelius in Verhältnissen, wie sie etwa in dem unzersetzten Theil in dem Meteorstein von Blansko vorkomnıen.
+
+2\. Bialystok (Dorf Knasta) in Russland. Das mineralogische Museum besitzt noch jelzt, nachdem davon ein Theil an das kais. Mineralienkabinet in Wien abgegeben, ein 4,857 Loth schweres Stück, das die kais. Akademie der Wiss. in Petersburg Hm. A. vr. Humboldt verehrte und das von diesem dem mineralogischen Museum in Berlin übergeben ist.*
+
+Der H, von Bialystock hat die grölste Ähnlichkeit mit dem vorigen und enthält in der feinkörnigen weilsen Grundmasse dieselben Gemengtheile, nämlich:
+
+Olivin in einzelnen Körmnern von Hirsekorn- Grölse bis zu Körnern von anderthalb Linien Durchmesser, ohne regelmäfsige Form, die einen unebenen Bruch, verschiedene gelblichgrüne, grasgrüne, holzbraune Farben und Fettglanz haben.
+
+Anorthit(?) in weilsen Körnern von höchstens Stecknadelknopf-Gröfse, schneeweißs und von unebenem Bruch; zuweilen sieht man eine Spaltungsfläche, die glatt auch wohl gestreift ist, ebenso bröcklig wie bei dem H. von Loutolax.
+
+Aufser diesen Köroero son Olivin und Anorthit, die einzeln in der Grundmasse zerstreut sind, sieht man in derselben aber noch mehrere 3-4 Linien grofse Parthien liegen, die ein körniges Gemenge der angeführten Gemenstheile sind. Sie sind scharf begränzt und unregelmälsig von Gestalt, nehmen aber zuweilen fast das Ansehen eines Krystalls an, und erscheinen wie rectanguläre Prismen von Olivia mit ziemlich geraden Flächen, die aber im Inzern durchgängig mit den kleinen weifsen Krystallen gemengt sind. Diese scheinbaren Krystalle lassen sich vollständig aus der Grundmasse heratisnehmen und hinterlassen darin ihrer Form entsprechende Eindrücke (in dem Stücke des min. Museums ist ein soleher scheinbarer Krystall von 6 Linien Breite und Höhe und von 4 Linten Tiefe sichtbar}. Sie sind wegen des häufig beigemengten Anorthits gewöhnlich von lichter Farbe; es kommen aber auch Parthien vor, die eine dunklere, ohne Lupe betrachtet, fast schwärzlichgraue Farbe haben, doch sind diefs ebensolche Gemenge nur niit sorwaltendem Olivin.
+
+Es wird biernach wahrscheinlich, dafs auch die Grundmasse wenigstens hauplsächlich nichts anderes als ein eben solches nur feinkörnigeres Gemenge von Olivin und Anorthit ist, wie es die grobkörnigen Parthien sind.* Der H. von Bialystock verhielte sich also in dieser Rücksicht wie der weiter unlen zu erwähnende Eukrit von Stannern, bei dem sich auch an ein und demselben Stücke fein- und grobkörnige Abänderungen finden; nur mit dem Unterschiede, dafs letzterer gröfstentheils grobkörnig, und nur selten und an einzelnen Stellen feinkörnig ist, der H, von Bialysinck dagegen gröfstentheils feinkörnig, und nrır an einzelnen Stellen grobkörnig ist.
+
+Die feinkörnige Grundmasse ist vor dem Löthrohr zu einem schwarzen Glas schmelzhar, das in dünnen Splittern nur bräunlich gefärbt, und durchsiehtig ist, wie die Grundmasse von Loutolax.*
+
+Gerdiegen Eisen findet sich ebenfalls in dem H. von Bialystock; man sieht es in äufserst kleinen Körnern in deo groben körnigen und besonders den dunkleren Parthien liegen; besser erkennt man es noch, wenn man kleine Stücke zu Pulver reibt, wo man dann die feinen Eisenkörner mit dem Magnete ausziehen kann. Ebenso kann man auch einzelne feine Käcner von Magnctkies erkennen.
+
+Specifisches Gewicht nach Rummler 3,17. Aeulserlich schwarze glänzende Rinde.
+
+Fein gerieben, und mit Chlorwasserstoffsäure in einem Reagenzelase gekocht, wird er zersetzt (?) und gelatinirt. Mit Wasser geschüttelt, kann die abgeschiedene Kieselsäure durch Abschlämmen von kleinen sehwarzen Körnern wenn auch nicht vollständig getrennt werden, die sehr wahrscheinlich Ghromeisenerz sind, doch in zu geringer Menge in der kleinen Probe, die zu dem Versuche genommen, vorhanden waren, um weitere Versuche damit austellen zu können.
+
+3\. Mässing (Dorf St. Nicolas) Landgericht Eggenfelde in Baiern: ein Stück 1,433 Lth. schwer, von dem daselbsl einzeln gefallenen Steine von 3 1/4 Pfund,* aus der Chladnischen Sammlung.
+
+Gleicht dem IH. von Bialystock vollkommen. In der granlichweilsen feinkörnigen zcerreiblichen Grundmasse liegen häufıe Körner von Olivin von verschiedener Grölse und Farbe, grünlichgelb bis grasgrün, von der Gröfse eines Hirsekorns his zu der eines groben Schrotes, dann wieder srölsere unvollkommen ausgebildete Krystalle von schmutzig grünlichgrauer Farbe, die kleine weilse Körner eingewachsen enthalten. Diese liegen auch sonst in der Masse, haben einen unebenen Bruch, und lielsen von Spaltbarkeit nichts sehen.
+
+Mit dem Magnete lassen sich aus der gepulrerten Masse Eisenkörner ausziehen.
+
+Specifisches Gewicht nach Rummler J,21, einer Kugel daraus (wahrscheinlich einer von den eingemengten unvoilkommenen Krystalle} 3,26.
+
+Aeufsere schwarze glänzende Rinde.
+
+Eine neuere chemische Analyse dieses Meteoriten ist nicht vorhanden, die ältere Untersuchung von Imhof hat foigende Bestandtheile gegeben:
+
+Magnesia 23,25  
+Eisenoxyd 32,54  
+Kieselsäure 31,0  
+Nickel 1,35  
+Eisen 1,8  
+Verlust an Schwefel und Nickel 10,06  
+100.  
+
+Die H. von Nobleborougb und Mallygaum sind nach den Proben in dem mineralogischen Museum den vorigen sehr ähnlich, doch sind diese Stücke zu klein, ım zu einer besonderen Beschreibung dienen zu können.
+
+Hiernach ist also der Howardit wahrscheinlich nur ein mehr oder weniger feinkörniges Gemenge von vorherrschendem Olivin mit Anorthit und einer geringen Menge von Chromeisenerz, Nickeleisen und Magnetkies.
+
+3\. Chassignit.
+
+Au dieser Art gebört unter den Meteoriten des Berliner Museums nur ein einziger, nämlich der am 3. October 1815 zu Chassigny bei Langres (Dep. der haute Marne) gefallene Meteorit, daher ich nach ihm die Art Chassignit zu nennen vorgeschlagen habe. Nachrichten über die Erscheivungen bei seinem Falle und eine Beschreibung seiner Masse haben Pistolet, Calmelet und Gillei de Laumont, eine chemische Analyse der Masse hat Yauquelin geliefert (1. Er hatte bei. seinem Falle in dem Boden ein Loch von einem Viertel Meier Tiele und einem halben Meter Breite eingeschlagen, und zersprang dabei in viele Stücke, die weit herum geworfen wurden, eins sogar bis zu einer Entfernung von 240 Schritt. Alle Steine, die man gesammelt hat, wogen beinahe 4 Kilogramm (?), Das Berliner Museum besitzt davon nur ein kleines 0,79 Loth. schweres, jedoch deutliches Stück, das aus der Chladnischen Sammlung stammt, und einige kleine Proben, die später erworben wurden:
+
+Der Chassiguit ist biernach eine kleinkörnige fast gleichartige Masse von nur geringen Zusammenhalt, so dafs sie sich schon zwischen den Fingern zerbröckeln läfst. Sie ist von einer grünlichgelben Farbe, die sich etwas ins grau zieht, wenig glänzend von Feitglanz, nur an den Kanten durchscheineud und von der Härte des Feldspaths. Darin sind hie und da kleine bräunlichschwarze Körner eingesprengt, und noch viel sparsamer als diese, noch kleinere fast mikroscopische Körner und Krystalle (Hexaöder, wie es scheint) ron einer gelben metallisch glänzenden Substanz. Die Rinde isı dünn, glatı und glanzios; sie wirkt schon schwach auf die Magnetnadel; das Innere nicht. In der unmittelbaren Nähe der Rinde ist der Stein braun gefärbt, wie schon Calmelet bemerkt.*
+
+Vauquelin fand, dafs die Masse mit Chlorwasserstoflsäure gelaticirt, dafs sie von Schwefelsäure mit Hinterlassung eines pulverförmigen Rückstandes von Kieselsäure zersetzt wird, ohne Eoutwickelung von Yrasserstolfgas, wie bei den eisenhaltigen Meieoriten, und eine farblose Auflösung giebt.
+
+*) Pıstolet und Yauquelin in den Arnulfer de Chemie ce: de Physäyee, 1816, 1.1, p- 4% und daraus in Gilberts Annalen von 1818 Bd. 55, 3.176; Calmelet wand Gillet de Laumont in den Araales des mines, 1816. t.1, p. 488%.
+
+*) Pistolei, Arzt kı Langres, der * Tage nach dem Falle an Ort un Stelle war, sammelte noch Bi kleine Bruchstücke, das gröfste, in Jessen Besitz er gelangte, wog beinahe 1 Kilugramın.
+
+*) im Innern der Masse beobachtete Calmelet bei einem Stücke „ven indiee de eristal plus compie”, Jessen Form er fir en miedriges schieles rhombisches Prisma hiel, Giller de Laumont, der Jdas Leschriebene Stück von Galmelet eingehäniligt bekam, halte diesen Krystall aus der Masse worin er steckte, herausgenommen und näher untersucht, und glaubte daran die Form des Augits erkannt zu haben; er gieht seine Höhe zu 4 Millimeter an. Da die Beschreihung aber nur sehr unbestimmt ist, gar nicht angelührt wird, dafs sich der Krystall von der umgebenden Masse an Farbe unterschieden habe, cin einzelner Augitkrystall in der übrigen ganz verschiedenen Masse sehr auffallend wäre, 56 scheint es mir, Jals dem (zanzen nur eine Täuschung zum Grunde liegt, und der angebliche Krystall nur eine zufällig mehr regelmäfsige Form eines der Körner sei, die die ganze Masse zusammensetzen.
+
+Ich fand ihn ferner vor dem Löthrohr schwer schmelzbar zu einer schwarzen magnetischen Schlacke von derselben Beschalfenheit wie die Rinde.
+
+Die Analyse von Vauquelin gab:  
+Magnesia 32,0  
+Eisenoxyd 31,0  
+Kieselsäure 33,9  
+Chromium 2,0  
+98,9.  
+
+Nimmt man an, dafs das Eisen als Oxydul in dem Steine enthalten sei, 50 verhalten sich die Saucerstollmengen von
+
+Mg: Fe: Si = 12,57 : 6,19 : 17,60
+oder von Mg +Fe:Si- 18.76 : 17,6.
+
+d. i. beinahe wie 1:1. Das Silicat ist also Olivin, und zwar ein sehr eisenreicher Ölivin, wodurch sich seine Schmelzbarkeit erklärt ('}, Der gewöhnliche Olivin, der 7 bis 12 pC. Eisenoxydul enthält, ist vor dem Löthrohr unschmelzbar, aber der Olivin vom Kaiserstuhl, der sog. Hyalosiderit, der 23,49 pC. Eisenoxydul entbält, schmilzt wie der Olivin des Chassienits; ihm ist dieser vergleichbar. Auch das specibsche Gewicht stimmt wamit; y, Schreibers und Rummler geben dlas spec. Gewicht des ganzen Steins zu 3,55 an (?). Das spec. Gew. des gewöhnlieben Olivin’s ist nach Mohs 3,441, das des eiserreichen ist genau noch nicht gekannt, aber nothwendig etwas gröfser (?). Vauquelin hebt noch den Umstand hervor, dafs in diesem Meteoriten kein Nickel vorhanden sei, was er der Abwesenheit des Eisens zuschreibt; dafs sich aber auch in dem Olivin kein Nickel findet, ist in Uebereinstimmung mit den ührigen Erscheinungen, da in allen meteorischen Ölivinen, die untersucht sind, kein Nickel gefunden ist.
+
+Die kleinen sparsam eingemengten schwarzen Körner hält Vauquelin für metallisches Chrom. An dem kleinen Stücke des min. Museums konnte ich bei keinem dieser schwarzen Körner nur irgend etwas von regelmäfsiger Form wahrnehmen. Sie sind aber bräunlichschwarz, von schwachem Halbmetallglanz, ganz undurchsichtig, geben zerrieben ein gelblichbraunes Pulver, sind schwach magnetisch, werden geglüht stärker magnetisch, und lösen sich vor dem Löthrobr in Phosphorsalz und Borsx zu einem schönen grünen Glase auf. Diela sind alles Eigenschaften des Chromeisenerzes, daher man auch wohl unbedenklich die schwarzen Körner für dieses nehmen darf.
+
+*) Verzl. die Zeitschrift d. d. geologischen Ges. 1861, Bd.13 5. 5%.
+
+*) Parisch, Meteoriten $. 347,
+
+*) Die Angabe des spec. Gew. des Ulyalosiderits von Walchner = 2,575 ist offenbar uprichtig und zu niedrig.
+
+Schwieriger scheint die Bestimmung der gelben metallisch glänzenden Körner, Sie lösen sich in Salzsäure nieht auf; dieser Umstand und die bei einigen derselben wahrscheinlich vorkominende Hexaöderform sprechen für Eisenkies; bei der geringen mir zu Gebote stehenden Menge habe ich aber keine weiteren Versuche machen können, und da Eisenkies in den Meteoriten bis jetzi noch nieht mit Sicherheit beobachtet ist, so wären allerdings noch weitere Versuche wünschenswertk, um über diesen Umstand mit Bestimmtheit zu entscheiden. Dals VYauquelin keinen Schwefel angieht, würde nichts beweisen, da bei der äulserst gerivgen Menge, in der er nur vorhanden sein könnte, er ihm leicht entgangen sein kann.
+
+Der Meteorit von Chassigoy ist hiernach ein derber eisenreicher Olivin mit sparsam eingemengtem Chromeisenerz und einer noch geringeren Menge einer Substanz, die möglicher Weise Eisenktes sein könnte.*
+
+*) Eine Analyse dieses Meteoriten, die Damour nach meiner ersten Beschreibung des-
+selben in der «l. d. geol. Ges. und nach der Lesung dieser Abhandlung in den Compies rendus
+(1862, &.4, p.591) bekannt gemacht hat, bestätigt dies Resultat vollkommen. Sie giebt an;
+
+Magmesa 37,76 Sauerstoff 12,48
+Eisenowydul 26,70 5,93
+Mangansıyddll 0,45 0,1
+Kali 0,66
+Chromoxyd 0,75
+Kieselsäure 35,20 18,33
+Chromeisenerz u. Augit 3,77
+
+Es folgt hieraus die genauere Formel
+
+(2 Mg -+ Fe) 5i
+
+welche die des Hyalosiderits vom Kaiserstuhl is. Der in der Analyse angeführte Augit ist nar angenommen, nicht bewiesen. Das speciäische Gewicht giebt Damour zu 3,57 an.
+
+4. Chladnit.
+
+Die rierte Art enthält wie die dritte nur einen Mecteoriten, Jen, welcher zu Bishopville im nördlichen Theil des Sumter-Distrikts in Süd-Carolina im März 1843 gefallen ist, Es fiel daselbst nur ein Stein von ungefähr 13 Pfd., der bald nach seinem Falle in den Besitz des Prof. Shepard gelangte, dem wir auch die erste Beschreibung und Analyse dieses merkwürdigen Steins verdanken.* Nachher haben noch Sartorius* und Raumelsberg* Untersuchungen damit angestellt. Die Berliner Sammlung besitzt davon ein gröfseres Stück von 4,86 Loth und mehrere kleinere.
+
+Der Stein ist von äulserst geringem Zusammenhalt und zerfällt in Stücke bei dem geringsten Druck. Er ist im Allgemeinen von porphyrartigkörniger Structur. Jn einer hellgrauen, weils gefleckten, kleiukörnigen Grundmasse finden sich aufser einigen andern Einmengungen von geringerer Bedeutung nur schneeweifse Krystalle von verschiedener Grölse und in gresser Menge eingeschlossen , oft sich gegenseitig begränzend und in der Ausbildung sich störend. Der gröfste Krystall auf den Stücken des Berliner Museums zeigt auf der Bruchfläche des Gesteins einen Durchschnitt von der Gestalt eines Rechtecks mit schwach abgestumpften Ecken, dessen Länge einen halben Zoll beträgt und dessen Breite etwas geringer ist; ein anderer zeigt den eines symmetrischen Sechsecks mit zwei paralleien längern Seiten, das etwas über einen halben Zoll lang und etwas weniger als ein Viertel Zoll breit ist; doch sind bei beiden die Seiten der Durchschnitte nicht sehr gerattlinig, die Umrisse aller ührıgen Krystalle indessen noch undeutlicher. Die beiden erstern Krystalle sind parallel einer Spaltungsfläche durchgebrochen, die aber nicht sehr rollkommen, sondern durch unebenen Bruch unterbrochen ist. Die Bruchfiäche ist glänzend von Perlmutterglanz und wird von malten Streifen parallel den längern Seiten der Durchschnitte durchzogen. Wodurch diese hervorgebracht werden, kann ich nicht angeben, man sieht aber dasselbe Ausehen auch bei den Durchschnitten anderer Krystalle, dagegen wieder andere ganz glatte Spaltungsflächen in einer Richtung zeigen. Endlich finden sich auch runde weifse Körner von verschiedener bis Erbsengröfse, rlie beim Herausnehmen runde, aber unebene Höhlurgen in dem Gestein hinterlassen, auch nur durebscheinend sind, aber Glasglanz haben. Nimmt man die Krystalle oder Körner aus dem (sestein heraus, so zerfallen sie in kleine Stückchen, da sie mit vielen geraden und krummen Klüften nach den verschiedensten Richtungen durchsetzt sind, und dann ist es nicht mehr möglich, die einzelnen Theilchen zu unterscheiden.
+
+Es ist wahrscheinlich, dafs die Körter von den Krystallen verschieden sind und bei diesen sich vielleicht auch noch die mit glatten und gestreilten Spaltungsflächen unterscheiden. Shepard erwähnt auch der runden Körner und trennt sie von den Krystalien; er erklärt die erstern für Anorthit, obne jedoch etwas anders ztı ihrer Charakterisirung anzuführen als einige Lölhrohrversuche, die keine wesentlichen Verschiedenheiten von den mit den Krystallen angestellten gaben, Die Krystalle bezeichnet er als eine neue Mineralgattung, der er, wie schon 5. 29 angeführt, den Namen Chladnit gegeben hat und den ich mir erlaubt habe, wie ebenfalls angegeben, in den von Shepardit umzuändern. Von der Form dieses Shepardits macht Shepard auch nur unbestimmte Angaben, wenngleich er Krystalle beobachtet hat, die nach seiner Angabe beinahe einen Zoll im Deurchmesser haben. Im Allgemeinen haben sie nach ihm das Anschen der gewöhnlichen Formen des Feldspaths oder Albits; die primilive Form wäre ein doppelt schiefes Prisma; durch Spaltung, die sich mit Leichtigkeit bewerksstelligen liefse, wären Winkel von 120° und 60° zu erhalten.
+
+Auch Sartorius spricht von der Form dieser Krystalle, und vergleicht sie mit der des Wollastonits, ohne weitere Winkel anzugeben; indessen hat er sie nur bei kleinen mikroskopischen Krysiallen bemerkt und auch nicht angeführt, wie diese vorkomınen.
+
+Die Härte des Shepardits ist nach diesen Beobachtern die des Feldspaths, das specifische Gewicht nach Shepard 3,116, nach Sartorius 3,039.
+
+Vor dem Löthrohr schmilzt der Shepardit nur an den Kanten zu einem weilsen Email*; in Borax löst er sich in Pulveriorm leicht zu einem klaren Glase auf; in Phospharsalg in Stücken langsam, in Pulrerform leicht zu einem Glase, das, so lange es heifs ist, wasserhell ist und ein Kieselskeieti einschliefst, beim Erkalten aber opalisirt.
+
+Von heißser Chlorwasserstoffsäure wird der Shepardit nur sehr schwer angegriffen. Diels ist aıch mit den runden Körnern der Fall, die Shepard für Anorthil hält; fein gerieben und mit Chlorwasserstolisäure längere Zeit gekocht, giebt die verdünnte und filtrirte Auflösung derselben ınit Ammoniak erst nach einiger Zeil einige bräunliche Flocken und das zurückbleibende Pulver kouirscht nach wie vor mit dem Glasstab. Wenn ich Körner derselben Art wie Shepard untersucht habe, so können diese kein ÄAnorthit sein; denn dieser giebt gepulvert und mit Chlorwasserstoflsäure gekocht sehr leicht eine Gallerte.*
+
+Die chemische Zusammenseizung des Shepardits wird von Shepard (a), Sartorius (5) und Rammelsberg {c) folgendermafsen angegeben:
+
+Nlagnesia 25,209 27,12 34,80  
+Kalk — 1,83 0,66  
+Natron 1,39 _ 1,14  
+Kali _ —_ 0,0  
+Maneanoxydull — _ 0,2  
+Thonerde — 1,48 2.72  
+Eisenoxyd — 1,0 1,23  
+Kieselsäure 0,41 67,14 37,92  
+Wasser _ 0,67 0,50  
+100,95 99,83 99,79  
+
+Nach Shepard wäre also der Sbepardit, abgesehen von der geringen Menge Natron, nur eine Verbindung von Kieselsäure mit Magnesia. Shepard allein hat keine Thonerde gefunden, was wahrscheinlich daher rührt, dafs er die reinsten Krystalle zur Analyse genommen hat, wie er auch die gröfste Masse zu seiner Benutzung hatte und bei den analysirten Proben der beiden andern Chemiker, die nur klemere Bruchstücke anwenden konnten, noch ein anderes Silicat beigemengt gewesen ist. Der Shepardit hat hiernach also dieselben Bestandtkeile wie der Olivin, nur in andern Verhältnissen; hei dem Shepardit ist der Sauerstoff der Magnesia (mit Einschlufs des Natrons) zu dem der Kieselsäure wie 1:3, während er beim ÖOlivin nur wie ti : 1 ist, Der Shepardit ist also anderthalb kieselsaure Magnesia:
+
+Mg2 Si3
+
+und die berechnete Zusammensetzung:
+
+Magncsia 40,2
+Kieseisäure 69,8
+
+während der Olivin nur eie halb kieselsaure Magnesia ist:
+
+Mg2 Si
+
+Sartorius von der Änsicht ausgehend, dafs er ein Gemenge analysirt habe, nimmt an, dafs die gefundene Thonerde von einem sogenannten Kalk-Labrador, d. i. von einem solchen Labrador herrühre, der nur Kalkerde als einatomige Basis entbielte. Er berechnet nach der Thonerde einen solchen Labrador, dessen Menge etwa 5 pC. beträgt, zieht diesen von dem Ganzen ab nnd findet nun für den Rückstand, den seiner Meinung nach reinen Shepardit, dieselbe Formel wie Shepard. Dessenungeachtet scheint mir eine solehe Annahme nicht gerechtfertigt, denn einmal kennt man einen Labrador von solcher Zusammensetzung überhaupt nicht, und dann kann man Krystalle son der Form Jes Labradors nicht allein nicht in dem Chiadnit erkennen, derselbe ist auch noch nie in dern Meteoriten beobachtet worden. Eher könnte man als Beimengung Anorthit annehmen, da dieser doch in gewissen Meteorsteinen bestimmt beobachtet ist; aber auch diese Annahme ist nach (lem oben Angeführten nicht wahrscheinlich.
+
+Rammelsberg, um zu sehen, ob seiner zu analysirenden Probe etwas Auflösbares beigemengt sei, digerirte das feine Pulrer zuerst mit concentrirter warmer Ühlorwasserstoffsäure und schlols nachher den Rückstand mit kohlensaurem Natron auf. Da er aber durch die Säure nur 7,55 pC. ausziehen konnte, die hauptsächlich aus Kieselsäure und Magnesia ohne Thonerde bestanden, so war es wahrscheinlich, dals diese nur von einer anfangenden Zersetzung des Shepardits kerrührten, tınd er rechnete daber das durch Chlorwasserstoflsäure Ausgezogene den Bestandtheilen des Rückstandes zu. Er überzeugte sich aber auf eine andere Weise, dafs er ein Gemenge untersucht habe, indem er eine besondere Menge von dem Pulver der ausgesuchten weilsen Krystalle schlämmte, das Leichteste und Schwerste für sich analysirte und in beiden eine nicht unbeträchtliche Verschiedenheit in der Zusammensetzung fand. Bei der Schwierigkeit, die Beimengung zu bestimmen, unterläfst es daher Rammelsberg ganz, für die Zusammensetzung des Ganzen eine Formel aufzustellen. Wenn es demnach nun auch nicht zu bezweifeln ist, dals in dem Chladnit ein eigenihümliches Mineral wie der Shepardit vorkommt, so ist es doch auch ebenso wahrscheinlich, dafs neben ihm sich noch ein anderes Ihonerde-haltiges Mineral beigemengt findet, das man noch nicht kennt, wie auch von dem Shepardlit selbst noch vieles, wie z. B. seine Form, fast ganz unbekannt ist.
+
+Die übrigen ntr in geringer Menge vorkomminenden Gemengiheile sind:
+
+1\. Nickeleisen, das theils in der Gruncmasse, theils in und zwischen den weilsen Krystallen eingemengt ist, gewöhnlich nur sparsam uud in kleinen Körnern, nach Shepard doch zuweilen von der Gröfse einer Erhse. Ich selbst beobachtete in den Stücken der Berliner Sammlung mehrere nicht viel kleinere Köruer, Das Eisen ist aber stets mit Eisenoxydtl bedeckt, und dieis hat auch die umgebende Masse braun gefärbt und zwar noch stärker als bei den meisten übrigen Meteoriten, Bei Jen erwähnten größsern Körnern kann man aber durch Schaben mit dem Messer den NMetallglarz und die lichte stahlaraue Farbe des Innern erkennen.
+
+2\. Magenetkies in kleinen Körner: selten.
+
+3\. Ein schwarzes Mineral, das nach Shepard Schwefelchrom ist.* Es ändet sich in kleinen Körnern oder kleinen Gängen, die den Chladnit durchsetzen, nach Shepard auch in kleinen prismatischen Krystallen, die auf den Seitenllächen gestreift und nach «diesen Spuren von Spaltungsllächen zeigen. Sie sind unyollkommen metallisch glänzend, undurchsichtig, von der Härte des Flulsspaths. Vor dem Löthrohr schmilzt diels Mineral schwer zu einem schwarzen Glase, das magnetisch ist; im Kolben erhitzt, bildet sich ein Suhblimat von Schwefel. Mit Borax und Phosphorsalz bildet es grüne Gläser; die Farbe ist im Allgemeinen intensiv, aber stärker im Boraxglase als im Phospborsalze und besonders bei der Schmelzung in der innern Flamme und nach Zusätz von Zinn.
+
+*) Shepard mangle es nach Hrn. von Schreihers: Schreibersitl, welchen Namen dann Haidinger ın den von Shepardit umgeändert hat und woftr nun nach dem Üligen nach vollaländigerer Kenntotfs dieses Gemernptheils ein neuer Name zu machen wäre.
+
+4\. Kleine gelbe Krystalle zwischen den Körnern des Chladnits, vor dem Löthrohr unschmelzbar; sie werden weils und verhalten sich wie Shepardit und sind vielleicht nur durch Bisenoxydhydrat gefärbter Shepardit.
+
+Weiter habe ich nichts beobachtet. Shepard giebt ein blanes Mineral an, was er Jodolith nennt un«! vielleicht das ist, was ich Grundmasse genannt habe, ein honiggelbes, Apatit ähnliches Mineral, Apatoid genannt, und Spuren von Seh wefel. Aufserilen giebt er auch noch das ungefähre Verhältnifs an, in welchem Jie von ihm angeführten Gemengibeile in (diesem Meteoriten enthalten sind; ich führe es indessen niekt an, da diese ganze Angabe zu hypothetisch ist.
+
+Die äufsere glasige Rinde ist sehr merkwürdig; ganz unährlich der der übrigen Meteorsteine ist sie, wie sie auch Shepard beschreibt, gelleckt, schwarz, weils, bläulichgrau, die schwarzen Stellen glänzend und Ohsidian-ähnlich, die weilsen und grauen meistentheils matt, die weilsen doch auch glänzend un«t durchscheinend wie Porzellan und Email. Sie ist von einer Menge Risse und Sprünge durchzogen.
+
+5\. Shalkit.
+
+Diese Art enthält auch nur einen Meteoriten, den M. von Shalka in Banknora, Ostindien, nach welchem Fundort ich den Namen der Art gebildet habe. Hailinger hat die Nachriebten darüber zusammengestellt und den Stein beschrieben (!y. Er fiel den 30. November 1830 als ein einziger Stein und schlug in den nicht harten Boden gegen dä Fuls ein, wobei er in viele Trümmer zerschellte, und Bruchstücke bis 20 Fuls weit unherflogen. Der Stein machte einen Umfang von 3! Fuls gehabt haben; die schwarze Rinde war stellenweise abgetrennt. Haidinger erhielt durch lie k. Asiatische Gesellschaft in Bengalen mehrere Stücke zusammen über 199 Centigr. schwer; ein grölseres Stück von 6 Pfund 3529 Grains wurde an das Rrittische Museum in T.ondon gesandt, von welchem Dr. Auerbach aus Moskau einige Stücke erhielt, von denen er mir ein kleines haselnulssrofses Stück überliels. Späterhin erbielt ich selbst durch Hrn. Maskelyne zus dem Brittischen Museum ein viel grölseres Stück von 4,79 Lth. Gewicht.
+
 ...
 
 #### Erklärung der Kupfertafeln

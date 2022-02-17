@@ -1195,6 +1195,178 @@ Die äufsere glasige Rinde ist sehr merkwürdig; ganz unährlich der der übrige
 
 Diese Art enthält auch nur einen Meteoriten, den M. von Shalka in Banknora, Ostindien, nach welchem Fundort ich den Namen der Art gebildet habe. Hailinger hat die Nachriebten darüber zusammengestellt und den Stein beschrieben (!y. Er fiel den 30. November 1830 als ein einziger Stein und schlug in den nicht harten Boden gegen dä Fuls ein, wobei er in viele Trümmer zerschellte, und Bruchstücke bis 20 Fuls weit unherflogen. Der Stein machte einen Umfang von 3! Fuls gehabt haben; die schwarze Rinde war stellenweise abgetrennt. Haidinger erhielt durch lie k. Asiatische Gesellschaft in Bengalen mehrere Stücke zusammen über 199 Centigr. schwer; ein grölseres Stück von 6 Pfund 3529 Grains wurde an das Rrittische Museum in T.ondon gesandt, von welchem Dr. Auerbach aus Moskau einige Stücke erhielt, von denen er mir ein kleines haselnulssrofses Stück überliels. Späterhin erbielt ich selbst durch Hrn. Maskelyne zus dem Brittischen Museum ein viel grölseres Stück von 4,79 Lth. Gewicht.
 
+Nach diesen Stücken ist die Masse ein kleinkörniges Gemenge von kleinen schneeweilsen, in einer Richtung deutlich spaltbaren Körnevo mit andern meistens etwas grölsern grünlichgrauen, worin wieder noch gröfsere, oft ganz scharf begränzt liegen, die eine schwärzlichgrüne Farbe haben. Beide Farben geben aber steilenweise bei denselben Körnern in eine lichtere grünlichgelbe über, in welchem Fail dann die Körner cine grofse Achulichkeit mit Olivin erballen, wie auch schon der erste Beschreiber dieses Meteorsteins, Pideington in Caleutta, bemerkt hatı!). Die grünen Körner haben zuweilen einen Durchmesser von einem Zoll, sind daun aher sehr kiüflig; sie haben einen kleinmuschligen Bruch, Glaseianz, der in den Fettglanz übergeht, sind an den Kanten mehr oder weniger durehscheinend, bei lichterer Farbe mehr, und unvollkommen nach einer Richtung spaltbar. Die Masse zum Theil sehr bröcklig, das kleine Stück, was auch im Allsemeinen teinkörniger ist, mehr als das grolse.
+
+Nach Haidinger besteht dieser Aleteorsteiu ebenfalls aus feickörnigen weilslichen mit gröber körnigen dunkel aschgrauen Theilen, die bis 2 Linien in jeiler Richtung grols sind und selbst wieder in kugligen Massen von mebrzölligem Durchmesser in den weilsen feinköruigen eingeschlossen sind, oder von Jdenselben wie Gangweise durchsetzt werden. Bei den grölsern Körnern sah er eine ziemlich deutliche Spaltungsiläche, Jie einen unvollkommmen Winkel von 100° und 80° macht, ihre Härte ist 6,5; indessen ist Haidinger der Meinung, dals diese ganze Masse nur eine einzige Species bilde, da ibre Theile zwar eine verschiedene Farbe hätten, aber vollkommet in einauder übergingen.
+
+In dieser Masse kommen nun noch Körner von Chromeisenerz eingemengt vor, die zwar gewöhnlich nur sehr klein und fein, doch in Jem grölsern Stücke fast die Gröfse einer kleinen Erbse erreichen. Sie sind schwarz. stark glänzend von unvollkamemmnmen Metallglanz, haben einen braunen Strich, und sind gewöhnlich unregelmäfsig begränzt, doch auch in Octasilern krystallisirt. K.v. Hauer beobachtete schon ein solebes (?}; in dem gröfsern Stücke sind deren mehrere enthalten; ihre Flächen sind so glänzend, dafs man mit ziemlicher Genauigkeit ihre Winkel messen kann. Körner und Krystalle kommen öfter in den srünen Körnern eingewächsen vor, sie sind schwer aus denselben vollständig herauszulösen, da auch sie klüftig und hröcklig sind.
+
+Haidinger fand das specifische Gewicht eines siemlich reinen Stückes (d.h. wo wohl weniger Chromeisenerz cingemengt war) 3,412, Piddington giebt 3,66 an,
+
+Der Stein bat eine dünne schwärzlichbraune ganz matte Rinde, die aber doch uneben und fein adrig tst, und aus der Körner von Chromeisenerz herausragen.
+
+Die von dem eingemengten Chromeisenerz möglichst befreite Masse ist von K. vr. Hauer chemisch untersucht worden, sie besteht hiernach aus
+
+Sanerstolf,  
+Nlasnesia 19,00 7,60  
+Kalk 1,53 0,13 | 12,51  
+Eisenoxydul 30,05 4,58  
+Thonerde Spur  
+Kieselsäure 97,06 30,50  
+9884
+
+Haidinger, der die Masse für gleichartig hält, betrachtet sie hiernach für eine besondere Species, die wit dem Olivin und Shepardit in qualitativer Hinsicht übereinstimmend, in quantitativer Hinsicht zwischen beiden steht. Denn während der Sauerstoff der Basis zur Säure sei
+
+beim Ulivin —=41:14, und  
+beim Shepardit =1:4, wäre er  
+bei dieser Species= 1 : 2,42.  
+
+Dieses Verhältnifs nähere sich dem, welches Siromeyer bei dem ölivinäbnlichen Mineral aus der angeblich von Grimma (Steinbach) stammenden Eisenmasse gefunden habe, wo jenes Verhältnifs = 1: 2,6 ist, und für welches Mineral Rammelsberg die Formel RSi + :R’Si’ aufgestellt habe ('}. Er schlägt demnach für diefs Mineral den Namen Piddingtonil vor,
+
+Dieser Meinung von der Gleicharligkeit der Masse möchte ich nicht beistimmen. Die Farbe der dunklen Körner geht wohl in die grünlichgelbe über, aber nieht in die weilse. Die Körner mit grünlichgelber bis schwärzlicbgrüner Farbe haben alle Eigenschaften des Olivins; ist diels aber der Fall, dann können die weilsen Körner nichts anderes als Sheparllit sein, und der Shalkit wäre hiernach ein Gemenge von Olivin, Shepardit und Chromeisenerz, und von dem Chassignit nur durch die Anwesenheit des Shepardits verschieden.
+
+Alıt dieser Annahme stimmt auch das chemische Verhalten überein, denn sehr fein zerrieben, wird er von heilser Chlorwasserstoffsäure zum Theil zersetzt, wie ein Gemenge von Olivin und Shepardit; das feine Pulver is ntır an den äufsersten Kanten schmelzbar, noch schwerer als der Chassignit, und wird wie dieser schwarz.
+
+Legt man die Hzuersche Analyse zum Grunde, so würde der Shalkit auf 1 Atom Olivin 2 Atome Shepardit enthalten, also aus
+
+R’Si + Me‘ Si’
+
+bestehen, denn in diesem würde der Sauerstoll von BR: Si sein = 6 : 14, d.i..=1:?23J.
+
+Der Shalkit ist hiernach ein Gemenge von basisch und saurer kieselsaurer Magnesia oder von 2 Silicaten, die gleiche Basen in verschiedenen Sättigungsstulen enthalten, ein Gemenge wie es der Art unter den Gebirgsarten der Erde nicht vorkommt, wenngleich der Granit, wenn er Feldspath und Kaliglimmer enthält, etwas Aehnliches darstellt. Das Gemenge des Shalkits ist aber noch dadurch ausgezeichnet, dafs die beiden Silicate in denselben in einem sehr einfachen Verhältnisse gegeneinander zu stehen scheinen, 50 dafs sie sehr gut eine chemische Verbindung bilden könnten, ähnlich dem Serpentin, der eine wässerhaltige Verbindung von basischer und neutraler Magnesia ist:
+
+Mg’8i + Mir sH
+
+und es wäre daher wohl möglich, dafs wie der Shalkit alle Gehirssarten die Gemengtheile in ebenso einfachen Verhältnissen enthalten, wie die Mineralien die Bestaucdtheile (').
+
+6\. Die kohligen Meteorite.
+
+1\. von Alais, Dep. du Gard, Frankreich, gef. 1306 Jen 15. März.
+
+2\. von Cold Bokkeveld am Cap der guien Hofinung, gef. 1838
+denid, October.
+
+3\. von Kaba, SW, von Debreezin in Ungarn, gef. 1857 den 15. April.
+
+4\. von Orgueil, Alontauban, Fraukreich, gef. 1964 den 14. Mai.
+
+Ich habe mit diesen keine besondere Untersuchungen angestelll, und verweise daher anf die vorhandenen Beschreibungen der drei ersten in Buchner's Meteoriten 5,19, 60 und 94 und des letzten in den Comptes rendus 164, t. 99.
+
+7\. Eukrit.
+
+Es gehören zu dieser Abtheilung nur wenige Meteoriten; von den Meteoriten des Berliner mineralogischen Museums nur der von:
+
+1\. Juvenas, Dep. Ardöche, Frankreich, gef. 16821 den 15. Juni.
+
+2\. Stannern kei Iglau, Mähren, gef. 1808 den 22, Mai.
+
+3\. Jonzarc, Dep. Charente inler., Frankreich, gef. 1819 den 13. Juni.
+
+4\. Petersburg, Liscoln Ciy, Tennessee, V. St. N. A., gef. 1855 den 5. Aug. ; aulserdem wahrscheinlich noch der vor Consläntinopel (gef. 1805 im Juni), der nach Parısch und Reichenbarh eine sehr grofse Achnlichkeit mit namentlich den 3 erstgenaunten dieser Abtheilung hat. Bei der geringen Anzahl «dieser Meteoriten ziehe ich es ebenfalls vor, dieselben einzeln zu beschreiben und fange mit dem E. von Juvenas an, der unter allen der ausgezeichnetsie und am deutlichsten krystallinisch ist.
+
+1\. Der E. von Juvenas ist meistentlieils deutlich körnig und die Gemengiheile über liniengrols; was ihn indessen lür die Untersuchung besonders wichtig macht, stellenweise auch voller Höhlungen ‚an deren Wänden sich die Gemengtheile regelmälsig begränzt haben. Diels ist namentlich mit dem Augit der Fall, der überhaupt der vorwallende Gemengtheil ist. Derselbe erscheint hier in der Form, in welcher er sich gewöbulich in vulkanischen Gesteinen lindet, als Combinatioa des rhombischen Prisma von ungefähr 85° mit der Quer- und Längsiläche und dem schiefen Prisma von ungefähr 120°’). Er hat glatte und glänzende Flächen, so dafs er ziemlich gut mit dem Reflexionsgoniometer gemessen werden kann. Die Neigung, die sich am besten bestimmen lieis, war die Neigung (ler Längsfläche zur Fläche des vertikalen Prisma, die ich von 136° 3-5 fand. Eine Spaltbarkeit war weder bei den aufgewachsenen, noch bei deu unregeilmäfsig begränzten eingewachsenen Krystallen bei ihrer Kleinheit zu hemerken; sie sind im Bruch uneben, von Farbe schwärzlichbraun, ungefähr wie der Nosean vom Laacher See, glänzend von Fettglanz und nur au den äufsersten Kanten durchscheinend, Vor dem Läthrohr schmilzt dieser Augit in der Platinzange zu einem schwarzen Glase, das von Magnete angezogen wird, was vor der Schmelzung nicht der Fail ist. In Borax wird er.zu einem von Eiseu schwach gefärbten Glase aufgelöst, in Phosphorsalz ebenso, nur schwerer und unter Ausscheidung von Kieselsäure. Mit wenig Soda schmilzt er zu einer schwarzen Kugel, zuit wehr Soda geht die Masse in die Kohle und das Eisenoxydal wird redueirt.
+
+Ber Anorthit ist in den Höhlungen gewöhnlich kleiner und viel undeutlicher krystallisirt als der Augit, indessen sieht man doch das gewühnliche chomboidische Prisma mit der Längsfläche 7, durch deren Vorherrschen die Ärystalie gewöhnlich ein tafelartiges Ansehen erhalten, sowie die schiele Endliäche P, parallel welcher die Krystalle immer sehr deutlich spalibar erscheinen. Die Endiläche ist meistentheils glatt, nur zuweileu zeigt sie den der Kante mit der Längsfläche parallell gehenden einspringenden Winkel, der den Zwillingskrystall verkündet, Winkel sind nicht zu messen, aber das ganze Änsehen der Krystalle zeigt den ein- und eingliedrigen Feldspath. Er ist schueeweifs und auf (en Spaltungsflächen stark perlmutterartig glänzend, Vor dem Löthrohr nur selır schwer an den Kaueu schmelzbar. Gepulvert und mit heifser Chlorwasserstoffsäure behandelt, gelalinirt er und giebt sich darlurch bestimmt als Anorthit zu erkennen 0").
+
+*) Bafs der Anorthit, mit heilser Chlorwasserstuflsänre digerirt, gelatinirt, ist Busher | noch nicht angegeben, ist aber ein teichtes Mittel, Hin vom Tabrador zu weierschehlen. In meiner ersten Heschreibung dieser Krystalle (a. a 0. 5.176) hatte ich sie gestützt auf die Angabe von Baugier, dafs der Meteorit von Juvenas von Säuren nur schwierig angegrilien würde, und auf eine won mir ausgeführte Untersuchung ıles alkalischen Nesäandtheils [ür Labrador gehalten. Shepard hatıe die Krystalle euerst für Anorılit ausgegeben (fepart on American meleurifes (u 7, New Haven 1518), ohne weitere Beweise fir seine Behauplang zu Neleern; Rammrelsberg hat diels zuerst durch seine Analyse bewiesen (Pozrendorfls Anm. von 1848 I. 73, 5, Ah),
+
+Aufser diesen wesentlichen Gemengtheilen finden sich noch drei unwesentliche, kleine strehgelbe tafelartige Krystalle, etwas Magnetkies und in noch geringerer Menge etwas Nickeleisen. Die erstern sind wenig glänzend und undurchsichlig, sie Anden sich nicht gleichmälsig verbreitet in der Masse, im Allgemeines sehr sparsam, am bäufigsten in der Gegend der Drusenräume und in diesen selbst. Yon einer bestimmten Krystallform ist indessen nichts zu erkennen. Sie haben wohl das Ansehen von Titanit und Rammelsberg Bält sie auch dafür, weil er bei der Analyse etwas Tilansäure gelunden hat, aber ihr Verhalten vor dem Löthrohr ist damit nicht völlig in Vebereinstimmung. Sie schmelzen vor dem Löthrohr in der Platinzange an den Kanten zu einem schwarzen Glase, das magnetisch ist, und lösen sich in Phosphorsalz, in geringer Menge zugesetzt, langsam aber völlig zu einer Glase auf, das heifs etwas grünlich selärbt und kalt sanz wässcrhell ist; in gröfserer Menge zugesetzt, bleibt Kieselsäure ungelöst zurück, und die Kugel opalisirt beim Erkalten, wird aber nicht bläulichweifs ie der inner Fianıme, auch nicht wenu Zinn zugesetzt wird, was diese Krystalle vorn Litanit unterscheidet, der auch (z. B. der gelbe von Arendai) an des Rändern nicht zu einem magnelischen Glase schmilzt, Dieser letztere Umstand wäre nicht entscheidend, er könnte von einem grölsern Eisengehalte herrühren, aber die blaue Farbe mülste doch zum Vorschein kommen, Es bleibt also üher diese Substanz noch einige Unsicherheit, man sieht aus ihrem Verbälten nur soviel, dafs sie ein Silicat ist und Eisenoxydul enthält.
+
+Der Masnetkies lindet sich in dem E. von Jurvenas hier und da in kleinen Körpern eingemengt, und in den Höhlungen zuweilen krystallisirt. Ich habe in diesen zwei freilich nur sehr kleine Krystalle gefunden, von denen der eine aber doch eine grofßse Menge von Flächen zeigt. Er ist eine Gombination eines Ilexagsıdodekaäders mit Jder Basis, die wenig vorherrscht, einem stumpfern Hexagondodekaäder, dessen Flächen die Combinationskanten den Grundform mit der Basis schwach abstumpfen, den Flächen des ersten sechsseiligen, und nmiergeordoet auch des zweiten scchsseitigen Prisınas, und des ersten stumpferen Hexagondodekaöders, als Abstempfungen der Endkanien der Grundiorm. Die Flächen sind so glatt, dals ich die Winkel ınessen konnte. Ich fand den Winkel der Grundform in den Endkanten 126° 49, der Winkel in den Seitenkanten beträgt also 127° 6’('). So ausgebildete Krystalle sind bei dem tellurischen Magnetkies noch nicht vorgekommen, wiewohl die Krystalle bei diesem oft viel größer sind. Sie sind gewöhnlich nur Combinationen eines regulären sechsseitigen Prismas mit der Basis, und wenn auch Flächen von Hexagondodekaäldern vorkommen, 50 sind sie bisher nie so glatt und glänzend gefunden worden, dafs man ihre Winkel mit Genauigkeit hätte bestimmen können; die Winkel des Magnetkieses sind daher durch den meteorischen Magneikies zuerst bestimmt. Sonst ist er wie der tellurische tombakbraun von Farbe und metallisch glänzend; sein Magnetismus jedoch nur sehr gering (?). Das Verhalten vor dem Löthrobr oder gegen Säuren ist ganz wie das des tellurischen, obgleich bei der geringen Menge, die nur genommen werden konnte, und weil sie nicht {rei von ansitzendem Gestein war, nicht gesehen werden konnte, ob bei der Auflösung in Säuren etwas Schwelel zurückblieb, In der Auflösung wurde kein Nickel gefunden.
+
+Nickeleisen findet sich in dem E. von Juvenss nur in sehr geringer Menge und nur in so feinen Theilen, dafs man es auf der Bruchfläche des Gesteins nicht sehen und nur auf einer angeschliffenen Fläche durch seinen Metallalanz erkennen kann. Noch bestimmter kaunn man sich von seiner Gegenwart überzeugen, wenn man ein Stückchen yon dem E. von Juvenas pulvert, das Nickeleisen mit dem Magnete auszieht und Jann im Mörser breit drückt” }.
+
+Diese letztgenannten Gemengiheile sind jedoch nur wie angegeben in sehr geringer Menge vorhanden. Das Nickeleisen ist ganz fein eingesprengt, der Maguetkies wohl in eiwas grölsern Körnern oder unregelmälsigen Parthien, aber doch auch nur sehr sparsam hier und da enthalten, die selben Tafeln sind an den Stellen, wo sie sich finden, wohl ziemlich häufig, aber sie selbst sind doch nur klein und Goden sich an andern Stelleı: gar nicht, 30 dals alle diese letztern Gemengtheile auf das Ansehen des Meteoriten keinen Einilufs ausüben. Dieses wird nur bedingt durch den Augit und Anorthit; dessen ungeachtet ist doch das Ansehen an verachiedenen Stellen sehr verschieden. Auch da wo die Gemengiheile am gröbsten sind, kann man das Gemenge nicht grobkörnig nennen, es ist nur kleinkörnig, aber solche Stellen wechseln mit andern feinkörnigen, und gehen theils allınäblıg darin über, theils schneiden sie von diesen scharf ab, wie diefs auch bei dem Chondrite und Howardite der Fall ist. Zuweilen liegt in einer grölsern feinkörnigen Parthie eine kleinere grüber körnige, in die sie schnell übergeht, zuweilen sieh! man in einer solchen eine kleine noch feiner körnige mit ziemlich scharf begränzten Umrissen liegen; diese erscheinen dann gewöhnlich von eiwas dunklerer Farbe, ohne deswegen mehr Augit zu erhalten, zuweilen sind aber diese dunkleren Parthien grobkörnig, und die dunklere Farbe rührt nun in der T'bat von einer gröfseren Menge Augit her.
+
+*) Vergl. Jie ausführlichere Beschreibung a. a. 0. 5. 180,
+
+*) In meiner Lrühern Abhandlung gab ich an, dafs er gar nicht magnetisch wäre; wenn man aber ein kleines Stückchen auf eine Stahlplatte legt, so wirl er doch vom Mazmete eLyWyas She zußtt.
+
+*) In der frühern Beschreibung hatle ich das Nickeleisen bei semer geringen Menge ganz übersehen.
+
+Das specilische Gewicht des E. von Jurenas ist nach Rummiler J,it, nach Flangergues 3,09 (1).
+
+Die schwarze Rinde ist wie die der Howardite stark glänzend und adrig, also ganz verschieden von der der Chondrite.
+
+In einer dünn geschliffenen Piatte unter dem Mikroscop erscheint der Anorthit durchsichtig und ziemlich wasserhell, und mit nur wenigen Kissen durchsetzt, der Augit hellbraun durchscheinend, aber mit vielen gröbern braunen Sprüngen und feinern Streifen durchzogen. Ein grölserer Kirystall zeigte gerade, unter einander parcllele, sich in kleinen Entfernungen wiederholende dunkelbraune Sprünge, die von andern ähnlichen aber unregelmälsig verlaufenden durchsetzt wurden, und aufser dieses noch feinere gerade, eng neben einander liegende, braune Streifen, die die geraden Sprünge unter einem Wiukel von etwa 80° schnitten, Auf eine ähnliche Weise verhalten sich die Sprünge und Streifen bei allen übrigen Krystallen. Nickeleisen in sehr kleinen Körnern macht sich hin und wieder durch seinen Metallglanz kenntlich, Magneikies war bei seiner unregelmäfsigen Vertheilung in dem Gestein auf der Platie gerade nicht vorbanden. Der Anoribit erscheint im Allgemeinen in kleineren Krystallen als der Angit, aber sie sind fast überall regelmäfsig begränzt, und namentlich sind die Querdurchschnitte durch seine tafelartigen Krystalle häufig zu gehen, dagegen der Augit bei grölseren Individuen nie regelmälsige Umrisse hat. Man sieht so bestimmt, dafs Anorthit der zuerst, Augit der später krystallisirte ist, wie such der erstere schwerer, der leiztere weniger schwer vor dem Löthrohr schmelzbar ist.
+
+Vor dem Löthbrohr schmilzt das Gestein fein zerrieben sehr leicht zu einem schwarzen stark magnetischem Glase, daher sich auch der Glanz der Rinde erklärt, Das Gestein schmilzt leichter als die Gemengtheite einzeln, wie dies auch oft bei gemengten tellurischen Grebirgsarten der Fall ist.
+
+Fein gepulvert und mit heifser Chlorwasserstoffsäure digerirt, gelatinirt der Anortbit, und die Gelatina schliefst den Anugit unverändert ein, der daher auf diese Weise leicht und besiimmt von dem Anorthit zu trennen ist.
+
+Auf diese Weise ist nun auch der E. von Jurenas von Rammelsberg analysirt worden (!). Er erhielt so:
+
+A. mit Säuren Zersetzbares 36,77
+nr. „ NVnrersetzbares 64,23
+
+und in diesen wie in dem Ganzen (C) die folgendem Bestandtheile:
+
+A, RB. Ce,  
+Saueralulf. Sauersioll.  
+Kalk 6,6 1,0 3,39 1,05 10,23  
+Magnesia 0,13 0,85 Gl 2,58 6,44  
+Natron 0,37 0,09 0,26 0,06 0,63  
+Kali 012 0,02 u 0,12  
+Eisenoxydul _ _ 1948 48 19,48  
+Thonerde 12.40 37 0.15 or 12.35  
+Eisenoxyd 1.21 055 _-.— 1,21  
+Kieselsäure 13,41 8,00 3292 17,09 48.33  
+Phosphorsäure 0,28 _ 0,28  
+Titansäure _— 2,10 bio  
+Eisen 0,16 _ N 09%  
+Schwefel 0,99 _ 0,09)  
+Eisenoxydul _ 0,92 431 1,35  
+Chromoxyd _ 0,43 0,43  
+36,81 64,16 100,97  
+
+Die Analyse ergab demnach die bekannten Bestandtheile des Anorthits und Auıgits und aufser diesen noch kleine Mengen anderer Beständtheile, in dem zersetzbaren Theile etwas Phosphorsäure und Eisenoxyd, und in dem unzersetzbaren etwas Titansäure und Chromoxyd. Nickeleisen ist dagegen nicht aufgeführt, bei seiner geringen Menge hat es Rammelsberg wie die frühern Beobachter übersehen, Sieht man aber von diesen in geringer Nlenge enthaltenen besondern Bestandtheilen ab, so verhalten sich bei dem zersetzbaren Gemengtbeil der Sauerstofl des Kalks, der Magnesia und der Alkalien zur Thonerde und zur Kieselsäure, also von
+
+R:R: Si 2.06 : 6,15: 8,00 = 1,03 : 3,07; 4
+
+alsn fast wie 1:3: 4, der Zusammensetzung des Anorthits gemäfs.
+
+In dem unzersetzbaren Gemengtheil der Sauerstoff der sämmtlichen Basen zu dem der Kieselsäure, also
+
+R: Si = 8,00: 1709 = 1: 2,13
+
+also fast wie 1 : 2, der Zusammensetzung des Augits gemäfs.
+
+Die Analyse ist demnach in vollkommner Uebereinstimmung mit dem Ergebnils der minerslogischen Untersuchung,
+
+Rammeisberg sucht aber noch die übrigen Bestandiheile, die die Analyse ergeben hat, zu erklären, und eine vollständige quantitative Bestimmung der Gemengibeile des E. von Jurenas zu geben. Von dem Schwefel, dessen Menge durch eine besondere Untersuchung bestimmt ist, wurde angenommen, dals er vom Magnetkiese, und vom Chromoxyd, dafs es von CGhromeisenerz herrühre, und es ist daher schon gleich so viel Eisen als zum erstern, und Kisenoxydul als zun letztern gehört, in der angegebenen AnaIyse aufgeführt (der Magnetkies ist wie früher als FeS, das Chromeisenerz als Fe&r berechnet). Das Eisenoxyd wurde als von Magneteisenerz, die Titansäure ala von Titanit, und die Phosphorsäure als von Apatit herrührend angenommen. Indem er nun bei seiner Berechnung von der Gesammtmischung ausgeht, bestimmt er zuerst nach der Thonerde und den Alkalien den Anorthit, nach dem Schwefel den Magnetkies, nach dem Eisenoxyd das Ragneteisenerz, nach der Phosphorsäure den Apaltit, nach der Titansäure den Titanit, und bekommt nun einen Rest, in welchem der Sauerstoff von R:Si wie 1: 2,16 ist, also beinabe wie im Augit.
+
+Die Annahme von Chromeisenerz ist wie die von Masnetkies gerechtfertigt, denn, wenn man auch das erstere noch nicht wie den letztern beobachtet hat, so ist doch das Chromeisenerz ein so gewöhnlicher Gemeng(heil der Meteorite, dafs es nach dem gefundenen Chromoxyd in dem E. von Jurenas sehr wahrscheinlich ist. Diefs ist aber nicht mit den ührigen Annahmen der Fall. Magneteisenerz ist weder in diesem noch überhaupt in einem Meteoriten mit Sicherheit beobachtet, daher auch wahrscheinlich das Eisenoryd noch vom Magnetkiese herrührt, und die Bestimmung des Schwefels, der bei der Zersetzung desE. von Juvenas alaSchwefelwasserstoffgas entwiehen ist, zu gering ausgefallen. Alıt Titanit stimmt wie angeführt das Verhalten der gelben tafelartigen Krystalle vor dem Löthrohr nicht völlig überein, auch ist die Litansäure in dem unzersetzbaren Gemengtheil gefunden, und nicht in dem zersetzbaren, wie doch der Fall sein müfste, wenu Titenit in dem E, von Jurenas enthalten wäre, und Apatit, wiewohl sebr möglich, ist doch noch nie in den Meteoriten beobachtet. Ich führe daher diese Berechnung der Gemengtheile, als noch nicht hinreichend begründet, hier nicht auf.
+
+2\. Der Eukrit von Stannern ist dem von Jurenas sehr ähnlich, doch nicht so deutlich krystallinisch, wie dieser, Er ist nach deu Stücken, die ınir vorliegen, nicht so grobkörnig, wie der E. von Juvenas; der Anorthit auch nicht so regelmäfsig begränzt und seine Spaltungsllächen eigentlich nie recht deutlich zu schen.
+
+Die dünngeschliffene Platte ist ebenfalls bei weitem nicht so belehrend, wie bei dem E. von Juvenas. Anortkit und Augit sind nicht so schari gesondert, der erstere ist nicht so regelmälsig begränzt und von einer grofsen Menge kleiner Risse durchsetzt, wodurch er in unregelmälsige Stücke abgetheilt ist und an Durchsichtigkeit verliert; der Augit ist dunkler und undurchsichtiger; sehr feine Theile von Nickeleisen sind hin und wieder auch hier zu sehen.
+
+Ein Wechsel ron groben und feinen körnigen Parthien kommt ebenfalla vor. Auch bier geben dieselben in einander über, oder schneiden wenigstens nicht scharf an einander ab, aber in den feiner körnigen Parthien liegen wieder scharf begränzt sehr feinkörnige graue Partbien, die, mit der Lupe betrachtet, immer noch gemengt erscheinen, und wieder kleine dunkle Theile auch scharf begränzt einschliefscn, die wie Augit aussehen, nicht regelmäfsig begränzt und sehr undurchsichlig sind; zu Pulrer zerrieben und unler dem Mikroscop betrachtet wird das Gemenge noch deutlicher.
+
+Drusenräume enikält der E. ron Stannern nicht, auch habe ich die gelben Biättchen des E. von Jurenas in ihn niebt beobachtet, dagegen findet sich Magnetkies wie in diesem. Sein speeifisches Gewicht giebt Rummler 301 — 3,17 an. Die äuisere schwarze Rinde ist glänzend und adrig wie bei dem E. son Juvenas. Verhalten vor dem Löthrohr und mit Säuren dasselbe. Das Nickeleisen kann man ebenso wie bet dem E. von Jurenas auffinden, nur muls man, da es in feinern Iheilen und sparsamer enthalten ist, ein gröfseres Stück zerreiben (')-
+
+Der E. von Stannern ist schon vor dem von Juvenas ron Rammelsberg jedoch mit denselben Resultaten untersucht worden. Y\on in Chlorwasserstoffsäure zersetzbaren Gemengiheilen haben sich darin gelunden
+
+341,08 Theile,
+
+von unzersetzbaren 063.02  „
+
+ein Verhältnifs, das fast ganz mit dem bei dem E. von Juvenas gelundesen übereinkommt (?). Bammelsberg findet auch etwas Chromoxyd und Eisenoxyd, und nimmt danach Chromeisenerz und Magneteisenerz an, von denen nun das bei dem E. von Jurenas Gesagte gilt. Phosphorsäure und Titansäure sind nicht darin gelunden, aber auch vielleicht nicht aufgesucht.
+
+*) Man muls nalärlich Sorge tragen, dals, wenn man mitlelst Meilscl und Hammer, ein Stück zum Zerreiben lostrennt, keine Eisentheile von dem Meilsel an dem abgelrennten Stücke sitzen bleiben, die dann zu Irrihümern Veranlassung geben könnnen.
+
+*) Diese Vebereiostimmung ist schr bemerkenswerth; sıe dalst vermutben, dals auch hier wie bei lenı Shalkit die Gemengtheile in einfachen Atgiverbältnissen mit einander verbunden sind. Vergleicht man in den Analysen des #. von Stannern und Juvenas von Rammelsberg die Sauerstoffmengen der Kieselsäure in dem zersetzbaren und unzerselibaren Gemengtheil, also in dem darın enthaltenen Anorthit und Augit, so findet man, (als diese betragen in 300 Theilen
+
+des E. von Stannern: 8,5% und 16,69
+
+sr Jarenas: AM und 17,09.
+
+Sie verhalten sich also fası genau wie 1:2. Da nun der Anorthit 2, der Augıt nur 1 Atom Kirselsäure enthält, so würde daraus folgen, dals in dem Lukrit son Stannern und Jurenas 1 Atom Anorthil und 4 Atome Augit enthalten sind. Diese grolse Menge des Augits ısı Vergleich zum Anorthit könnte bei Ansicht der Stücke zu grofßs erscheinen; Joch muls man hedenken, dafs der Augil ein viel höheres speciisches Gewicht als der Auorthul bat. Es ist bei dem Aug des Kukrits nicht untersucht, kann aber hei seinem hohen Eisengebalte wicht viel unter 3,4 beiragen, während der Anorthit nur ein Gewicht von 7,70 hal: daher der Augit verbälteilsmälsig weniger Kaum einzummt als der Anorthit, (S. ID. Eukril ım Nachtr.)
+
+3\. Das kleine Stück von dem E. von Jonzar im dem mineralogischen Museum ist ein ziemlich grobkörniges Gemenge von Augit und Anorıbit. Sein speciisches Gewicht beträgt nach Rummler 3,07-3,08. Man hat von ihm nur eine ältere Analyse von Laugier, die auf die Trennung der Gemengtheile keine Rücksicht nimmt, aber im (sanzen ein ähnliches Besultat wie die der E. von Juvenas und Stannern gegeben hat.
+
+4\. Der E. von Petersburg. Ein auf den ersten Anblick sehr fremdartig aussehender Enikrit. Er diel etwa 3 Päd, schwer zu Petersburg in Tennessee den 5. Aug. 1553 und ist hauptsächlieh durch die Nachrichten, die Shepard(!) darüber mitgetheilt bat, bekannt geworden. Das mineralogische Museum besitzt zwei nicht sebr grofßse Stücke, die zu ihm von Shepard durch Dr, Bondi gelangt sind. Der gröfste Tiheit des Steins besteht nach diesen aus einer graulichweilsen, feinkörnigen, zerreiblichen Masse, die, mit der Lupe betrachtet, doch nur ein feines Gemenge vor kleinen braunen und schneeweißsen Körnern ist, worin aber einzelne 1 bis 2? Linien grolse, grünlichgelbe Körner von Olirin, auch sehr kleine Körner von Magnetkies liegen, und kleine Rosiflecke anzeigen, dafs auch Nickeleisen darin vorkommt, wie man denn auch aus dem Pulrer mit dem Mamet eine für einen Eukrit nicbt unbeträchtliche Menge von Nickeleisen ausziehen kann. In dieser so beschaffenen Masse liegen einzelne einen balben Zoll im Durchmesser baltende Parthien eines gröbern Gemenges der braunen und wei(sen Körner, die sich nun deutlich als einGemenge von Augit und Anortlhit darstellen und mit andern, die bei den E. ron Juvenas und Stannern vorkommen, die grölste Aehnlichkeit haben; daher denn auch die granen Parthien nur für ein feinkörniges Gemenge von Augit und Anorthit zu halten sind. Auf der andern Seite finden sich auch in der grauen Masse 2 bis 3 Linien dicke eckige schwarze Parthien, die an der umliegenden Masse scharl abschneiden, und einen ebenen mailen Bruch haben und worin auch mit der Lupe ein Gemenge nicht zu erkennen ist, die dennoch aber nur ein inniges Gemenge sein möchten, da es wie das graue vor «dem Löthrohr an den Kanten zu einem schwarzen Glase schmilzt, das vom Magnete schwach angezogen wird und sich in Phosphorsalz mit Hinterlassung der Kieselsäure zu einem von Kisen schwach grün gefärbten Glase auflöst.
+
 ...
 
 #### Erklärung der Kupfertafeln

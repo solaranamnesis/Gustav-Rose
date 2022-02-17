@@ -1367,6 +1367,189 @@ Sie verhalten sich also fası genau wie 1:2. Da nun der Anorthit 2, der Augıt n
 
 4\. Der E. von Petersburg. Ein auf den ersten Anblick sehr fremdartig aussehender Enikrit. Er diel etwa 3 Päd, schwer zu Petersburg in Tennessee den 5. Aug. 1553 und ist hauptsächlieh durch die Nachrichten, die Shepard(!) darüber mitgetheilt bat, bekannt geworden. Das mineralogische Museum besitzt zwei nicht sebr grofßse Stücke, die zu ihm von Shepard durch Dr, Bondi gelangt sind. Der gröfste Tiheit des Steins besteht nach diesen aus einer graulichweilsen, feinkörnigen, zerreiblichen Masse, die, mit der Lupe betrachtet, doch nur ein feines Gemenge vor kleinen braunen und schneeweißsen Körnern ist, worin aber einzelne 1 bis 2? Linien grolse, grünlichgelbe Körner von Olirin, auch sehr kleine Körner von Magnetkies liegen, und kleine Rosiflecke anzeigen, dafs auch Nickeleisen darin vorkommt, wie man denn auch aus dem Pulrer mit dem Mamet eine für einen Eukrit nicbt unbeträchtliche Menge von Nickeleisen ausziehen kann. In dieser so beschaffenen Masse liegen einzelne einen balben Zoll im Durchmesser baltende Parthien eines gröbern Gemenges der braunen und wei(sen Körner, die sich nun deutlich als einGemenge von Augit und Anortlhit darstellen und mit andern, die bei den E. ron Juvenas und Stannern vorkommen, die grölste Aehnlichkeit haben; daher denn auch die granen Parthien nur für ein feinkörniges Gemenge von Augit und Anorthit zu halten sind. Auf der andern Seite finden sich auch in der grauen Masse 2 bis 3 Linien dicke eckige schwarze Parthien, die an der umliegenden Masse scharl abschneiden, und einen ebenen mailen Bruch haben und worin auch mit der Lupe ein Gemenge nicht zu erkennen ist, die dennoch aber nur ein inniges Gemenge sein möchten, da es wie das graue vor «dem Löthrohr an den Kanten zu einem schwarzen Glase schmilzt, das vom Magnete schwach angezogen wird und sich in Phosphorsalz mit Hinterlassung der Kieselsäure zu einem von Kisen schwach grün gefärbten Glase auflöst.
 
+Das specifische Gewicht nach Prof. Smith in Louisville 3,28.
+
+Aeufserlich eine schwarze glänzende Rinde wie bei den E. von Jurepas und Stannern.
+
+Auch die chemische Untersuchung, die Smith mit dem E. von Peteraburg angestellt, hat dieselben Resultate geliefert, wie die der übrigen Eukrite sie ergab:
+
+Kalk 9.01  
+Magnesia 8,13  
+Natron 0,84  
+Eisenoxydul 70,41  
+Thonerde 11,05  
+Kieseisäure 49,21  
+Eisen 0,3  
+Mangan 0.0  
+Schwefel 0.06  
+Nickel Spur   
+Phosphor  
+
+09,23  
+
+Shepard fand die Menge des eingemengten Nickeleisens bei einem Versuche 2,9 pC.
+
+Der E. von Petersburg ist also ein mit den übrigen im Allgemeinen übereinstimmender Eukrit, der sich von diesen nur durch etwas eingemengten Ulivin und eine noch etwas grölsere Menge von Nickeleisen unterscheidet.
+
+Shepard, der das ganze gefundene Stück zu untersuchen Gelegenhatte, beschreibt den Stein als bestehend aus einer aschgrauen Masse, die er für Änorthit hält, mit eingewachsenen, mehr oder weniger abgerundeten Krystallen von schneeweilsem Chladnit, grünem Augit, gelblichgrünem Olivin und Chromeisenerz. Die graue Masse macht nach ihm etwa % des ganzen Steins aus, die Krystalle von Augit erreichen zuweilen eine Größe von ' Zoll und von eben dieser Größe kommen auch Krystalle van Anorthit('} vor. Aufser diesen Einmengungen beobachteie Shepard noch ein hartes rothes, scheinbar in Dodekaßdern krystallisirtes Mineral, von dem er sagt, dafs es die gröfßste Achnlichkeit mit dem in dem Meteorite von Nobleborough (Maine} vorkommenden und von ihm für Granal erklärten Minerale habe, Diese Beschreibung weicht wesenlich von der meinigen ab, ich habe zwar nur zwei kleiee Stücke zur Benutzung gehabt, doch wäre es winschenswerth gewesen, dals die Anwesenheit von mehreren der von Shepard genannten Nlineralien wie namentlich des Chladnits näher bewiesen wäre, Die von mir beschriebenen schwarzen Parthien sind nicht erwähnt. Shepard giebt nun auch hier noch nach Smith’s und seinen Analysen eine ungefähre Berechnung der Gewichismengen der Gemengtheile, die ich auch hier nicht anführe, da sie auf zu unsichern Annahmen beruht. Von Augit giebt er nur IpC. an.
+
+Schlulsbemerkungen.
+
+Aus dem Bisherigen ergiebt sich, dafs die Meteoriten Gemenge verschiedener Mineralien sind, wie die tellurischen Gebirgsarten, und es scheint daher von Interesse, eine Vergleichung der kosmischen Mineralien und Gebirgsarten (Meteoritenarten) mit den tellurischen Mineralien und Gebirgsarten anzustellen.
+
+Die in den Meteoriten vorkommenden Mineralien sind:
+
+1\. Meteoreisen d.i. gediegenes Eisen, welches etwas nickelhaltig ist; €s ist nach drei untereinander rechtwinkligen Richtungen, parallel den Flächen des Hexaöders spaltbar, stahlgrau, metallisch glänzend und findet sich derb und eingesprengt, (lerb eine besondere Metenritenart hildend, und im Pallasit, eingesprengt in mehreren Meteoritenarten, namentlich im Chondrit und Mesosiderit.
+
+2\. Tänit.
+
+3\. Schreibersit.
+
+4. Rhabdit. Die drei Eisenverbindungen, die in dem Meteoreisen meistenibeils regelrmälsig eingewachsen vorkommen. Sie sind von gleicher Farbe und Glanz, wie das Nickeleisen und daher bei unyersehrtem Zustande des letzteren nicht sichtbar, sind aber in verdünnter Salpeier- und Chlurwasserstoffsäure schwerer löslich, als «las Meteoreisen und treten daher ans seiner Überfläche hervor, wenn man dasselbe in solchen Säuren einige Zeit hat liegen lassen.
+
+Der Tänit, ein nickelreicheres Kisen als das Meteoreisen, findet sich bei dem in octa@drischen Bruchstücken vorkommenden Meteoreisen in dünnen Blättchen zwischen den den Octa@derflächen parallel gehenden Schalen, und durch sein Hervortreten auf den geätzten Schnittflächeu werden vorzugsweise die Widmanstättenschen Figuren hervorgebracht, wie bei dem Eisen von loluca, Ellbogen etc.
+
+Der Schreibersit (Lamprit von v. Reichenbach), ein Phosphornickeleisen, findet sich in giatten Körnern und unvollkommen ausgebildeten Krysiallen in der Mitte der Schalen und diesen parallel bei einigen der vorisen Abänderungen des Aleteoreisens, z. B. dem Eisen von Cosby, Arva, Lenarto eic. |
+
+Der Rhabdit, ebenfalls ein Phosphornickeleisen , findet sich in kleinen, fast mikroskopischer, quadratischen Prismen, die nach drei Richtungen parallel ıeu Kanten des Hexaöders in dem Meteoreisen regelmäfsig eingewachsen sind, z. B. von Braunau, Serläsgen, Misteca. Sie finden sich in ‚lem Mleteoreisen gewöhnlich nur de, wn der Schreibersit fehlt, oder wenn sie nit diesem in einem und demselben Meteoreisen vorkommen, wie x. B. in dem von Arva, doch nur in den Stücken, die keinen Schreibersit enthalten. Da nun der Rhabdit wie der Schreibersit aus Phosphorvickeleisen bestebt, so wäre es hiernach wohl möglich, dafs beide nur verschiedene Zustänle einer und derselben Verbindung sind.
+
+5\. Graphit in kleinen derben Parthien in dem Meteoreisen eingemengt von verschiedener bis Wallnußsgrölse (M. von Toluca}, zuweilen in Pseudomorphbosen in der Form von kleinen Flexaödern (M. yon Arva).
+
+6\. Troilit (FeS), durch die Analyse als Binfach - Schwefeleisen erkannt, findet sick in mehr oder weniger grofsen, gewöhnlich unregelmälsig begränzten Parthien in dem Meteoreisen eingewachsen wie der Graphit, doch häufiger als dieser (M. von Toluca, Seeläsgen, Lockport). Nur einmal, in dem Meteoreisen vom Cap «ler guten Hoffnung, habe ieh ihn auf der Schnittlläche des Eisens in regelmälsig begränzten Umrissen beobachtet, ohne seine Form weiter bestimmen zu können. ln dem Eisen von Sarepta erscheint er mit dünuschaligen Zusammensetzungssiücken in einer Richtung, wie öfter der tellurische Magnelkies; ob er deshalb auch da, wo er mit unregelmäfsiger Begränzung vorkommt, stets ein Individuum und kein Aggregat ist, kann nicht ausgemacht werden, da der Treilit nicht spaltbar ist und gewöhnlich einen unebenen Bruch hat. Er ist theils ganz ohne Einmengungen von Nirkeleisen wie in dem Eisen von Seläsgen, theils enıkält er diese in feinen Parihien, auch enthält er zuweilen Schwefelniekel chemisch gebunden (M. von Sevier County). Ob indessen alles Schwefeleisen, welches in dem Meteoreisen vorkommt, dem Troilit und nicht zum Theil auch dem folzenden Magnetkies angehört, ist noch auszumarben, sowie auch, wohin das Schweteleisen gehört, welches in kleinen Parthien sich in dem Pallasit und Mesosiderite findet.
+
+7\. Magnetkies findet sich in kleinen Krystallen in (dem Eukrit von Juvenas und nach Shepard auch in dem Ghondrit von Richmond. Er ist hier durch seine For ala Magnetkies kenntlich und es ist hiernach wahrscheinlich, dafs auch das Schweleleisen m den übrigen Eukriten und Choodriten, in denen es immer nur in kleinen Parthien und eingesprengt vorkoramt, Magnetkies sei: diels wird auch noch dadurch wahrscheinlich, «lafs viele der Chondrite beim Auflösen in Chlorwasserstollsäure etwas Schwefel absetzen. Indessen könnte auch in diesem neben dern Magueikies, oder auch statt dieses Troilil vorkommen. Bei dieser Uuhestirmmnibeit ist in dem Ühigen vorläufig angenommen, dafs alles Schwefeleisen in dem Meteoreisen Pallasite uud Alesosiderit: Troilii und in den übrigen Meieoriten: Magnetkıes sei.
+
+8\. Chromeisenerz; sehr verbreitet in den Meteoriten; wenngleich immer nur in sehr geringer Menge. Es findet sich zuweilen krystallisirt in Üctaödern, gewöhnlicher ın Körnern und eingesprengt; am deutlichsten krystallisirt und in den größten Körnern, die zuweilen die Gröfse einer kleinen Erbse erreichen, in dem Shalkit, seltener und in weniger grofsen Körnern in demı Meteoreisen und in dem Pallasit, namentlich von Brahin, feiner eingesprengl in dem Chassignit, Chondrü, Howärdit. In dem Meteoreisen ist es öller in Troilit gauz eingewachsen, wie bei dem M. von Carthago und Schweiz.
+
+9\. Quarz in kleinen fast mikroscopischen doch mit dem Refllexionsgoniometer melsbaren Krystallen in dem Meteoreisen von Toluca als grofse Seltenheit. Bei der Analyse des Meteoreisens ist Kieselsäure öller gefunden,
+
+10\. Olivin (Mg, Fe)‘ Si: ein häulıger und wichtiger Gemenztheil der Meteorite. Er kormmt krystallisirt, in Rörnern und anch derb vor. In den ausgezeichnetsten Krystallen in dem Pallasit, Mesosiderit und Shalkit, in kleinern Kömern im Chondrit und Howardit, derb und fast die ganze Masse des Steins ausmachend im Chassignit. In dem Pallasit sind die Krystalle porphyrartig eingewachsen, oft ganz rund, wenn sie sich nicht gegenseilig begränzt und in der Ausbildung gestört haben, meistens aber noch einzelne und selbst viele sehr glatte und glänzende Flächen zeigend, die sich tbeils nicht berühren, theils in Kanten schneiden ('!). Die Krystalle sind oft vollkommen durchsichtig, gelblichgrün und stark glänzend von Glasglanz; sie enthalten häufig röhrenartige Einschlüsse, die unter einander und der Hauptaxe parallel sind. In dem Mesosiderit namentlich ron Haivholz erhalien die Körner zuweilen die Gröfse einer Wallnußs, sind aber nicht durchsichtig, sondern nur an den Kanten durchscheinend, und gelblich- bis rölhlichbraun; im Shalkit haben sie oft eine ebenso beileutende Gröfse, sind aber sehr klüftig, und durch dunkle schwärzlichgrüne Farbe ausgezeichnet, die aber an einzelnen Theilen eines und desselben Kornes lichter wird und in die gelblichgrüne Farbe übergeht. Yon dieser Farbe sind sie auch meistens in den übrigen Bletcoriten. Der ÖOlivin der meisten Meteorile ist vor dem Löthrohr unsehmelzbar, er verändert sich gar nicht, oder wird nur dunkler von Farbe, der Olivin im Chassignit schmilzt aber vor dem Löthrohr, weon auch nur schwer, in Foige seines gröfsern Eisengehaltes zu einem schwarzen Glase wie der Hyalosiderit, mit dem er auch in seinem Eisengehalle übereinstimmt.
+
+11\. Sbepardit Mg’ Si’: ein Hauptgemengiheil des Chladnits, in welchem er in eingewachsenen unvollkommen ansgebildeten Krystallen bis zu der (sröfse eines halben Zolles und darüber vorkommt; schneeweifs sehr bröcklig, fast unaufiöslich in Chlorwasserstoffsäure. Findet sich aufserdem is Shalkit, doch in viel kleineru Körnern, ist aber sonst mit Sicherheit nicht beobachtet.
+
+12\. Augit findet sich im Eukrit und Mesosiderit; in dem erstern von schwärzlichbrauner Farbe, kleinkörnig, und in den Drusenräumen bei dem E. von Juvenas in sehr deutlichen Krystallen, wie er gewöhnlich in den Doleriten und neueren vulkanischen Gesteinen vorkommt, krystallisirt, Yon Basen enthält er vorzugsweise Eisenoxydul, nächstdem Magnesia und Kalkerde; seine Formel: (Fe, Ms, Ca) Si. In dem Mesosiderit ist er erohkörniger, namentlich in dem von der Sierra de Chaco und schwärzlichgrün. Wenn man ihn auch in dem Chondrite aufgeführt hat, 0 ist diefs eine blofse Annahme, die man bei der Berechnung der Analyse gemacht hat, und die sich auf eine wirkliche Beobachtung desselben nicht gründet.
+
+*) Die (Querlläche # fehlt stets, wie sie auch bei den eingewachsenen tellurischen Ülivinen nıclıt vorkommt,
+
+13\. Anorthit CSi+AlSi ist hauptsächlich im Eukrit enthalteu, der fast nur ein kleinkörniges Gemenge von ihm mit Augit ist. Er ist schneeweils, in den körnigen Zusammensetzungsstücken deutlich spalıbar und oft zwillingsartig verwachsen. In den Drusen des Eukrits van Juvenas ist er auskrystallisirt, doch viel undeutlicher und kleiner, als der mit ihm zusarmmen vorköınmende Augit. Mit Sicherheit ist er in andern Meteoriten nicht nachgewiesen, doch ist er wahrscheinlich auch im Howardit und Chladnit enthalten.
+
+Dhels sind die in den NMeteoriten des Berliner Museums beobachteten und bestimmten Mineralien; zu den beobachtelen aber noch nicht bestimmten Mineralien gehören:
+
+1\. Die Kuseln in dem Chondrite; sie sind im Innern ımdentlich fasrig und von gelblichgrauer bis graulichschwarzer Farbe; nicht selten findet man Kugeln von beiden Farben in einem und demselben Meteoriten, und zuweilen beide Farben bei einer und derselben Kugel, und dann theils solche mit einem lichtern Kern bei dunkler Hülle, theils solche mit dunklerm Kern bei lichter Hülle. Sie sind in ihrer Zusammensetzung noch nicht vollständig untersucht, scheinen aber hauptsächlich ein Magnesia-Silicat zu sein, unterscheiden sick aber von dem Olivin dadurch, dafs sie, wenn auch nicht vollkommen unlöslich, dach sehr schwer iöslich sin.l.
+
+2\. Die schwarze Substanz, die sich in dem Ühondrite nach den Beobachtungen unter dem Nikroseop findet.
+
+3\. Die gelben tafelarligen Krystalle, die in dem Eukrit von Juvenas vorkommen, mit dem Titanit Ähnlichkeit haben, von demselben aber wahrscheinlich doch verschiedeu sind.
+
+4\. Die weilsen Körner im Howardit, sowie auch die, welche neben dem Shepardit im Chladnit vorkommen.
+
+3\. Das nach Shepard Schwefel und Chrom haltige Mineral im Chladnit u. 5. w.
+
+Aulserdem sind bei den Analysen der Meteorsteine Bestandiheile gefuuden, die aul noch nicht beobachtete Mineralien. schliefsen lassen. Dahin gehört die von Berzelius gefundene geringe Menge von Zinnsäure, die ölter mit dem Chromeisenerz bei der Auflösung des Meteoreisens zurückbleibt und wahrscheinlich von einer geringen Menge Ziunstein herrührt, wenn auch die Zinnsäure, die in der Auflösung des Meteoreisens enthalten ist, von dem Moetall herrübren mag, das mit dem Nickeleisen verbunden gewesen ist. Ferner die Thonerde und die Alkalien, die in dem Chondrite, Howardite und Chladnite, so wie auch die geringen Mengen von Phosphorsäure und Titansäure, die in dem Eukrit gefunden sind.
+
+Zu den Mineralien, die in den Meteoriten häufig aufgeführt werden, wiewohl ich sie bei denen des Berliner Museums ger nieht, oder sicht mit Sicherheit beobachtet habe, gehören Magneteisenerz, Kisenkies, Labrador, Leucii, Schwefel w.s.w. Aufiallend ist besonders die Abwesenheit des Magneleisenerzes in den Meteoriten (1), es scheint in diesen überall durch das Chroameisenerz rerlrelen zu sein. Ebenso wie das Eisenoxydul fehlt aueh das Eisenoxyd, und dieses nicht biofs als selbstständiges Mineral, es scheist auch selbst als Bestandtheil anderer Mineralien zu feblen. Unter den metallischen Substanzen wird auch noch das Blei genannt, welches sich in dem Eisen ron Tarapaca findet, da aber dieses Eisen noch zu den problematischen Meteoriten geköreu möchte (?), so habe ich auch das Blei als Gemengthbeil der Meleorite noch richt aufgeführt.
+
+Die bekaunten Mineralien der Aleteoriten kommen daher nur zum Theil mit den tellurischen Mineralien überein. Meteoreisen, 3a selbst nur reines Eisen, komınt als ursprüngliche Bildung unter den tellurisehen Mineralien nicht vor, denn das wenige tellurische Eisen was angeführt wird, scheint immer nur eine secundäre Bildung und darch einen localen Reductionsprocefs entstanden zu sein, und ist daon nie nirkelhaltie. Ebenso ist Tänit, Schreihersit, Kihabdit, "Troilit und Shepardit noch nicht beobachtet, dagegen Graphit, Magnetkies, Chromeisenerz, Olivin, Angit und Anorthit unter den tellurischer Mineralien häufig vorkommen, und von (Juarz es nur auffallend ist, dafs er, fast das häufigste Mineral auf der Lirde, unter den Meteoriten so äufserst selten ist, bei den Steinmeleorilen gar nicht, und nur im Meteoreisen beobachtei ist. Wenn demnach elementare Stoffe unter den Meteoriten durchaus nicht gefunden sind, die nicht auch auf der Erde bekannt sind, so ist diefs bei den Verbindungen, die sie unter einander bilden, nicht so vollständig der Fall,
+
+*) Vergl. darüber was bei dem HAowardıt (5,109 uni F.nkrıl (S. 133) gesapl ist, Beim Kietenreisen Gbadet es sich wohl, ist aber Iuer gur secumdärer Bildung (5. 47).
+
+*) Diese Meinnng äufserte zuerst gegen mich Daran v. Reichenbach, als er in dem Berliner Museu das früber auch für meteorisch gehaltene Eisen von (Gr. Kanısdorf sah, mit welchem das Eisen von 'Tarapara die pröfste Achnlichkeit haben sallte. Als ich später dieses Kisen selbst sah, bel mir ebenfalls seine grofse Aechnlichkeit mit dem Kamsdorfer Eisen auf, und meine weitern Untersuchungen bestärkten aoch meine Zweifel an dem meieorichen Ursprung desselben, denn geätzt giebt es keine Wulmanstältensche Figuren, er verhält sich überhaupt nicht wie ächtes Sleleoreisen, und ebenso verselueden verhält sich das danit vorkommende Sılikat, indem es vor dem Löthrohr leicht schmelzbar ist, was auch beı den ächten Aleteoriten nicht vorkommt,
+
+Die in den Meteoriten vorkommenden Mineralien kommen nun entweder für sich allein vor oder in einem Gemeuge mit einander, worin sie mit den tellurischen Gebirgsarten ganz übereinstimmen. Aber es ist merkwürdig, dals sie fast nur anf zweierlei Weise vorkommen, und dafs die davon abweicherle Weise gewissermafsen nur eine Ausnahme bildet, Man theilt die Mleteorite ein in Eisen- und Steinmeteorite; der bei weitem grölste Theil der erstern jedoch besteht nur aus Meteoreisen, und ebenso der gröfste Theil der Steinmeteoriten aus Chondrit. Das Meteoreisen ist zum gröfsten . Theil ein einfaches Alineral, worm der Tänit, Schreibersit und Bhabdit meistentheils regelmäfsig eingewachsen sind, und nur in sehr geringer Menge vorkommen. Der Ghondrit ist ein so feiukörniges Gemenge, dafs es bis jetzt noch nicht gelungen ist, die Gemengiheile vollständig zu erkennen. In der mehr nder weniger dunklen graulichweilsen feinkörnigen Masse erkennt man aufser den nach nnbekannten Kugeln und dem ceingesprengten Meteoreisen und Magunetkies nur Körner von Olivin und Chromeisenerz, das übrige nicht, Die bei weitem am häulissten vorkommende Art Jer Steinmetenriten ist also in ihrer Beschaffenheit noch unvollkommen gekannt.
+
+Zu den Kisenmeteoriten gehören noch 2 Arten, der Pallasit und der Mesosiderit. Ersterer ist ein Genienge von Aleteoreisen mit Olivin, letzterer von Aleteoreisen mit Olivrin rınd Augit, Der erstere hat eine porphkyrartige Structur, das Meteoreisen bildet die Grundmasse, worin eie Olivinkrystalle eingewachsen sind; bei dem letztern ist die Structur schon körnig zu nennen, das Eisen tritt an Masse gegen «ie andern Gemengiheile noch mehr zurück als bei dem Pallasit.
+
+Die übrigen Steinmeteorite sind auch mehr oder weniger gemengt.
+
+Der so selten vorkommende Chassignit ist fast nur ein körniger eisenreicher Olirin, worin etwas Chromeisenerz eingemengt ist,
+
+Der Shalkit ein körniges Gemenge ron vorwaltendem Olirin mit Shepardit und etwas Chromeisenerz.
+
+Der Chladnit besteht vorzugsweise aus Shepardit, die andern Gemengiheile sicd nicht mit Sicherheit hekannt.
+
+Der Howardit ein feinkörniges Gemenge von Olivin wahrscheinlich mit Änorilit.
+
+Der Eukrit endlich ein solches Gemerge aus Augit und Anorthit.
+
+Fast alle diese Meteorite sind durch den Ulivin, den sie enthalten, ausgezeichnet; der Chassiguit besteht fast nur daraus, der Shalkit enibält ihn in vorwaltender Menge, in dem Chondril und Howärdit ist er ein wesentlicher Gemengtheil, und der Eukrit enthält ihn zwar als solchen nicht, aber in dem E. von Petershurg ist er doch als unwesentlicher Gemengtheil vorgekonmen, Nur der Chladnit enthält ihn, so viel man weils, nicht, doch findet sich statt seiner das Trisilicat der Magnesia, der Shepardit. Neben Jem ÖOlivin ist das Chromeisenerz ein lası is allen Meteorilen, wenn auch uur in geringer Menge vorkommender Gemengtheil.
+
+Vergleicht man die Meteoriten, die kosmischen Gebirgsarten, mit den tellurischen,, so ergiebt sich, dals sie gänzlich von diesen verschieden sind bis auf den Eukrit, der doch unter den teliurischen Gebirgsarten auch nur selten vorkommt und erst in der neuern Zeit aufgefunden ist. Haughton in Dublin beschrieb zuerst ein solches Gemenge von Carlingfors in Irland, wo es in Gängen im Steinkohlengebirge vorkommit('), gab aber das den Anortbit begleitende Mineral für Horublende aus, was nach den Stücken, die ich lIrn. Skoti verdanke, Augit ist, doch sind ja auch Gesteine, die Gemenge von Änorlhit und Hornblende sind, in der neuern Zeit bekannt geworden, wie z.B. das bisher für Diorit gehaltene Gestein vom Kontschekowsko) Kamen im Ural nach Potyka ein solches ist (*}, und solche mögen auch in Iıland vrorkomimen. Die Anorthitgesteiue und namentlich der Eukrit sind gewifs aber noch viel häufiger, als man glaubt. Durch das Gelatiniren des Anorthits mit Chlorwasserstoffsäure war ein leichtes Mittel gegeben, denselben vom Labrador zu unterscheiden; ich fand so, dafs viele für Hypersthenfels gehaltene Gesteine nichts anderes als Eukrit sind, wie z.B. der sogenannte Hypersihenfels von der Insel Skye, der hier so verbreitet ist, und von dem das Berliner Museum viele und schöne Stücke besitzt, (die die Hro, v. Dechen und vr. Oeynhausen dort gesammelt und dem Berliner Museum übergeben haben. Die tellurischen Eukrite unterscheiden sich zwar dadurch von den meteorischen, dafs sie grobkörniger sind und der Ausgit in ihnen nicht braun sondern grün ist, doch sind diefs unwesentliche Uhterschiede, Einen wichtigen Unterschied würde das Vorkommen des geditegencn Eisens in den meteorischen Enıkriten machen, doch ist dieses Ja in den meisten, wie in dem von Stannern und Juvenas, nur in solcher geringen Menge vorhanden, dafs es bisher in ihnen ganz übersehen ist, und also einen wesentlichen Gemengtheil nicht abgeben kann.
+
+Ein Unterschied zwischen dem tellurischen und metcerischen Eukrit findet aber immer statt; der erslere verhält sich zu diesem wie die ältern vulkanischen Gebirgsarten zu den neuern, wie die Gebirgsarlen der Granit- und Grünsteingruppe zu denen der Irachyt- und Basaltgruppe. Wie jene dieselben Gemenstheile haben wie diese, und beide sich oft our in unwesentlichen Eigenschaften voneinander unterscheiden, so ist diels auch hier der Fall. Der tellurische Eukrit gehört zu den Gebirgsarten der Grünsteingruppe, der meleorische zu denen (der Basaltgruppe.
+
+Indessen wäre es wohl möglich, dafs auch unter den Gebirgsarten der Basaltgruppe, namentlich unter dem, was man Dolerit senannt hat, ein Bukrit vorkäme, der dann in seinen Eigenschaften noch mehr mit dem meteorischen übereinstimmen würde. Unter den in Island vorkommenden Laven ist schon mehrfach Anorthit als Gemenstheil beobachtet; die von Gentb analysirte Tjorsä-Lava kommt in der Zusammensetzimg dem Eukrit von Stannern schr nahe; es ist wohl! möglich, dafs Jiels ein Eukrit ist, wie ihn Roth auch schon vorläufig dazu gestellt harf?).
+
+Mit diesen Gebirgsarten der Basaltgenppe sind überhaupt auch nur die Mleteoriten zu vergleichen. Sie kommen mit Jiesen überein durch die meistentheils körnige Structur, durch den gänzlichen Mangel freier und die rerhältnilsmälsig geringe Menge der gebundenen Kieselsäure (!\ und durch den Reichthum an Olivin. Diefs sind aber ziemlich alle Vergleichungspunkte, die die Meteorite darbieten. Letztere unterscheiden sich wesentlich durch das metallische, stets niekelhaltige Kisen und die übrigen, unter den tellurischen Mineralien nicht beobachteten Verbindungen, die sie enthalten, durch die geringe Menge von Silicaten mit [honerde und Alkali und ferner durch die gänzliche Abwesenheit des Magneteisenerzes, «as in den neuern rulkanischen Gebirgsarten der Erde so verbreitet ist. Bei den Meteoriten ist, wie schan bemerkt, das Magneteisenerz durch das Chromeisenerz vertreten. Dieses kommt in den tellurischen Gebirgsarten auch vor, hat hier aber ein ganz anderes geognostisches Vorkommen, indem es hier nicht an den Olivin gebimden ist; indessen kommt es doch auch hier mit einem Magnesiasilicat vor, wenn auch einem wasserhaltigen, dem Sernentin, der pun freilich häufig eine Metamorphose von Olivia ist, aber doch nicht gewöhnlich in den Fällen, wo der Olivin in den Gebirgsarten der Basaltzrupne vorkommt (*].
+
+Aber nieht nur in der Art der Gemengtheile zeigen die Meteorite Unterschiede von den tellurischen Gebirgsarien, sie finden sich auch in der Struetur. Die Porphyrstructur, die bei dem Pallasite vorkommt, ist doch darın von der Porphyrstruetur des rothen Porphyrs und anderer tellurischen Gebirgsarten verschieden, dafs hier die Grunemasse nie ein einfaches Mineral, sondern ein körniges bis dichtes Gemenge verschiedener Mineralien oder eine amorphe Masse ist, Ebenso sind die tellurischen Gebirgsarten von kugliger Structur dadurch verschieden, (als ihre eingeschlossenen Kugeln, wenn sie fasrig sind, stets radial fasrig sind, wie diels nie bei Jen Kugeln des Chondrits der Fall ist, wo man ihre Struetur erkenoen kann.
+
+*) Ich sehe bherbei von den kicinen Öusrzirystallen ab, die ich in dem Meteoreisen von Toluca und nur ın deesem refunden habe.
+
+*) Ein tellurisches Mineralgemenge ie noch mil den Meteoriten zu vergleichen; das sind de Olivinkugeln, «lie theils eingeschlossen in dem Hasalt, iheils in dem Basalttuff vorkommen. Ste sind ein körniges (armenge vaı Oliin und Augit; enthielten sie noch Nickeleisen, 50 kKimen sie mit dem Mesosiderft überein. Wenn die Olivinkugeln durch diese Beziehung vin gewisses Interesse lıaben, so erregen sie noch ein anderes ıurch ihre röthselhafte Bildung Wenn sie in dem Basalte liegen, so sind sie (arin keine Bildungen, die beim Erstarren des Dasaltes entstanden sind, wie die einzelnen Oliwinkryatalle, die neben ihnen in dem Basalte vorkommen, dern sie haben nicht die Siructur solcher Bildungen, sie können daher nur Einschlüssr sern; weon sie aber solche siosl, so mufs man fragen, woher sie kommen, und diese Frage ist schwer zu beantworten.
+
+Auch die körnige Structur der NMeteoriten ist dadurch ausgezeichnet, dals bei ihnen ein so schneller Wechsel in Korou und Farbe des Gesteins vorkommt. Bei dem Eukrit von Stannern finden sich ganz feiukörnige, ja dieht zu nennende A bänderungen neben kleinkörnigen und schneiden scharf an diesen ab; und etwas Achnliches kommt auch bei den andern Eukriten sowie auch bei den Howarditen vor In dem Chondrite von Grüueberg ist die eine Hältte des Stückes grau, die andere weifs, und auch hier schneiden beide Abänderungen scharf ab. In dem Chondrite von Chautonnay unıl Siena treffen auf diese Weise sich graue und schwarze Theile, und bei dem Chondrite von Ensisheim hat es fast das Ansehen, als durchseize die eine die andere in Gängen. Bei den tellurischen Gebirgsarten gränzen auch wohl feine und grobkörnige Abänderungen aneinander, doch findet dieses im Ganzeu nur selten stalt, und der Uebergang ist nie so scharl. Dieß Zusaminenkommen von so rerschieden aussehenden Varietäten «dicht neben einander giebt deu Meteoriten ein breccienartiges Ansehen, und als solche Breecien hat man sie ja auch oll schon beschrieben. Wenn aber auch kei ihnen s0 rersehiedenarlig aussehende Abänderungen scharlareinan.ler abschneiden, s0 sind sie doch in ihren wesentlichen Bigenschaften nicht voneinander verschieden die Meteoriten daher nie Breceien im Sinne unserer Gebirgsarten, und dieser Ausdruck, wenn er für sie gebraucht wird, ist immer nur ein uneigentlicher.
+
+Drusisz werden die Meteoriten selten, aber cs kommt loch in ausgezeichneter Weise vor bei dem Eukrit von Juvenas('). Shepard beschreibt noch Drusen bei dem Ghondrit von Richmond; audere Jdrusige Meieoriten als diese sind aber nieht bekannt, —
+
+Uugeächtet aller der genannten Yerschiedenheiten hahen die Steinmeleorile tloch eine nicht zu läugnende Achnlichkeit mit deu neuern vulkanischen (sebirgsarten, und bei dem hohen Interesse, das die Meteoriten als aulsertellurische Körper gewähren, ist diese Vebereinsiimmung, wie sie auch immer sei, von grolser Wichtigkeit.
+
+*) Besonders schön sollen ‚lie Drusen zu sehen sein bei dem grolsen, 4% Kilogramm schweren Bruchslück dieses Sleteoriten, welches sıch in dem Muse W'Aistoire rarurele im Paris befindet und das grülste ist, welches existirt.
+
+
+Nachtrag.
+
+Während des Druckes der letzten Bogen erhielt ich noch einige neue Meteoriten, über welche ich hier noch Einiges hinzufüge.
+
+1\. Mesosiderit ron Atacama in Chile. Er wurde auf einem Bergpasse 50 engl. Meilen von Copiapo gefunden, von Hrn. Brower erworben, der ibn nach New York brachte und dem Union College in Schenectady übergab, wo er vom Prolessor Joy analysirt und beschrieben wurde (!). Durch Hrn. Prof. Chandler in Schenectady erhielt ich eine kleine Probe un. ein Modell des ursprünglichen Meteoriten. Er hat hiernach eine ellipsoidische Gestalt mit ziemlich ebener Oberfläche und eine Länge, Breite und llöhe von etwa 4, 3% und 3 Zoll. Sein Gewicht betrug nach Joy 1784 Grammen, sein spec. Gew. 4,35. Nach der übersandten Probe hat er auf den ersten Anblick so grolse Aehnlichkeit mit dem Mesosiderit von der Sierra de Chaco in Atacama (vergl. oben 3.81), dafs man geneigt sein könnte, ihn mit diesem für identisch zu halten. Nach der AnaIyse von Joy enthält er 57,657 metallische Theile und 42,419 Silieate, die wieder bestehen in 100 Theilen aus:
+
+Eisen 63,76 Eisenoxydul 24,47  
+Nickel 918 Manganoxydul 3.29  
+Kokalt 1,15 Maanesja 10.05  
+Mangan 0,03 Kalk J,b3  
+Kupfer 0,07 Nickel- u. Kobaltoxyd 0,17  
+Phosphor 0,20 Thonerde 3,86  
+Schwefel 4,67 (*)} Uhromoxyd 1,12  
+91,98 Kieselsäure 45,61  
+Zinnsäure 0,44  
+9964  
+
+Joy berechnet biernach in den Silieaten:
+
+Chromeisenerz 1,64  
+OÜlivin 27,43  
+Lahrador ’01d  
+94,20  
+
+Hr. Joy hat aber hierbei den Augit überschen, der in dem kleinen übersandten Stücke ganz deutlich, und von derselben Beschaffenheit wie bei dem Mesosiderit von der Sierra de Chaco enthalten ist; ich konnte einen kleinen Krystall herausnehmen, und mich durch Messung der Winkel der Spaltungsflächen überzeugen, dafs er Augit sei. Olivin ist aulserdem ganz deutlich sichtbar, Chromeisenerz nicht, doch nach dem bei der Analyse sefundenen Chromoxyd sehr wahrscheinlich. Hr. Joy berechnet nun noch aus der Analyse in dem Meteorite eine hedeutende Menge Labrador; allerdings sieht man in der übersätidten Probe kleine Krystalle, die eine deutlich gestreilte Spaltungsfläche zeigen und vielleicht Labrador oder ein anderer ein- und eingliedriger Feldspath wie Anorlhit sein könnten, und der geiundene Thonerdegehalt, der für Augit allein zu grofs erscheint, sprieht auch für die Anonahrne eines solchen Feidspaths, wenn er auch nicht in solcher Menge wie ihn Joy annimmt in dem Meteoriten enthalten sein könnte. In dem viel gröfseren Stücke des Mesosiderits von der Sierra de Chaco in dem Berliner Museum habe ich aber diese Krystalle nieht beobachten können; und es wäre demnach wohl möglich, dafs dadurch eine Verschiedenheit zwischen den Meteoriten von der Sierra de Chaco und Copiapo angedeutet wäre; ich habe daher einstweilen noch in der folgenden Uebersicht Jen Meteoriten von Copiapo als besondern Metcoriten hinter dem von der Sierra de Chaco aufgeführt.
+
+2\. Meteoreisen ror dem Indianischen Territorium Dacola in Nord-Amerika. Dr. Fakson in Boston erhielt 1863 von dieser Bisenmasse, die sich in einem über 90 engl. Meilen von jeder Strafse oder Wohnung entferntem Grunde gefunden halte, und deren Gewicht auf 100 Pfund geschätzt wurde, ein 10 Pfund 10 Unzen schweres Stück, Er fand sein spec. Gew. 7,952, die Härte wie die des weichesten schmiedbaren HKisens, und seine chemische Zusamimenselzung beslehend aus:
+
+Eisen 91,735  
+Nickel 6,332  
+Finn 0.0  
+Phosphor . 0,010  
+75,340,  
+
+Ein zweiter Versuch bestimmte den Nickelzehait zu 7,080 (*).
+
+Ich erhielt von Hrn. Prof. Shepard eine von dem Stücke des Dr. Jakson abgeschnittene, 4 Linien dieke und 3,319 Loth schwere Platie, die an dev Bändern zum [heil noch mit der natürlichen Öberlläche begränzt und bier mil einer nur ganz dünnen Rinde von Eisenoxydhydrat bedeckt ist. Das Bisen zeigt geätzt die Aetzungalinien, die über die ganze Fläche fortlaufen, wie bei dem Eisen von Braunau, uud ebenso die kleinen eingewachsenen Rhabditkrystalle, gehört also zu der bis jelzt nur selten vorgekommenen Abtheilung Jes Meicoreisens, das nur aus einem Individuum ohne schalige Zussinmensetzung besteht. Beim Zerreilsen des Eisens würden also die hexaädrischen Spaltungslächen sichtbar werden. — Außer dem Rhabdit findet sich in der Platte Schreibersit in mebreren ungewöhnlich großen Parthien, die an einer Stelle zusammengehäufl sind, eingewachsen.
+
+3\. Meteoreisen von Tucson (s. oben 5.73). Ich erhielt von diesem Eisen ron Hro. Shepard eine dünne 1,635 Loth schwere Platte. Die polirte Fläche ist voller kleiner runder llöblungen. Geälzt zeigt sie srobkörnige Zusammenselzungsstücke, yon denen einige bei einer gewissen Beleuchtung eine lichte graue, andere eine dunklere graue Farbe haben; bei anderer Beleuchluug verhalten sie sich umgekehrt, Die Zusammensetzungsstücke haben eine sehr dünne Einfassuug von läcil, und viele der kleinen Höblungen haben nun glänzende Wände erhalten, die auf der übrigen matten Fläche hervorleuchten. Die Zusammensetzungsllächen zeigen feine linienartige gerade Furchen, die eine von den Aetzungslienien etwas verschiedene Beschaffenheit haben. Da nun hei diesem Eisen auch octaeıdrische Spaltbarkeit("} (soll wohl heilsen oetaödrische Zusammenselzung) angegeben wird, so habe ich Jieses kisen iu der folgenden Uebersicht auf das Eisen von Seeläsgen und Tucumau folgen lassen.
+
+4\. Meteoreisen von Wayne County, Ohio Ver. St. 1859. Eine kleine geätzte Platte mil deutlichen Widmanst. Fig. von Hrn. Shepard erhalten. Das Eisen lolgı in der Uebersicht nach dem von Nebraska.
+
+5\. Das Meteorcisen von Graubourne. Das kleine Stück der Samenlung (s. oben 3. 7.3) lälst scätzt noch die Widmansteit. Fig. erkennen, die auch sonsi angegeben werden; ich babe es deshalb auf das Eisen you Denton lolgen lassen.
+
+6\. Pallasit von Rogee River Mountains, Oregon, N. America 185%, wovon ich kleine Stückchen von Hrn. Shepard und
+
+7\. Mesosiderit(?) von Niakornak in Grönland, von IIrn. Greg erhalten babe, wurden der erstere hinter dem PP. von Brahin, der letziere hinter dern M. von Hainholz eingeordnet.
+
+8\. Den mikroscopischen Zeichnungen auf den Taf. III und IV habe ich noch eine neue in Fig. 12 Taf. III binzugeiüögi, die eine Stelle aul einer dünnen Platte des Chondrits von Chantonnay in derselben Vergröfserung wie die Fig. 3 und 4 darstellt. Sie zeigt eine Gruppe durchsichliger ungefärbter (Olirin) Krystalle, die von der schwarzen Substanz fast ganz umgeben, und daher überall wo sie an diese angränzen, regelmäfsig begränzt sind. Aufserdem sicht man in diesen Krystallen kleine sehr feine, schwarze haarförmige Krystalle, in verschiedenen Höhen liegen, die wahrscheinlich ähnliche röhrenförmigen Einschlüsse, wie die in den Olivinkrystallen des Pallas- Kisens sind.
+
+9\. Eukrit. Berechnet man aus den durch die Analyse gefundenen (sewichtsmengen des Anorthits und Augits und den specifschen Gewichten (2,76 und 3,35) die Volumina der Gemengtheile, so ergiebt sich das Volumenverbältoils von Anorthit und Augit in dem E. ron Stansern wie 12,35 : 19,20 und in dem E. von Juvenas: a) wenn man alles durch die Säure Zerselzte für Anoribit und das Unzersetzte für Augit nimmt, wie 13,32: 18,87 und 5} wenn man bei der Berechnung die Phosphorsänre, las Schwefeleisen und Chromeisenerz in der Analyse von Rammelsberg abzieht, wie 13,14 : 18,72, oder in dem E. von Stannuern beinahe wie 2:3, in dem von Jurenas wie 5:7.
+
+Berechnet man das specifische Gewicht des Gemenges aus den Gemengtheilen, s0 erhält man für den E. von Stannern: 3,14; für den E. vou Juvenas: a) 3,10, 5) 3,13, was mit den gefundenen Werthen nahe übereinkommt. (Vergl. oben 5. 134 die zweite Anmerkung.)
+
 ...
 
 #### Erklärung der Kupfertafeln

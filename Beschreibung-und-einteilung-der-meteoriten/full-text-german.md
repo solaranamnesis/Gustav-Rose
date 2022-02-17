@@ -1550,7 +1550,212 @@ Ich erhielt von Hrn. Prof. Shepard eine von dem Stücke des Dr. Jakson abgeschni
 
 Berechnet man das specifische Gewicht des Gemenges aus den Gemengtheilen, s0 erhält man für den E. von Stannern: 3,14; für den E. vou Juvenas: a) 3,10, 5) 3,13, was mit den gefundenen Werthen nahe übereinkommt. (Vergl. oben 5. 134 die zweite Anmerkung.)
 
-...
+En |  
+l. Eisenmeteorile.  
+1. #leteoreisen.  
+a Aus einem Indiridunm besiehend, ohne  
+schalige Zusammensetzung;  
+gefallen 14, Juli, Braunau (Hauptmannsdorf}, Böhmen  
+(.laihorne, Goumty Alabama, Ver. 5 0. A... .|-:  
+Saltıllo (Gmahwila), Mer 2 ne  
+Dakota Terrilorium, Ver. St. 0A, . u... bb  
+6&. Aus vielen grobkörn:igen Individuen  
+hestebend.  
+Seelisgen, Schwiehbus, Frankfurt, Preussen . . .»  
+Nelson County, Kentucky, W. St. 20200.  
+Union County, Georgia, 9 SL. 2 nn  
+Turuman (Ötumpa), Argent. Rep, 5 A... . .  
+Tucson, Sonöra, Mertico . - - Tannen  
+ec. Aus einem Individuum bestehend, mit  
+schaliger Zusammensetzung parallel den  
+Fiichen des Octatlers.  
+Bohnmalitz, Brachia, Böhmen „ - - - 2 20.  
+razos, Texas, VS 2 rn  
+Phenton County, Tess, SL. 2 0 an  
+Lranbeurne, Mellourse, Australien . » 0. -  
+Cosby Creek, Coke County, Tennessee, W, 31. .  
+Arva (Salanıcaah Ungarn » 2 a een  
+Sarepta, Saratow, Andsland 2 u nenn  
+Serier County, Tennesse, US, -. - +1.  
+Nirendega, Ban, Brasllien . 2 2 ae er neh  
+Schwetz, Maricuwerder, Praußen . 2 020.0.  
+Ruffs Mounlain, Dewberey, VS 2. 0000.  
+Seneca River, New-Vork, 9 SL. on on  
+Toeluca-Tlal, Mei 0.» 020  
+Plisirca, Oaraca, Mes 0.2 2  
+Sierra blanca, Elnajaquialla, Mexico 2. 0 0.o.  
+Tula (Netschatva), Rulland © 2-2. un  
+Robertson Cousiuy, Tennessen, W. Al 2 20200.  
+(arlkhag®, Snitlı Cpetly, Tennessee, Yv.Sh- ..  
+hurlington, Ötsega County, New-WTork, 7. St. . »  
+Marshall Countys. Kentucky, WS 2 2 2000.  
+St. Rosa, Tunja, Ealumbien (Karsten) a, - . 0.  
+| Orange Biver, Süd-Altika oo 2 00 en  
+Teuas (Bed River) V SL. 0 nn  
+Lenarto, Scharosch, Ungarn . x» 2 2.22...  
+Durango, Merken on  
+Werchne-Edinsk, West-Sibiren . - >» 2 2000  
+Elbogen, Böhmen . 2 22 enne  
+Nebraska Territory, W%. SL o 2 HH nn  
+Wayne County, Obio, 1.80 02000002020.  
+Madoc, Öber-Landa > 2 Hrn  
+black mountain, Buncombe CGty, Nord-Carolina, Y. St.  
+Calle, Grasse, War, Frankreich . -. - 2 2 2.  
+gefallen #6. Mar, Apram (Hraschina), Kroatien. .  
+Ashville, Buncumbe County, Nord- Carolina, W. St.  
+Guildford, Nord-Carolina, #%. 8. . 2 2 2 0.  
+Löwenfuls, Grols-Namasualand, 8. Aftıca . . .  
+Lockport (Lambrie}, Dew-Vork, W. St. ....  
+Jewell Ibill, Madison County, Dord-Larolina, W. 5t,  
+Ollbam County, (Bagrange), Kentucky, V. St, , .  
+j Putnam Lounty, Georgia, VB on  
+Tazewell, Claiborne Lounty, Tennessee, V. St, .  
+d, Aus grolskörnigen, schalig zusammen-  
+geseizten Individuen bestehend.  
+Zacatecas, Merico a oo Er en  
+» Aus feinkörnigen Indiriduen bestehenil,  
+St. Rosa (Tocavita), Tunja, Columbien (Boussingault)  
+Paszatä, Zipaquira bei Logota, Colunbien . . -  
+Chesierville, Suüd-Carolisa, 9%. 5. 2 2 202.  
+Tueuman (Obempa), Argent. Bep., 3. Amerika . .  
+Senegal, Land Sıratik, Bambuk, 5. Afrika . . . .»  
+Salt River. Kentucky, 9%. So oo nn  
+Cap dd. g. Hoffnung (zw. Sonntags- u. Boschemannsll.)  
+INabb's Mill, Greenville, Green Ciy, Tennessee, Y. St.  
+De Kalb Conaty, Tennessee, VS. 0. 20200.  
+2. Pallasit.  
+Krasnojarsk, Jeniseisk, Sibirten (Pallas-Eisen) . .  
+Brahin, Minsk, Rulsland . . . . Pe E  
+Fiogue River Mountains, Oregon N. America, . .  
+Atacama, Uhile, Sud- Amerika - = 2 7 2 2 020%  
+Steinbach, ew. Fibenstock u..Jch, Georgenstadt, Sachsen  
+Bittersgrün, Schwarzenberg, Sachsen . 2...  
+Breitenbach, Böhmen, nahe bei Fob. Georgenstadt .  
+Bitburg, Trier, Preulsen . 2 2 or re.  
+3. Mesosiderit.  
+Sierra de Chaco, Atacama, Chile . 2 2 2 2.  
+Atacama, 30 engl. Meilen von Copap . . .. .  
+Hainlotz, Alınden, Preulsen 2 220 u 2 ua  
+Niakornak, Grönland O0  
+Il, Steinmeteorite.  
+1. Chondhrit.  
+Klein Wenden, Nordhausen, Erfurt, Preula.  
+Erzleben, Magdeburg, Preulsen . - .  
+Pillistier, Lirland . ı 2 2 en.  
+Klein Menow, Alt-Strelitz, Meklenborg .  
+Stauropol, mördliche Seite Jes Kankasıa  
+Rutsura (QOulshar), Bengaten, Ostindien  
+Kasisbeim, Elsals, Frankreich - . » »  
+Chantonnay, Vendee, Frankreich . . »  
+Tabor (Plan, Strkow), Böhmen . . .  
+luck en Marne, Sarthe, Frankreich „ .  
+Rarbotan, Landes, Frankreich . . . .»  
+Doroninsk, Irkutzk, Siirien . 2...  
+Limerick (Adasr, Scagh u- s. w.), Irland .  
+Tipperary (Neoresfort), Irland . . .  
+Albareto, Modena, kltalen .» - 2» -  
+Toulouse, Haute Garonne, Frankreich .  
+Seres, Macedonien, Türkei . - . . .  
+Krasnoi-Ugol, Räsan, Bulland . . .  
+Allahabad (Futtehpore}, Ostindeen . .  
+Wessely, Hradisch, Mähren 2...  
+Grüneberg (kleinrichsau), Liegnitr, Preuls.  
+Cabarras County, Nord-Carolioa, V. St  
+Merö-Madaras, Marosch. Siebenbürgen .  
+Akburpur, Sahurenpur, Östindien . .  
+Renaxzo, Ferrara, Balien . - 200.00.  
+Luponnas, Ain, Frankreich . . . . .  
+Harrison County, Kentucky, V. St . -  
+Eichstädt (WYittmes), Baiern . . » +  
+Benares, Rengalen, Ostindien . . . -  
+Pceeu (ÖOuenggouk, NNO, von Bassein} .  
+Nanjemoy, Maryland, V. Sb. 0.0.0 +  
+"Tımochin, Juchnow, Smolensk, Rulsiand  
+Nellore, Yaloor, Aladras, Ostindien . .  
+Trenzano, 5W, ron Brescia, Lombardei  
+Segowlee, Saren, Ostinden . . 0.  
+Weston, Connecticut, W%. St.» 2.  
+Parma (Casıgnang, Bargo San Donino)  
+Lixna, Dünaburg, Witebsk, Rulsland .  
+Blansko, Brünn, Mähren - » - ..  
+Richmond, Wirgmta, WS. 0... .  
+La Baffe, Epinal, Vosges, Frankreich .  
+Obaba, D. von Karlsburg, Siebenbürgen  
+(zouv. Pultawa, Rüfsland re  
+Macao, Rio Grande del Norte, Brasilien  
+Güterslohe, Minden, Preulsen , » - .  
+Alessandria, Piemont . 2 200.“  
+Siena, Toscana, kalen - » 2 20.0.  
+Parnallee, $. von Madura, 5. Hindastan  
+Eremervörde, Stade, Haunsver . . .  
+Aussgn, Haute Garonne, Frankreich . .  
+Dursla, Petialah, Delhi, Östindien . .  
+Mauernkirchen, Qestreich ob der Enns .  
+Firlemont (Tourinnes-la-Grosse), Belgien  
+Ruschhof, Kurand .» » - 2 2 00.  
+Linn County, Jawa, Sb 2 20.200.  
+Linum, Fehrhbellin, Potsdam, Preulsen .  
+Apt (Saurette), Wancluse, Frankreich .  
+Bächmul, Jekaterinoslaw, Rulsland . .  
+New-Concord, Muskinjum ty, Ohio, Y. St.  
+llanaruru, Owahu, Sandwich-Inseln . .  
+Gharwallas, Ostinden 2 2 2 2.  
+Kakowa, NW, von Orawitza, Tem. Ranat  
+Charkow (Bobrik), Rußland . „ . .»  
+Yrold Cottage, Yorkshire, England . .  
+Spies, Villefranche, Phone, Frankreich .  
+Schellin, Garz, Stargard, Pommern , »  
+Aasle, Krse, Normandie, Frankreich. .  
+Hhhurmsala, Pundjab, Ostinden . . .  
+Asco, Corsa  
+Lissa, Jung-Bunzlau, Rühmen . . . .  
+Bral {Long Branch), New-Yersey, W. St. |  
+Kheragur, Agra, Ostinden . , . ..  
+Charsonville, Orleans, Woire, Frankreich  
+Kuleschowka, Poltowa, Rufsland . . .  
+Berlangutllas, Burges, Spanien . . .  
+Agen, Eol und Garonne, Frankreich .  
+Zaborzika, Wolhynien, Bulsland ,„ . .  
+SioLodka, Juchnow, Smulensk, Rulsfand  
+Polıtz, Köstritz, Gera, Fürstenth. Reufs  
+Forsyth, Moaroe County, Georgia, Y. St,  
+Mainz, Ssroisberzoglhum Dessen . . .  
+Yaull&, Poitiers, Yienne, Frankreich .  
+Ökniny, Kremenetz, Volhynien, Aufsland ;  
+Tattle Piney, Fotosı, Missouri, V. St 5:  
+Chäteau-Renard, Loiret, Frankreich . .  
+Altıow, Ghazeepore, Allshabal, Ostindien  
+Insel Öesel, Rufsäand 2 a 2 2.2.  
+GCastıne, ame, WS.  
+Morodabal, Dellu, Osunden . 2...  
+Glasgow (Paorl Dich Possil}, Schotilanid  
+Milena, Warascın, Kroalien . . 2.  
+(.lanılakspoor, Beraar, Östindien . . |  
+Darm rn  
+2, Howarldit.  
+ Loutolar, Wiborg, Finland . . . . -  
+| Bialyatok (Dorf Knasta), Rulsland . .  
+| Missing {Dorf St. Nicolas), Batern . .  
+Nobleboraugh, Maine, VW, St. N.A, .  
+Mallygzum, Kandeish, ÖOstindien . . .  
+3. Chassignit.  
+Chassteny, Langres, Haute Marne, Frankr.  
+d. Shbalkit.  
+Shalkz in Bancoora, Östinden . . .  
+5. Cnbladnit.  
+Bichoprille, Säd-Garolina, Y, 5...  
+Gb. Kohlige Meteorite.  
+Alaıs, Gard, Frankreich . : . ».» »  
+Cold Bokkeveld, Cap d. g. Hofin., 5. Afrıca  
+Kaba, SW, vr. Debreszin, Ungarı . -  
+Örgueil (Montauban}, Frankreich . .  
+7. Eukrit.  
+Juvenas, Ardöche, Frankreich . . . »  
+Stannern, Iglau, Möhren . ,» - . -  
+Jonzar, Charente, Frankreich . . . -  
+Petersburg, Lincoln Cty, Tennessee, V. St.  
+  
+Das Pfund = 30 Loth = 1/2 Kilogramm, 1 Gramm also = 0,6 Loth.
 
 #### Erklärung der Kupfertafeln
 

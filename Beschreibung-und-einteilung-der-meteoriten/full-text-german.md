@@ -176,7 +176,7 @@ b) Feinkörnige (Nobleboro, Little Piney).
 
 3\. Sekt.: Chadnitisch (Bishopville).
 
-4\. Sekt.: Kohlig (Cold Bockeveld).
+4\. Sekt.: Kohlig (Cold Bokkeveld).
 
 2\. Ordnung: Trappartige.
 
@@ -216,19 +216,19 @@ II\. Die Steinmeteorit sind in 7 Arten zu teilen, für die ich die folgenden Nam
 
 6\. Die kohligen Meteorit, wie von Bokkeveld und Alais, die ich nicht genauer untersucht habe und für die ich daher noch einen eigenen Nannen aus Setze.
 
-7\. Eukrit von εὔϰϱιτοϛ wohl bestimmbar, da die mineralogische Beschaffenheit dieser Art bis auf einige Nebendinge ganz klar ist, und ihre wesentlichen Gemengtheile vollkommen bestimmbar sind. Ein hauptsächlich aus Augit und Anorthit bestehendes körniges Gemenge mit einer geringen Menge Magnetkies, meistens noch geringerer Menge Nickeleisen, zuweilen mit kleinen, näher zu bestimmenden tafelartigen Krystallen (Juvenas) und mit etwas Olivin (Petersburg, V. St.). Es gehören hierhin die Meteoriten von Juvenas, Stannern, Jonzac und Petersburg.
+7\. Eukrit von εὔϰϱιτοϛ wohl bestimmbar, da die mineralogische Beschaffenheit dieser Art bis auf einige Nebendinge ganz klar ist, und ihre wesentlichen Gemengteile vollkommen bestimmbar sind. Ein hauptsächlich aus Augit und Anorthit bestehendes körniges Gemenge mit einer geringen Menge Magnetkies, meistens noch geringerer Menge Nickeleisen, zuweilen mit kleinen, näher zu bestimmenden tafelartigen Kristallen (Juvenas) und mit etwas Olivin (Petersburg, V. St.). Es gehören hierhin die Meteoriten von Juvenas, Stannern, Jonzac und Petersburg.
 
 ## I. Eisenmeteorite.
 
-Die ersten bestimmten Angaben über die Natur des Meteoreisens haben wir von Howard im Jahre 1802 erhalten, der bei Gelegenheit der chemischen Analyse des 1798 bei Benares in Bengalen gefallenen Meteorsteins die merkwürdige Entdeckung machte, daß das in demselben eingesprengte Eisen Nickel enthalte.* Er fand darin 35 pC. und einen ähnlichen Gehalt in andern gediegenen Eisenmassen, die für meteorisch angesehen wurden, in dem Eisen von Otumpa in Brasilien, von Krasnojarsk in Sibirien (dem Pallas-Eisen), dem Eisen aus Böhmen und vom Senegal.
+Die ersten bestimmten Angaben über die Natur des Meteoreisens haben wir von Howard im Jahre 1802 erhalten, der bei Gelegenheit der chemischen Analyse des 1798 bei Benares in Bengalen gefallenen Meteorsteins die merkwürdige Entdeckung machte, dass das in demselben eingesprengte Eisen Nickel enthalte.* Er fand darin 35 pC. und einen ähnlichen Gehalt in andern gediegenen Eisenmassen, die für meteorisch angesehen wurden, in dem Eisen von Otumpa in Brasilien, von Krasnojarsk in Sibirien (dem Pallas-Eisen), dem Eisen aus Böhmen und vom Senegal.
 
 *) Philosophical transactions von 1802 und daraus in Gilberts Annalen.
 
-Klaproth bestätigte später den Nickelgehalt bei der Untersuchung des Meteoreisens von Agram und Ellbogen, wenngleich er die Menge darin weit geringer fand (nur 3,5 und 2,5 pC.), und man war nun seit der Zeit gewohnt, den Nickelgehalt als ein charakteristisches Kennzeichen des Meteoreisens zu betrachten, und bei zufällig auf der Oberfläche der Erde gefundenen Eisenmassen ihren meteorischen Ursprung erst dann anzunehmen, wenn die chemische Untersuchung einen Gehalt an Nickel nachgewiesen hatte, eine Annahme, wozu man auch jetzt noch berechtigt ist, da man noch nie ein Meteoreisen ohne Nickelgehalt gefunden hat. Tellurisches gediegenes Eisen enthält keinen Nickel, ist überhaupt eine außerordentliche Seltenheit und wohl zufällig nur durch einen Reductionsproceß entstanden.
+Klaproth bestätigte später den Nickelgehalt bei der Untersuchung des Meteoreisens von Agram und Ellbogen, wenngleich er die Menge darin weit geringer fand (nur 3,5 und 2,5 pC.), und man war nun seit der Zeit gewohnt, den Nickelgehalt als ein charakteristisches Kennzeichen des Meteoreisens zu betrachten, und bei zufällig auf der Oberfläche der Erde gefundenen Eisenmassen ihren meteorischen Ursprung erst dann anzunehmen, wenn die chemische Untersuchung einen Gehalt an Nickel nachgewiesen hatte, eine Annahme, wozu man auch jetzt noch berechtigt ist, da man noch nie ein Meteoreisen ohne Nickelgehalt gefunden hat. Tellurisches gediegenes Eisen enthält keinen Nickel, ist überhaupt eine außerordentliche Seltenheit und wohl zufällig nur durch einen Reduktionsprozess entstanden.
 
 Später fand Stromeyer in dem Meteoreisen neben dem Nickel etwas Kobalt, das ja auch in den tellurischen Mineralien so häufig das Nickel zu begleiten pflegt und darauf auch etwas Kupfer, und Laugier in dem Meteoreisen von Krasnojarsk und Brahin etwas Chrom, 0,5 pC., das aber wie das in den Meteorsteinen vorkommende, wo es Laugier schon früher gefunden hatte, von eingemengtem Chromeisenerz herrührt.
 
-Am meisten bereichert wurde unsere Kenntnis von der chemischen Beschaffenheit des Meteoreisens durch die genauen Analysen derselben von Berzelius, die er zuerst auf Veranlassung des Grafen Caspar Sternberg mit dem in Böhmen aufgefundenen Eisen von Bohumilitz* und dann bei seiner großen Arbeit über die Meteoriten überhaupt, die durch die Übersendung der 1833 bei Blansko in Mähren gefallenen Meteorsteine durch Ba- ron von Reichenbach veranlaßt wurde, mit dem Meteoreisen von Krasnojarsk (dem Pallas-Eisen) und dem von Elbogen* angestellt hatte. Er schied durch Behandlung des Meteoreisens mit verdünnter Salpetersäure einen darin löslichen und einen andern darin unlöslichen Theil, und fand auf diese Weise bei dem Eisen von Bohumilitz (a), Krasnojarsk (b), und Elbogen (c):
+Am meisten bereichert wurde unsere Kenntnis von der chemischen Beschaffenheit des Meteoreisens durch die genauen Analysen derselben von Berzelius, die er zuerst auf Veranlassung des Grafen Caspar Sternberg mit dem in Böhmen aufgefundenen Eisen von Bohumilitz* und dann bei seiner großen Arbeit über die Meteoriten überhaupt, die durch die Übersendung der 1833 bei Blansko in Mähren gefallenen Meteorsteine durch Baron von Reichenbach veranlasst wurde, mit dem Meteoreisen von Krasnojarsk (dem Pallas-Eisen) und dem von Elbogen* angestellt hatte. Er schied durch Behandlung des Meteoreisens mit verdünnter Salpetersäure einen darin löslichen und einen andern darin unlöslichen Teil, und fand auf diese Weise bei dem Eisen von Bohumilitz (a), Krasnojarsk (b), und Elbogen (c):
 
 *) Poggendorffs Annalen von 1833 B. 27, S. 118.
 
@@ -246,9 +246,9 @@ Schwefel | - | Spur | Spur
 Unlösliches | 2,200 | 0,480 | 2,211  
  | 100,000 | 100,000 | 100,000  
 
-Der in verdünnter Salpetersäure unlösliche Rückstand bestand aus metallischen Körnern und Schüppchen, die schwer zu Boden liegen, und aus einer feiner vertheilten schwarzen kohleähnlichen Masse, die sich leicht in der Flüssigkeit aufschlämmen läßt. Die ersteren waren merkwürdiger Weise Phosphormetalle und bestanden aus:
+Der in verdünnter Salpetersäure unlösliche Rückstand bestand aus metallischen Körnern und Schüppchen, die schwer zu Boden liegen, und aus einer feiner verteilten schwarzen kohleähnlichen Masse, die sich leicht in der Flüssigkeit aufschlämmen lässt. Die ersteren waren merkwürdiger Weise Phosphormetalle und bestanden aus:
 
-Eisen | 65987 | 48,67 | 68,11  
+Eisen | 65,987 | 48,67 | 68,11  
 Nickel | 15,008 | 18,33 | 17,72  
 Magnesium | – | 9,66 | 17,72  
 Phosphor | 14,023 | 18,47 | 14,17  
@@ -264,11 +264,11 @@ Magnesium 4,52
 Zinn und Kupfer 3,75
 Kohle 0,55
 
-Eine Spur von Phosphor, die Berzelius fand, glaubt er umschlosse- nen Theilen der Phosphorverbindung zuschreiben zu müssen. Bei dem Rückstand aus dem Bohumilitz-Eisen wurde auch noch etwas Kiesel und Chromeisenerz gefunden. Dieser feinere Theil des Rückstands ist daher von dem schwereren wesentlich verschieden zusammengesetzt.
+Eine Spur von Phosphor, die Berzelius fand, glaubt er umschlossenen Teilen der Phosphorverbindung zuschreiben zu müssen. Bei dem Rückstand aus dem Bohumilitz-Eisen wurde auch noch etwas Kiesel und Chromeisenerz gefunden. Dieser feinere Teil des Rückstands ist daher von dem schwereren wesentlich verschieden zusammengesetzt.
 
-Durch Berzelius wurden also in dem Meteoreisen 6 neue Stoffe aufgefunden: Phosphor, Zinn, Mangan, Magnesium, Kiesel und Kohle, von denen der Phosphor ganz besonders bemerkenswerth ist, da solche Phosphormetalle, wie sie in dem Meteoreisen hiernach enthalten sind, unter den tellurischen Mineralien nicht bekannt sind.
+Durch Berzelius wurden also in dem Meteoreisen 6 neue Stoffe aufgefunden: Phosphor, Zinn, Mangan, Magnesium, Kiesel und Kohle, von denen der Phosphor ganz besonders bemerkenswert ist, da solche Phosphormetalle, wie sie in dem Meteoreisen hiernach enthalten sind, unter den tellurischen Mineralien nicht bekannt sind.
 
-Nach Berzelius wurden nun noch Analysen von anderen Meteoreisenmassen und von andern Chemikern nach denselben oder ähnlichen Methoden gemacht, die aber ganz ähnliche Resultate gegeben haben.* In allen wurde ein in verdünnter Säure unlöslicher, hauptsächlich aus Phosphornickeleisen bestehender Rückstand erhalten, derselbe war wie bei Berzelius stets nur in sehr geringer und in sehr veränderlicher Menge enthalten, und außerdem waren die Verhältnisse von Phosphor gegen Eisen und Nickel so verschieden, daß sich eine gemeinschaftliche Formel für die chemische Zusammensetzung dieser Verbindung nicht aufstellen läßt.* Diesem unlöslichen Rückstand hat Haidinger bei Gelegenheit der von Patera ausgeführten Analyse des Meteoreisens von Arva, worin derselbe in verhältnismäßig großer Menge enthalten ist, den Namen Schreibersit gegeben* zu Ehren des früheren Directors des kaiserlichen Mineralienkabinets in Wien, der sich um die Meteoritenkunde durch die Herausgabe seiner Beiträge zur Geschichte und Kenntniß meteorischer Stein- und Metallmassen verdient gemacht hat.
+Nach Berzelius wurden nun noch Analysen von anderen Meteoreisenmassen und von andern Chemikern nach denselben oder ähnlichen Methoden gemacht, die aber ganz ähnliche Resultate gegeben haben.* In allen wurde ein in verdünnter Säure unlöslicher, hauptsächlich aus Phosphornickeleisen bestehender Rückstand erhalten, derselbe war wie bei Berzelius stets nur in sehr geringer und in sehr veränderlicher Menge enthalten, und außerdem waren die Verhältnisse von Phosphor gegen Eisen und Nickel so verschieden, dass sich eine gemeinschaftliche Formel für die chemische Zusammensetzung dieser Verbindung nicht aufstellen lässt.* Diesem unlöslichen Rückstand hat Haidinger bei Gelegenheit der von Patera ausgeführten Analyse des Meteoreisens von Arva, worin derselbe in verhältnismäßig großer Menge enthalten ist, den Namen Schreibersit gegeben* zu Ehren des früheren Direktors des kaiserlichen Mineralienkabinets in Wien, der sich um die Meteoritenkunde durch die Herausgabe seiner Beiträge zur Geschichte und Kenntnis meteorischer Stein- und Metallmassen verdient gemacht hat.
 
 *) Vergl. die Aufzählung derselben in Rammelsbergs Mineralchemie S. 902.
 

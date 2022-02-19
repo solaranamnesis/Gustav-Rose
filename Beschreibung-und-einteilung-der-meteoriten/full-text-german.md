@@ -1,8 +1,8 @@
-# Beschreibung und Eintheilung der Meteoriten auf Grund der sammlung im Mineralogischen Museum zu Berlin
+# Beschreibung und Einteilung der Meteoriten auf Grund der Sammlung im Mineralogischen Museum zu Berlin
 
 ## Von Gustav Rose
 
-### Aus den Abhandlungen der Königl. Akademie der Wissenschaften zu Berlin 1863
+### Aus den Abhandlungen der Königlich Akademie der Wissenschaften zu Berlin 1863
 
 ### Mit vier Kupfertafeln
 
@@ -12,39 +12,39 @@
 
 ### 1864
 
-#### In commission bei F. Dümmler's Verlags-Buchhandlung Harrwitz und Gossmann
+#### In Kommission bei F. Dümmler's Verlags-Buchhandlung Harrwitz und Gossmann
 
 ---
 
-Gelesen in der Akademie der Wissenschaften am 7. und 14. Aug. 1862 und am 11. Juni 1863. Anfang des Druckes am 4. Juli 1864, bis wohin einige neue Zusätze hinzugefügt sind. Die Seitenzahl bezeichnet die laufende Pagina des Jahrgangs 1863 in den Abhandlungen der physikalischen Klasse der Königl. Akademie Wissenschaften.
+Gelesen in der Akademie der Wissenschaften am 7. und 14. Aug. 1862 und am 11. Juni 1863. Anfang des Druckes am 4. Juli 1864, bis wohin einige neue Zusätze hinzugefügt sind. Die Seitenzahl bezeichnet die laufende Pagina des Jahrgangs 1863 in den Abhandlungen der physikalischen Klasse der Königlich Akademie Wissenschaften.
 
 ---
 
 ### Inhaltsübersicht
 
-#### [Geschichte der Meteoritensammlung in dem mineralogischen Museum von Berlin auf Grund deren die neue Eintheilung der Meteoriten gemacht ist](#geschichte-der-meteoritensammlung-in-dem-mineralogischen-museum-von-berlin-auf-grund-deren-die-neue-eintheilung-der-meteoriten-gemacht-ist-1)
+#### [Geschichte der Meteoritensammlung in dem mineralogischen Museum von Berlin auf Grund deren die neue Einteilung der Meteoriten gemacht ist](#geschichte-der-meteoritensammlung-in-dem-mineralogischen-museum-von-berlin-auf-grund-deren-die-neue-eintheilung-der-meteoriten-gemacht-ist-1)
 
-Partsch's systematische Eintheilung der Meteoriten
+Partsch's systematische Einteilung der Meteoriten
 
-Shepard's systematische Eintheilung der Meteoriten
+Shepard's systematische Einteilung der Meteoriten
 
-von Reichenbach's systematische Eintheilung der Meteoriten
+von Reichenbach's systematische Einteilung der Meteoriten
 
-Neue systematische Eintheilung der Meteoriten
+Neue systematische Einteilung der Meteoriten
 
-### [1\. Eisenmeteorite](#i-eisenmeteorite)
+### [1\. Eisenmeteorit](#i-eisenmeteorite)
 
-#### Geschichte der Untersuchungen über die Natur der Eisenmeteorite
+#### Geschichte der Untersuchungen über die Natur der Eisenmeteorit
 
 #### [Meteoreisen](#1-meteoreisen)
 
 Die Meteoreisenmassen sind:
 
-##### a) Stücke eines Individuums (Krystalls) ohne schalige Zusammensetzung
+##### a) Stücke eines Individuums (Kristalls) ohne schalige Zusammensetzung
 
 ##### b) Aggregate grobkörniger Individuen ebenfalls ohne schalige Zusammensetzung
 
-##### c) Individuen mit schaligen Zusammensetzungstücken parallel den Flächen des Octaeders (Meteoreisen, das durch Aetzung Widmanstättensche Figuren giebt)
+##### c) Individuen mit schaligen Zusammensetzungstücken parallel den Flächen des Oktaeders (Meteoreisen, das durch Ätzung Widmanstättensche Figuren gibt)
 
 ##### d) Aggregate mit grosskörnigen, schalig zusammengesetzten Individuen
 
@@ -54,13 +54,13 @@ Die Meteoreisenmassen sind:
 
 #### Mesosiderit
 
-### 2\. Steinmeteorite
+### 2\. Steinmeteorit
 
 #### Chondrit
 
 ##### Aeufsere Beschaffenheit
 
-##### Mikroscopische Untersuchung
+##### Mikroskopische Untersuchung
 
 ##### Chemische Beschaffenheit
 
@@ -70,7 +70,7 @@ Die Meteoreisenmassen sind:
 
 #### Shalkit
 
-#### Kohlige Meteorite
+#### Kohlige Meteorit
 
 #### Eukrit
 
@@ -80,25 +80,25 @@ Die Meteoreisenmassen sind:
 
 ### Die in den Meteoriten beobachteten nicht bestimmten Mineralien
 
-### Mineralien auf deren Vorhandensein man aus den gefundenen Bestandtheilen schliefsen kann
+### Mineralien auf deren Vorhandensein man aus den gefundenen Bestandteilen schließen kann
 
-### Mineralien die irrthümlich in den Meteoriten angegeben werden
+### Mineralien die irrtümlich in den Meteoriten angegeben werden
 
-### Die kosmischen Mineralien kommen nur zum Theil mit den tellurischen überein
+### Die kosmischen Mineralien kommen nur zum Teil mit den tellurischen überein
 
 ### Die Meteoriten sind kosmische Mineralien oder Gemenge derselben wie die Gebirgsarten tellursiche Mineralien oder Gemenge derselben sind
 
 ### Die Meteoriten sind hauptsächlich nur zweierlei Art, Meteoreisen und Chondrit
 
-### Uebrige Meteoriten
+### Übrige Meteoriten
 
 ### Die Meteoriten sind bis auf den Eukrit von den Gebirgsarten verschieden
 
 ### Unterschied des kosmischen und tellurischen Eukrits
 
-### Die Meteoriten haben die meiste Aehnlichkeit mit den Gebirgsarten der Basaltgruppe
+### Die Meteoriten haben die meiste Ähnlichkeit mit den Gebirgsarten der Basaltgruppe
 
-### Unterschied der Meteoriten von den Gebirgsarten auch in der Structur
+### Unterschied der Meteoriten von den Gebirgsarten auch in der Struktur
 
 ### Nachtrag
 
@@ -106,7 +106,7 @@ Die Meteoreisenmassen sind:
 
 ---
 
-## Geschichte der Meteoritensammlung in dem mineralogischen Museum von Berlin auf Grund deren die neue Eintheilung der Meteoriten gemacht ist
+## Geschichte der Meteoritensammlung in dem mineralogischen Museum von Berlin auf Grund deren die neue Einteilung der Meteoriten gemacht ist
 
 Die Meteoritensammlung macht einen besonderen Theil des mineralogschen Museums der Berliner Universität aus. Als bei der Gründung der Universität im Jahre 1810 auch das mineralogische Museum durch Uebernahme der Mineraliensammlung der früheren General-Bergbau-Direction gegründet wurde, waren die wenigen Meteoriten, die sich in derselben befanden, noch nicht getrennt und mit den übrigen Mineralien vereinigt. Wie viele Meteoriten sich schon damals in ihr befanden, läßt sich nicht angeben, da darüber die Nachweisungen fehlen, indessen enthielt sie doch schon manche kostbare Stücke, wie ein großes prachtvolles Exemplar von dem Pallas-Eisen, das in einer Sammlung Russischer Mineralien enthalten war, die Kaiser Alexander I dem Könige Friedrich Wilhelm III im Jahre 1803 zum Geschenk gemacht hatte, so wie ein großes Stück von dem Durango-Eisen, welches Al. von Humboldt aus Mexiko mitgebracht und dem damaligen Director Dietrich Karsten für die Sammlung übergeben hatte. Weiss, der nach Karstens Tode Director des mineralogischen Museums wurde, hatte ein großes Interesse für die Meteoriten und ließ keine Gelegenheit vorübergehen, die sich ihm zur Erwerbung von Meteoriten darbot, doch fand sich dieselbe im Anfang, wo das Interesse für die Meteoriten überhaupt noch nicht so lebhaft war wie jetzt, nicht häufig. Die erste größere Bereicherung erhielt das Museum erst durch den Ankauf der Mineraliensammlung von Klaproth nach dessen im Jahre 1817 erfolgten Tode, indem sich darin nach Weglassung aller Arten, die sich später als unächt erwiesen haben, Steinmeteorite von 12 Fundörtern und Eisenmeteorite von 5 Fundörtern befanden, und mehrere derselben in mehreren Exemplaren vertreten waren. In dem im Jahre 1826 vollendeten Kataloge des Museums sind Meteorite von 31 Fundörtern aufgeführt, und zwar Steinmeteorite von 21 und Eisenmeteorite von 9 Fundörtern. Aber schon im nächsten Jahre vermehrte sich die Sammlung um mehr als das Doppelte durch das Vermächtniß Chladni's, wodurch die ganze berühmte Meteoritensammlung dieses um die Meteoritenkunde so verdienten Gelehrten dem Berliner Museum zufiel*. Sie bestand in Steinmeteoriten von 31 und Eisenmeteoriten von 10 verschiedenen Fundörtern, unter denen 18 neue Meteorite sich befanden.
 

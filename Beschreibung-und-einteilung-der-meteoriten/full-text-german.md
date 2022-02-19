@@ -2,13 +2,13 @@
 
 ## Von Gustav Rose
 
-### Aus den Abhandlungen der Königlich Akademie der Wissenschaften zu Berlin 1863
+### Aus den Abhandlungen der Königliche Akademie der Wissenschaften zu Berlin 1863
 
 ### Mit vier Kupfertafeln
 
 ## Berlin
 
-### Gedruckt in der Druckerei der Königlichen Akademie der Wissenschaften
+### Gedruckt in der Druckerei der Königliche Akademie der Wissenschaften
 
 ### 1864
 

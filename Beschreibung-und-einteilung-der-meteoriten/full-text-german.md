@@ -132,17 +132,17 @@ Systematische Anordnungen der Meteoriten sind schon von Partsch*, Shepard* und i
 
 *) A. a. O. S. 163. 
 
-Das Meteoreisen teilt Partsch in ästiges und derbiges; das erstere erhält durch eingemengten Olivin eine schwammige Gestalt, das letztere hat eine unbestimmte Form und geringe Beimengungen. Zu den ersteren gehö- ren die Meteoriten von Atacama, Krasnojarsk (das Pallas-Eisen) und von Brahin, zu den letzteren alle übrigen, die nun noch weiter, je nachdem sie durch Aetzung mehr oder weniger deutliche oder auch gar keine Widman- stättenschen Figuren geben, eingetheilt werden.
+Das Meteoreisen teilt Partsch in ästiges und derbiges; das erstere erhält durch eingemengten Olivin eine schwammige Gestalt, das letztere hat eine unbestimmte Form und geringe Beimengungen. Zu den ersteren gehören die Meteoriten von Atacama, Krasnojarsk (das Pallas-Eisen) und von Brahin, zu den letzteren alle übrigen, die nun noch weiter, je nachdem sie durch Ätzung mehr oder weniger deutliche oder auch gar keine Widmanstättenschen Figuren geben, eingeteilt werden.
 
-Die Eintheilung von Shepard bezieht sich zwar hauptsächlich nur auf die Amerikanischen Meteorit, nimmt aber doch auch auf einige ausländische Rücksicht. Er theilt die Meteorit ebenfalls zuerst ein in Eisen- und Steinmeteorite und beide dann weiter wie folgt:
+Die Einteilung von Shepard bezieht sich zwar hauptsächlich nur auf die Amerikanischen Meteorit, nimmt aber doch auch auf einige ausländische Rücksicht. Er teilt die Meteorit ebenfalls zuerst ein in Eisen- und Steinmeteorit und beide dann weiter wie folgt:
 
-I\. Classe: Eisenmeteorit.
+I\. Klasse: Eisenmeteorit.
 
 1\. Ordnung: Dehnbare und gleichartige.
 
-1\.Sect.: Reine (Scriba, Walker County).
+1\. Sekt.: Reine (Scriba, Walker County).
 
-2\. Sect.: Legirte.
+2\. Sekt.: Legirte.
 
 a) Feinkörnige (Green County, Texas, Dikson County, Burlington).
 
@@ -150,39 +150,39 @@ b) Grobkörnige (De Kalb, Ashville, Guildford, Carthago).
 
 2\. Ordnung: Dehnbare und ungleichartige.
 
-1\. Sect.: Blasig-olivinige (Krasnojarsk).
+1\. Sekt.: Blasig-olivinige (Krasnojarsk).
 
-2\. Sect.: Blasig-pyritische (Cambria).
+2\. Sekt.: Blasig-pyritische (Cambria).
 
-3\. Sect.: Pyritisch-graphitische (Cocke County).
+3\. Sekt.: Pyritisch-graphitische (Cocke County).
 
 3\. Ordnung: Spröde.
 
-1\. Sect.: Reine (Redford County, Randolph County).
+1\. Sekt.: Reine (Redford County, Randolph County).
 
-2\. Sect.: Legirte (Otsego County).
+2\. Sekt.: Legirte (Otsego County).
 
-II\. Classe: Steinmeteorite.
+II\. Classe: Steinmeteorit.
 
 1\. Ordnung: Trachytische.
 
-1\. Sect.: Olivinige.
+1\. Sekt.: Olivinige.
 
 a) Grobkörnige (Weston, Richmond).
 
 b) Feinkörnige (Nobleboro, Little Piney).
 
-2\. Sect.: Augitisch (Juvenas).
+2\. Sekt.: Augitisch (Juvenas).
 
-3\. Sect.: Chadnitisch (Bishopville).
+3\. Sekt.: Chadnitisch (Bishopville).
 
-4\. Sect.: Kohlig (Cold Bockeveld).
+4\. Sekt.: Kohlig (Cold Bockeveld).
 
 2\. Ordnung: Trappartige.
 
-1\. Sect.: Gleichartige (Chantonnay).
+1\. Sekt.: Gleichartige (Chantonnay).
 
-2\. Sect.: Porphyrartige (Renazzo).
+2\. Sekt.: Porphyrartige (Renazzo).
 
 3\. Ordnung: Bimmsteinartige (Waterville).*
 

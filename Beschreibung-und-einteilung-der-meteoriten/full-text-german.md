@@ -1571,28 +1571,28 @@ b\. Aus vielen grobkörn:igen Individuen bestebend.
 
 c\. Aus einem Individuum bestehend, mit schaliger Zusammensetzung parallel den Flächen des Octaeders.  
 
-Bohnmalitz, Brachia, Böhmen „ - - - 2 20.  
-razos, Texas, VS 2 rn  
-Phenton County, Tess, SL. 2 0 an  
-Lranbeurne, Mellourse, Australien . » 0. -  
-Cosby Creek, Coke County, Tennessee, W, 31. .  
-Arva (Salanıcaah Ungarn » 2 a een  
-Sarepta, Saratow, Andsland 2 u nenn  
-Serier County, Tennesse, US, -. - +1.  
-Nirendega, Ban, Brasllien . 2 2 ae er neh  
-Schwetz, Maricuwerder, Praußen . 2 020.0.  
-Ruffs Mounlain, Dewberey, VS 2. 0000.  
-Seneca River, New-Vork, 9 SL. on on  
-Toeluca-Tlal, Mei 0.» 020  
-Plisirca, Oaraca, Mes 0.2 2  
-Sierra blanca, Elnajaquialla, Mexico 2. 0 0.o.  
-Tula (Netschatva), Rulland © 2-2. un  
-Robertson Cousiuy, Tennessen, W. Al 2 20200.  
-(arlkhag®, Snitlı Cpetly, Tennessee, Yv.Sh- ..  
-hurlington, Ötsega County, New-WTork, 7. St. . »  
-Marshall Countys. Kentucky, WS 2 2 2000.  
-St. Rosa, Tunja, Ealumbien (Karsten) a, - . 0.  
-| Orange Biver, Süd-Altika oo 2 00 en  
+10|1829|Bohumilitz, Prachin, Böhmen|  
+11|1856|Brazos, Texas, V. St.|  
+12|1856|Denton County, Texas, V. St.|  
+13|1861|Cranbourne, Melbourne, Australien|  
+14|1840|Cosby Creek, Coke County, Tennessee, V. St.|  
+15|1844|Arva (Szlanicza), Ungarn|  
+16|1854|Sarepta, Saratow, Russland|  
+17|1840|Sevier County, Tennessee, V. St.|  
+18|1816|Bemdego, Bahia, Brasilien|  
+19|1850|Schwetz, Marienwerder, Preufsen|  
+20|1850|Ruffs Mountain, Newberry, V. St.|  
+21|1851|Seneca River, New-York, 9 V. St.|  
+22|1784|Toluca-Thal, Mexico|  
+23|1834|Misteca, Oaxaca, Mexico|  
+24|1784|Sierra blanca, Huajaquilla, Mexico|  
+25|1856|Tula (Netschaevo), Russland|  
+26|1861|Robertson County, Tennesse, V. St.|  
+27|1844|Carthago, Smith County, Tennessee, V. St.|  
+28|1819|Burlington, Otsega County, New-York, V. St.|  
+29|1856|Marshall County, Kentucky, V. St.|  
+30|1823|St. Rosa, Tunja, Columbien (Karsten)|  
+31|1856|Orange River, Süd-Afrika|  
 Teuas (Bed River) V SL. 0 nn  
 Lenarto, Scharosch, Ungarn . x» 2 2.22...  
 Durango, Merken on  

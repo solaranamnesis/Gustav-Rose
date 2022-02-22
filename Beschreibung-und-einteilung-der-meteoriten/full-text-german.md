@@ -1550,25 +1550,27 @@ Ich erhielt von Hrn. Prof. Shepard eine von dem Stücke des Dr. Jakson abgeschni
 
 Berechnet man das spezifische Gewicht des Gemenges aus den Gemengteilen, s0 erhält man für den E. von Stannern: 3,14; für den E. vou Juvenas: a) 3,10, 5) 3,13, was mit den gefundenen Werten nahe übereinkommt. (Vergl. oben 5. 134 die zweite Anmerkung.)
 
-En |  
-l. Eisenmeteorile.  
-1. #leteoreisen.  
-a Aus einem Indiridunm besiehend, ohne  
-schalige Zusammensetzung;  
-gefallen 14, Juli, Braunau (Hauptmannsdorf}, Böhmen  
-(.laihorne, Goumty Alabama, Ver. 5 0. A... .|-:  
-Saltıllo (Gmahwila), Mer 2 ne  
-Dakota Terrilorium, Ver. St. 0A, . u... bb  
-6&. Aus vielen grobkörn:igen Individuen  
-hestebend.  
-Seelisgen, Schwiehbus, Frankfurt, Preussen . . .»  
-Nelson County, Kentucky, W. St. 20200.  
-Union County, Georgia, 9 SL. 2 nn  
-Turuman (Ötumpa), Argent. Rep, 5 A... . .  
-Tucson, Sonöra, Mertico . - - Tannen  
-ec. Aus einem Individuum bestehend, mit  
-schaliger Zusammensetzung parallel den  
-Fiichen des Octatlers.  
+Uebersicht der Meteoriten in dem mineralogischen Museum von Berlin.
+
+1\. Eisenmeteorit.  
+1\. Meteoreisen.  
+a\. Aus einem Individuum bestehend, ohne schalige Zusammensetzung.  
+
+1|1847|gefallen 14. Juli. Braunau (Hauptmannsdorf), Böhmen|  
+2|1838|Claiborne, County Alabama, Ver. St. N. A.|  
+3|1860|Saltillo (Coahuila), Mexico|  
+4|1863|Dakota Territorium, Ver. St. N. A.|  
+
+b\. Aus vielen grobkörn:igen Individuen bestebend.  
+
+5|1847|Seeläsgen, Schwiebus, Frankfurt, Preussen|  
+6|1856|Nelson County, Kentucky, V. St.|  
+7|1853|Union County, Georgia, V. St.|  
+8|1788|Tucuman (Otumpa), Argent. Rep., S. A.|  
+9|1850|Tucson, Sonora, Mexico|  
+
+c\. Aus einem Individuum bestehend, mit schaliger Zusammensetzung parallel den Flächen des Octaeders.  
+
 Bohnmalitz, Brachia, Böhmen „ - - - 2 20.  
 razos, Texas, VS 2 rn  
 Phenton County, Tess, SL. 2 0 an  

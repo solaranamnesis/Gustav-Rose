@@ -1698,25 +1698,25 @@ Uebersicht der Meteoriten in dem mineralogischen Museum von Berlin.
 43|1838||Gouv. Pultawa, Russland|  
 44|1836|11. Nov.|Macao, Rio Grande del Norte, Brasilien|  
 45|1851|17. April|Güterslohe, Minden, Preussen|  
-Alessandria, Piemont . 2 200.“  
-Siena, Toscana, kalen - » 2 20.0.  
-Parnallee, $. von Madura, 5. Hindastan  
-Eremervörde, Stade, Haunsver . . .  
-Aussgn, Haute Garonne, Frankreich . .  
-Dursla, Petialah, Delhi, Östindien . .  
-Mauernkirchen, Qestreich ob der Enns .  
-Firlemont (Tourinnes-la-Grosse), Belgien  
-Ruschhof, Kurand .» » - 2 2 00.  
-Linn County, Jawa, Sb 2 20.200.  
-Linum, Fehrhbellin, Potsdam, Preulsen .  
-Apt (Saurette), Wancluse, Frankreich .  
-Bächmul, Jekaterinoslaw, Rulsland . .  
-New-Concord, Muskinjum ty, Ohio, Y. St.  
-llanaruru, Owahu, Sandwich-Inseln . .  
-Gharwallas, Ostinden 2 2 2 2.  
-Kakowa, NW, von Orawitza, Tem. Ranat  
-Charkow (Bobrik), Rußland . „ . .»  
-Yrold Cottage, Yorkshire, England . .  
+46|1860|2. Febr.|Alessandria, Piemont|  
+47|1794|16. Juni|Siena, Toscana, Italien|  
+48|1857|28. Febr.|Parnallee, S. von Madura, S. Hindostan|  
+49|1855|13. Mai|Bremervörde, Stade, Hannover|  
+50|1858|9. Dec.|Ausson, Haute Garonne, Frankreich|  
+51|1815|18. Febr.|Durala, Petialah, Delhi, Ostindien| 
+52|1768|20. Nov.|Mauernkirchen, Oestreich ob der Enns|  
+53|1863|7. Dec.|Tirlemont (Tourinnes-la-Grosse), Belgien|  
+54|1863|2. Juni|Buschhof, Kurland|  
+55|1847|25. Febr.|Linn County, Iowa, V. St.|  
+56|1854|5. Sept.|Linum, Fehrbellin, Potsdam, Preussen|  
+57|1803|3. Oct.|Apt (Saurette), Vancluse, Frankreich|  
+58|1814|15. Febr.|Bachmut, Jekaterinoslaw, Russland|  
+59|1860|1. Mai|New-Concord, Muskinjum Cty, Ohio, V. St.|  
+60|1825|14. Sept.|Hanaruru, Owahu, Sandwich-Inseln|  
+61|1834|12. Juni|Charwallas, Ostindien|  
+62|1858|19. Mai|Kakowa, NW. von Orawitza, Tem. Banat|  
+63|1787|13. Oct.|Charkow (Bobrik), Russland|  
+64|1795|13. Dec.|Wold Cottage, Yorkshire, England|  
 Spies, Villefranche, Phone, Frankreich .  
 Schellin, Garz, Stargard, Pommern , »  
 Aasle, Krse, Normandie, Frankreich. .  

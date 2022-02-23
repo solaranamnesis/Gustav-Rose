@@ -1641,7 +1641,7 @@ e\. Aus feinkörnigen Individuen bestehend.
 67|1861|Breitenbach, Böhmen, nahe bei Joh. Georgenstadt|  
 68|1814|Bitburg, Trier, Preussen|  
 
-3. Mesosiderit.  
+3\. Mesosiderit.  
 
 69|1862|Sierra de Chaco, Atacama, Chile|  
 70|1864|Atacama, 50 engl. Meilen von Copiapo|  

@@ -1593,27 +1593,26 @@ c\. Aus einem Individuum bestehend, mit schaliger Zusammensetzung parallel den F
 29|1856|Marshall County, Kentucky, V. St.|  
 30|1823|St. Rosa, Tunja, Columbien (Karsten)|  
 31|1856|Orange River, Süd-Afrika|  
-Teuas (Bed River) V SL. 0 nn  
-Lenarto, Scharosch, Ungarn . x» 2 2.22...  
-Durango, Merken on  
-Werchne-Edinsk, West-Sibiren . - >» 2 2000  
-Elbogen, Böhmen . 2 22 enne  
-Nebraska Territory, W%. SL o 2 HH nn  
-Wayne County, Obio, 1.80 02000002020.  
-Madoc, Öber-Landa > 2 Hrn  
-black mountain, Buncombe CGty, Nord-Carolina, Y. St.  
-Calle, Grasse, War, Frankreich . -. - 2 2 2.  
-gefallen #6. Mar, Apram (Hraschina), Kroatien. .  
-Ashville, Buncumbe County, Nord- Carolina, W. St.  
-Guildford, Nord-Carolina, #%. 8. . 2 2 2 0.  
-Löwenfuls, Grols-Namasualand, 8. Aftıca . . .  
-Lockport (Lambrie}, Dew-Vork, W. St. ....  
-Jewell Ibill, Madison County, Dord-Larolina, W. 5t,  
-Ollbam County, (Bagrange), Kentucky, V. St, , .  
-j Putnam Lounty, Georgia, VB on  
-Tazewell, Claiborne Lounty, Tennessee, V. St, .  
-d, Aus grolskörnigen, schalig zusammen-  
-geseizten Individuen bestehend.  
+32|1814|Texas (Red River) V. St.|  
+33|1815|Lenarto, Scharosch, Ungarn|  
+34|1804|Durango, Mexico|  
+35|1854|Werchne-Udinsk, West-Sibirien|  
+36|1811|Elbogen, Böhmen|  
+37|1856|Nebraska Territory, V. St.|  
+38|1859|Wayne County, Ohio, V. St.|  
+39|1854|Madoc, Ober-Canada|  
+40|1835|Black Mountain, Buncumbe Cty, Nord-Carolina, V. St.|  
+41|1828|Caille, Grasse, Var, Frankreich|  
+42|1751|gefallen 26. Mai. Agram (Hraschina), Kroatien|  
+43|1839|Ashville, Buncumbe County, Nord-Carolina, V. St.|  
+44|1830|Guildford, Nord-Carolina, V. St.|  
+45|1853|Löwenfuss, Gross-Namaqualand, S. Afrika|  
+46|1845|Lockport (Cambria), New-York, V. St.|  
+47|1856|Jewell Hill, Madison County, Nord-Carolina, V. St.|  
+48|1856|Oldham County, (Lagrange), Kentucky, V. St.|  
+49|1854|Putnam County, Georgia, V. St.|  
+50|1854|Tazewell, Claiborne County, Tennessee, V. St.|  
+d\. Aus grosskörnigen, schalig zusammengesetzten Individuen bestehend.  
 Zacatecas, Merico a oo Er en  
 » Aus feinkörnigen Indiriduen bestehenil,  
 St. Rosa (Tocavita), Tunja, Columbien (Boussingault)  

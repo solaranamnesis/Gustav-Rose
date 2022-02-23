@@ -1685,19 +1685,19 @@ Uebersicht der Meteoriten in dem mineralogischen Museum von Berlin.
 30|1857|27. Dec.|Pegu (Quenggouk, NNO. von Bassein)|  
 31|1825|10. Febr.|Nanjemoy, Maryland, V. St.|  
 32|1807|13. März|Timochin, Juchnow, Smolensk, Russland|  
-Nellore, Yaloor, Aladras, Ostindien . .  
-Trenzano, 5W, ron Brescia, Lombardei  
-Segowlee, Saren, Ostinden . . 0.  
-Weston, Connecticut, W%. St.» 2.  
-Parma (Casıgnang, Bargo San Donino)  
-Lixna, Dünaburg, Witebsk, Rulsland .  
-Blansko, Brünn, Mähren - » - ..  
-Richmond, Wirgmta, WS. 0... .  
-La Baffe, Epinal, Vosges, Frankreich .  
-Obaba, D. von Karlsburg, Siebenbürgen  
-(zouv. Pultawa, Rüfsland re  
-Macao, Rio Grande del Norte, Brasilien  
-Güterslohe, Minden, Preulsen , » - .  
+33|1852|23. Jan.|Nellore, Yatoor, Madras, Ostindien|  
+34|1856|12. Nov.|Trenzano, SW. von Brescia, Lombardei|  
+35|1853|6. März|Segowlee, Sarun, Ostindien|  
+36|1807|14. Dec.|Weston, Connecticut, V. St.|  
+37|1808|19. April|Parma (Casignano, Borgo San Donino)|  
+38|1820|12. Juli|Lixna, Dünaburg, Witebsk, Russland|  
+39|1833|25. Nov.|Blansko, Brünn, Mähren|  
+40|1828|4. Juni|Richmond, Virginia, V. St.|  
+41|1822|13. Sept.|La Baffe, Epinal, Vosges, Frankreich|  
+42|1857|10. Oct.|Ohaba, O. von Karlsburg, Siebenbürgen|  
+43|1838||Gouv. Pultawa, Russland|  
+44|1836|11. Nov.|Macao, Rio Grande del Norte, Brasilien|  
+45|1851|17. April|Güterslohe, Minden, Preussen|  
 Alessandria, Piemont . 2 200.“  
 Siena, Toscana, kalen - » 2 20.0.  
 Parnallee, $. von Madura, 5. Hindastan  

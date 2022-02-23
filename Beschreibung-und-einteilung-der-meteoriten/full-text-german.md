@@ -1552,17 +1552,18 @@ Berechnet man das spezifische Gewicht des Gemenges aus den Gemengteilen, s0 erh�
 
 Uebersicht der Meteoriten in dem mineralogischen Museum von Berlin.
 
-1\. Eisenmeteorit.  
-1\. Meteoreisen.  
+#### 1\. Eisenmeteorit.  
 
-a\. Aus einem Individuum bestehend, ohne schalige Zusammensetzung.  
+##### 1\. Meteoreisen.  
+
+###### a\. Aus einem Individuum bestehend, ohne schalige Zusammensetzung.  
 
 1|1847|gefallen 14. Juli. Braunau (Hauptmannsdorf), Böhmen|  
 2|1838|Claiborne, County Alabama, Ver. St. N. A.|  
 3|1860|Saltillo (Coahuila), Mexico|  
 4|1863|Dakota Territorium, Ver. St. N. A.|  
 
-b\. Aus vielen grobkörn:igen Individuen bestebend.  
+###### b\. Aus vielen grobkörn:igen Individuen bestebend.  
 
 5|1847|Seeläsgen, Schwiebus, Frankfurt, Preussen|  
 6|1856|Nelson County, Kentucky, V. St.|  
@@ -1570,7 +1571,7 @@ b\. Aus vielen grobkörn:igen Individuen bestebend.
 8|1788|Tucuman (Otumpa), Argent. Rep., S. A.|  
 9|1850|Tucson, Sonora, Mexico|  
 
-c\. Aus einem Individuum bestehend, mit schaliger Zusammensetzung parallel den Flächen des Octaeders.  
+###### c\. Aus einem Individuum bestehend, mit schaliger Zusammensetzung parallel den Flächen des Octaeders.  
 
 10|1829|Bohumilitz, Prachin, Böhmen|  
 11|1856|Brazos, Texas, V. St.|  
@@ -1614,11 +1615,11 @@ c\. Aus einem Individuum bestehend, mit schaliger Zusammensetzung parallel den F
 49|1854|Putnam County, Georgia, V. St.|  
 50|1854|Tazewell, Claiborne County, Tennessee, V. St.|  
 
-d\. Aus grosskörnigen, schalig zusammengesetzten Individuen bestehend.  
+###### d\. Aus grosskörnigen, schalig zusammengesetzten Individuen bestehend.  
 
 51|1792|Zacatecas, Mexico|  
 
-e\. Aus feinkörnigen Individuen bestehend. 
+###### e\. Aus feinkörnigen Individuen bestehend. 
 
 52|1823|St. Rosa (Tocavita), Tunja, Columbien (Boussingault)|  
 53|1823|Rasgata, Zipaquira bei Bogota, Columbien|  
@@ -1630,7 +1631,7 @@ e\. Aus feinkörnigen Individuen bestehend.
 59|1845|Babb's Mill, Greenville, Green Cty, Tennessee, V. St.|  
 60|1845|De Kalb County, Tennessee, V. St.|  
 
-2\. Pallasit.  
+##### 2\. Pallasit.  
 
 61|1776|Krasnojarsk, Jeniseisk, Sibirien (Pallas-Eisen)|  
 62|1822|Brahin, Minsk, Russland|  
@@ -1641,15 +1642,16 @@ e\. Aus feinkörnigen Individuen bestehend.
 67|1861|Breitenbach, Böhmen, nahe bei Joh. Georgenstadt|  
 68|1814|Bitburg, Trier, Preussen|  
 
-3\. Mesosiderit.  
+##### 3\. Mesosiderit.  
 
 69|1862|Sierra de Chaco, Atacama, Chile|  
 70|1864|Atacama, 50 engl. Meilen von Copiapo|  
 71|1856|Hainholz, Minden, Preussen|  
 72||Niakornak, Grönland|  
 
-2\. Steinmeteorit.  
-1\. Chondrit.  
+#### 2\. Steinmeteorit.  
+
+##### 1\. Chondrit.  
 
 1|1843|16. Sept.|Klein Wenden, Nordhausen, Erfurt, Preuss.|  
 2|1812|15. April|Erxleben, Magdeburg, Preussen|  

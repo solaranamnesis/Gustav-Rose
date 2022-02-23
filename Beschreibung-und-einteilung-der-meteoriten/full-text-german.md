@@ -1651,38 +1651,38 @@ e\. Aus feinkörnigen Individuen bestehend.
 2\. Steinmeteorit.  
 1\. Chondrit.  
 
-Klein Wenden, Nordhausen, Erfurt, Preula.  
-Erzleben, Magdeburg, Preulsen . - .  
-Pillistier, Lirland . ı 2 2 en.  
-Klein Menow, Alt-Strelitz, Meklenborg .  
-Stauropol, mördliche Seite Jes Kankasıa  
-Rutsura (QOulshar), Bengaten, Ostindien  
-Kasisbeim, Elsals, Frankreich - . » »  
-Chantonnay, Vendee, Frankreich . . »  
-Tabor (Plan, Strkow), Böhmen . . .  
-luck en Marne, Sarthe, Frankreich „ .  
-Rarbotan, Landes, Frankreich . . . .»  
-Doroninsk, Irkutzk, Siirien . 2...  
-Limerick (Adasr, Scagh u- s. w.), Irland .  
-Tipperary (Neoresfort), Irland . . .  
-Albareto, Modena, kltalen .» - 2» -  
-Toulouse, Haute Garonne, Frankreich .  
-Seres, Macedonien, Türkei . - . . .  
-Krasnoi-Ugol, Räsan, Bulland . . .  
-Allahabad (Futtehpore}, Ostindeen . .  
-Wessely, Hradisch, Mähren 2...  
-Grüneberg (kleinrichsau), Liegnitr, Preuls.  
-Cabarras County, Nord-Carolioa, V. St  
-Merö-Madaras, Marosch. Siebenbürgen .  
-Akburpur, Sahurenpur, Östindien . .  
-Renaxzo, Ferrara, Balien . - 200.00.  
-Luponnas, Ain, Frankreich . . . . .  
-Harrison County, Kentucky, V. St . -  
-Eichstädt (WYittmes), Baiern . . » +  
-Benares, Rengalen, Ostindien . . . -  
-Pceeu (ÖOuenggouk, NNO, von Bassein} .  
-Nanjemoy, Maryland, V. Sb. 0.0.0 +  
-"Tımochin, Juchnow, Smolensk, Rulsiand  
+1|1843|16. Sept.|Klein Wenden, Nordhausen, Erfurt, Preuss.|  
+2|1812|15. April|Erxleben, Magdeburg, Preussen|  
+3|1863|8. Aug.|Pillistser, Livland|  
+4|1862|7. Oct.|Klein Menow, Alt-Strelitz, Meklenburg|  
+5|1857|24. März|Stauropol, nördliche Seite des Kaukasus|  
+6|1861|12. Mai|Butsura (Qutahar), Bengalen, Ostindien|  
+7|1492|7. Nov.|Ensisheim, Elsass, Frankreich|  
+8|1812|5. Aug.|Chantonnay, Vendee, Frankreich|  
+9|1753|3. Juli|Tabor (Plan, Strkow), Böhmen|  
+10|1768|13. Sept.|Luce en Marne, Sarthe, Frankreich|  
+11|1790|24. Juli|Barbotan, Landes, Frankreich|  
+12|1805|25. März|Doroninsk, Irkutzk, Sibirien|  
+13|1813|10. Sept.|Limerick (Adair, Scagh u. s. w.), Irland|  
+14|1810|Aug.|Tipperary (Mooresfort), Irland|  
+15|1766|Juli|Albareto, Modena, Italien|  
+16|1812|10. April|Toulouse, Haute Garonne, Frankreich|  
+17|1818|Juni|Seres, Macedonien, Türkei|  
+18|1829|9. Sept.|Krasnoi-Ugol, Räsan, Russland|  
+19|1822|30. Nov.|Allahabad (Futtehpore), Ostindien|  
+20|1831|9. Sept.|Wessely, Hradisch, Mähren|  
+21|1841|22. März|Grüneberg (Heinrichsau), Liegnitz, Preuss.|  
+22|1849|31. Oct.|Cabarras County, Nord-Carolina, V. St.|  
+23|1852|4. Sept.|Mezö-Madaras, Marosch, Siebenbürgen|  
+24|1838|18. April|Akburpur, Sahurunpur, Ostindien|  
+25|1824|15. Jan.|Renazzo, Ferrara, Italien|  
+26|1753|7. Sept.|Luponnas, Ain, Frankreich|  
+27|1859|26. März|Harrison County, Kentucky, V. St.|  
+28|1785|19. Febr.|Eichstädt (Wittmes), Baiern|  
+29|1798|13. Dec.|Benares, Bengalen, Ostindien|  
+30|1857|27. Dec.|Pegu (Quenggouk, NNO. von Bassein)|  
+31|1825|10. Febr.|Nanjemoy, Maryland, V. St.|  
+32|1807|13. März|Timochin, Juchnow, Smolensk, Russland|  
 Nellore, Yaloor, Aladras, Ostindien . .  
 Trenzano, 5W, ron Brescia, Lombardei  
 Segowlee, Saren, Ostinden . . 0.  

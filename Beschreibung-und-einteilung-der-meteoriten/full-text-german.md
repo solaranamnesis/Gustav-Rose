@@ -1717,36 +1717,38 @@ Uebersicht der Meteoriten in dem mineralogischen Museum von Berlin.
 62|1858|19. Mai|Kakowa, NW. von Orawitza, Tem. Banat|  
 63|1787|13. Oct.|Charkow (Bobrik), Russland|  
 64|1795|13. Dec.|Wold Cottage, Yorkshire, England|  
-Spies, Villefranche, Phone, Frankreich .  
-Schellin, Garz, Stargard, Pommern , »  
-Aasle, Krse, Normandie, Frankreich. .  
-Hhhurmsala, Pundjab, Ostinden . . .  
-Asco, Corsa  
-Lissa, Jung-Bunzlau, Rühmen . . . .  
-Bral {Long Branch), New-Yersey, W. St. |  
-Kheragur, Agra, Ostinden . , . ..  
-Charsonville, Orleans, Woire, Frankreich  
-Kuleschowka, Poltowa, Rufsland . . .  
-Berlangutllas, Burges, Spanien . . .  
-Agen, Eol und Garonne, Frankreich .  
-Zaborzika, Wolhynien, Bulsland ,„ . .  
-SioLodka, Juchnow, Smulensk, Rulsfand  
-Polıtz, Köstritz, Gera, Fürstenth. Reufs  
-Forsyth, Moaroe County, Georgia, Y. St,  
-Mainz, Ssroisberzoglhum Dessen . . .  
-Yaull&, Poitiers, Yienne, Frankreich .  
-Ökniny, Kremenetz, Volhynien, Aufsland ;  
-Tattle Piney, Fotosı, Missouri, V. St 5:  
-Chäteau-Renard, Loiret, Frankreich . .  
-Altıow, Ghazeepore, Allshabal, Ostindien  
-Insel Öesel, Rufsäand 2 a 2 2.2.  
-GCastıne, ame, WS.  
-Morodabal, Dellu, Osunden . 2...  
-Glasgow (Paorl Dich Possil}, Schotilanid  
-Milena, Warascın, Kroalien . . 2.  
-(.lanılakspoor, Beraar, Östindien . . |  
-Darm rn  
-2, Howarldit.  
+65|1798|8. od. 12. Mz.|Sales, Villefranche, Rhone, Frankreich|  
+66|1715|11. April|Schellin, Garz, Stargard, Pommern|  
+67|1803|26. April|Aigle, Orne, Normandie, Frankreich|  
+68|1860|14. Juli|Dhurmsala, Pundjab, Ostindien|  
+69|1805|Nov.|Asco, Corsica|  
+70|1808|3. Sept.|Lissa, Jung-Bunzlau, Böhmen|  
+71|1829|14. Aug.|Deal (Long Branch), New-Yersey, V. St.|  
+72|1860|28. März|Kheragur, Agra, Ostindien|  
+73|1810|23. Nov.|Charsonville, Orleans, Loire, Frankreich|  
+74|1811|12. März|Kuleschowka, Poltowa, Russland|  
+75|1811|8. Juli|Berlanguillas, Burgos, Spanien|  
+76|1814|5. Sept.|Agen, Lot und Garonne, Frankreich|  
+77|1818|10. April|Zaborzika, Volhynien, Russland|  
+78|1818|10. Aug.|Slobodka, Juchnow, Smolensk, Russland|  
+79|1819|13. Oct.|Politz, Köstritz, Gera, Fürstenth. Reuss|  
+80|1829|8. Mai|Forsyth, Monroe County, Georgia, V. St.|  
+81|1852|gefunden|Mainz, Grossherzogtum Hessen|  
+82|1831|18. Juli|Vouille, Poitiers, Vienne, Frankreich|  
+83|1833|27. Dec.|Okniny, Kremenetz, Volhynien, Russland|  
+84|1839|13. Febr.|Little Piney, Loiret, Missouri, V. St.|  
+85|1841|12. Juni|Chateau-Renard, Loiret, Frankreich|  
+86|1827|16. Febr.|Mhow, Ghazeepore, Allahabad, Ostindien|  
+87|1855|13. Mai|Insel Oesel, Russland|  
+88|1848|20. Mai|Castine, Maine, V. St.|  
+89|1808||Morodabad, Delhi, Ostindien|  
+90|1804|5. April|Glasgow (Dorf High Possil), Schottland|  
+91|1842|26. April|Milena, Warasdin, Kroatien|  
+92|1838|6. Juni|Chandakapoor, Beraar, Ostindien|  
+93|1804||Darmstadt|  
+
+2\. Howardit.
+
  Loutolar, Wiborg, Finland . . . . -  
 | Bialyatok (Dorf Knasta), Rulsland . .  
 | Missing {Dorf St. Nicolas), Batern . .  

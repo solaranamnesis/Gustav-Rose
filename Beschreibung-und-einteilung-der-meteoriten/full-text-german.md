@@ -1554,6 +1554,7 @@ Uebersicht der Meteoriten in dem mineralogischen Museum von Berlin.
 
 1\. Eisenmeteorit.  
 1\. Meteoreisen.  
+
 a\. Aus einem Individuum bestehend, ohne schalige Zusammensetzung.  
 
 1|1847|gefallen 14. Juli. Braunau (Hauptmannsdorf), Böhmen|  
@@ -1612,34 +1613,44 @@ c\. Aus einem Individuum bestehend, mit schaliger Zusammensetzung parallel den F
 48|1856|Oldham County, (Lagrange), Kentucky, V. St.|  
 49|1854|Putnam County, Georgia, V. St.|  
 50|1854|Tazewell, Claiborne County, Tennessee, V. St.|  
+
 d\. Aus grosskörnigen, schalig zusammengesetzten Individuen bestehend.  
-Zacatecas, Merico a oo Er en  
-» Aus feinkörnigen Indiriduen bestehenil,  
-St. Rosa (Tocavita), Tunja, Columbien (Boussingault)  
-Paszatä, Zipaquira bei Logota, Colunbien . . -  
-Chesierville, Suüd-Carolisa, 9%. 5. 2 2 202.  
-Tueuman (Obempa), Argent. Bep., 3. Amerika . .  
-Senegal, Land Sıratik, Bambuk, 5. Afrika . . . .»  
-Salt River. Kentucky, 9%. So oo nn  
-Cap dd. g. Hoffnung (zw. Sonntags- u. Boschemannsll.)  
-INabb's Mill, Greenville, Green Ciy, Tennessee, Y. St.  
-De Kalb Conaty, Tennessee, VS. 0. 20200.  
-2. Pallasit.  
-Krasnojarsk, Jeniseisk, Sibirten (Pallas-Eisen) . .  
-Brahin, Minsk, Rulsland . . . . Pe E  
-Fiogue River Mountains, Oregon N. America, . .  
-Atacama, Uhile, Sud- Amerika - = 2 7 2 2 020%  
-Steinbach, ew. Fibenstock u..Jch, Georgenstadt, Sachsen  
-Bittersgrün, Schwarzenberg, Sachsen . 2...  
-Breitenbach, Böhmen, nahe bei Fob. Georgenstadt .  
-Bitburg, Trier, Preulsen . 2 2 or re.  
+
+51|1792|Zacatecas, Mexico|  
+
+e\. Aus feinkörnigen Individuen bestehend. 
+
+52|1823|St. Rosa (Tocavita), Tunja, Columbien (Boussingault)|  
+53|1823|Rasgata, Zipaquira bei Bogota, Columbien|  
+54|1849|Chesterville, Süd-Carolina, V. St.|  
+55|1788|Tucuman (Otumpa), Argent. Rep., S. Amerika|  
+56|1763|Senegal, Land Siratik, Bambuk, S. Afrika|  
+57|1851|Salt River, Kentucky, V. St.|  
+58|1801|Cap d. g. Hoffnung (zw. Sonntags- u. Boschemannsfl.)|  
+59|1845|Babb's Mill, Greenville, Green Cty, Tennessee, V. St.|  
+60|1845|De Kalb County, Tennessee, V. St.|  
+
+2\. Pallasit.  
+
+61|1776|Krasnojarsk, Jeniseisk, Sibirien (Pallas-Eisen)|  
+62|1822|Brahin, Minsk, Russland|  
+63|1863|Rogue River Mountains, Oregon N. Amerika|  
+64|1827|Atacama, Chile, Süd-Amerika|  
+65|1751|Steinbach, zw. Eibenstock u. Joh. Georgenstadt, Sachsen|  
+66|1861|Rittersgrün, Schwarzenberg, Sachsen|  
+67|1861|Breitenbach, Böhmen, nahe bei Joh. Georgenstadt|  
+68|1814|Bitburg, Trier, Preussen|  
+
 3. Mesosiderit.  
-Sierra de Chaco, Atacama, Chile . 2 2 2 2.  
-Atacama, 30 engl. Meilen von Copap . . .. .  
-Hainlotz, Alınden, Preulsen 2 220 u 2 ua  
-Niakornak, Grönland O0  
-Il, Steinmeteorite.  
-1. Chondhrit.  
+
+69|1862|Sierra de Chaco, Atacama, Chile|  
+70|1864|Atacama, 50 engl. Meilen von Copiapo|  
+71|1856|Hainholz, Minden, Preussen|  
+72||Niakornak, Grönland|  
+
+2\. Steinmeteorit.  
+1\. Chondrit.  
+
 Klein Wenden, Nordhausen, Erfurt, Preula.  
 Erzleben, Magdeburg, Preulsen . - .  
 Pillistier, Lirland . ı 2 2 en.  

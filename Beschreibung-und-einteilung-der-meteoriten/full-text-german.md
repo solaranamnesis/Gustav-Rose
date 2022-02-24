@@ -1749,27 +1749,37 @@ Uebersicht der Meteoriten in dem mineralogischen Museum von Berlin.
 
 2\. Howardit.
 
- Loutolar, Wiborg, Finland . . . . -  
-| Bialyatok (Dorf Knasta), Rulsland . .  
-| Missing {Dorf St. Nicolas), Batern . .  
-Nobleboraugh, Maine, VW, St. N.A, .  
-Mallygzum, Kandeish, ÖOstindien . . .  
-3. Chassignit.  
-Chassteny, Langres, Haute Marne, Frankr.  
-d. Shbalkit.  
-Shalkz in Bancoora, Östinden . . .  
-5. Cnbladnit.  
-Bichoprille, Säd-Garolina, Y, 5...  
-Gb. Kohlige Meteorite.  
-Alaıs, Gard, Frankreich . : . ».» »  
-Cold Bokkeveld, Cap d. g. Hofin., 5. Afrıca  
-Kaba, SW, vr. Debreszin, Ungarı . -  
-Örgueil (Montauban}, Frankreich . .  
-7. Eukrit.  
-Juvenas, Ardöche, Frankreich . . . »  
-Stannern, Iglau, Möhren . ,» - . -  
-Jonzar, Charente, Frankreich . . . -  
-Petersburg, Lincoln Cty, Tennessee, V. St.  
+94|1813|13. Dec.|Loutolax, Wiborg, Finland|  
+95|1827|5. Oct.|Bialystok (Dorf Knasta), Russland|  
+96|1803|13. Dec.|Mässing (Dorf St. Nicolas), Baiern|  
+97|1823|7. Aug.|Nobleborough, Maine, V. St. N. A.|  
+98|1843|26. Juli|Mallygaum, Kandeish, Ostindien|  
+
+3\. Chassignit.  
+
+99|1815|3. Oct.|Chassigny, Langres, Haute Marne, Frankr.|  
+
+d\. Shalkit.  
+
+100|1850|30. Nov.|Shalka in Bancoora, Ostindien|  
+
+5\. Chladnit.  
+
+101|1843|25. März|Bishopville, Süd-Carolina, V. St.|  
+
+6\. Kohlige Meteorit.  
+
+102|1806|15. März|Alais, Gard, Frankreich|  
+103|1838|13. Oct.|Cold Bokkeveld, Cap d. g. Hoffn., S. Africa|  
+104|1857|15. April|Kaba, SW. v. Debreczin, Ungarn|  
+105|1864|14. Mai|Orgueil (Montauban), Frankreich|  
+
+7\. Eukrit.  
+
+106|1821|15. Juni|Juvenas, Ardeche, Frankreich|  
+107|1808|22. Mai|Stannern, Iglau, Mähren|  
+108|1819|13. Juni|Jonzac, Charente, Frankreich|  
+109|1855|5. Aug.|Petersburg, Lincoln Cty, Tennessee, V. St.|  
   
 Das Pfund = 30 Loth = 1/2 Kilogramm, 1 Gramm also = 0,6 Loth.
 

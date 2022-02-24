@@ -1552,24 +1552,26 @@ Berechnet man das spezifische Gewicht des Gemenges aus den Gemengteilen, s0 erh�
 
 Uebersicht der Meteoriten in dem mineralogischen Museum von Berlin.
 
+Fortl. Zahl|Jahr der Auffundg.|Name und Fundort|Gewicht des Hauptstücks|Gewicht aller Stücke|
+
 #### 1\. Eisenmeteorit.  
 
 ##### 1\. Meteoreisen.  
 
 ###### a\. Aus einem Individuum bestehend, ohne schalige Zusammensetzung.  
 
-1|1847|gefallen 14. Juli. Braunau (Hauptmannsdorf), Böhmen|  
-2|1838|Claiborne, County Alabama, Ver. St. N. A.|  
-3|1860|Saltillo (Coahuila), Mexico|  
-4|1863|Dakota Territorium, Ver. St. N. A.|  
+1|1847|gefallen 14. Juli. Braunau (Hauptmannsdorf), Böhmen|2 Pfd. 21,30 Lth.|3 Pfd. 6,82 Lth.|  
+2|1838|Claiborne, County Alabama, Ver. St. N. A.|9,30 Lth.|9,52 Lth.|  
+3|1860|Saltillo (Coahuila), Mexico|0,96 Lth.|1,32 Lth.|  
+4|1863|Dakota Territorium, Ver. St. N. A.|3,32 Lth.|3,32 Lth.|  
 
 ###### b\. Aus vielen grobkörn:igen Individuen bestebend.  
 
-5|1847|Seeläsgen, Schwiebus, Frankfurt, Preussen|  
-6|1856|Nelson County, Kentucky, V. St.|  
-7|1853|Union County, Georgia, V. St.|  
-8|1788|Tucuman (Otumpa), Argent. Rep., S. A.|  
-9|1850|Tucson, Sonora, Mexico|  
+5|1847|Seeläsgen, Schwiebus, Frankfurt, Preussen|3 Pfd. 8,55 Lth.|8 Pfd. 16,83 Lth.|  
+6|1856|Nelson County, Kentucky, V. St.|16,31 Lth.|21,77 Lth.|  
+7|1853|Union County, Georgia, V. St.|2,38 Lth.|3,26 Lth.|  
+8|1788|Tucuman (Otumpa), Argent. Rep., S. A.|7,89 Lth.|8,50 Lth.|  
+9|1850|Tucson, Sonora, Mexico|1,63 Lth.|1,76 Lth.|  
 
 ###### c\. Aus einem Individuum bestehend, mit schaliger Zusammensetzung parallel den Flächen des Octaeders.  
 

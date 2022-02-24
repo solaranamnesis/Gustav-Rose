@@ -1575,36 +1575,36 @@ Fortl. Zahl|Jahr der Auffundg.|Name und Fundort|Gewicht des Hauptstücks|Gewicht
 
 ###### c\. Aus einem Individuum bestehend, mit schaliger Zusammensetzung parallel den Flächen des Octaeders.  
 
-10|1829|Bohumilitz, Prachin, Böhmen|  
-11|1856|Brazos, Texas, V. St.|  
-12|1856|Denton County, Texas, V. St.|  
-13|1861|Cranbourne, Melbourne, Australien|  
-14|1840|Cosby Creek, Coke County, Tennessee, V. St.|  
-15|1844|Arva (Szlanicza), Ungarn|  
-16|1854|Sarepta, Saratow, Russland|  
-17|1840|Sevier County, Tennessee, V. St.|  
-18|1816|Bemdego, Bahia, Brasilien|  
-19|1850|Schwetz, Marienwerder, Preufsen|  
-20|1850|Ruffs Mountain, Newberry, V. St.|  
-21|1851|Seneca River, New-York, 9 V. St.|  
-22|1784|Toluca-Thal, Mexico|  
-23|1834|Misteca, Oaxaca, Mexico|  
-24|1784|Sierra blanca, Huajaquilla, Mexico|  
-25|1856|Tula (Netschaevo), Russland|  
-26|1861|Robertson County, Tennesse, V. St.|  
-27|1844|Carthago, Smith County, Tennessee, V. St.|  
-28|1819|Burlington, Otsega County, New-York, V. St.|  
-29|1856|Marshall County, Kentucky, V. St.|  
-30|1823|St. Rosa, Tunja, Columbien (Karsten)|  
-31|1856|Orange River, Süd-Afrika|  
-32|1814|Texas (Red River) V. St.|  
-33|1815|Lenarto, Scharosch, Ungarn|  
-34|1804|Durango, Mexico|  
-35|1854|Werchne-Udinsk, West-Sibirien|  
-36|1811|Elbogen, Böhmen|  
-37|1856|Nebraska Territory, V. St.|  
-38|1859|Wayne County, Ohio, V. St.|  
-39|1854|Madoc, Ober-Canada|  
+10|1829|Bohumilitz, Prachin, Böhmen|2 Pfd. 19,78 Lth.|2 Pfd. 22,36 Lth.|  
+11|1856|Brazos, Texas, V. St.|0,65 Lth.|0,65 Lth.|  
+12|1856|Denton County, Texas, V. St.|0,68 Lth.|0,68 Lth.|  
+13|1861|Cranbourne, Melbourne, Australien|0,28 Lth.|0,28 Lth.|  
+14|1840|Cosby Creek, Coke County, Tennessee, V. St.|3,20 Lth.|14,34 Lth.|  
+15|1844|Arva (Szlanicza), Ungarn|18,88 Lth.|2 Pfd. 2,12 Lth.|  
+16|1854|Sarepta, Saratow, Russland|4 Pfd. 2,07 Lth.|5 Pfd. 0,93 Lth.|  
+17|1840|Sevier County, Tennessee, V. St.|11,88 Lth.|11,88 Lth|  
+18|1816|Bemdego, Bahia, Brasilien|1,20 Lth.|1,20 Lth.|  
+19|1850|Schwetz, Marienwerder, Preufsen|10 Pfd. 1,21 Lth.|17 Pfd. 19,65 Lth.|  
+20|1850|Ruffs Mountain, Newberry, V. St.|||  
+21|1851|Seneca River, New-York, 9 V. St.|||  
+22|1784|Toluca-Thal, Mexico|||  
+23|1834|Misteca, Oaxaca, Mexico|||  
+24|1784|Sierra blanca, Huajaquilla, Mexico|||  
+25|1856|Tula (Netschaevo), Russland|||  
+26|1861|Robertson County, Tennesse, V. St.|||  
+27|1844|Carthago, Smith County, Tennessee, V. St.|||  
+28|1819|Burlington, Otsega County, New-York, V. St.|||  
+29|1856|Marshall County, Kentucky, V. St.|||  
+30|1823|St. Rosa, Tunja, Columbien (Karsten)|||  
+31|1856|Orange River, Süd-Afrika|||  
+32|1814|Texas (Red River) V. St.|||  
+33|1815|Lenarto, Scharosch, Ungarn|||  
+34|1804|Durango, Mexico|||  
+35|1854|Werchne-Udinsk, West-Sibirien|||  
+36|1811|Elbogen, Böhmen|||  
+37|1856|Nebraska Territory, V. St.|||  
+38|1859|Wayne County, Ohio, V. St.|||  
+39|1854|Madoc, Ober-Canada|||  
 40|1835|Black Mountain, Buncumbe Cty, Nord-Carolina, V. St.|  
 41|1828|Caille, Grasse, Var, Frankreich|  
 42|1751|gefallen 26. Mai. Agram (Hraschina), Kroatien|  

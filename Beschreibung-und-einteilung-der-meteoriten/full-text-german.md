@@ -1584,19 +1584,19 @@ Fortl. Zahl|Jahr der Auffundg.|Name und Fundort|Gewicht des Hauptstücks|Gewicht
 16|1854|Sarepta, Saratow, Russland|4 Pfd. 2,07 Lth.|5 Pfd. 0,93 Lth.|  
 17|1840|Sevier County, Tennessee, V. St.|11,88 Lth.|11,88 Lth|  
 18|1816|Bemdego, Bahia, Brasilien|1,20 Lth.|1,20 Lth.|  
-19|1850|Schwetz, Marienwerder, Preufsen|10 Pfd. 1,21 Lth.|17 Pfd. 19,65 Lth.|  
-20|1850|Ruffs Mountain, Newberry, V. St.|||  
-21|1851|Seneca River, New-York, 9 V. St.|||  
-22|1784|Toluca-Thal, Mexico|||  
-23|1834|Misteca, Oaxaca, Mexico|||  
-24|1784|Sierra blanca, Huajaquilla, Mexico|||  
-25|1856|Tula (Netschaevo), Russland|||  
-26|1861|Robertson County, Tennesse, V. St.|||  
-27|1844|Carthago, Smith County, Tennessee, V. St.|||  
-28|1819|Burlington, Otsega County, New-York, V. St.|||  
-29|1856|Marshall County, Kentucky, V. St.|||  
-30|1823|St. Rosa, Tunja, Columbien (Karsten)|||  
-31|1856|Orange River, Süd-Afrika|||  
+19|1850|Schwetz, Marienwerder, Preussen|10 Pfd. 1,21 Lth.|17 Pfd. 19,65 Lth.|  
+20|1850|Ruffs Mountain, Newberry, V. St.|8,03 Lth.|8,03 Lth.|  
+21|1851|Seneca River, New-York, 9 V. St.|1,03 Lth.|1,03 Lth.|  
+22|1784|Toluca-Thal, Mexico|10 Pfd. 12,80 Lth.|18 Pfd. 29,14 Lth.|  
+23|1834|Misteca, Oaxaca, Mexico|2 Pfd. 13,70 Lth.|2 Pfd. 13,70 Lth.|  
+24|1784|Sierra blanca, Huajaquilla, Mexico|8,49 Lth.|8,91 Lth.|  
+25|1856|Tula (Netschaevo), Russland|22,94 Lth.|22,94 Lth.|  
+26|1861|Robertson County, Tennesse, V. St.|10,34 Lth.|10,34 Lth.|  
+27|1844|Carthago, Smith County, Tennessee, V. St.|1 Pfd. 16,44 Lth.|1 Pfd. 18,42 Lth.|  
+28|1819|Burlington, Otsega County, New-York, V. St.|6,27 Lth.|7,17 Lth.|  
+29|1856|Marshall County, Kentucky, V. St.|4,39 Lth.|4,39 Lth.|  
+30|1823|St. Rosa, Tunja, Columbien (Karsten)|0,03 Lth.|0,03 Lth.|  
+31|1856|Orange River, Süd-Afrika|1,74 Lth.|1,74 Lth.|  
 32|1814|Texas (Red River) V. St.|||  
 33|1815|Lenarto, Scharosch, Ungarn|||  
 34|1804|Durango, Mexico|||  

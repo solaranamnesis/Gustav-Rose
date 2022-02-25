@@ -1500,27 +1500,36 @@ Nachtrag.
 
 Während des Druckes der letzten Bogen erhielt ich noch einige neue Meteoriten, über welche ich hier noch Einiges hinzufüge.
 
-1\. Mesosiderit ron Atacama in Chile. Er wurde auf einem Bergpasse 50 engl. Meilen von Copiapo gefunden, von Hrn. Brower erworben, der ibn nach New York brachte und dem Union College in Schenectady übergab, wo er vom Prolessor Joy analysirt und beschrieben wurde (!). Durch Hrn. Prof. Chandler in Schenectady erhielt ich eine kleine Probe un. ein Modell des ursprünglichen Meteoriten. Er hat hiernach eine ellipsoidische Gestalt mit ziemlich ebener Oberfläche und eine Länge, Breite und llöhe von etwa 4, 3% und 3 Zoll. Sein Gewicht betrug nach Joy 1784 Grammen, sein spec. Gew. 4,35. Nach der übersandten Probe hat er auf den ersten Anblick so grolse Ähnlichkeit mit dem Mesosiderit von der Sierra de Chaco in Atacama (vergl. oben 3.81), dass man geneigt sein könnte, ihn mit diesem für identisch zu halten. Nach der AnaIyse von Joy enthält er 57,657 metallische Teile und 42,419 Silieate, die wieder bestehen in 100 Teilen aus:
+1\. Mesosiderit von Atacama in Chile. Er wurde auf einem Bergpasse 50 engl. Meilen von Copiapo gefunden, von Hrn. Brower erworben, der ihn nach New York brachte und dem Union College in Schenectady übergab, wo er vom Professor Joy analysirt und beschrieben wurde.* Durch Hrn. Prof. Chandler in Schenectady erhielt ich eine kleine Probe und ein Modell des ursprünglichen Meteoriten. Er hat hiernach eine ellipsoidische Gestalt mit ziemlich ebener Oberfläche und eine Länge, Breite und Höhe von etwa 4, 3 1/2 und 3 Zoll. Sein Gewicht betrug nach Joy 1784 Grammen, sein spec. Gew. 4,35. Nach der übersandten Probe hat er auf den ersten Anblick so grofse Ähnlichkeit mit dem Mesosiderit von der Sierra de Chaco in Atacama (vergl. oben S. 81), dass man geneigt sein könnte, ihn mit diesem für identisch zu halten. Nach der Analyse von Joy enthält er 57,657 metallische Teile und 42,419 Silicate, die wieder bestehen in 100 Teilen aus:
 
-Eisen 63,76 Eisenoxydul 24,47  
-Nickel 918 Manganoxydul 3.29  
-Kobalt 1,15 Maanesja 10.05  
-Mangan 0,03 Kalk J,b3  
-Kupfer 0,07 Nickel- u. Kobaltoxyd 0,17  
-Phosphor 0,20 Tonerde 3,86  
-Schwefel 4,67 (*)} Uhromoxyd 1,12  
-91,98 Kieselsäure 45,61  
+Eisen 83,76   
+Nickel 9,18 
+Kobalt 1,45 
+Mangan 0,65 
+Kupfer 0,07 
+Phosphor 0,20 
+Schwefel 4,67  
+99,98 
+
+Eisenoxydul 24,47
+Manganoxydul 2,29  
+Magnesia 10,05  
+Kalk 3,63  
+Nickel- u. Kobaltoxyd 0,17  
+Tonerde 8,86  
+Chromoxyd 1,12 
+Kieselsäure 48,61  
 Zinnsäure 0,44  
-9964  
+99,64  
 
-Joy berechnet biernach in den Silieaten:
+Joy berechnet hiernach in den Silicaten:
 
 Chromeisenerz 1,64  
-OÜlivin 27,43  
-Lahrador ’01d  
-94,20  
+Olivin 27,43  
+Lahrador 70,13  
+99,20  
 
-Hr. Joy hat aber hierbei den Augit überschen, der in dem kleinen übersandten Stücke ganz deutlich, und von derselben Beschaffenheit wie bei dem Mesosiderit von der Sierra de Chaco enthalten ist; ich konnte einen kleinen Kristall herausnehmen, und mich durch Messung der Winkel der Spaltungsflächen überzeugen, dass er Augit sei. Olivin ist aulserdem ganz deutlich sichtbar, Chromeisenerz nicht, doch nach dem bei der Analyse sefundenen Chromoxyd sehr wahrscheinlich. Hr. Joy berechnet nun noch aus der Analyse in dem Meteorite eine hedeutende Menge Labrador; allerdings sieht man in der übersätidten Probe kleine Kristalle, die eine deutlich gestreilte Spaltungsfläche zeigen und vielleicht Labrador oder ein anderer ein- und eingliedriger Feldspat wie Anorlhit sein könnten, und der geiundene Tonerdegehalt, der für Augit allein zu groß erscheint, sprieht auch für die Anonahrne eines solchen Feidspaths, wenn er auch nicht in solcher Menge wie ihn Joy annimmt in dem Meteoriten enthalten sein könnte. In dem viel gröfseren Stücke des Mesosiderits von der Sierra de Chaco in dem Berliner Museum habe ich aber diese Kristalle nieht beobachten können; und es wäre demnach wohl möglich, dass dadurch eine Verschiedenheit zwischen den Meteoriten von der Sierra de Chaco und Copiapo angedeutet wäre; ich habe daher einstweilen noch in der folgenden Übersicht Jen Meteoriten von Copiapo als besondern Meteoriten hinter dem von der Sierra de Chaco aufgeführt.
+Hr. Joy hat aber hierbei den Augit übersehen, der in dem kleinen übersandten Stücke ganz deutlich, und von derselben Beschaffenheit wie bei dem Mesosiderit von der Sierra de Chaco enthalten ist; ich konnte einen kleinen Kristall herausnehmen, und mich durch Messung der Winkel der Spaltungsflächen überzeugen, dass er Augit sei. Olivin ist aufserdem ganz deutlich sichtbar, Chromeisenerz nicht, doch nach dem bei der Analyse gefundenen Chromoxyd sehr wahrscheinlich. Hr. Joy berechnet nun noch aus der Analyse in dem Meteorit eine bedeutende Menge Labrador; allerdings sieht man in der übersändten Probe kleine Kristalle, die eine deutlich gestreifte Spaltungsfläche zeigen und vielleicht Labrador oder ein anderer ein- und eingliedriger Feldspat wie Anorthit sein könnten, und der gefundene Tonerdegehalt, der für Augit allein zu groß erscheint, spricht auch für die Annahme eines solchen Feldspaths, wenn er auch nicht in solcher Menge wie ihn Joy annimmt in dem Meteoriten enthalten sein könnte. In dem viel gröfseren Stücke des Mesosiderits von der Sierra de Chaco in dem Berliner Museum habe ich aber diese Kristalle nicht beobachten können; und es wäre demnach wohl möglich, dass dadurch eine Verschiedenheit zwischen den Meteoriten von der Sierra de Chaco und Copiapo angedeutet wäre; ich habe daher einstweilen noch in der folgenden Übersicht den Meteoriten von Copiapo als besondern Meteoriten hinter dem von der Sierra de Chaco aufgeführt.
 
 2\. Meteoreisen von dem Indianischen Territorium Dacota in Nord-Amerika. Dr. Jakson in Boston erhielt 1863 von dieser Eisenmasse, die sich in einem über 90 engl. Meilen von jeder Strafse oder Wohnung entferntem Grunde gefunden hatte, und deren Gewicht auf 100 Pfund geschätzt wurde, ein 10 Pfund 10 Unzen schweres Stück. Er fand sein spec. Gew. 7,952, die Härte wie die des weichesten schmiedbaren Eisens, und seine chemische Zusammensetzung bestehend aus:
 

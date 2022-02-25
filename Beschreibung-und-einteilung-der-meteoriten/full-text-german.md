@@ -1707,7 +1707,7 @@ Fortl. Zahl|Jahr der Auffundg.|Datum des Falles|Name und Fundort|Gewicht des Hau
 48|1857|28. Febr.|Parnallee, S. von Madura, S. Hindostan|24,50 Lth.|24,97 Lth.|  
 49|1855|13. Mai|Bremervörde, Stade, Hannover|16,94 Lth.|16,94 Lth.|  
 50|1858|9. Dec.|Ausson, Haute Garonne, Frankreich|28,85 Lth.|1 Pfd. 2,88 Lth.|  
-51|1815|18. Febr.|Durala, Petialah, Delhi, Ostindien|1,84 Lth.|1,84 Lth.| 
+51|1815|18. Febr.|Durala, Petialah, Delhi, Ostindien|1,84 Lth.|1,84 Lth.|  
 52|1768|20. Nov.|Mauernkirchen, Oestreich ob der Enns|9,93 Lth.|13,79 Lth.|  
 53|1863|7. Dec.|Tirlemont (Tourinnes-la-Grosse), Belgien|15,20 Lth.|15,20 Lth.|  
 54|1863|2. Juni|Buschhof, Kurland|4,52 Lth.|4,52 Lth.|  

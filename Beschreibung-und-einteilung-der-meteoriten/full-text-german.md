@@ -1619,37 +1619,37 @@ Fortl. Zahl|Jahr der Auffundg.|Name und Fundort|Gewicht des Hauptstücks|Gewicht
 
 ###### d\. Aus grosskörnigen, schalig zusammengesetzten Individuen bestehend.  
 
-51|1792|Zacatecas, Mexico|  
+51|1792|Zacatecas, Mexico|2 Pfd. 13,18 Lth.|2 Pfd. 25,15 Lth.|  
 
 ###### e\. Aus feinkörnigen Individuen bestehend. 
 
-52|1823|St. Rosa (Tocavita), Tunja, Columbien (Boussingault)|  
-53|1823|Rasgata, Zipaquira bei Bogota, Columbien|  
-54|1849|Chesterville, Süd-Carolina, V. St.|  
-55|1788|Tucuman (Otumpa), Argent. Rep., S. Amerika|  
-56|1763|Senegal, Land Siratik, Bambuk, S. Afrika|  
-57|1851|Salt River, Kentucky, V. St.|  
-58|1801|Cap d. g. Hoffnung (zw. Sonntags- u. Boschemannsfl.)|  
-59|1845|Babb's Mill, Greenville, Green Cty, Tennessee, V. St.|  
-60|1845|De Kalb County, Tennessee, V. St.|  
+52|1823|St. Rosa (Tocavita), Tunja, Columbien (Boussingault)|28,20 Lth.|2 Pfd. 1,22 Lth.|  
+53|1823|Rasgata, Zipaquira bei Bogota, Columbien|4,79 Lth.|4,79 Lth.|  
+54|1849|Chesterville, Süd-Carolina, V. St.|14,93 Lth.|25,66 Lth.|  
+55|1788|Tucuman (Otumpa), Argent. Rep., S. Amerika|3,11 Lth.|3,11 Lth.|  
+56|1763|Senegal, Land Siratik, Bambuk, S. Afrika|4,46 Lth.|4,46 Lth.|  
+57|1851|Salt River, Kentucky, V. St.|1,12 Lth.|1,12 Lth.|  
+58|1801|Cap d. g. Hoffnung (zw. Sonntags- u. Boschemannsfl.)|1 Pfd. 8,50 Lth.|1 Pfd. 13,05 Lth.|  
+59|1845|Babb's Mill, Greenville, Green Cty, Tennessee, V. St.|2,56 Lth.|2,90 Lth.|  
+60|1845|De Kalb County, Tennessee, V. St.|0,18 Lth.|0,18 Lth.|  
 
 ##### 2\. Pallasit.  
 
-61|1776|Krasnojarsk, Jeniseisk, Sibirien (Pallas-Eisen)|  
-62|1822|Brahin, Minsk, Russland|  
-63|1863|Rogue River Mountains, Oregon N. Amerika|  
-64|1827|Atacama, Chile, Süd-Amerika|  
-65|1751|Steinbach, zw. Eibenstock u. Joh. Georgenstadt, Sachsen|  
-66|1861|Rittersgrün, Schwarzenberg, Sachsen|  
-67|1861|Breitenbach, Böhmen, nahe bei Joh. Georgenstadt|  
-68|1814|Bitburg, Trier, Preussen|  
+61|1776|Krasnojarsk, Jeniseisk, Sibirien (Pallas-Eisen)|1 Pfd. 23,21 Lth.|5 Pfd. 23,06 Lth.|  
+62|1822|Brahin, Minsk, Russland|15,28 Lth.|27,26 Lth.|  
+63|1863|Rogue River Mountains, Oregon N. Amerika|||  
+64|1827|Atacama, Chile, Süd-Amerika|23,31 Lth.|1 Pfd. 17,52 Lth.|  
+65|1751|Steinbach, zw. Eibenstock u. Joh. Georgenstadt, Sachsen|1,38 Lth.|3,01 Lth.|  
+66|1861|Rittersgrün, Schwarzenberg, Sachsen|29,27 Lth.|1 Pfd. 5,65 Lth.|  
+67|1861|Breitenbach, Böhmen, nahe bei Joh. Georgenstadt|6,64 Lth.|8,77 Lth.|  
+68|1814|Bitburg, Trier, Preussen|0,62 Lth.|0,62 Lth.|  
 
 ##### 3\. Mesosiderit.  
 
-69|1862|Sierra de Chaco, Atacama, Chile|  
-70|1864|Atacama, 50 engl. Meilen von Copiapo|  
-71|1856|Hainholz, Minden, Preussen|  
-72||Niakornak, Grönland|  
+69|1862|Sierra de Chaco, Atacama, Chile|23,90 Lth.|25,3 Lth.|  
+70|1864|Atacama, 50 engl. Meilen von Copiapo|0,70 Lth.|0,70 Lth.|  
+71|1856|Hainholz, Minden, Preussen|20,18 Lth.|1 Pfd. 1,75 Lth.|  
+72||Niakornak, Grönland|0,39 Lth.|0,39 Lth.|  
 
 #### 2\. Steinmeteorit.  
 

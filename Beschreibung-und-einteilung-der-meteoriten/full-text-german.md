@@ -1710,46 +1710,46 @@ Fortl. Zahl|Jahr der Auffundg.|Datum des Falles|Name und Fundort|Gewicht des Hau
 51|1815|18. Febr.|Durala, Petialah, Delhi, Ostindien|1,84 Lth.|1,84 Lth.| 
 52|1768|20. Nov.|Mauernkirchen, Oestreich ob der Enns|9,93 Lth.|13,79 Lth.|  
 53|1863|7. Dec.|Tirlemont (Tourinnes-la-Grosse), Belgien|15,20 Lth.|15,20 Lth.|  
-54|1863|2. Juni|Buschhof, Kurland|  
-55|1847|25. Febr.|Linn County, Iowa, V. St.|  
-56|1854|5. Sept.|Linum, Fehrbellin, Potsdam, Preussen|  
-57|1803|3. Oct.|Apt (Saurette), Vancluse, Frankreich|  
-58|1814|15. Febr.|Bachmut, Jekaterinoslaw, Russland|  
-59|1860|1. Mai|New-Concord, Muskinjum Cty, Ohio, V. St.|  
-60|1825|14. Sept.|Hanaruru, Owahu, Sandwich-Inseln|  
-61|1834|12. Juni|Charwallas, Ostindien|  
-62|1858|19. Mai|Kakowa, NW. von Orawitza, Tem. Banat|  
-63|1787|13. Oct.|Charkow (Bobrik), Russland|  
-64|1795|13. Dec.|Wold Cottage, Yorkshire, England|  
-65|1798|8. od. 12. Mz.|Sales, Villefranche, Rhone, Frankreich|  
-66|1715|11. April|Schellin, Garz, Stargard, Pommern|  
-67|1803|26. April|Aigle, Orne, Normandie, Frankreich|  
-68|1860|14. Juli|Dhurmsala, Pundjab, Ostindien|  
-69|1805|Nov.|Asco, Corsica|  
-70|1808|3. Sept.|Lissa, Jung-Bunzlau, Böhmen|  
-71|1829|14. Aug.|Deal (Long Branch), New-Yersey, V. St.|  
-72|1860|28. März|Kheragur, Agra, Ostindien|  
-73|1810|23. Nov.|Charsonville, Orleans, Loire, Frankreich|  
-74|1811|12. März|Kuleschowka, Poltowa, Russland|  
-75|1811|8. Juli|Berlanguillas, Burgos, Spanien|  
-76|1814|5. Sept.|Agen, Lot und Garonne, Frankreich|  
-77|1818|10. April|Zaborzika, Volhynien, Russland|  
-78|1818|10. Aug.|Slobodka, Juchnow, Smolensk, Russland|  
-79|1819|13. Oct.|Politz, Köstritz, Gera, Fürstenth. Reuss|  
-80|1829|8. Mai|Forsyth, Monroe County, Georgia, V. St.|  
-81|1852|gefunden|Mainz, Grossherzogtum Hessen|  
-82|1831|18. Juli|Vouille, Poitiers, Vienne, Frankreich|  
-83|1833|27. Dec.|Okniny, Kremenetz, Volhynien, Russland|  
-84|1839|13. Febr.|Little Piney, Loiret, Missouri, V. St.|  
-85|1841|12. Juni|Chateau-Renard, Loiret, Frankreich|  
-86|1827|16. Febr.|Mhow, Ghazeepore, Allahabad, Ostindien|  
-87|1855|13. Mai|Insel Oesel, Russland|  
-88|1848|20. Mai|Castine, Maine, V. St.|  
-89|1808||Morodabad, Delhi, Ostindien|  
-90|1804|5. April|Glasgow (Dorf High Possil), Schottland|  
-91|1842|26. April|Milena, Warasdin, Kroatien|  
-92|1838|6. Juni|Chandakapoor, Beraar, Ostindien|  
-93|1804||Darmstadt|  
+54|1863|2. Juni|Buschhof, Kurland|4,52 Lth.|4,52 Lth.|  
+55|1847|25. Febr.|Linn County, Iowa, V. St.|17,72 Lth.|18,71 Lth.|  
+56|1854|5. Sept.|Linum, Fehrbellin, Potsdam, Preussen|3 Pfd. 13,83 Lth.|3 Pfd. 13,83 Lth.|  
+57|1803|3. Oct.|Apt (Saurette), Vancluse, Frankreich|0,96 Lth.|0,96 Lth.|  
+58|1814|15. Febr.|Bachmut, Jekaterinoslaw, Russland|3,84 Lth.|3,84 Lth.|  
+59|1860|1. Mai|New-Concord, Muskinjum Cty, Ohio, V. St.|26 Pfd. 24,30 Lth.|27 Pfd. 4,39 Lth.|  
+60|1825|14. Sept.|Hanaruru, Owahu, Sandwich-Inseln|3,86 Lth.|3,86 Lth.|  
+61|1834|12. Juni|Charwallas, Ostindien|0,05 Lth.|0,05 Lth.|  
+62|1858|19. Mai|Kakowa, NW. von Orawitza, Tem. Banat|0,58 Lth.|0,58 Lth.|  
+63|1787|13. Oct.|Charkow (Bobrik), Russland|0,15 Lth.|0,25 Lth.|  
+64|1795|13. Dec.|Wold Cottage, Yorkshire, England|0,18 Lth.|0,18 Lth.|  
+65|1798|8. od. 12. Mz.|Sales, Villefranche, Rhone, Frankreich|0,96 Lth.|0,96 Lth.|  
+66|1715|11. April|Schellin, Garz, Stargard, Pommern|0,34 Lth.|0,34 Lth.|  
+67|1803|26. April|Aigle, Orne, Normandie, Frankreich|1 Pfd. 1,83 Lth.|4 Pfd. 1,12 Lth.|  
+68|1860|14. Juli|Dhurmsala, Pundjab, Ostindien|12,02 Lth.|12,02 Lth.|  
+69|1805|Nov.|Asco, Corsica|0,40 Lth.|0,40 Lth.|  
+70|1808|3. Sept.|Lissa, Jung-Bunzlau, Böhmen|1 Pfd. 7,35 Lth.|1 Pfd. 15,27 Lth.|  
+71|1829|14. Aug.|Deal (Long Branch), New-Yersey, V. St.|0,02 Lth.|0,02 Lth.|  
+72|1860|28. März|Kheragur, Agra, Ostindien|0,28 Lth.|0,28 Lth.|  
+73|1810|23. Nov.|Charsonville, Orleans, Loire, Frankreich|2,18 Lth.|2,18 Lth.|  
+74|1811|12. März|Kuleschowka, Poltowa, Russland|0,12 Lth.|0,23 Lth.|  
+75|1811|8. Juli|Berlanguillas, Burgos, Spanien|1,89 Lth.|2,31 Lth.|  
+76|1814|5. Sept.|Agen, Lot und Garonne, Frankreich|1,09 Lth.|1,09 Lth.|  
+77|1818|10. April|Zaborzika, Volhynien, Russland|2,65 Lth.|3,25 Lth.|  
+78|1818|10. Aug.|Slobodka, Juchnow, Smolensk, Russland|7,45 Lth.|7,45 Lth.|  
+79|1819|13. Oct.|Politz, Köstritz, Gera, Fürstenth. Reuss|1 Pfd. 11,49 Lth.|1 Pfd. 13,43 Lth.|  
+80|1829|8. Mai|Forsyth, Monroe County, Georgia, V. St.|1,11 Lth.|1,22 Lth.|  
+81|1852|gefunden|Mainz, Grossherzogtum Hessen|0,12 Lth.|0,17 Lth.|  
+82|1831|18. Juli|Vouille, Poitiers, Vienne, Frankreich|0,25 Lth.|0,25 Lth.|  
+83|1833|27. Dec.|Okniny, Kremenetz, Volhynien, Russland|3,92 Lth.|3,92 Lth.|  
+84|1839|13. Febr.|Little Piney, Loiret, Missouri, V. St.|0,82 Lth.|0,87 Lth.|  
+85|1841|12. Juni|Chateau-Renard, Loiret, Frankreich|15,81 Lth.|26,93 Lth.|  
+86|1827|16. Febr.|Mhow, Ghazeepore, Allahabad, Ostindien|0,09 Lth.|0,09 Lth.|  
+87|1855|13. Mai|Insel Oesel, Russland|1,30 Lth.|1,30 Lth.|  
+88|1848|20. Mai|Castine, Maine, V. St.|0,04 Lth.|0,04 Lth.|  
+89|1808||Morodabad, Delhi, Ostindien|0,12 Lth.|0,12 Lth.|  
+90|1804|5. April|Glasgow (Dorf High Possil), Schottland|0,05 Lth.|0,05 Lth.|  
+91|1842|26. April|Milena, Warasdin, Kroatien|0,58 Lth.|0,58 Lth.|  
+92|1838|6. Juni|Chandakapoor, Beraar, Ostindien|0,30 Lth.|0,30 Lth.|  
+93|1804||Darmstadt|0,08 Lth.|0,08 Lth.|  
 
 2\. Howardit.
 

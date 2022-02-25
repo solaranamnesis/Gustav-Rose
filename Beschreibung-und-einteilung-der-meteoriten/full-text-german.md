@@ -1502,22 +1502,22 @@ Während des Druckes der letzten Bogen erhielt ich noch einige neue Meteoriten, 
 
 1\. Mesosiderit von Atacama in Chile. Er wurde auf einem Bergpasse 50 engl. Meilen von Copiapo gefunden, von Hrn. Brower erworben, der ihn nach New York brachte und dem Union College in Schenectady übergab, wo er vom Professor Joy analysirt und beschrieben wurde.* Durch Hrn. Prof. Chandler in Schenectady erhielt ich eine kleine Probe und ein Modell des ursprünglichen Meteoriten. Er hat hiernach eine ellipsoidische Gestalt mit ziemlich ebener Oberfläche und eine Länge, Breite und Höhe von etwa 4, 3 1/2 und 3 Zoll. Sein Gewicht betrug nach Joy 1784 Grammen, sein spec. Gew. 4,35. Nach der übersandten Probe hat er auf den ersten Anblick so grofse Ähnlichkeit mit dem Mesosiderit von der Sierra de Chaco in Atacama (vergl. oben S. 81), dass man geneigt sein könnte, ihn mit diesem für identisch zu halten. Nach der Analyse von Joy enthält er 57,657 metallische Teile und 42,419 Silicate, die wieder bestehen in 100 Teilen aus:
 
-Eisen 83,76   
-Nickel 9,18 
-Kobalt 1,45 
-Mangan 0,65 
-Kupfer 0,07 
-Phosphor 0,20 
+Eisen 83,76  
+Nickel 9,18  
+Kobalt 1,45  
+Mangan 0,65  
+Kupfer 0,07  
+Phosphor 0,20  
 Schwefel 4,67  
 99,98 
 
-Eisenoxydul 24,47
+Eisenoxydul 24,47  
 Manganoxydul 2,29  
 Magnesia 10,05  
 Kalk 3,63  
 Nickel- u. Kobaltoxyd 0,17  
 Tonerde 8,86  
-Chromoxyd 1,12 
+Chromoxyd 1,12  
 Kieselsäure 48,61  
 Zinnsäure 0,44  
 99,64  

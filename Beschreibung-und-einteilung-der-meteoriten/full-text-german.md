@@ -1491,10 +1491,9 @@ Auch die körnige Struktur der Meteoriten ist dadurch ausgezeichnet, dals bei ih
 
 Drusisz werden die Meteoriten selten, aber cs kommt loch in ausgezeichneter Weise vor bei dem Eukrit von Juvenas('). Shepard beschreibt noch Drusen bei dem Chondrit von Richmond; audere Jdrusige Meteoriten als diese sind aber nieht bekannt, —
 
-Uugeächtet aller der genannten Yerschiedenheiten hahen die Steinmeteorite tloch eine nicht zu läugnende Ähnlichkeit mit deu neuern vulkanischen (sebirgsarten, und bei dem hohen Interesse, das die Meteoriten als aulsertellurische Körper gewähren, ist diese Vebereinsiimmung, wie sie auch immer sei, von grolser Wichtigkeit.
+Ungeächtet aller der genannten Verschiedenheiten haben die Steinmeteorit doch eine nicht zu läugnende Ähnlichkeit mit den neuern vulkanischen Gebirgsarten, und bei dem hohen Interesse, das die Meteoriten als aussertellurische Körper gewähren, ist diese Uebereinstimmung, wie sie auch immer sei, von grofser Wichtigkeit.
 
-*) Besonders schön sollen ‚lie Drusen zu sehen sein bei dem grolsen, 4% Kilogramm schweren Bruchslück dieses Meteoriten, welches sıch in dem Muse W'Aistoire rarurele im Paris befindet und das grülste ist, welches existirt.
-
+*) Besonders schön sollen die Drusen zu sehen sein bei dem grofsen, 42 Kilogramm schweren Bruchstück dieses Meteoriten, welches sich in dem Muse d'histoire naturelle in Paris befindet und das gröfste ist, welches existirt.
 
 Nachtrag.
 

@@ -1651,34 +1651,36 @@ Fortl. Zahl|Jahr der Auffundg.|Name und Fundort|Gewicht des Hauptstücks|Gewicht
 71|1856|Hainholz, Minden, Preussen|20,18 Lth.|1 Pfd. 1,75 Lth.|  
 72||Niakornak, Grönland|0,39 Lth.|0,39 Lth.|  
 
+Fortl. Zahl|Jahr der Auffundg.|Datum des Falles|Name und Fundort|Gewicht des Hauptstücks|Gewicht aller Stücke|
+
 #### 2\. Steinmeteorit.  
 
 ##### 1\. Chondrit.  
 
-1|1843|16. Sept.|Klein Wenden, Nordhausen, Erfurt, Preuss.|  
-2|1812|15. April|Erxleben, Magdeburg, Preussen|  
-3|1863|8. Aug.|Pillistser, Livland|  
-4|1862|7. Oct.|Klein Menow, Alt-Strelitz, Meklenburg|  
-5|1857|24. März|Stauropol, nördliche Seite des Kaukasus|  
-6|1861|12. Mai|Butsura (Qutahar), Bengalen, Ostindien|  
-7|1492|7. Nov.|Ensisheim, Elsass, Frankreich|  
-8|1812|5. Aug.|Chantonnay, Vendee, Frankreich|  
-9|1753|3. Juli|Tabor (Plan, Strkow), Böhmen|  
-10|1768|13. Sept.|Luce en Marne, Sarthe, Frankreich|  
-11|1790|24. Juli|Barbotan, Landes, Frankreich|  
-12|1805|25. März|Doroninsk, Irkutzk, Sibirien|  
-13|1813|10. Sept.|Limerick (Adair, Scagh u. s. w.), Irland|  
-14|1810|Aug.|Tipperary (Mooresfort), Irland|  
-15|1766|Juli|Albareto, Modena, Italien|  
-16|1812|10. April|Toulouse, Haute Garonne, Frankreich|  
-17|1818|Juni|Seres, Macedonien, Türkei|  
-18|1829|9. Sept.|Krasnoi-Ugol, Räsan, Russland|  
-19|1822|30. Nov.|Allahabad (Futtehpore), Ostindien|  
-20|1831|9. Sept.|Wessely, Hradisch, Mähren|  
-21|1841|22. März|Grüneberg (Heinrichsau), Liegnitz, Preuss.|  
-22|1849|31. Oct.|Cabarras County, Nord-Carolina, V. St.|  
-23|1852|4. Sept.|Mezö-Madaras, Marosch, Siebenbürgen|  
-24|1838|18. April|Akburpur, Sahurunpur, Ostindien|  
+1|1843|16. Sept.|Klein Wenden, Nordhausen, Erfurt, Preuss.|4 Pfd. 23,10 Lth.|5 Pfd. 1,85 Lth.|  
+2|1812|15. April|Erxleben, Magdeburg, Preussen|3,39 Lth.|11,88 Lth.|  
+3|1863|8. Aug.|Pillistser, Livland|1,10 Lth.|1,23 Lth.|  
+4|1862|7. Oct.|Klein Menow, Alt-Strelitz, Meklenburg|0,74 Lth.|1,12 Lth.|  
+5|1857|24. März|Stauropol, nördliche Seite des Kaukasus|0,97 Lth.|0,97 Lth.|  
+6|1861|12. Mai|Butsura (Qutahar), Bengalen, Ostindien|5,47 Lth.|5,47 Lth.|  
+7|1492|7. Nov.|Ensisheim, Elsass, Frankreich|25,63 Lth.|1 Pfd. 23,66 Lth.|  
+8|1812|5. Aug.|Chantonnay, Vendee, Frankreich|13,06 Lth.|17,01 Lth.|  
+9|1753|3. Juli|Tabor (Plan, Strkow), Böhmen|2,81 Lth.|4,67 Lth.|  
+10|1768|13. Sept.|Luce en Marne, Sarthe, Frankreich|1,36 Lth.|1,36 Lth.|  
+11|1790|24. Juli|Barbotan, Landes, Frankreich|13,36 Lth.|18,14 Lth.|  
+12|1805|25. März|Doroninsk, Irkutzk, Sibirien|3,14 Lth.|3,14 Lth.|  
+13|1813|10. Sept.|Limerick (Adair, Scagh u. s. w.), Irland|0,24 Lth.|0,24 Lth.|  
+14|1810|Aug.|Tipperary (Mooresfort), Irland|2,32 Lth.|2,32 Lth.|  
+15|1766|Juli|Albareto, Modena, Italien|0,07 Lth.|0,07 Lth.|  
+16|1812|10. April|Toulouse, Haute Garonne, Frankreich|1,75 Lth.|1,75 Lth.|  
+17|1818|Juni|Seres, Macedonien, Türkei|1,98 Lth.|2,93 Lth.|  
+18|1829|9. Sept.|Krasnoi-Ugol, Räsan, Russland|4,30 Lth.|4,30 Lth.|  
+19|1822|30. Nov.|Allahabad (Futtehpore), Ostindien|0,37 Lth.|0,37 Lth.|  
+20|1831|9. Sept.|Wessely, Hradisch, Mähren|0,21 Lth.|0,21 Lth.|  
+21|1841|22. März|Grüneberg (Heinrichsau), Liegnitz, Preuss.|1 Pfd. 12,83 Lth.|1 Pfd. 17,20 Lth.|  
+22|1849|31. Oct.|Cabarras County, Nord-Carolina, V. St.|6,27 Lth.|8,04 Lth.|  
+23|1852|4. Sept.|Mezö-Madaras, Marosch, Siebenbürgen|5 Pfd. 11,33 Lth.|5 Pfd. 15,85 Lth.|  
+24|1838|18. April|Akburpur, Sahurunpur, Ostindien|0,58 Lth.|0,58 Lth.|  
 25|1824|15. Jan.|Renazzo, Ferrara, Italien|  
 26|1753|7. Sept.|Luponnas, Ain, Frankreich|  
 27|1859|26. März|Harrison County, Kentucky, V. St.|  

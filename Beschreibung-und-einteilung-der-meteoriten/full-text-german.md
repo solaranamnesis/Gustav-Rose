@@ -1681,35 +1681,35 @@ Fortl. Zahl|Jahr der Auffundg.|Datum des Falles|Name und Fundort|Gewicht des Hau
 22|1849|31. Oct.|Cabarras County, Nord-Carolina, V. St.|6,27 Lth.|8,04 Lth.|  
 23|1852|4. Sept.|Mezö-Madaras, Marosch, Siebenbürgen|5 Pfd. 11,33 Lth.|5 Pfd. 15,85 Lth.|  
 24|1838|18. April|Akburpur, Sahurunpur, Ostindien|0,58 Lth.|0,58 Lth.|  
-25|1824|15. Jan.|Renazzo, Ferrara, Italien|  
-26|1753|7. Sept.|Luponnas, Ain, Frankreich|  
-27|1859|26. März|Harrison County, Kentucky, V. St.|  
-28|1785|19. Febr.|Eichstädt (Wittmes), Baiern|  
-29|1798|13. Dec.|Benares, Bengalen, Ostindien|  
-30|1857|27. Dec.|Pegu (Quenggouk, NNO. von Bassein)|  
-31|1825|10. Febr.|Nanjemoy, Maryland, V. St.|  
-32|1807|13. März|Timochin, Juchnow, Smolensk, Russland|  
-33|1852|23. Jan.|Nellore, Yatoor, Madras, Ostindien|  
-34|1856|12. Nov.|Trenzano, SW. von Brescia, Lombardei|  
-35|1853|6. März|Segowlee, Sarun, Ostindien|  
-36|1807|14. Dec.|Weston, Connecticut, V. St.|  
-37|1808|19. April|Parma (Casignano, Borgo San Donino)|  
-38|1820|12. Juli|Lixna, Dünaburg, Witebsk, Russland|  
-39|1833|25. Nov.|Blansko, Brünn, Mähren|  
-40|1828|4. Juni|Richmond, Virginia, V. St.|  
-41|1822|13. Sept.|La Baffe, Epinal, Vosges, Frankreich|  
-42|1857|10. Oct.|Ohaba, O. von Karlsburg, Siebenbürgen|  
-43|1838||Gouv. Pultawa, Russland|  
-44|1836|11. Nov.|Macao, Rio Grande del Norte, Brasilien|  
-45|1851|17. April|Güterslohe, Minden, Preussen|  
-46|1860|2. Febr.|Alessandria, Piemont|  
-47|1794|16. Juni|Siena, Toscana, Italien|  
-48|1857|28. Febr.|Parnallee, S. von Madura, S. Hindostan|  
-49|1855|13. Mai|Bremervörde, Stade, Hannover|  
-50|1858|9. Dec.|Ausson, Haute Garonne, Frankreich|  
-51|1815|18. Febr.|Durala, Petialah, Delhi, Ostindien| 
-52|1768|20. Nov.|Mauernkirchen, Oestreich ob der Enns|  
-53|1863|7. Dec.|Tirlemont (Tourinnes-la-Grosse), Belgien|  
+25|1824|15. Jan.|Renazzo, Ferrara, Italien|0,14 Lth.|0,18 Lth.|  
+26|1753|7. Sept.|Luponnas, Ain, Frankreich|0,10 Lth.|0,10 Lth.|  
+27|1859|26. März|Harrison County, Kentucky, V. St.|1,18 Lth.|1,18 Lth.|  
+28|1785|19. Febr.|Eichstädt (Wittmes), Baiern|0,96 Lth.|0,96 Lth.|  
+29|1798|13. Dec.|Benares, Bengalen, Ostindien|0,36 Lth.|0,61 Lth.|  
+30|1857|27. Dec.|Pegu (Quenggouk, NNO. von Bassein)|0,86 Lth.|1,06 Lth.|  
+31|1825|10. Febr.|Nanjemoy, Maryland, V. St.|1,99 Lth.|1,99 Lth.|  
+32|1807|13. März|Timochin, Juchnow, Smolensk, Russland|13,14 Lth.|24,04 Lth.|  
+33|1852|23. Jan.|Nellore, Yatoor, Madras, Ostindien|5,56 Lth.|5,66 Lth.|  
+34|1856|12. Nov.|Trenzano, SW. von Brescia, Lombardei|0,42 Lth.|0,42 Lth.|  
+35|1853|6. März|Segowlee, Sarun, Ostindien|0,37 Lth.|0,37 Lth.|  
+36|1807|14. Dec.|Weston, Connecticut, V. St.|1,05 Lth.|1,27 Lth.|  
+37|1808|19. April|Parma (Casignano, Borgo San Donino)|0,92 Lth.|0,92 Lth.|  
+38|1820|12. Juli|Lixna, Dünaburg, Witebsk, Russland|2,06 Lth.|4,91 Lth.|  
+39|1833|25. Nov.|Blansko, Brünn, Mähren|1,62 Lth.|1,62 Lth.|  
+40|1828|4. Juni|Richmond, Virginia, V. St.|0,96 Lth.|1,50 Lth.|  
+41|1822|13. Sept.|La Baffe, Epinal, Vosges, Frankreich|0,64 Lth.|0,64 Lth.|  
+42|1857|10. Oct.|Ohaba, O. von Karlsburg, Siebenbürgen|0,06 Lth.|0,06 Lth.|  
+43|1838||Gouv. Pultawa, Russland|0,48 Lth.|0,48 Lth.|  
+44|1836|11. Nov.|Macao, Rio Grande del Norte, Brasilien|2,24 Lth.|2,24 Lth.|  
+45|1851|17. April|Güterslohe, Minden, Preussen|1 Pfd. 21,34 Lth.|1 Pfd. 23,44 Lth.|  
+46|1860|2. Febr.|Alessandria, Piemont|0,08 Lth.|0,08 Lth.|  
+47|1794|16. Juni|Siena, Toscana, Italien|3,13 Lth.|3,62 Lth.|  
+48|1857|28. Febr.|Parnallee, S. von Madura, S. Hindostan|24,50 Lth.|24,97 Lth.|  
+49|1855|13. Mai|Bremervörde, Stade, Hannover|16,94 Lth.|16,94 Lth.|  
+50|1858|9. Dec.|Ausson, Haute Garonne, Frankreich|28,85 Lth.|1 Pfd. 2,88 Lth.|  
+51|1815|18. Febr.|Durala, Petialah, Delhi, Ostindien|1,84 Lth.|1,84 Lth.| 
+52|1768|20. Nov.|Mauernkirchen, Oestreich ob der Enns|9,93 Lth.|13,79 Lth.|  
+53|1863|7. Dec.|Tirlemont (Tourinnes-la-Grosse), Belgien|15,20 Lth.|15,20 Lth.|  
 54|1863|2. Juni|Buschhof, Kurland|  
 55|1847|25. Febr.|Linn County, Iowa, V. St.|  
 56|1854|5. Sept.|Linum, Fehrbellin, Potsdam, Preussen|  

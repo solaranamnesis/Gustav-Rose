@@ -1753,37 +1753,37 @@ Fortl. Zahl|Jahr der Auffundg.|Datum des Falles|Name und Fundort|Gewicht des Hau
 
 2\. Howardit.
 
-94|1813|13. Dec.|Loutolax, Wiborg, Finland|  
-95|1827|5. Oct.|Bialystok (Dorf Knasta), Russland|  
-96|1803|13. Dec.|Mässing (Dorf St. Nicolas), Baiern|  
-97|1823|7. Aug.|Nobleborough, Maine, V. St. N. A.|  
-98|1843|26. Juli|Mallygaum, Kandeish, Ostindien|  
+94|1813|13. Dec.|Loutolax, Wiborg, Finland|0,24 Lth.|0,33 Lth.|  
+95|1827|5. Oct.|Bialystok (Dorf Knasta), Russland|4,86 Lth.|5,09 Lth.|  
+96|1803|13. Dec.|Mässing (Dorf St. Nicolas), Baiern|1,43 Lth.|1,43 Lth.|  
+97|1823|7. Aug.|Nobleborough, Maine, V. St. N. A.|0,04 Lth.|0,04 Lth.|  
+98|1843|26. Juli|Mallygaum, Kandeish, Ostindien|0,03 Lth.|0,03 Lth.|  
 
 3\. Chassignit.  
 
-99|1815|3. Oct.|Chassigny, Langres, Haute Marne, Frankr.|  
+99|1815|3. Oct.|Chassigny, Langres, Haute Marne, Frankr.|0,79 Lth.|0,99 Lth.|  
 
 d\. Shalkit.  
 
-100|1850|30. Nov.|Shalka in Bancoora, Ostindien|  
+100|1850|30. Nov.|Shalka in Bancoora, Ostindien|4,79 Lth.|5,07 Lth.|  
 
 5\. Chladnit.  
 
-101|1843|25. März|Bishopville, Süd-Carolina, V. St.|  
+101|1843|25. März|Bishopville, Süd-Carolina, V. St.|10,73 Lth.|13,90 Lth.|  
 
 6\. Kohlige Meteorit.  
 
-102|1806|15. März|Alais, Gard, Frankreich|  
-103|1838|13. Oct.|Cold Bokkeveld, Cap d. g. Hoffn., S. Africa|  
-104|1857|15. April|Kaba, SW. v. Debreczin, Ungarn|  
-105|1864|14. Mai|Orgueil (Montauban), Frankreich|  
+102|1806|15. März|Alais, Gard, Frankreich|1,49 Lth.|1,49 Lth.|  
+103|1838|13. Oct.|Cold Bokkeveld, Cap d. g. Hoffn., S. Africa|0,55 Lth.|1,29 Lth.|  
+104|1857|15. April|Kaba, SW. v. Debreczin, Ungarn|0,05 Lth.|0,05 Lth.|  
+105|1864|14. Mai|Orgueil (Montauban), Frankreich|7,875 Lth.|7,875 Lth.|  
 
 7\. Eukrit.  
 
-106|1821|15. Juni|Juvenas, Ardeche, Frankreich|  
-107|1808|22. Mai|Stannern, Iglau, Mähren|  
-108|1819|13. Juni|Jonzac, Charente, Frankreich|  
-109|1855|5. Aug.|Petersburg, Lincoln Cty, Tennessee, V. St.|  
+106|1821|15. Juni|Juvenas, Ardeche, Frankreich|1 Pfd. 4,28 Lth.|2 Pfd. 1,42 Lth.|  
+107|1808|22. Mai|Stannern, Iglau, Mähren|26,99 Lth.|6 Pfd. 27,65 Lth.|  
+108|1819|13. Juni|Jonzac, Charente, Frankreich|0,13 Lth.|0,13 Lth.|  
+109|1855|5. Aug.|Petersburg, Lincoln Cty, Tennessee, V. St.|3,47 Lth.|4,52 Lth.|  
   
 Das Pfund = 30 Loth = 1/2 Kilogramm, 1 Gramm also = 0,6 Loth.
 

@@ -1597,25 +1597,25 @@ Fortl. Zahl|Jahr der Auffundg.|Name und Fundort|Gewicht des Hauptstücks|Gewicht
 29|1856|Marshall County, Kentucky, V. St.|4,39 Lth.|4,39 Lth.|  
 30|1823|St. Rosa, Tunja, Columbien (Karsten)|0,03 Lth.|0,03 Lth.|  
 31|1856|Orange River, Süd-Afrika|1,74 Lth.|1,74 Lth.|  
-32|1814|Texas (Red River) V. St.|||  
-33|1815|Lenarto, Scharosch, Ungarn|||  
-34|1804|Durango, Mexico|||  
-35|1854|Werchne-Udinsk, West-Sibirien|||  
-36|1811|Elbogen, Böhmen|||  
-37|1856|Nebraska Territory, V. St.|||  
-38|1859|Wayne County, Ohio, V. St.|||  
-39|1854|Madoc, Ober-Canada|||  
-40|1835|Black Mountain, Buncumbe Cty, Nord-Carolina, V. St.|  
-41|1828|Caille, Grasse, Var, Frankreich|  
-42|1751|gefallen 26. Mai. Agram (Hraschina), Kroatien|  
-43|1839|Ashville, Buncumbe County, Nord-Carolina, V. St.|  
-44|1830|Guildford, Nord-Carolina, V. St.|  
-45|1853|Löwenfuss, Gross-Namaqualand, S. Afrika|  
-46|1845|Lockport (Cambria), New-York, V. St.|  
-47|1856|Jewell Hill, Madison County, Nord-Carolina, V. St.|  
-48|1856|Oldham County, (Lagrange), Kentucky, V. St.|  
-49|1854|Putnam County, Georgia, V. St.|  
-50|1854|Tazewell, Claiborne County, Tennessee, V. St.|  
+32|1814|Texas (Red River) V. St.|6,38 Lth.|6,38 Lth.|  
+33|1815|Lenarto, Scharosch, Ungarn|14,98 Lth.|26,78 Lth.|  
+34|1804|Durango, Mexico|1 Pfd. 2,67 Lth.|1 Pfd. 22,42 Lth.|  
+35|1854|Werchne-Udinsk, West-Sibirien|1 Pfd. 4,17 Lth.|1 Pfd. 4,17 Lth.|  
+36|1811|Elbogen, Böhmen|9,92 Lth.|11,95 Lth.|  
+37|1856|Nebraska Territory, V. St.|0,78 Lth.|0,78 Lth.|  
+38|1859|Wayne County, Ohio, V. St.|0,07 Lth.|0,07 Lth.|  
+39|1854|Madoc, Ober-Canada|1,74 Lth.|1,74 Lth.|  
+40|1835|Black Mountain, Buncumbe Cty, Nord-Carolina, V. St.|1,57 Lth.|1,57 Lth.|  
+41|1828|Caille, Grasse, Var, Frankreich|5,69 Lth.|6,23 Lth.|  
+42|1751|gefallen 26. Mai. Agram (Hraschina), Kroatien|0,64 Lth.|1,69 Lth.|  
+43|1839|Ashville, Buncumbe County, Nord-Carolina, V. St.|0,38 Lth.|0,82 Lth.|  
+44|1830|Guildford, Nord-Carolina, V. St.|0,06 Lth.|0,06 Lth.|  
+45|1853|Löwenfuss, Gross-Namaqualand, S. Afrika|3,61 Lth.|3,61 Lth.|  
+46|1845|Lockport (Cambria), New-York, V. St.|2,86 Lth.|2,86 Lth.|  
+47|1856|Jewell Hill, Madison County, Nord-Carolina, V. St.|6,06 Lth.|6,06 Lth.|  
+48|1856|Oldham County, (Lagrange), Kentucky, V. St.|1 Pfd. 5,55 Lth.|1 Pfd. 29,85 Lth.|  
+49|1854|Putnam County, Georgia, V. St.|1,48 Lth.|1,48 Lth.|  
+50|1854|Tazewell, Claiborne County, Tennessee, V. St.|1 Pfd. 6,70 Lth.|1 Pfd. 13,51 Lth.|  
 
 ###### d\. Aus grosskörnigen, schalig zusammengesetzten Individuen bestehend.  
 

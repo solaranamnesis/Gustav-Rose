@@ -58,7 +58,7 @@ Die Meteoreisenmassen sind:
 
 #### Chondrit
 
-##### Aeufsere Beschaffenheit
+##### Aeussere Beschaffenheit
 
 ##### Mikroskopische Untersuchung
 

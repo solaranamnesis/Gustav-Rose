@@ -1461,17 +1461,17 @@ Zu den Eisenmeteoriten gehören noch 2 Arten, der Pallasit und der Mesosiderit. 
 
 Die übrigen Steinmeteorit sind auch mehr oder weniger gemengt.
 
-Der so selten vorkommende Chassignit ist fast nur ein körniger eisenreicher Olirin, worin etwas Chromeisenerz eingemengt ist,
+Der so selten vorkommende Chassignit ist fast nur ein körniger eisenreicher Olivin, worin etwas Chromeisenerz eingemengt ist.
 
-Der Shalkit ein körniges Gemenge ron vorwaltendem Olirin mit Shepardit und etwas Chromeisenerz.
+Der Shalkit ein körniges Gemenge ron vorwaltendem Olivin mit Shepardit und etwas Chromeisenerz.
 
-Der Chladnit besteht vorzugsweise aus Shepardit, die andern Gemengteil sicd nicht mit Sicherheit hekannt.
+Der Chladnit besteht vorzugsweise aus Shepardit, die andern Gemengteil sind nicht mit Sicherheit bekannt.
 
-Der Howardit ein feinkörniges Gemenge von Olivin wahrscheinlich mit Änorilit.
+Der Howardit ein feinkörniges Gemenge von Olivin wahrscheinlich mit Anorthit.
 
-Der Eukrit endlich ein solches Gemerge aus Augit und Anorthit.
+Der Eukrit endlich ein solches Gemenge aus Augit und Anorthit.
 
-Fast alle diese Meteorit sind durch den Olivin, den sie enthalten, ausgezeichnet; der Chassignit besteht fast nur daraus, der Shalkit enibält ihn in vorwaltender Menge, in dem Chondrit und Howardit ist er ein wesentlicher Gemengteil, und der Eukrit enthält ihn zwar als solchen nicht, aber in dem E. von Petershurg ist er doch als unwesentlicher Gemengteil vorgekonmen, Nur der Chladnit enthält ihn, so viel man weils, nicht, doch findet sich statt seiner das Trisilicat der Magnesia, der Shepardit. Neben Jem Olivin ist das Chromeisenerz ein lası is allen Meteoriten, wenn auch uur in geringer Menge vorkommender Gemengteil.
+Fast alle diese Meteorit sind durch den Olivin, den sie enthalten, ausgezeichnet; der Chassignit besteht fast nur daraus, der Shalkit enthält ihn in vorwaltender Menge, in dem Chondrit und Howardit ist er ein wesentlicher Gemengteil, und der Eukrit enthält ihn zwar als solchen nicht, aber in dem E. von Petersburg ist er doch als unwesentlicher Gemengteil vorgekonmen. Nur der Chladnit enthält ihn, so viel man weiss, nicht, doch findet sich statt seiner das Trisilicat der Magnesia, der Shepardit. Neben dem Olivin ist das Chromeisenerz ein fast in allen Meteoriten, wenn auch nur in geringer Menge vorkommender Gemengteil.
 
 Vergleicht man die Meteoriten, die kosmischen Gebirgsarten, mit den tellurischen, so ergibt sich, dass sie gänzlich von diesen verschieden sind bis auf den Eukrit, der doch unter den tellurischen Gebirgsarten auch nur selten vorkommt und erst in der neuern Zeit aufgefunden ist. Haughton in Dublin beschrieb zuerst ein solches Gemenge von Carlingfors in Irland, wo es in Gängen im Steinkohlengebirge vorkommit,* gab aber das den Anorthit begleitende Mineral für Hornblende aus, was nach den Stücken, die ich Hrn. Skott verdanke, Augit ist; doch sind ja auch Gesteine, die Gemenge von Anorthit und Hornblende sind, in der neuern Zeit bekannt geworden, wie z. B. das bisher für Diorit gehaltene Gestein vom Kontschekowskoj Kamen im Ural nach Potyka ein solches ist,* und solche mögen auch in Irland vorkommen. Die Anorthitgesteine und namentlich der Eukrit sind gewiss aber noch viel häufiger, als man glaubt. Durch das Gelatiniren des Anorthits mit Chlorwasserstoffsäure war ein leichtes Mittel gegeben, denselben vom Labrador zu unterscheiden; ich fand so, dass viele für Hypersthenfels gehaltene Gesteine nichts anderes als Eukrit sind, wie z. B. der sogenannte Hypersthenfels von der Insel Skye, der hier so verbreitet ist, und von dem das Berliner Museum viele und schöne Stücke besitzt, die die Hrn. v. Dechen und v. Oeynhausen dort gesammelt und dem Berliner Museum übergeben haben. Die tellurischen Eukrit unterscheiden sich zwar dadurch von den meteorischen, dass sie grobkörniger sind und der Augit in ihnen nicht braun sondern grün ist, doch sind dies unwesentliche Unterschiede. Einen wichtigen Unterschied würde das Vorkommen des gediegenen Eisens in den meteorischen Eukriten machen, doch ist dieses ja in den meisten, wie in dem von Stannern und Juvenas, nur in solcher geringen Menge vorhanden, dass es bisher in ihnen ganz übersehen ist, und also einen wesentlichen Gemengteil nicht abgeben kann.
 

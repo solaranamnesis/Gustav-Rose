@@ -1141,132 +1141,132 @@ Auch Sartorius spricht von der Form dieser Kristalle, und vergleicht sie mit der
 
 Die Härte des Shepardits ist nach diesen Beobachtern die des Feldspats, das spezifische Gewicht nach Shepard 3,116, nach Sartorius 3,039.
 
-Vor dem Lötrohr schmilzt der Shepardit nur an den Kanten zu einem weilsen Email*; in Borax löst er sich in Pulveriorm leicht zu einem klaren Glase auf; in Phospharsalg in Stücken langsam, in Pulrerform leicht zu einem Glase, das, so lange es heifs ist, wasserhell ist und ein Kieselskeieti einschliefst, beim Erkalten aber opalisiert.
+Vor dem Lötrohr schmilzt der Shepardit nur an den Kanten zu einem weissen Email*; in Borax löst er sich in Pulverform leicht zu einem klaren Glase auf; in Phospharsalz in Stücken langsam, in Pulverform leicht zu einem Glase, das, so lange es heiss ist, wasserhell ist und ein Kieselskelett einschliesst, beim Erkalten aber opalisiert.
 
-Von heißser Chlorwasserstoffsäure wird der Shepardit nur sehr schwer angegriffen. Diels ist auch mit den runden Körnern der Fall, die Shepard für Anorthil hält; fein gerieben und mit Chlorwasserstolisäure längere Zeit gekocht, gibt die verdünnte und filtrirte Auflösung derselben init Ammoniak erst nach einiger Zeil einige bräunliche Flocken und das zurückbleibende Pulver kouirscht nach wie vor mit dem Glasstab. Wenn ich Körner derselben Art wie Shepard untersucht habe, so können diese kein Änorthit sein; denn dieser gibt gepulvert und mit Chlorwasserstoflsäure gekocht sehr leicht eine Gallerte.*
+Von heisser Chlorwasserstoffsäure wird der Shepardit nur sehr schwer angegriffen. Diess ist auch mit den runden Körnern der Fall, die Shepard für Anorthit hält; fein gerieben und mit Chlorwasserstoffsäure längere Zeit gekocht, gibt die verdünnte und filtrirte Auflösung derselben init Ammoniak erst nach einiger Zeit einige bräunliche Flocken und das zurückbleibende Pulver knirscht nach wie vor mit dem Glasstab. Wenn ich Körner derselben Art wie Shepard untersucht habe, so können diese kein Anorthit sein; denn dieser gibt gepulvert und mit Chlorwasserstoffsäure gekocht sehr leicht eine Gallerte.*
 
-Die chemische Zusammenseizung des Shepardits wird von Shepard (a), Sartorius (5) und Rammelsberg {c) folgendermafsen angegeben:
+Die chemische Zusammensetzung des Shepardits wird von Shepard (a), Sartorius (b) und Rammelsberg (c) folgendermassen angegeben:
 
-Nlagnesia 25,209 27,12 34,80  
-Kalk — 1,83 0,66  
-Natron 1,39 _ 1,14  
-Kali _ —_ 0,0  
-Maneanoxydull — _ 0,2  
-Tonerde — 1,48 2.72  
-Eisenoxyd — 1,0 1,23  
-Kieselsäure 0,41 67,14 37,92  
-Wasser _ 0,67 0,50  
-100,95 99,83 99,79  
+a|b|c|  
+Magnesia 28,25 27,12 34,80  
+Kalk - 1,82 0,66  
+Natron 1,39 - 1,14  
+Kali - - 0,70  
+Manganoxydul - - 0,2  
+Tonerde - 1,48 2,72  
+Eisenoxyd - 1,70 1,25  
+Kieselsäure 70,41 67,14 57,52  
+Wasser - 0,67 0,80  
+100,95 99,93 99,79  
 
-Nach Shepard wäre also der Sbepardit, abgesehen von der geringen Menge Natron, nur eine Verbindung von Kieselsäure mit Magnesia. Shepard allein hat keine Tonerde gefunden, was wahrscheinlich daher rührt, dass er die reinsten Kristalle zur Analyse genommen hat, wie er auch die größte Masse zu seiner Benutzung hatte und bei den analysierten Proben der beiden andern Chemiker, die nur klemere Bruchstücke anwenden konnten, noch ein anderes Silicat beigemengt gewesen ist. Der Shepardit hat hiernach also dieselben Bestandteile wie der Olivin, nur in andern Verhältnissen; hei dem Shepardit ist der Sauerstoff der Magnesia (mit Einschlufs des Natrons) zu dem der Kieselsäure wie 1:3, während er beim Olivin nur wie ti : 1 ist, Der Shepardit ist also anderthalb kieselsaure Magnesia:
+Nach Shepard wäre also der Shepardit, abgesehen von der geringen Menge Natron, nur eine Verbindung von Kieselsäure mit Magnesia. Shepard allein hat keine Tonerde gefunden, was wahrscheinlich daher rührt, dass er die reinsten Kristalle zur Analyse genommen hat, wie er auch die größte Masse zu seiner Benutzung hatte und bei den analysierten Proben der beiden andern Chemiker, die nur kleinere Bruchstücke anwenden konnten, noch ein anderes Silicat beigemengt gewesen ist. Der Shepardit hat hiernach also dieselben Bestandteile wie der Olivin, nur in andern Verhältnissen; bei dem Shepardit ist der Sauerstoff der Magnesia (mit Einschluss des Natrons) zu dem der Kieselsäure wie 1:3, während er beim Olivin nur wie 1:1 ist. Der Shepardit ist also anderthalb kieselsaure Magnesia:
 
-Mg2 Si3
+Mg2Si3
 
 und die berechnete Zusammensetzung:
 
-Magncsia 40,2
-Kieseisäure 69,8
+Magnesia 30,2
+Kieselsäure 69,8
 
-während der Olivin nur eie halb kieselsaure Magnesia ist:
+während der Olivin nur ein halb kieselsaure Magnesia ist:
 
-Mg2 Si
+Mg2Si
 
-Sartorius von der Änsicht ausgehend, dass er ein Gemenge analysiert habe, nimmt an, dass die gefundene Tonerde von einem sogenannten Kalk-Labrador, d. i. von einem solchen Labrador herrühre, der nur Kalkerde als einatomige Basis entbielte. Er berechnet nach der Tonerde einen solchen Labrador, dessen Menge etwa 5 pC. beträgt, zieht diesen von dem Ganzen ab nnd findet nun für den Rückstand, den seiner Meinung nach reinen Shepardit, dieselbe Formel wie Shepard. Dessenungeachtet scheint mir eine solehe Annahme nicht gerechtfertigt, denn einmal kennt man einen Labrador von solcher Zusammensetzung überhaupt nicht, und dann kann man Kristalle son der Form Jes Labradors nicht allein nicht in dem Chiadnit erkennen, derselbe ist auch noch nie in dern Meteoriten beobachtet worden. Eher könnte man als Beimengung Anorthit annehmen, da dieser doch in gewissen Meteorsteinen bestimmt beobachtet ist; aber auch diese Annahme ist nach (lem oben Angeführten nicht wahrscheinlich.
+Sartorius von der Ansicht ausgehend, dass er ein Gemenge analysiert habe, nimmt an, dass die gefundene Tonerde von einem sogenannten Kalk-Labrador, d. i. von einem solchen Labrador herrühre, der nur Kalkerde als einatomige Basis enthielte. Er berechnet nach der Tonerde einen solchen Labrador, dessen Menge etwa 5 pC. beträgt, zieht diesen von dem Ganzen ab und findet nun für den Rückstand, den seiner Meinung nach reinen Shepardit, dieselbe Formel wie Shepard. Dessenungeachtet scheint mir eine solche Annahme nicht gerechtfertigt; denn einmal kennt man einen Labrador von solcher Zusammensetzung überhaupt nicht, und dann kann man Kristalle von der Form des Labradors nicht allein nicht in dem Chladnit erkennen, derselbe ist auch noch nie in den Meteoriten beobachtet worden. Eher könnte man als Beimengung Anorthit annehmen, da dieser doch in gewissen Meteorsteinen bestimmt beobachtet ist; aber auch diese Annahme ist nach dem oben Angeführten nicht wahrscheinlich.
 
-Rammelsberg, um zu sehen, ob seiner zu analysierenden Probe etwas Auflösbares beigemengt sei, digerirte das feine Pulrer zuerst mit konzentrierter warmer Ühlorwasserstoffsäure und schlols nachher den Rückstand mit kohlensaurem Natron auf. Da er aber durch die Säure nur 7,55 pC. ausziehen konnte, die hauptsächlich aus Kieselsäure und Magnesia ohne Tonerde bestanden, so war es wahrscheinlich, dals diese nur von einer anfangenden Zersetzung des Shepardits kerrührten, tind er rechnete daber das durch Chlorwasserstoflsäure Ausgezogene den Bestandteilen des Rückstandes zu. Er überzeugte sich aber auf eine andere Weise, dass er ein Gemenge untersucht habe, indem er eine besondere Menge von dem Pulver der ausgesuchten weilsen Kristalle schlämmte, das Leichteste und Schwerste für sich analysierte und in beiden eine nicht unbeträchtliche Verschiedenheit in der Zusammensetzung fand. Bei der Schwierigkeit, die Beimengung zu bestimmen, unterläfst es daher Rammelsberg ganz, für die Zusammensetzung des Ganzen eine Formel aufzustellen. Wenn es demnach nun auch nicht zu bezweifeln ist, dals in dem Chladnit ein eigenihümliches Mineral wie der Shepardit vorkommt, so ist es doch auch ebenso wahrscheinlich, dass neben ihm sich noch ein anderes Ihonerde-haltiges Mineral beigemengt findet, das man noch nicht kennt, wie auch von dem Shepardlit selbst noch vieles, wie z. B. seine Form, fast ganz unbekannt ist.
+Rammelsberg, um zu sehen, ob seiner zu analysierenden Probe etwas Auflösbares beigemengt sei, digerirte das feine Pulver zuerst mit konzentrierter warmer Chlorwasserstoffsäure und schloss nachher den Rückstand mit kohlensaurem Natron auf. Da er aber durch die Säure nur 7,55 pC. ausziehen konnte, die hauptsächlich aus Kieselsäure und Magnesia ohne Tonerde bestanden, so war es wahrscheinlich, dass diese nur von einer anfangenden Zersetzung des Shepardits herrührten, und er rechnete daher das durch Chlorwasserstoffsäure Ausgezogene den Bestandteilen des Rückstandes zu. Er überzeugte sich aber auf eine andere Weise, dass er ein Gemenge untersucht habe, indem er eine besondere Menge von dem Pulver der ausgesuchten weissen Kristalle schlämmte, das Leichteste und Schwerste für sich analysierte und in beiden eine nicht unbeträchtliche Verschiedenheit in der Zusammensetzung fand. Bei der Schwierigkeit, die Beimengung zu bestimmen, unterlässt es daher Rammelsberg ganz, für die Zusammensetzung des Ganzen eine Formel aufzustellen. Wenn es demnach nun auch nicht zu bezweifeln ist, dass in dem Chladnit ein eigentümliches Mineral wie der Shepardit vorkommt, so ist es doch auch ebenso wahrscheinlich, dass neben ihm sich noch ein anderes Tonerde-haltiges Mineral beigemengt findet, das man noch nicht kennt, wie auch von dem Shepardit selbst noch vieles, wie z. B. seine Form, fast ganz unbekannt ist.
 
-Die übrigen ntr in geringer Menge vorkommenden Gemengteil sind:
+Die übrigen nur in geringer Menge vorkommenden Gemengteil sind:
 
-1\. Nickeleisen, das teils in der Gruncmasse, teils in und zwischen den weilsen Kristallen eingemengt ist, gewöhnlich nur sparsam uud in kleinen Körnern, nach Shepard doch zuweilen von der Gröfse einer Erhse. Ich selbst beobachtete in den Stücken der Berliner Sammlung mehrere nicht viel kleinere Köruer, Das Eisen ist aber stets mit Eisenoxydtl bedeckt, und dieis hat auch die umgebende Masse braun gefärbt und zwar noch stärker als bei den meisten übrigen Meteoriten, Bei Jen erwähnten größsern Körnern kann man aber durch Schaben mit dem Messer den NMetallglarz und die lichte stahlaraue Farbe des Innern erkennen.
+1\. Nickeleisen, das teils in der Gruncmasse, teils in und zwischen den weissen Kristallen eingemengt ist, gewöhnlich nur sparsam und in kleinen Körnern, nach Shepard doch zuweilen von der Grösse einer Erbse. Ich selbst beobachtete in den Stücken der Berliner Sammlung mehrere nicht viel kleinere Körner. Das Eisen ist aber stets mit Eisenoxydul bedeckt, und diess hat auch die umgebende Masse braun gefärbt und zwar noch stärker als bei den meisten übrigen Meteoriten. Bei Jen erwähnten grössern Körnern kann man aber durch Schaben mit dem Messer den Metallglanz und die lichte stahlgraue Farbe des Innern erkennen.
 
-2\. Magenetkies in kleinen Körner: selten.
+2\. Magnetkies in kleinen Körnern selten.
 
-3\. Ein schwarzes Mineral, das nach Shepard Schwefelchrom ist.* Es ändet sich in kleinen Körnern oder kleinen Gängen, die den Chladnit durchsetzen, nach Shepard auch in kleinen prismatischen Kristallen, die auf den Seitenllächen gestreift und nach «diesen Spuren von Spaltungsllächen zeigen. Sie sind unyollkommen metallisch glänzend, undurchsichtig, von der Härte des Flulsspaths. Vor dem Lötrohr schmilzt diels Mineral schwer zu einem schwarzen Glase, das magnetisch ist; im Kolben erhitzt, bildet sich ein Suhblimat von Schwefel. Mit Borax und Phosphorsalz bildet es grüne Gläser; die Farbe ist im Allgemeinen intensiv, aber stärker im Boraxglase als im Phospborsalze und besonders bei der Schmelzung in der innern Flamme und nach Zusätz von Zinn.
+3\. Ein schwarzes Mineral, das nach Shepard Schwefelchrom ist.* Es findet sich in kleinen Körnern oder kleinen Gängen, die den Chladnit durchsetzen, nach Shepard auch in kleinen prismatischen Kristallen, die auf den Seitenflächen gestreift und nach diesen Spuren von Spaltungsflächen zeigen. Sie sind unvollkommen metallisch glänzend, undurchsichtig, von der Härte des Flufsspaths. Vor dem Lötrohr schmilzt diess Mineral schwer zu einem schwarzen Glase, das magnetisch ist; im Kolben erhitzt, bildet sich ein Sublimat von Schwefel. Mit Borax und Phosphorsalz bildet es grüne Gläser; die Farbe ist im Allgemeinen intensiv, aber stärker im Boraxglase als im Phosphorsalze und besonders bei der Schmelzung in der innern Flamme und nach Zusatz von Zinn.
 
-*) Shepard mangle es nach Hrn. von Schreihers: Schreibersitl, welchen Namen dann Haidinger in den von Shepardit umgeändert hat und woftr nun nach dem Üligen nach vollaländigerer Kenntotfs dieses Gemernpteils ein neuer Name zu machen wäre.
+*) Shepard nannte es nach Hrn. von Schreibers: Schreibersit, welchen Namen dann Haidinger in den von Shepardit umgeändert hat und wofür nun nach dem Obigen nach vollständigerer Kenntniss dieses Gemengteils ein neuer Name zu machen wäre.
 
-4\. Kleine gelbe Kristalle zwischen den Körnern des Chladnits, vor dem Lötrohr unschmelzbar; sie werden weils und verhalten sich wie Shepardit und sind vielleicht nur durch Bisenoxydhydrat gefärbter Shepardit.
+4\. Kleine gelbe Kristalle zwischen den Körnern des Chladnits, vor dem Lötrohr unschmelzbar; sie werden weiss und verhalten sich wie Shepardit und sind vielleicht nur durch Eisenoxydhydrat gefärbter Shepardit.
 
-Weiter habe ich nichts beobachtet. Shepard gibt ein blanes Mineral an, was er Jodolith nennt un«! vielleicht das ist, was ich Grundmasse genannt habe, ein honiggelbes, Apatit ähnliches Mineral, Apatoid genannt, und Spuren von Seh wefel. Aufserilen giebt er auch noch das ungefähre Verhältnifs an, in welchem Jie von ihm angeführten Gemengteil in (diesem Meteoriten enthalten sind; ich führe es indessen niekt an, da diese ganze Angabe zu hypothetisch ist.
+Weiter habe ich nichts beobachtet. Shepard gibt ein blaues Mineral an, was er Jodolith nennt und vielleicht das ist, was ich Grundmasse genannt habe, ein honiggelbes, Apatit ähnliches Mineral, Apatoid genannt, und Spuren von Schwefel. Ausserdem giebt er auch noch das ungefähre Verhältniss an, in welchem die von ihm angeführten Gemengteil in diesem Meteoriten enthalten sind; ich führe es indessen nicht an, da diese ganze Angabe zu hypothetisch ist.
 
-Die äufsere glasige Rinde ist sehr merkwürdig; ganz unährlich der der übrigen Meteorsteine ist sie, wie sie auch Shepard beschreibt, gelleckt, schwarz, weils, bläulichgrau, die schwarzen Stellen glänzend und Ohsidian-ähnlich, die weilsen und grauen meistenteils matt, die weilsen doch auch glänzend un«t durchscheinend wie Porzellan und Email. Sie ist von einer Menge Risse und Sprünge durchzogen.
+Die äussere glasige Rinde ist sehr merkwürdig; ganz unähnlich der der übrigen Meteorsteine ist sie, wie sie auch Shepard beschreibt, gefleckt, schwarz, weiss, bläulichgrau, die schwarzen Stellen glänzend und Obsidian-ähnlich, die weissen und grauen meistenteils matt, die weissen doch auch glänzend und durchscheinend wie Porzellan und Email. Sie ist von einer Menge Risse und Sprünge durchzogen.
 
 5\. Shalkit.
 
-Diese Art enthält auch nur einen Meteoriten, den M. von Shalka in Banknora, Ostindien, nach welchem Fundort ich den Namen der Art gebildet habe. Hailinger hat die Nachriebten darüber zusammengestellt und den Stein beschrieben (!y. Er fiel den 30. November 1830 als ein einziger Stein und schlug in den nicht harten Boden gegen dä Fuls ein, wobei er in viele Trümmer zerschellte, und Bruchstücke bis 20 Fuls weit unherflogen. Der Stein machte einen Umfang von 3! Fuls gehabt haben; die schwarze Rinde war stellenweise abgetrennt. Haidinger erhielt durch lie k. Asiatische Gesellschaft in Bengalen mehrere Stücke zusammen über 199 Centigr. schwer; ein grölseres Stück von 6 Pfund 3529 Grains wurde an das Rrittische Museum in T.ondon gesandt, von welchem Dr. Auerbach aus Moskau einige Stücke erhielt, von denen er mir ein kleines haselnulssrofses Stück überliels. Späterhin erbielt ich selbst durch Hrn. Maskelyne zus dem Brittischen Museum ein viel grölseres Stück von 4,79 Lth. Gewicht.
+Diese Art enthält auch nur einen Meteoriten, den M. von Shalka in Bankoora, Ostindien, nach welchem Fundort ich den Namen der Art gebildet habe. Haidinger hat die Nachrichten darüber zusammengestellt und den Stein beschrieben.* Er fiel den 30. November 1850 als ein einziger Stein und schlug in den nicht harten Boden gegen 4 Fuss ein, wobei er in viele Trümmer zerschellte, und Bruchstücke bis 20 Fuss weit umherflogen. Der Stein mochte einen Umfang von 3 1/2 Fuss gehabt haben; die schwarze Rinde war stellenweise abgetrennt. Haidinger erhielt durch die k. Asiatische Gesellschaft in Bengalen mehrere Stücke zusammen über 199 Centigr. schwer; ein grösseres Stück von 6 Pfund 3529 Grains wurde an das Brittische Museum in London gesandt, von welchem Dr. Auerbach aus Moskau einige Stücke erhielt, von denen er mir ein kleines haselnussgrosses Stück überliess. Späterhin erbielt ich selbst durch Hrn. Maskelyne aus dem Brittischen Museum ein viel grösseres Stück von 4,79 Lth. Gewicht.
 
-Nach diesen Stücken ist die Masse ein kleinkörniges Gemenge von kleinen schneeweilsen, in einer Richtung deutlich spaltbaren Körnevo mit andern meistens etwas grölsern grünlichgrauen, worin wieder noch gröfsere, oft ganz scharf begrenzt liegen, die eine schwärzlichgrüne Farbe haben. Beide Farben geben aber steilenweise bei denselben Körnern in eine lichtere grünlichgelbe über, in welchem Fail dann die Körner cine große Achulichkeit mit Olivin erballen, wie auch schon der erste Beschreiber dieses Meteorsteins, Pideington in Caleutta, bemerkt hati.* Die grünen Körner haben zuweilen einen Durchmesser von einem Zoll, sind daun aher sehr kiüflig; sie haben einen kleinmuschligen Bruch, Glaseianz, der in den Fettglanz übergeht, sind an den Kanten mehr oder weniger durehscheinend, bei lichterer Farbe mehr, und unvollkommen nach einer Richtung spaltbar. Die Masse zum Teil sehr bröcklig, das kleine Stück, was auch im Allsemeinen teinkörniger ist, mehr als das grolse.
+Nach diesen Stücken ist die Masse ein kleinkörniges Gemenge von kleinen schneeweissen, in einer Richtung deutlich spaltbaren Körnern mit andern meistens etwas grössern grünlichgrauen, worin wieder noch grössere, oft ganz scharf begrenzt liegen, die eine schwärzlichgrüne Farbe haben. Beide Farben geben aber stellenweise bei denselben Körnern in eine lichtere grünlichgelbe über, in welchem Fall dann die Körner eine große Aehnlichkeit mit Olivin erhalten, wie auch schon der erste Beschreiber dieses Meteorsteins, Piddington in Calcutta, bemerkt hat.* Die grünen Körner haben zuweilen einen Durchmesser von einem Zoll, sind daun aber sehr klüftig; sie haben einen kleinmuschligen Bruch, Glasglanz, der in den Fettglanz übergeht, sind an den Kanten mehr oder weniger durchscheinend, bei lichterer Farbe mehr, und unvollkommen nach einer Richtung spaltbar. Die Masse zum Teil sehr bröcklig, das kleine Stück, was auch im Allgemeinen feinkörniger ist, mehr als das grosse.
 
-Nach Haidinger besteht dieser Aleteorsteiu ebenfalls aus feickörnigen weilslichen mit gröber körnigen dunkel aschgrauen Teilen, die bis 2 Linien in jeiler Richtung grols sind und selbst wieder in kugligen Massen von mebrzölligem Durchmesser in den weilsen feinköruigen eingeschlossen sind, oder von Jdenselben wie Gangweise durchsetzt werden. Bei den grölsern Körnern sah er eine ziemlich deutliche Spaltungsiläche, Jie einen unvollkommmen Winkel von 100° und 80° macht, ihre Härte ist 6,5; indessen ist Haidinger der Meinung, dals diese ganze Masse nur eine einzige Spezies bilde, da ibre Teile zwar eine verschiedene Farbe hätten, aber vollkommet in einauder übergingen.
+Nach Haidinger besteht dieser Meteorstein ebenfalls aus feinkörnigen weisslichen mit gröber körnigen dunkel aschgrauen Teilen, die bis 2 Linien in jeder Richtung gross sind und selbst wieder in kugligen Massen von mehrzölligem Durchmesser in den weissen feinkörnigen eingeschlossen sind, oder von denselben wie Gangweise durchsetzt werden. Bei den grössern Körnern sah er eine ziemlich deutliche Spaltungsfläche, die einen unvollkommmen Winkel von 100° und 80° macht, ihre Härte ist 6,5; indessen ist Haidinger der Meinung, dass diese ganze Masse nur eine einzige Spezies bilde, da ihre Teile zwar eine verschiedene Farbe hätten, aber vollkommen in einander übergingen.
 
-In dieser Masse kommen nun noch Körner von Chromeisenerz eingemengt vor, die zwar gewöhnlich nur sehr klein und fein, doch in Jem grölsern Stücke fast die Gröfse einer kleinen Erbse erreichen. Sie sind schwarz. stark glänzend von unvollkamemmnmen Metallglanz, haben einen braunen Strich, und sind gewöhnlich unregelmäßig begrenzt, doch auch in Octasilern Kristallisiert. K.v. Hauer beobachtete schon ein solebes (?}; in dem gröfsern Stücke sind deren mehrere enthalten; ihre Flächen sind so glänzend, dass man mit ziemlicher Genauigkeit ihre Winkel messen kann. Körner und Kristalle kommen öfter in den srünen Körnern eingewächsen vor, sie sind schwer aus denselben vollständig herauszulösen, da auch sie klüftig und hröcklig sind.
+In dieser Masse kommen nun noch Körner von Chromeisenerz eingemengt vor, die zwar gewöhnlich nur sehr klein und fein, doch in dem grössern Stücke fast die Grösse einer kleinen Erbse erreichen. Sie sind schwarz, stark glänzend von unvollkommnem Metallglanz, haben einen braunen Strich, und sind gewöhnlich unregelmäßig begrenzt, doch auch in Octaedern kristallisiert. K. v. Hauer beobachtete schon ein solches*; in dem grössern Stücke sind deren mehrere enthalten; ihre Flächen sind so glänzend, dass man mit ziemlicher Genauigkeit ihre Winkel messen kann. Körner und Kristalle kommen öfter in den grünen Körnern eingewachsen vor, sie sind schwer aus denselben vollständig herauszulösen, da auch sie klüftig und bröcklig sind.
 
-Haidinger fand das spezifische Gewicht eines siemlich reinen Stückes (d.h. wo wohl weniger Chromeisenerz cingemengt war) 3,412, Piddington giebt 3,66 an,
+Haidinger fand das spezifische Gewicht eines ziemlich reinen Stückes (d.h. wo wohl weniger Chromeisenerz eingemengt war) 3,412, Piddington giebt 3,66 an.
 
-Der Stein bat eine dünne schwärzlichbraune ganz matte Rinde, die aber doch uneben und fein adrig tst, und aus der Körner von Chromeisenerz herausragen.
+Der Stein bat eine dünne schwärzlichbraune ganz matte Rinde, die aber doch uneben und fein adrig ist, und aus der Körner von Chromeisenerz herausragen.
 
-Die von dem eingemengten Chromeisenerz möglichst befreite Masse ist von K. vr. Hauer chemisch untersucht worden, sie besteht hiernach aus
+Die von dem eingemengten Chromeisenerz möglichst befreite Masse ist von K. v. Hauer chemisch untersucht worden, sie besteht hiernach aus
 
-Sanerstolf,  
-Nlasnesia 19,00 7,60  
-Kalk 1,53 0,13 | 12,51  
-Eisenoxydul 30,05 4,58  
+||Sauerstoff,  
+Magnesia 19,00 7,60  
+Kalk 1,53 0,43  
+Eisenoxydul 20,65 4,58  
 Tonerde Spur  
-Kieselsäure 97,06 30,50  
-9884
+Kieselsäure 57,66 30,50  
+98,84
 
-Haidinger, der die Masse für gleichartig hält, betrachtet sie hiernach für eine besondere Spezies, die wit dem Olivin und Shepardit in qualitativer Hinsicht übereinstimmend, in quantitativer Hinsicht zwischen beiden steht. Denn während der Sauerstoff der Basis zur Säure sei
+Haidinger, der die Masse für gleichartig hält, betrachtet sie hiernach für eine besondere Spezies, die mit dem Olivin und Shepardit in qualitativer Hinsicht übereinstimmend, in quantitativer Hinsicht zwischen beiden steht. Denn während der Sauerstoff der Basis zur Säure sei
 
-beim Ulivin —=41:14, und  
-beim Shepardit =1:4, wäre er  
-bei dieser Spezies= 1 : 2,42.  
+beim Olivin = 1:1, und  
+beim Shepardit = 1:3, wäre er  
+bei dieser Spezies = 1:2,42.  
 
-Dieses Verhältnifs nähere sich dem, welches Siromeyer bei dem ölivinäbnlichen Mineral aus der angeblich von Grimma (Steinbach) stammenden Eisenmasse gefunden habe, wo jenes Verhältnifs = 1: 2,6 ist, und für welches Mineral Rammelsberg die Formel RSi + :R’Si’ aufgestellt habe ('}. Er schlägt demnach für dies Mineral den Namen Piddingtonil vor,
+Dieses Verhältniss nähere sich dem, welches Stromeyer bei dem olivinähnlichen Mineral aus der angeblich von Grimma (Steinbach) stammenden Eisenmasse gefunden habe, wo jenes Verhältniss = 1:2,6 ist, und für welches Mineral Rammelsberg die Formel RSi+2R2Si3 aufgestellt habe.* Er schlägt demnach für dies Mineral den Namen Piddingtonit vor.
 
-Dieser Meinung von der Gleicharligkeit der Masse möchte ich nicht beistimmen. Die Farbe der dunklen Körner geht wohl in die grünlichgelbe über, aber nieht in die weilse. Die Körner mit grünlichgelber bis schwärzlicbgrüner Farbe haben alle Eigenschaften des Olivins; ist diels aber der Fall, dann können die weilsen Körner nichts anderes als Sheparllit sein, und der Shalkit wäre hiernach ein Gemenge von Olivin, Shepardit und Chromeisenerz, und von dem Chassignit nur durch die Anwesenheit des Shepardits verschieden.
+Dieser Meinung von der Gleichartigkeit der Masse möchte ich nicht beistimmen. Die Farbe der dunklen Körner geht wohl in die grünlichgelbe über, aber nicht in die weisse. Die Körner mit grünlichgelber bis schwärzlichgrüner Farbe haben alle Eigenschaften des Olivins; ist diess aber der Fall, dann können die weissen Körner nichts anderes als Shepardit sein, und der Shalkit wäre hiernach ein Gemenge von Olivin, Shepardit und Chromeisenerz, und von dem Chassignit nur durch die Anwesenheit des Shepardits verschieden.
 
-Alit dieser Annahme stimmt auch das chemische Verhalten überein, denn sehr fein zerrieben, wird er von heilser Chlorwasserstoffsäure zum Teil zersetzt, wie ein Gemenge von Olivin und Shepardit; das feine Pulver is ntir an den äufsersten Kanten schmelzbar, noch schwerer als der Chassignit, und wird wie dieser schwarz.
+Mit dieser Annahme stimmt auch das chemische Verhalten überein, denn sehr fein zerrieben, wird er von heisser Chlorwasserstoffsäure zum Teil zersetzt, wie ein Gemenge von Olivin und Shepardit; das feine Pulver ist nur an den äussersten Kanten schmelzbar, noch schwerer als der Chassignit, und wird wie dieser schwarz.
 
-Legt man die Hzuersche Analyse zum Grunde, so würde der Shalkit auf 1 Atom Olivin 2 Atome Shepardit enthalten, also aus
+Legt man die Hauersche Analyse zum Grunde, so würde der Shalkit auf 1 Atom Olivin 2 Atome Shepardit enthalten, also aus
 
-R’Si + Me‘ Si’
+R2Si + 2MgSi3
 
 bestehen, denn in diesem würde der Sauerstoll von BR: Si sein = 6 : 14, d.i..=1:?23J.
 
-Der Shalkit ist hiernach ein Gemenge von basisch und saurer kieselsaurer Magnesia oder von 2 Silicaten, die gleiche Basen in verschiedenen Sättigungsstulen enthalten, ein Gemenge wie es der Art unter den Gebirgsarten der Erde nicht vorkommt, wenngleich der Granit, wenn er Feldspat und Kaliglimmer enthält, etwas Ähnliches darstellt. Das Gemenge des Shalkits ist aber noch dadurch ausgezeichnet, dass die beiden Silicate in denselben in einem sehr einfachen Verhältnisse gegeneinander zu stehen scheinen, 50 dass sie sehr gut eine chemische Verbindung bilden könnten, ähnlich dem Serpentin, der eine wässerhaltige Verbindung von basischer und neutraler Magnesia ist:
+Der Shalkit ist hiernach ein Gemenge von basisch und saurer kieselsaurer Magnesia oder von 2 Silicaten, die gleiche Basen in verschiedenen Sättigungsstufen enthalten, ein Gemenge wie es der Art unter den Gebirgsarten der Erde nicht vorkommt, wenngleich der Granit, wenn er Feldspat und Kaliglimmer enthält, etwas Ähnliches darstellt. Das Gemenge des Shalkits ist aber noch dadurch ausgezeichnet, dass die beiden Silicate in demselben in einem sehr einfachen Verhältnisse gegeneinander zu stehen scheinen, so dass sie sehr gut eine chemische Verbindung bilden könnten, ähnlich dem Serpentin, der eine wässerhaltige Verbindung von basischer und neutraler Magnesia ist:
 
-Mg’8i + Mir sH
+Mg2Si+MgSi+2H
 
 und es wäre daher wohl möglich, dass wie der Shalkit alle Gehirssarten die Gemengteil in ebenso einfachen Verhältnissen enthalten, wie die Mineralien die Bestaucdtheile (').
 
 6\. Die kohligen Meteorit.
 
-1\. von Alais, Dep. du Gard, Frankreich, gef. 1306 Jen 15. März.
+1\. von Alais, Dep. du Gard, Frankreich, gef. 1806 den 15. März.
 
-2\. von Cold Bokkeveld am Cap der guien Hofinung, gef. 1838
-denid, Oktober.
+2\. von Cold Bokkeveld am Cap der guten Hoffnung, gef. 1838 den 13. Oktober.
 
-3\. von Kaba, SW, von Debreezin in Ungarn, gef. 1857 den 15. April.
+3\. von Kaba, SW. von Debreczin in Ungarn, gef. 1857 den 15. April.
 
-4\. von Orgueil, Alontauban, Fraukreich, gef. 1964 den 14. Mai.
+4\. von Orgueil, Montauban, Fraukreich, gef. 1864 den 14. Mai.
 
-Ich habe mit diesen keine besondere Untersuchungen angestelll, und verweise daher anf die vorhandenen Beschreibungen der drei ersten in Buchner's Meteoriten 5,19, 60 und 94 und des letzten in den Comptes rendus 164, t. 99.
+Ich habe mit diesen keine besondere Untersuchungen angestelll, und verweise daher auf die vorhandenen Beschreibungen der drei ersten in Buchner's Meteoriten S. 19, 60 und 94 und des letzten in den _Comptes rendus_ 1864, t. 58.
 
 7\. Eukrit.
 
-Es gehören zu dieser Abtheilung nur wenige Meteoriten; von den Meteoriten des Berliner mineralogischen Museums nur der von:
+Es gehören zu dieser Abteilung nur wenige Meteoriten; von den Meteoriten des Berliner mineralogischen Museums nur der von:
 
-1\. Juvenas, Dep. Ardöche, Frankreich, gef. 16821 den 15. Juni.
+1\. Juvenas, Dep. Ardeche, Frankreich, gef. 1821 den 15. Juni.
 
-2\. Stannern kei Iglau, Mähren, gef. 1808 den 22, Mai.
+2\. Stannern kei Iglau, Mähren, gef. 1808 den 22. Mai.
 
-3\. Jonzarc, Dep. Charente inler., Frankreich, gef. 1819 den 13. Juni.
+3\. Jonzac, Dep. Charente infer., Frankreich, gef. 1819 den 13. Juni.
 
-4\. Petersburg, Liscoln Ciy, Tennessee, V. St. N. A., gef. 1855 den 5. Aug. ; aulserdem wahrscheinlich noch der vor Konstantinopel (gef. 1805 im Juni), der nach Parisch und Reichenbarh eine sehr große Ähnlichkeit mit namentlich den 3 erstgenaunten dieser Abtheilung hat. Bei der geringen Anzahl «dieser Meteoriten ziehe ich es ebenfalls vor, dieselben einzeln zu beschreiben und fange mit dem E. von Juvenas an, der unter allen der ausgezeichnetsie und am deutlichsten Kristallinisch ist.
+4\. Petersburg, Lincoln Cty, Tennessee, V. St. N. A., gef. 1855 den 5. Aug.; ausserdem wahrscheinlich noch der vor Konstantinopel (gef. 1805 im Juni), der nach Partsch und Reichenbach eine sehr große Ähnlichkeit mit namentlich den 3 erstgenannten dieser Abteilung hat. Bei der geringen Anzahl dieser Meteoriten ziehe ich es ebenfalls vor, dieselben einzeln zu beschreiben und fange mit dem E. von Juvenas an, der unter allen der ausgezeichnetste und am deutlichsten kristallinisch ist.
 
-1\. Der E. von Juvenas ist meistenteils deutlich körnig und die Gemengteil über liniengrols; was ihn indessen lür die Untersuchung besonders wichtig macht, stellenweise auch voller Höhlungen ‚an deren Wänden sich die Gemengteil regelmälsig begränzt haben. Diels ist namentlich mit dem Augit der Fall, der überhaupt der vorwallende Gemengteil ist. Derselbe erscheint hier in der Form, in welcher er sich gewöbulich in vulkanischen Gesteinen lindet, als Combinatioa des rhombischen Prisma von ungefähr 85° mit der Quer- und Längsiläche und dem schiefen Prisma von ungefähr 120°’). Er hat glatte und glänzende Flächen, so dass er ziemlich gut mit dem Reflexionsgoniometer gemessen werden kann. Die Neigung, die sich am besten bestimmen lieis, war die Neigung (ler Längsfläche zur Fläche des vertikalen Prisma, die ich von 136° 3-5 fand. Eine Spaltbarkeit war weder bei den aufgewachsenen, noch bei deu unregeilmäfsig begränzten eingewachsenen Kristallen bei ihrer Kleinheit zu hemerken; sie sind im Bruch uneben, von Farbe schwärzlichbraun, ungefähr wie der Nosean vom Laacher See, glänzend von Fettglanz und nur au den äufsersten Kanten durchscheinend, Vor dem Lötrohr schmilzt dieser Augit in der Platinzange zu einem schwarzen Glase, das von Magnete angezogen wird, was vor der Schmelzung nicht der Fail ist. In Borax wird er.zu einem von Eiseu schwach gefärbten Glase aufgelöst, in Phosphorsalz ebenso, nur schwerer und unter Ausscheidung von Kieselsäure. Mit wenig Soda schmilzt er zu einer schwarzen Kugel, zuit wehr Soda geht die Masse in die Kohle und das Eisenoxydal wird reduziert.
+1\. Der E. von Juvenas ist meistenteils deutlich körnig und die Gemengteil über liniengross; was ihn indessen für die Untersuchung besonders wichtig macht, stellenweise auch voller Höhlungen‚ an deren Wänden sich die Gemengteil regelmässig begränzt haben. Diess ist namentlich mit dem Augit der Fall, der überhaupt der vorwaltende Gemengteil ist. Derselbe erscheint hier in der Form, in welcher er sich gewöhnlich in vulkanischen Gesteinen findet, als Combination des rhombischen Prisma von ungefähr 88° mit der Quer- und Längsfläche und dem schiefen Prisma von ungefähr 120°.* Er hat glatte und glänzende Flächen, so dass er ziemlich gut mit dem Reflexionsgoniometer gemessen werden kann. Die Neigung, die sich am besten bestimmen liess, war die Neigung der Längsfläche zur Fläche des vertikalen Prisma, die ich von 136° 3'-5' fand. Eine Spaltbarkeit war weder bei den aufgewachsenen, noch bei den unregelmässig begränzten eingewachsenen Kristallen bei ihrer Kleinheit zu bemerken; sie sind im Bruch uneben, von Farbe schwärzlichbraun, ungefähr wie der Nosean vom Laacher See, glänzend von Fettglanz und nur au den äufsersten Kanten durchscheinend. Vor dem Lötrohr schmilzt dieser Augit in der Platinzange zu einem schwarzen Glase, das von Magnete angezogen wird, was vor der Schmelzung nicht der Fall ist. In Borax wird er zu einem von Eisen schwach gefärbten Glase aufgelöst, in Phosphorsalz ebenso, nur schwerer und unter Ausscheidung von Kieselsäure. Mit wenig Soda schmilzt er zu einer schwarzen Kugel, mit mehr Soda geht die Masse in die Kohle und das Eisenoxydal wird reduziert.
 
-Ber Anorthit ist in den Höhlungen gewöhnlich kleiner und viel undeutlicher Kristallisiert als der Augit, indessen sieht man doch das gewühnliche chomboidische Prisma mit der Längsfläche 7, durch deren Vorherrschen die Kristalle gewöhnlich ein tafelartiges Ansehen erhalten, sowie die schiele Endliäche P, parallel welcher die Kristalle immer sehr deutlich spalibar erscheinen. Die Endiläche ist meistenteils glatt, nur zuweileu zeigt sie den der Kante mit der Längsfläche parallell gehenden einspringenden Winkel, der den ZwillingsKristall verkündet, Winkel sind nicht zu messen, aber das ganze Änsehen der Kristalle zeigt den ein- und eingliedrigen Feldspat. Er ist schueeweifs und auf (en Spaltungsflächen stark perlmutterartig glänzend, Vor dem Lötrohr nur selir schwer an den Kaueu schmelzbar. Gepulvert und mit heifser Chlorwasserstoffsäure behandelt, gelalinirt er und giebt sich darlurch bestimmt als Anorthit zu erkennen 0").
+Der Anorthit ist in den Höhlungen gewöhnlich kleiner und viel undeutlicher Kristallisiert als der Augit, indessen sieht man doch das gewöhnliche rhomboidische Prisma mit der Längsfläche _M_, durch deren Vorherrschen die Kristalle gewöhnlich ein tafelartiges Ansehen erhalten, sowie die schiefe Endfläche _P_, parallel welcher die Kristalle immer sehr deutlich spaltbar erscheinen. Die Endfläche ist meistenteils glatt, nur zuweilen zeigt sie den der Kante mit der Längsfläche parallell gehenden einspringenden Winkel, der den Zwillingskristall verkündet. Winkel sind nicht zu messen, aber das ganze Ansehen der Kristalle zeigt den ein- und eingliedrigen Feldspat. Er ist schneeweiss und auf den Spaltungsflächen stark perlmutterartig glänzend. Vor dem Lötrohr nur sehr schwer an den Kanten schmelzbar. Gepulvert und mit heisser Chlorwasserstoffsäure behandelt, gelatinirt er und giebt sich dadurch bestimmt als Anorthit zu erkennen.*
 
 *) Dass der Anorthit, mit heisser Chlorwasserstoffsäure digerirt, gelatinirt, ist bisher noch nicht angegeben, ist aber ein leichtes Mittel, ihn vom Labrador zu unterscheiden. In meiner ersten Beschreibung dieser Kristalle (a. a. O. S. 176) hatte ich sie gestützt auf die Angabe von Laugier, dass der Meteorit von Juvenas von Säuren nur schwierig angegriffen würde, und auf eine von mir ausgeführte Untersuchung des alkalischen Bestandteils für Labrador gehalten. Shepard hatte die Kristalle zuerst für Anorthit ausgegeben (Report on American meteorites p. 7. New Haven 1848), ohne weitere Beweise für seine Behauptung zu liefern; Rammelsberg hat diess zuerst durch seine Analyse bewiesen (Poggendorff's Ann. von 1848 B. 73, S. 585).
 

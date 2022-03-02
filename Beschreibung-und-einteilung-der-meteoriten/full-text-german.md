@@ -827,189 +827,192 @@ Wenn man kleine Stückchen dieser Meteoriten in Chlorwasserstoffsäure einige Ze
 
 *) Fch habe diese Abscheidung bei mehreren dieser Meteoriten bestimmt wahrkenommen, wäs die Anwesenheit von Magnetkies in diesen Meteorsteinen beweist. Ebenso sah je aueh Harris bei dem Ch. von Möontrejeau (Ann. d. Cliem, u. Pharm. 1859 RA 119, 53.185.
 
-Betrachtet man die mit kalter Chlorwasserstoffsäure digerirten und abgewaschenen Bruchstücke unter der Lupe, so erkennt man auf der Überfläche einzelne kleine, aber stark demantglänzende Kristalle, Ich habe diese bei vielen dieser Meteorit, ganz besonders aber bei Stücken von Aigle gesehen, die Monate lang in Chlorwasserstofisäure gelegen hatten. Unter dem Mikroskop bei mäfsiger Vergröfßseruug kann man, wenn man sie im reflektierten Lichte betrachtet, auch die Gestalt einzelner Flächen, von denen gerade das Licht zurückgestahlt wird, erkennen , man sieht dann ganz scharf begrenzte Rhomben oder Deltoide, auch Rechtecke u. s. w., doch läfst sich danach die Form der Kristalle mit Sicherheit nicht bestimmen. Kocht man die Stücke mit Wasser oder auch mit koblensaurem Natron, so verändern sich die Kristalle nicht im geringsten: aber es gelang mir nicht, die Kristalle zu isoliren. Schabte man die Kristalle von der Oberfläche, auf der sie sitzen, ab, so waren sie in dem erhaltenen Pulver nicht wieder zu erkennen. Ich habe so leider über ihre Natur nichts weiter ausmachen können. Wenn man kleine Stückchen des Ch. von Aigle mit Chiorwasserstoffsäure kocht und dann sowie vorkin bebandelt, so waren die Kristalle viel unroilkommner, es seheint also, dass sie nur in kalter Chlorwasserstoffsäure in der angegebenen Vollkommenheit erhalten werden können.*
+Betrachtet man die mit kalter Chlorwasserstoffsäure digerirten und abgewaschenen Bruchstücke unter der Lupe, so erkennt man auf der Überfläche einzelne kleine, aber stark demantglänzende Kristalle, Ich habe diese bei vielen dieser Meteorit, ganz besonders aber bei Stücken von Aigle gesehen, die Monate lang in Chlorwasserstoffsäure gelegen hatten. Unter dem Mikroskop bei mäfsiger Vergröfßseruug kann man, wenn man sie im reflektierten Lichte betrachtet, auch die Gestalt einzelner Flächen, von denen gerade das Licht zurückgestahlt wird, erkennen , man sieht dann ganz scharf begrenzte Rhomben oder Deltoide, auch Rechtecke u. s. w., doch läfst sich danach die Form der Kristalle mit Sicherheit nicht bestimmen. Kocht man die Stücke mit Wasser oder auch mit koblensaurem Natron, so verändern sich die Kristalle nicht im geringsten: aber es gelang mir nicht, die Kristalle zu isoliren. Schabte man die Kristalle von der Oberfläche, auf der sie sitzen, ab, so waren sie in dem erhaltenen Pulver nicht wieder zu erkennen. Ich habe so leider über ihre Natur nichts weiter ausmachen können. Wenn man kleine Stückchen des Ch. von Aigle mit Chiorwasserstoffsäure kocht und dann sowie vorkin bebandelt, so waren die Kristalle viel unroilkommner, es seheint also, dass sie nur in kalter Chlorwasserstoffsäure in der angegebenen Vollkommenheit erhalten werden können.*
 
-*) Ich habe diese Kristalle mehreren meiner Freunde gereigt, die nie einen Zweifel darüber batlen, dass es Kristalle wären.
+*) Ich habe diese Kristalle mehreren meiner Freunde gereigt, die nie einen Zweifel darüber hatten, dass es Kristalle wären.
 
-Die chemische Zusammensetzung dieser Meteorit ist ungeachtet ihres oft verschiedenen Ansehens, doch sehr ähnlich, wie cieis schon Berzelius gefunden hat, der sich, wie oben angeführt, mit dieser Abteilung der Meteorit besonders beschäftigt hat, und wie diels auch alle späteren Analysen ergeben haben. Rammelsberg hat in seiner Mineralchemie (S. 924) diese Analysen neu berechnet und sehr gut zusammengestellt. Sie sind sämmtlich nach der zuerst von Berzelius eingeschlagenen Methode, wonach durch Digestion des feinen Pulvers mit beilser Chlorwasserstoffsäure die davon zersetzbaren Gemengteil von den davon nicht zersetzbaren getrennt werden, angestellt. Eine vollkommene Trennung der Gemengteil lälst sich, wie der Erfolg gezeigt hat, auf diese Weise nicht erreichen, da keiner der Gemengteil, das Chromeisenerz ausgenommen, in Chlorwasserstoffsäure vollkommen unlöslich, der eine nur mehr oder minder ala der andere löslich ist, also eine stärkere oder schwächere Chlorwasserstofflsäure oder eine längere oder kürzere Digestion damit bei höherer oder geringerer Temperatur olt sehr bemerkenswerte Unterschiede in der Analyse eines Meteoriten hervorbringen können; dennoch gewährt diese Methode Anbaltspunkte, die für die Deutung der Resultate von Wichtigkeit sind, und ist daher, wenn auch unvollkommen, immer schätzbar. Ich will von den vorhandenen Analysen bier nach dem Werke von Rammelsberg* nur einige derselben, und zwar die folgenden 4 anführen, die Meteoriten der vier verschiedenen Gruppen betreffen:
+Die chemische Zusammensetzung dieser Meteorit ist ungeachtet ihres oft verschiedenen Ansehens, doch sehr ähnlich, wie diess schon Berzelius gefunden hat, der sich, wie oben angeführt, mit dieser Abteilung der Meteorit besonders beschäftigt hat, und wie diess auch alle späteren Analysen ergeben haben. Rammelsberg hat in seiner Mineralchemie (S. 924) diese Analysen neu berechnet und sehr gut zusammengestellt. Sie sind sämmtlich nach der zuerst von Berzelius eingeschlagenen Methode, wonach durch Digestion des feinen Pulvers mit heisser Chlorwasserstoffsäure die davon zersetzbaren Gemengteil von den davon nicht zersetzbaren getrennt werden, angestellt. Eine vollkommene Trennung der Gemengteil lässt sich, wie der Erfolg gezeigt hat, auf diese Weise nicht erreichen, da keiner der Gemengteil, das Chromeisenerz ausgenommen, in Chlorwasserstoffsäure vollkommen unlöslich, der eine nur mehr oder minder als der andere löslich ist, also eine stärkere oder schwächere Chlorwasserstoffsäure oder eine längere oder kürzere Digestion damit bei höherer oder geringerer Temperatur oft sehr bemerkenswerte Unterschiede in der Analyse eines Meteoriten hervorbringen können; dennoch gewährt diese Methode Anhaltspunkte, die für die Deutung der Resultate von Wichtigkeit sind, und ist daher, wenn auch unvollkommen, immer schätzbar. Ich will von den vorhandenen Analysen hier nach dem Werke von Rammelsberg* nur einige derselben, und zwar die folgenden 4 anführen, die Meteoriten der vier verschiedenen Gruppen betreffen:
 
 1\. Klein-Wenden nach Rammelsberg.
 
 2\. Chantonnay nach Berzelius.
 
-3\. Blausko nach Berzelius.
+3\. Blansko nach Berzelius.
 
 4\. Kakowa nach Harris.
 
 Allgemeine Zusammensetzung.
 
 1|2*|3|4  
-Nickeleisen 22,90 20,13 23,20  
-Schwefeleisen* 5,61 2,97 13,14  
-Chromeisenerz* 1,04 0,63 0,56  
-Silicate 70,45 76,27 63,21
+Nickeleisen 22,90 - 20,13 23,20  
+Schwefeleisen* 5,61 - 2,97 13,14  
+Chromeisenerz* 1,04 - 0,63 0,56  
+Silicate 70,45 - 76,27 63,21
 
 Zusammensetzung des Nickeleisens.
 
-Eisen 88,98 90,9 92,24  
-Nickel 10,35 9,1 7,76  
-Kobalt 10,35  
-Kupfer 0,21  
-Zinn 0,35  
-Phosphor 0,11  
+Eisen 88,98 - 90,9 92,24  
+Nickel 10,35 - 9,1 7,76  
+Kobalt 10,35 - - -  
+Kupfer 0,21 - - -  
+Zinn 0,35 - - -  
+Phosphor 0,11 - - -  
 100. 100. 100.
 
 Zusammensetzung der Silicate.
 
-Magmnesia dia 2773 3349 2706
-Kalk 3,606 1,9% 1,22 1,92
-Eisenoxydul 10,92 1947 A145 24,40
-Manganoxydul 0,08 U,706 0,59 —_
-Nickeloxyd — 0,90 — 0.20
-Kupferoxy(d 0,24 _ _ _
-Natron 0,41 | 0 098 181
-Kali 0,53 ” 0.24 02
-Tonerde 32 2.05 2.4 2,61
-Kieselsäure 46,138 4416 4865 44,68
+Magnesia 32,75 27,79 32,49 27,06  
+Kalk 3,66 1,52 1,22 1,52  
+Eisenoxydul 10,92 19,47 11,45 24,40  
+Manganoxydul 0,08 0,76 0,59 -  
+Nickeloxyd - 0,90 - 0,20  
+Kupferoxyd 0,21 - - -  
+Natron 0,41 1,24 0,98 1,31
+Kali 0,53 1,24 0,24 0,21  
+Tonerde 5,23 2,95 2,94 2,61  
+Kieselsäure 46,18 44,16 48,95 44,68  
+99,97 98,79 98,96 98,86
 
-*) Das Verhältnis der metallischen zw den nicht metallischen Gemengteilen ist bei dieser Analyse von Berzeliwus nicht angrgebrn.
+*) Das Verhältnis der metallischen zu den nicht metallischen Gemengteilen ist bei dieser Analyse von Berzelius nicht angegeben.
 
-*) Das Schwefeleisen ist von Rammelsberg als Sulphrret Fe berechnet. Die Annahme als Magneikies Fe® Fe (Fe’ 5°) ändert die Rechnung nur wenig.
+*) Das Schwefeleisen ist von Rammelsberg als Sulphuret Fe berechnet. Die Annahme als Magnetkies Fe5Fe (Fe7S8) ändert die Rechnung nur wenig.
 
 *) Das Chromeisenerz ist als Felr berechnet.
 
 Diese Silicate bestehen in 100 Teilen aus:
 
-| 2 3 4 
-A. Zersetzbaren 8. : 42,23 31,12 46,13 36,7  
-3. Unzersetzbaren 3.: 57,77 48,58 33,87 43,3
+|1|2|3|4| 
+A\. Zersetzbaren S.: 42,23 51,12 46,13 56,7  
+B\. Unzersetzbaren S.: 57,77 48,88 53,87 43,3
 
-A. Zusammensetzung der zeraetzbaren Silicate.
+A\. Zusammensetzung der zersetzbaren Silicate.
 
-Kl,-Wenden Chantonnay Blansko Kakova
-Ma ume siq 20,00 Saucrelulf { 7,56 Sauerstoff N 9,89 . Sauerstoff 112 Sagerstoll  
-Kilk 0,89 | 9.87 _ —_ 0,7  
-Eisenoxydul 4,53 14,72 6,88 24,47 10,0%  
-Manganoxydul 0,08 0,427 10,38 0,25 947 —  
-Nickeloxyd — 0,23 _ [" 0,2  
-Natron _ 0,50 0,18 _  
-Rali _ 0,24 _  
-Tonerde —_ —_ 0,15 _  
-Kieselsäure 10,72 305 0 1667 365 1820 is 19,5 1912  
-42,22 50,10 46,0% 360
+|Kl.-Wenden|Chantonnay|Blansko|Kakova|  
+Magnesia 20,00 17,56 19,89 11,2  
+Kalk 0,89 - - 0,7  
+Eisenoxydul 4,53 14,72 6,88 24,4  
+Manganoxydul 0,08 0,42 0,25 -  
+Nickeloxyd - 0,23 - 0,2  
+Natron - 0,50 0,48 -  
+Kali - 0,50 0,24 -  
+Tonerde - - 0,15 -  
+Kieselsäure 16,72 16,67 18,20 19,5  
+|42,22 50,10 46,09 56,0
 
-5. Zusammensetzung der unzersetzbaren Silicate.
+B\. Zusammensetzung der unzersetzbaren Silicate.
 
-Magnesia 12.79 10.23 12,00 15,56  
-Kalk 377 1,52 1,22 (1,81  
-Eisenoxydul 6,34 duo 4,37 _  
-Manganoxydll — 0 0,34 _  
-Nickeloxyd 0,21 il) 06 e _ w_ se  
-Nalron bi 0,49 0,50(°) 1,932  
-Kali | 0,53 0,25 _ 0,26  
-Tonerde dc 2,395 279 3.46  
-Kieselsäure 23406 15,9 37,49 127 30,75 12396 M,TA 18  
-87,10 48,69 59,77 43,05
+Magnesia 12,75 10,23 12,60 15,86  
+Kalk 2,77 1,52 1,22 0,81  
+Eisenoxydul 6,39 4,75 4,57 -  
+Manganoxydul - 0,34 0,34 -  
+Nickeloxyd 0,21 0,67 - -  
+Natron 0,41 0,49 0,50 1,92  
+Kali 0,53 0,25 - 0,26  
+Tonerde 5,23 2,95 2,79 2,46  
+Kieselsäure 29,46 27,49 30,75 21,74  
+57,75 48,69 52,77 43,05
 
-*) Ohne den Sauerstoll des Nickelaxyds and so auch bei den folgenden.
+*) Ohne den Sauerstoff des Nickeloxyds und so auch bei den folgenden.
 
-*) Kalibaltig.
+*) Kalihaltig.
 
 Hieraus ergiebt sich:
 
-Dais das Nickeleisen der Chondrit in seiner chemischen Zusammensetzung nit dem für sich vorkommenden in dem Meteoreisen übereinstimmt, dass die Silieate als Basen vorzugsweise Magnesia und Eisenoxydul enthalten, und alle andern, wie Tonerde, Kalk, Kali, Natron sich nur in sehr geringer Menge finden,
+Dass das Nickeleisen der Chondrit in seiner chemischen Zusammensetzung mit dem für sich vorkommenden in dem Meteoreisen übereinstimmt, 
+
+dass die Silicate als Basen vorzugsweise Magnesia und Eisenoxydul enthalten, und alle andern, wie Tonerde, Kalk, Kali, Natron sich nur in sehr geringer Menge finden,
 
 dass die Menge der zersetzbaren und unzersetzbaren Gemengteil in allen Chondriten ungefähr gleich ist,
 
 dass bei den zersetzbaren Silicaten die Basen fast allein aus Magnesia und Eisenoxydul in etwas gegeneinander verschiedenen Mengen bestehen, während die nicht zersetzbaren dieselben Basen mit kleinen Mengen von Natron, Kali, Kalk und besonders von Tonerde enthalten.
 
-Bei den zersetzbaren Silicaten ist der Sauerstoff der Basen als gleich mit dem Sauerstoff der Kieselsäure anzunehmen. Wenn in der Tat der Sauerstoff der Basen ein klein wenig gröfser als der der Kieselsäure ist, so erklären dies Berzelius und Rammelsberg gewils sehr richtig dadurch, dass wohl immer noch etwas Nickeleisen in diesem Teile der Chondrit zurückgeblieben ist, der mit dem Magnete nicht vollständig hat ausgezogen werden können, und dals durch die Säure auch schon eine gewisse Menge von dem doch immer nur schwer, nicht völlig unzersetzbaren Teile zersetzt ist, dessen Basen, wie die kleinen Mengen von Tonerde, Kalk und die Alkalien beweisen, nun hier auftreten, während die analytische Methode zur Folge hat, dais immer etwas Kieselsäure von dem zersetzbaren Teile bei dein imzersetzbaren bleibt.
+Bei den zersetzbaren Silicaten ist der Sauerstoff der Basen als gleich mit dem Sauerstoff der Kieselsäure anzunehmen. Wenn in der Tat der Sauerstoff der Basen ein klein wenig grösser als der der Kieselsäure ist, so erklären dies Berzelius und Rammelsberg gewiss sehr richtig dadurch, dass wohl immer noch etwas Nickeleisen in diesem Teile der Chondrit zurückgeblieben ist, der mit dem Magnete nicht vollständig hat ausgezogen werden können, und dass durch die Säure auch schon eine gewisse Menge von dem doch immer nur schwer, nicht völlig unzersetzbaren Teile zersetzt ist, dessen Basen, wie die kleinen Mengen von Tonerde, Kalk und die Alkalien beweisen, nun hier auftreten, während die analytische Methode zur Folge hat, dass immer etwas Kieselsäure von dem zersetzbaren Teile bei dem unzersetzbaren bleibt.
 
 Bei dem unzersetzbaren Gemengteil ist der Sauerstoff der Basen meistenteils ungefähr halb so groß als der der Säure.
 
-Berzelius schlofs daraus, dass der zersetzbare Gemengteil Olivin sei. Das Verhälinifs des Eisenoxyduls zur Magnesia ist bei dem Olivin der verschiedenen Chondrit etwas verschieden, doch ist diels auch bei dem terrestrischen Olivin der verschiedenen Fundörter der Fall. Den unzersetzbaren Gemengiheil hielt er wiederum für ein Gemenge und zwar eines Leueit- artigen Minerals, welches die Thoner.de und die Alkalien, und eines Augit-ärligen, welches die andern Basen, Magnesta, Kalk und Bisenoxydul enthielt,* für welchen erstern indessen Rammelsberg, wegen seiner Auflöslichkeit in Säuren ein feldspathartiges Mineral und zwar den Labrador annahm,* der zwar auch, aber schwerer als der Leneit zersetzbar ist und dessen Sauerstoffverhältnils sich nicht viel von dem des Leucits entfernt.*
+Berzelius schloss daraus, dass der zersetzbare Gemengteil Olivin sei. Das Verhältniss des Eisenoxyduls zur Magnesia ist bei dem Olivin der verschiedenen Chondrit etwas verschieden, doch ist diess auch bei dem terrestrischen Olivin der verschiedenen Fundörter der Fall. Den unzersetzbaren Gemengteil hielt er wiederum für ein Gemenge und zwar eines Leucitartigen Minerals, welches die Tonerde und die Alkalien, und eines Augit-artigen, welches die andern Basen, Magnesia, Kalk und Eisenoxydul enthielt,* für welchen erstern indessen Rammelsberg, wegen seiner Auflöslichkeit in Säuren ein feldspathartiges Mineral und zwar den Labrador annahm,* der zwar auch, aber schwerer als der Leucit zersetzbar ist und dessen Sauerstoffverhältniss sich nicht viel von dem des Leucits entfernt.*
 
-*) Poggendorlis Ann. 1=36 RB. 15, 5. 221.
+*) Poggendorff's Ann. 1836 B. 15, S. 221.
 
-*) Mineralchemie 5. nl.
+*) Mineralchemie S. 931.
 
-Dieser Annahme ist man num später teils gefolgt, Teils hat man wieder neue Combinationen gemacht. 56 halten es Chancel und Moitessier* bei der Analyse des Ch. von Montrejeau (Ausson) lür wahrscheinlich, dass darin nicht Labrador und Augit, sonders Öligoklas und Hornblende enthalten sei, Sartorius* berechnet in dem unzersetzbaren Gemengtheil des Ch. von Kakova nach der Analyse von Harris 82,17 Magnesia- Wollastonit und 17,4 Anarthit, und Abich* nimmt an, dass die Silicate in dem Ch. von Stauropeol Hyalosiderit, Olivin und Labrador seien und ersterer den zersetzbaren, letztere den unzersetzbaren Gemengteil ausmachen.
+Dieser Annahme ist man nun später teils gefolgt, Teils hat man wieder neue Combinationen gemacht. So halten es Chancel und Moitessier* bei der Analyse des Ch. von Montrejeau (Ausson) für wahrscheinlich, dass darin nicht Labrador und Augit, sonders Oligoklas und Hornblende enthalten sei, Sartorius* berechnet in dem unzersetzbaren Gemengteil des Ch. von Kakova nach der Analyse von Harris 82,17 Magnesia-Wollastonit und 17,4 Anorthit, und Abich* nimmt an, dass die Silicate in dem Ch. von Stauropol Hyalosiderit, Olivin und Labrador seien und ersterer den zersetzbaren, letztere den unzersetzbaren Gemengteil ausmachen.
 
-Zu allen diesen Annahmen giebt aber die mineralogische Untersuchung, wie das eben Angeführte darthut, niebt das mindeste Anhalten, Labrador, Oligoklas und Anorihit mit ihren tafelartigen Krystalien und der so charakteristischen Streifung auf den Spaltunssflächen des (Juerbruchs zeigt sich nie, Augit und Hornblende wülsten bei ihrer Unzersetzbarkeit durch Säuren doch nach Auflösung des zersetzbaren Gemengteil in dem unzersetzbaren zu linden sein, in welchem sich wohl etwas Chromeisenerz, aber nichts anderes erkennen läfst, Magnesia- Wollastonit ist noch nie beobachtet, mäülstie aber wie der Wollastonit durch Säuren zersetzbar sein, und köunte sich nicht, ebenso werig wie der Anorthit in dem unzersetzbaren Ixemengtheil finden, was schon Wöhler bemerkt bat. Oliviu kann bei seiner leichten Zersetzbarkeit auch nicht in dem unzersetzbaren Germengiheil vorkommen und ihn aufserdem in einem Gemenge mit Hyalosiderit anzunehmen, ist nicht zu billigen, da beide isomorph sind und isomorphe Körper in einem Gemenge nie beobachtet sind und auch nicht vorkommen können, da mar nicht einsieht, warum sich nicht beide hätteu verbinden und in diesem Falle einen Olivin von mittlerm Eisengehall Jätten bilden sollen.*
+Zu allen diesen Annahmen giebt aber die mineralogische Untersuchung, wie das eben Angeführte darthut, nicht das mindeste Anhalten. Labrador, Oligoklas und Anorthit mit ihren tafelartigen Kristallen und der so charakteristischen Streifung auf den Spaltunssflächen des Querbruchs zeigt sich nie, Augit und Hornblende müssten bei ihrer Unzersetzbarkeit durch Säuren doch nach Auflösung des zersetzbaren Gemengteil in dem unzersetzbaren zu finden sein, in welchem sich wohl etwas Chromeisenerz, aber nichts anderes erkennen lässt. Magnesia- Wollastonit ist noch nie beobachtet, müsste aber wie der Wollastonit durch Säuren zersetzbar sein, und könnte sich nicht, ebenso wenig wie der Anorthit in dem unzersetzbaren Gemengteil finden, was schon Wöhler bemerkt hat. Olivin kann bei seiner leichten Zersetzbarkeit auch nicht in dem unzersetzbaren Gemengteil vorkommen und ihn ausserdem in einem Gemenge mit Hyalosiderit anzunehmen, ist nicht zu billigen, da beide isomorph sind und isomorphe Körper in einem Gemenge nie beobachtet sind und auch nicht vorkommen können, da man nicht einsieht, warum sich nicht beide hätten verbinden und in diesem Falle einen Olivin von mittlerm Eisengehalt hätten bilden sollen.*
 
-*) Der Sauerstoff der Rasen zu dem der Kieselsäure ist bei ihm wie 1:1.
+*) Der Sauerstoff der Basen zu dem der Kieselsäure ist bei ihm wie 1:1 1/2.
 
-*) Comptes rendus, 1R5% t, 47, pn. 267 et m 479.
+*) Comptes rendus, 1859 t. 47, p. 267 et p. 479.
 
-*) Wer. d. Wiener Akad. 1839, B, 34 (5.9,
+*) Ber. d. Wiener Akad. 1859, B. 34 (S. 3).
 
-*) Buiterin de Facad. d. sciences de Sr, Pitershewurg IR60, t. 2, pm 40H.
+*) Bulletin de l'acad. d. sciences de St. Petersbourg 1860, t. 2, p. 404.
 
-*) Der Beweis, Jen Abich für die Richtigkeit seiner Annahme aus dem Umstand entnimmt, dass die Summe der specibschen Gewichte der angenommenen (armengtheile mit dem
+*) Der Beweis, den Abich für die Richtigkeit seiner Annahme aus dem Umstand entnimmt, dass die Summe der specifischen Gewichte der angenommenen Gemengteil mit dem spezifischen Gewichte des Steims stimmt, ist scheinbar, da dergleichen Berechnungen bei den Gebirgsarten aus vielen Gründen noch nie sichere Resultate gegeben haben.
 
-Man sieht, zu welcher Willkür es führt, wenn man Mineralien aus der Analyse eines Mineralgemenges berechnet, die man nicht gesehen bat, und noch dazu das chemische Verhalten dieser Mineralien gar nicht berücksichtigt. Die einzigen Gemengteil, die man mit Sicherheit in diesen Meteoriten annehmen kann, weil man sie sehen kann, sind aufser dem Nickeleisen und Magneikies nur Olivin und Chromeisenerz. Woraus die Grundmasse besteht, ob der schwarze (remengtheil nor Chromeisenerz oder ein Gemenge desselben mit einer andern Substanz sei, wie die mikroskopische Untersuchung währscheinlich macht, und woraus ganz besonders die Kugeln bestehen, wissen wir nicht. Freilich sind diese schon analysiert worden, aber nur in einer frühen Zeit von Howard (!), dem wir überhaupt die erste Analyse eines Meteoriten verdanken. Derselbe trennte bei der Analyse des Ch. von Benares die Kugeln von der Grundmasse und untersuchte beide besonders, nachdem er aus den letzteren das Nickeleisen mit dem Magnete ausgezogen hatte, und fand nun beide ungefähr gleich zusammengesetzt, nämlich:
+Man sieht, zu welcher Willkür es führt, wenn man Mineralien aus der Analyse eines Mineralgemenges berechnet, die man nicht gesehen hat, und noch dazu das chemische Verhalten dieser Mineralien gar nicht berücksichtigt. Die einzigen Gemengteil, die man mit Sicherheit in diesen Meteoriten annehmen kann, weil man sie sehen kann, sind ausser dem Nickeleisen und Magnetkies nur Olivin und Chromeisenerz. Woraus die Grundmasse besteht, ob der schwarze Gemengteil nur Chromeisenerz oder ein Gemenge desselben mit einer andern Substanz sei, wie die mikroskopische Untersuchung währscheinlich macht, und woraus ganz besonders die Kugeln bestehen, wissen wir nicht. Freilich sind diese schon analysiert worden, aber nur in einer frühen Zeit von Howard,* dem wir überhaupt die erste Analyse eines Meteoriten verdanken. Derselbe trennte bei der Analyse des Ch. von Benares die Kugeln von der Grundmasse und untersuchte beide besonders, nachdem er aus den letzteren das Nickeleisen mit dem Magnete ausgezogen hatte, und fand nun beide ungefähr gleich zusammengesetzt, nämlich:
 
-in dlen Kngeln in der Grundinasse  
+||in den Kugeln|in der Grundmasse|  
 Magnesia 15,00 18,00  
 Nickeloxyd 2,5 2,5  
-Kisenoxyd 34,00 34,00  
+Eisenoxyd 34,00 34,00  
 Kieselsäure 50,00 48,00  
 
-Später sind sie bei der Analyse wenig beachtet. Berzelius stellte bei der Analyse desCh. von Blansko aus Mangel an Material nur einige Versuche mit ihnen au, aus denen er indessen glaubte denselben Schlufs wie Howard ziehen zu können, dass sie mit der übrigen Masse des Meteoriten gleich zusammengeseizt wären (*). Er fand dabei, dais ein Teil ihres Piilvers gelatinire, ein anderer von der Säure gar nicht verändert werde. In der neusten Zeit glaubt zwar Damour, dem wir auch eine sorgfältige Analyse des an diesen Kuzeln so reichen Meteoriten von Montrejeau (Ausson} verdanken (?), dais er eine Analyse der Kugeln gegeben habe, indem er der Meinung ist, dass daraus der ganze von Säuren nicht oder schwer zerseizbare Teil des spezifischen Gewichte des Steims stimmt, ist scheinbar, da dergleichen Berechnungen bei den Gebirgsurten aus vielen Gründen noch nie sichere Resultate gegeben haben. Meieoriten bestehe, den er besonders untersucht hat; dies ist aber doch noch zu beweisen, da er die Kugeln für die Analyse nicht besonders ausgesucht hat. Diesen uuzersetzbaren Teil, den er allein als aus den Kugeln bestehend annimint und den er ähnlich wie bei den oben angeführlen Analysen zusammengesetzt fand, hält er aber nicht ür ein einfaches Mineral, sondern für ein Gemenge von Augit und Feldspat, berechnet somit wieder Mineralien, die gar nicht in den Kugeln zu erkennen sind und noch dazu: ein Gemenge, das nie beobachtet ist, was ihm auch Leymerie(') vorwirlt, der aus der Analyse von Damour nur den Schluis ziehen zu können glaubt, dass die Kugeln ein Silicat von Magnesia und Eisenoxydul mit höherem Kieselsäuregehalt als im Olivin seien, wenn nicht dieser hübere Kieselsäuregehalt von anhängender Grundmasse herzuleiten sei.
+Später sind sie bei der Analyse wenig beachtet. Berzelius stellte bei der Analyse des Ch. von Blansko aus Mangel an Material nur einige Versuche mit ihnen an, aus denen er indessen glaubte denselben Schluss wie Howard ziehen zu können, dass sie mit der übrigen Masse des Meteoriten gleich zusammengesetzt wären.* Er fand dabei, dass ein Teil ihres Pulvers gelatinire, ein anderer von der Säure gar nicht verändert werde. In der neusten Zeit glaubt zwar Damour, dem wir auch eine sorgfältige Analyse des an diesen Kugeln so reichen Meteoriten von Montrejeau (Ausson) verdanken,* dass er eine Analyse der Kugeln gegeben habe, indem er der Meinung ist, dass daraus der ganze von Säuren nicht oder schwer zersetzbare Teil des Meteoriten bestehe, den er besonders untersucht hat; dies ist aber doch noch zu beweisen, da er die Kugeln für die Analyse nicht besonders ausgesucht hat. Diesen unzersetzbaren Teil, den er allein als aus den Kugeln bestehend annimmt und den er ähnlich wie bei den oben angeführten Analysen zusammengesetzt fand, hält er aber nicht für ein einfaches Mineral, sondern für ein Gemenge von Augit und Feldspat, berechnet somit wieder Mineralien, die gar nicht in den Kugeln zu erkennen sind und noch dazu ein Gemenge, das nie beobachtet ist, was ihm auch Leymerie* vorwirft, der aus der Analyse von Damour nur den Schluss ziehen zu können glaubt, dass die Kugeln ein Silicat von Magnesia und Eisenoxydul mit höherem Kieselsäuregehalt als im Olivin seien, wenn nicht dieser höhere Kieselsäuregehalt von anhängender Grundmasse herzuleiten sei.
 
-*) Philas, transactnree 1802 und daraus in Güberts Annalen B. 13, $. 311,
+*) Philos. transactions 1802 und daraus in Gilberts Annalen B. 13, S. 311.
 
-*) Poggendorff‘s Annalen 1834, 0.33, 5. 21,
+*) Poggendorff‘s Annalen 1834, B. 33, S. 21.
 
-*) Comptes rendus 1859 1.49, p. 31.
+*) Comptes rendus 1859 t. 49, p. 31.
 
-Aus der mikroskopischen Untersuchung der Kugeln geht hervor, dass dieselben zweierlei Art sind, die einen vielleicht nur Olivin, die andern mit fasriger Struktur davon verschieden, ein wahrscheinlich Tonerde-haltiges Doppelsilicat. Es bleiben demnach von wirklich bestimmten Gemengteilen in den Chondriten immer nur noch Nickeleisen, Magnetkies, Olivin und Chromeisenerz, von nicht bestimmten die ragliche Grundmasse, der schwarze Gemengteil neben dem Chromeisenerz und die Kugeln mit fasriger Struktur, wenn die übrigen Olivin sind.
+Aus der mikroskopischen Untersuchung der Kugeln geht hervor, dass dieselben zweierlei Art sind, die einen vielleicht nur Olivin, die andern mit fasriger Struktur davon verschieden, ein wahrscheinlich Tonerde-haltiges Doppelsilicat. Es bleiben demnach von wirklich bestimmten Gemengteilen in den Chondriten immer nur noch Nickeleisen, Magnetkies, Olivin und Chromeisenerz, von nicht bestimmten die fragliche Grundmasse, der schwarze Gemengteil neben dem Chromeisenerz und die Kugeln mit fasriger Struktur, wenn die übrigen Olivin sind.
 
 2\. Howardit.
 
 Zu dieser Art gehören nur wenige Meteorit; von den im mineralogischen Museum befindlichen nur der von
 
-1\. Loutolax in Finland, gef. 1813, 13. Dec. (*).
+1\. Loutolax in Finland, gef. 1813, 13. Dec.*
 
 2\. Bialystok in Russland, gef. 1827, 5. Oct.
 
-3\. Mässing in Bäiern, gef. 1803, 13. Der.
+3\. Mässing in Baiern, gef. 1803, 13. Der.
 
-4\. Nobleborceugh in Maine, Ver. St. 1823, 7. Aug.
+4\. Nobleborough in Maine, Ver. St. 1823, 7. Aug.
 
-5\. Mailygatim in Kandeish, Ostindien 1843, 26. Juli.
+5\. Mallygaum in Kandeish, Ostindien 1843, 26. Juli.
 
-*) Cormptes rendas 1859, t. 49, p. 247,
+*) Comptes rendus 1859, t. 49, p. 247.
 
-*) Nicht Lontolar, wie gewöhnlich geschrieben wird {s. Nordenskiöld in der weiter unten cilirten Schrift, auch Berzetius in Poggendorfls Ann. 1834 6.33 letzte Seite unter den Berichtigungen, (ie von Berrelius berrühren. Laulolax, wie hier steht, ist nur die schwedische Aussprache von Luntelaz), Nach Buchner mülste es heilsen Luotolaks, welches finnische Wort „Pelsenbucht” bedeutet. (Poggendorfls Ann. 1R62 B. 116, 5. 643.
+*) Nicht Lontolax, wie gewöhnlich geschrieben wird (s. Nordenskiöld in der weiter unten citirten Schrift, auch Berzelius in Poggendorffs Ann. 1834 B. 33 letzte Seite unter den Berichtigungen, die von Berzelius herrühren. Lautolax, wie hier steht, ist nur die schwedische Aussprache von Loutolax). Nach Buchner müsste es heissen Luotolaks, welches finnische Wort „Felsenbucht” bedeutet. (Poggendorffs Ann. 1862 B. 116, S. 643.)
 
-Bei der geringen Zahl «der Meteoriten dieser Art ziehe ich es vor, sie einzeln zu beschreiben, und fange mit dem Ch. von Loutolax an, da mit diesem sehon die meisten Untersuchungen gemacht sind.
+Bei der geringen Zahl der Meteoriten dieser Art ziehe ich es vor, sie einzeln zu beschreiben, und fange mit dem Ch. von Loutolax an, da mit diesem schon die meisten Untersuchungen gemacht sind.
 
-1\. Loutolax, Wiborgs Län in Finnland. Die Steine, deren nur wenige gesammelt sind, da sie meistenteils auf die Eisdecke eines Sees fielen, in welchen sie beim hauen einsanken, sind von Nordenskiöld(') beschrieben und von Berzelius(?), wenn auch nur unvollständig, untersucht. Das mineralogische Museum besitzt davon nur zwei kleine Stückchen, zusammen 0,327 Lih. schwer, welche beide ein Geschenk ron Berzelius sind.
+1\. Loutolax, Wiborgs Län in Finnland. Die Steine, deren nur wenige gesammelt sind, da sie meistenteils auf die Eisdecke eines Sees fielen, in welchen sie beim Thauen einsanken, sind von Nordenskiöld* beschrieben und von Berzelius,* wenn auch nur unvollständig, untersucht. Das mineralogische Museum besitzt davon nur zwei kleine Stückchen, zusammen 0,327 Lth. schwer, welche beide ein Geschenk von Berzelius sind.
 
-Der M. von Loutolax hat eine porphyrartige Struktur und besteht aus einer graulichweilsen, feinkörnigen, sehr zerreiblichen Grundmasse mit eingemengten kleinen Körnern von grünlichgelber, weifser und schwarzer Farbe.
+Der M. von Loutolax hat eine porphyrartige Struktur und besteht aus einer graulichweissen, feinkörnigen, sehr zerreiblichen Grundmasse mit eingemengten kleinen Körnern von grünlichgelber, weisser und schwarzer Farbe.
 
-Die grünlichgeiben Körner sind die häufigsten; sie sind höchstens von der Gröfse eines Stecknadelknopfes, meistens kleiner und unregelmäfsig beeränzt, haben aber ganz das Ansehen wie Olivin, wofür sie auch ron Nordenskiöld und Berzelius gehalten sind, Vor dem Lötrohr werden sie dunkler von Farbe und schwärzlichgrün, schmelzen aber nicht.
+Die grünlichgelben Körner sind die häufigsten; sie sind höchstens von der Grösse eines Stecknadelknopfes, meistens kleiner und unregelmässig begränzt, haben aber ganz das Ansehen wie Olivin, wofür sie auch von Nordenskiöld und Berzelius gehalten sind. Vor dem Lötrohr werden sie dunkler von Farbe und schwärzlichgrün, schmelzen aber nicht.
 
-Die weifsen Körner sind seltner und auch nicht gröfser und zerbrechen dabei, wenn man sie herausnimint, in noch kleinere Stückchen. Sie sind nur unregelmälsig begränzt, scheinen aber doch spaltbar zu sein. Vor dem Lötrohr sind sie nach Nordenskiöld unschmelzbar und lösen sich nur langsam in Borax und Phosphorsalz auf, mit Phosphorsalz opalisirt die Kugel beim Erkaiten , wi Kobaltsolution befeuchtet, werden sie blau, Nordenskiöld ist der Meinung, dass sie Leueit sind, doch damit wäre die Spaltbarkeit im Widerspruch. Eher möchte ich vermuten, dass sie Anorthit wären; Jie Körner waren aber zu klein und die mir zu Gebote stekende Masse zu gering, um weitere Versuche damit machen zu können, Die Entscheidung mufs daher noch dahin gestellt bleiben.* An manchen Stellen war der Ulivin mit diesen weilsen Körnern fein gemengl.
+Die weissen Körner sind seltner und auch nicht grösser und zerbrechen dabei, wenn man sie herausnimmt, in noch kleinere Stückchen. Sie sind nur unregelmässig begränzt, scheinen aber doch spaltbar zu sein. Vor dem Lötrohr sind sie nach Nordenskiöld unschmelzbar und lösen sich nur langsam in Borax und Phosphorsalz auf; mit Phosphorsalz opalisirt die Kugel beim Erkalten; mit Kobaltsolution befeuchtet, werden sie blau. Nordenskiöld ist der Meinung, dass sie Leucit sind, doch damit wäre die Spaltbarkeit im Widerspruch. Eher möchte ich vermuten, dass sie Anorthit wären; die Körner waren aber zu klein und die mir zu Gebote stehende Masse zu gering, um weitere Versuche damit machen zu können. Die Entscheidung muss daher noch dahin gestellt bleiben.* An manchen Stellen war der Olivin mit diesen weissen Körnern fein gemengt.
 
-*) Didrag HT närmere Kannedem af Finlands mineraßer, p. 99 und daraus in: Neues Journ. f. Chem. u. Plys, Tl. 1, 8. oU.
+*) Bidrag til närmere Kännedom of Finlands mineralier, p. 99 und daraus in: Neues Journ. f. Chem. u. Phys., T. 1, S. 60.
 
-*) Pongendorff‘s Annalen 1834, RB. 53, 5. 30 und Rammelshergs Mineralchemie S. 940.
+*) Pongendorff‘s Annalen 1834, B. 53, S. 30 und Rammelsbergs Mineralchemie S. 940.
 
-*) Berzelius hat diese Kürner gar nicht erkannt, er verwechselt sie mit der Grundmasse, und glaubt Nordenskiöld habe diese für Leucit gelalten, was doch nicht der Fall ist.
+*) Berzelius hat diese Körner gar nicht erkannt, er verwechselt sie mit der Grundmasse, und glaubt Nordenskiöld habe diese für Leucit gehalten, was doch nicht der Fall ist.
 
-Von schwarzen Körnern finden sich einzelne gröfsere und kleinere in der Masse zerstreut, Die erstern lassen sich meistens leicht aus der Masse, in der sie liegen, herausnehmen und hinterlassen darin den Eindruck ihrer Masse, sind aber doch meistens mit kleinen weilsen Körnern gemengt und zerbrechen beim Ilerausnehmen auch leicht. Sie sind im Branch mati und dicht, nicht magnetisch, geben ein lichtes braunes Pulver, lösen sich vor dem Lötrohr in Phosphorsalz nur langsam auf und geben ein nur schwach grün gefärbtes Glas, das beim Erkalten opalisiert. Wahrscheinlieh sind sie, ungeachtet der uur schwachen grünen Färbung und des Opalisirens, was von der Beimengung herrühren mag, Ghromeisenerz. Als ein tafellürmiges solches Korn mit rauber Überfläche herausgenommen wurde, fand sich die entstandene Höhlung mit kleinen Körnchen gediegen Eisen umgeben, von denen eins, welches herausfiel, die Grölse eines Hirsekorns hatte, Feine Körner, wenn auch für das Auge nicht sichtbar, finden sich noch in der Masse zerstreut, denen aus dem Pulver des Meteoriten kann man mit dem Magnete feine Teilchen ausziehen, die im Mörser sich zu silberweilsen, stark metallisch glänzenden Blättchen breit drücken lassen. Ob sie nickelballig sind, haben weder ich noch Nordenskiöld untersucht, der ihrer ebeulalls erwähnt. Berzelius leugnet das Dasein dieses gediegenen Eisens und hält die Körner, die er mit dem Magnete auszog, für Magneteisenerz, da sie sich in Chlorwasserstoffsäure ohne Geruch nach Schwefelwasserstoff und ohne Gasentwickelung zu einer Jdunkelgelben Flüssigkeit auflösen. Indessen möchte doch der starke metallische Glaniz, (lie fast silberweißse Farbe und die Dehnbarkeit, die beim Zerreiben im Mörser zum Vorschein komtnen, keinen Zweifel gestatten, dass die Körner gediegenes Eisen sind. Auf jeden Fall ist dies Verhalten für die Beurtheilung ihrer Beschaffenheit geeigneter, als das Verhalten gegen Säure, da eine schwache Gasentwickelung bei geringer ansewandter Menge leicht übersehen werden kann.
+Von schwarzen Körnern finden sich einzelne grössere und kleinere in der Masse zerstreut. Die erstern lassen sich meistens leicht aus der Masse, in der sie liegen, herausnehmen und hinterlassen darin den Eindruck ihrer Masse, sind aber doch meistens mit kleinen weissen Körnern gemengt und zerbrechen beim Herausnehmen auch leicht. Sie sind im Brnch matt und dicht, nicht magnetisch, geben ein lichtes braunes Pulver, lösen sich vor dem Lötrohr in Phosphorsalz nur langsam auf und geben ein nur schwach grün gefärbtes Glas, das beim Erkalten opalisiert. Wahrscheinlich sind sie, ungeachtet der nur schwachen grünen Färbung und des Opalisirens, was von der Beimengung herrühren mag, Chromeisenerz. Als ein tafelförmiges solches Korn mit rauher Oberfläche herausgenommen wurde, fand sich die entstandene Höhlung mit kleinen Körnchen gediegen Eisen umgeben, von denen eins, welches herausfiel, die Grösse eines Hirsekorns hatte. Feine Körner, wenn auch für das Auge nicht sichtbar, finden sich noch in der Masse zerstreut, denn aus dem Pulver des Meteoriten kann man mit dem Magnete feine Teilchen ausziehen, die im Mörser sich zu silberweissen, stark metallisch glänzenden Blättchen breit drücken lassen. Ob sie nickelhaltig sind, haben weder ich noch Nordenskiöld untersucht, der ihrer ebenfalls erwähnt. Berzelius leugnet das Dasein dieses gediegenen Eisens und hält die Körner, die er mit dem Magnete auszog, für Magneteisenerz, da sie sich in Chlorwasserstoffsäure ohne Geruch nach Schwefelwasserstoff und ohne Gasentwickelung zu einer dunkelgelben Flüssigkeit auflösen. Indessen möchte doch der starke metallische Glanz, die fast silberweisse Farbe und die Dehnbarkeit, die beim Zerreiben im Mörser zum Vorschein kommen, keinen Zweifel gestatten, dass die Körner gediegenes Eisen sind. Auf jeden Fall ist dies Verhalten für die Beurtheilung ihrer Beschaffenheit geeigneter, als das Verhalten gegen Säure, da eine schwache Gasentwickelung bei geringer angewandter Menge leicht übersehen werden kann.
 
-Autiser diesem Eisen bemerkte ich auch nach sehr kleine, metallisch glänzende Körner von bräunlichgelber Farbe, die olfenbar Magnetkies sind. Sie finden sich aber nur so sparsam, dals man gewils wird Stücke auflösen können, ohne den Geruch nach Schwefelwasserstoff zu bemerken. Ein solches Korn Magnetkies sab auch Partsch, der aber wiederum von dem sediegenen Eisen nichts angiebt.
+Ausser diesem Eisen bemerkte ich auch noch sehr kleine, metallisch glänzende Körner von bräunlichgelber Farbe, die offenbar Magnetkies sind. Sie finden sich aber nur so sparsam, dass man gewiss wird Stücke auflösen können, ohne den Geruch nach Schwefelwasserstoff zu bemerken. Ein solches Korn Magnetkies sah auch Partsch, der aber wiederum von dem gediegenen Eisen nichts angiebt.
 
-Die zerreibliche Grundmasse, in welcher die angegebenen Gemengteil liegen, schmilzt vor dem Lötrohr zu eicem schwarzen Glase, das nur sehr schwach mägnetisch ist und sich in Phosphorsalz nur sehr langsam mit Hinterlassung eines Rückstandes vou Bieselsäure auflöst. Das entstandene (zlas ist grünlichweifs, so lange es heils ist, wird beim Erkalten erst wasserhell und opalisirt zuletzt.
+Die zerreibliche Grundmasse, in welcher die angegebenen Gemengteil liegen, schmilzt vor dem Lötrohr zu eicem schwarzen Glase, das nur sehr schwach magnetisch ist und sich in Phosphorsalz nur sehr langsam mit Hinterlassung eines Rückstandes von Kieselsäure auflöst. Das entstandene Glas ist grünlichweiss, so lange es heiss ist, wird beim Erkalten erst wasserhell und opalisirt zuletzt.
 
 Das spezifische Gewicht des Steins giebt Rummler zu 3,07 an.
 
-Aeulserlich ist der Stein mit einer schwarzen glänzenden Rinde umgeben.
+Aeusserlich ist der Stein mit einer schwarzen glänzenden Rinde umgeben.
 
-Ä Bei einer leider nur unvollständig gebliebenen Analyse dieses interessanten Meteorsteins zersetzte Berzelius denselben, nachdem alles dem Magnete Folgsame ausgezogen war, mit Königswasser und erhielt nur 6,45 pl. unlöslichen Rückstand; 93,55 Teile wurden von der Säure zersetzt. Diese bestanden aus:
+Bei einer leider nur unvollständig gebliebenen Analyse dieses interessanten Meteorsteins zersetzte Berzelius denselben, nachdem alles dem Magnete Folgsame ausgezogen war, mit Königswasser und erhielt nur 6,45 pC. unlöslichen Rückstand; 93,55 Teile wurden von der Säure zersetzt. Diese bestanden aus:
 
 Magnesia 32,92 Sauerstoff 13,17  
 Eisenoxydul 28,61 Sauerstoff 6,35  
@@ -1019,19 +1022,19 @@ Kieselsäure 37,42 Sauerstoff 19,42
 Zinnoxyd, Kupferoxyd, Kali und Natron Spur  
 100,00  
 
-Hiernach hälte dieser Teil die Zusammensetzung eines Olivins, der 1 Atom Eisenoxydul gegen 2 Atome Magnesia enthält. Indessen ist er doch nicht für ein einfaches Mineral zu halten, da der Augenschein lehrt, dals er ein Gemenge ist.
+Hiernach hätte dieser Teil die Zusammensetzung eines Olivins, der 1 Atom Eisenoxydul gegen 2 Atome Magnesia enthält. Indessen ist er doch nicht für ein einfaches Mineral zu halten, da der Augenschein lehrt, dass er ein Gemenge ist.
 
-Die unzersetzten 6.45 wurden mit Flulssäure behandelt, wodurch unsefähr 1 pC. Chroimeisenerz unaufgelöst blieb; das übrige war ein Silicat von Tonerde, Eisenoxydul, Manganoxydul, Kalk und Magnesia, nach Berzelius in Verhältnissen, wie sie etwa in dem unzersetzten Teil in dem Meteorstein von Blansko vorkommen.
+Die unzersetzten 6.45 wurden mit Flusssäure behandelt, wodurch ungefähr 1 pC. Chromeisenerz unaufgelöst blieb; das übrige war ein Silicat von Tonerde, Eisenoxydul, Manganoxydul, Kalk und Magnesia, nach Berzelius in Verhältnissen, wie sie etwa in dem unzersetzten Teil in dem Meteorstein von Blansko vorkommen.
 
-2\. Bialystok (Dorf Knasta) in Russland. Das mineralogische Museum besitzt noch jelzt, nachdem davon ein Teil an das kais. Mineralienkabinett in Wien abgegeben, ein 4,857 Loth schweres Stück, das die kais. Akademie der Wiss. in Petersburg Hm. A. vr. Humboldt verehrte und das von diesem dem mineralogischen Museum in Berlin übergeben ist.*
+2\. Bialystok (Dorf Knasta) in Russland. Das mineralogische Museum besitzt noch jelzt, nachdem davon ein Teil an das kais. Mineralienkabinett in Wien abgegeben, ein 4,857 Loth schweres Stück, das die kais. Akademie der Wiss. in Petersburg Hrn. A. v. Humboldt verehrte und das von diesem dem mineralogischen Museum in Berlin übergeben ist.*
 
-Der H, von Bialystock hat die grölste Ähnlichkeit mit dem vorigen und enthält in der feinkörnigen weilsen Grundmasse dieselben Gemengteil, nämlich:
+Der H. von Bialystock hat die grösste Ähnlichkeit mit dem vorigen und enthält in der feinkörnigen weissen Grundmasse dieselben Gemengteil, nämlich:
 
-Olivin in einzelnen Körmnern von Hirsekorn- Grölse bis zu Körnern von anderthalb Linien Durchmesser, ohne regelmäfsige Form, die einen unebenen Bruch, verschiedene gelblichgrüne, grasgrüne, holzbraune Farben und Fettglanz haben.
+Olivin in einzelnen Körnern von Hirsekorn-Grösse bis zu Körnern von anderthalb Linien Durchmesser, ohne regelmässige Form, die einen unebenen Bruch, verschiedene gelblichgrüne, grasgrüne, holzbraune Farben und Fettglanz haben.
 
-Anorthit(?) in weilsen Körnern von höchstens Stecknadelknopf-Gröfse, schneeweißs und von unebenem Bruch; zuweilen sieht man eine Spaltungsfläche, die glatt auch wohl gestreift ist, ebenso bröcklig wie bei dem H. von Loutolax.
+Anorthit (?) in weissen Körnern von höchstens Stecknadelknopf-Grösse, schneeweiss und von unebenem Bruch; zuweilen sieht man eine Spaltungsfläche, die glatt auch wohl gestreift ist; ebenso bröcklig wie bei dem H. von Loutolax.
 
-Aufser diesen Köroero son Olivin und Anorthit, die einzeln in der Grundmasse zerstreut sind, sieht man in derselben aber noch mehrere 3-4 Linien große Partien liegen, die ein körniges Gemenge der angeführten Gemensteile sind. Sie sind scharf begrenzt und unregelmäßig von Gestalt, nehmen aber zuweilen fast das Ansehen eines Kristalls an, und erscheinen wie rektanguläre Prismen von Olivia mit ziemlich geraden Flächen, die aber im Inzern durchgängig mit den kleinen weifsen Kristallen gemengt sind. Diese scheinbaren Kristalle lassen sich vollständig aus der Grundmasse heratisnehmen und hinterlassen darin ihrer Form entsprechende Eindrücke (in dem Stücke des min. Museums ist ein soleher scheinbarer Kristall von 6 Linien Breite und Höhe und von 4 Linten Tiefe sichtbar}. Sie sind wegen des häufig beigemengten Anorthits gewöhnlich von lichter Farbe; es kommen aber auch Partien vor, die eine dunklere, ohne Lupe betrachtet, fast schwärzlichgraue Farbe haben, doch sind dies ebensolche Gemenge nur niit sorwaltendem Olivin.
+Ausser diesen Körnern son Olivin und Anorthit, die einzeln in der Grundmasse zerstreut sind, sieht man in derselben aber noch mehrere 3-4 Linien große Partien liegen, die ein körniges Gemenge der angeführten Gemengteile sind. Sie sind scharf begrenzt und unregelmäßig von Gestalt, nehmen aber zuweilen fast das Ansehen eines Kristalls an, und erscheinen wie rektanguläre Prismen von Olivin mit ziemlich geraden Flächen, die aber im Innern durchgängig mit den kleinen weissen Kristallen gemengt sind. Diese scheinbaren Kristalle lassen sich vollständig aus der Grundmasse herausnehmen und hinterlassen darin ihrer Form entsprechende Eindrücke (in dem Stücke des min. Museums ist ein solcher scheinbarer Kristall von 6 Linien Breite und Höhe und von 4 Linien Tiefe sichtbar). Sie sind wegen des häufig beigemengten Anorthits gewöhnlich von lichter Farbe; es kommen aber auch Partien vor, die eine dunklere, ohne Lupe betrachtet, fast schwärzlichgraue Farbe haben, doch sind dies ebensolche Gemenge nur mit vorwaltendem Olivin.
 
 Es wird hiernach wahrscheinlich, dass auch die Grundmasse wenigstens hauptsächlich nichts anderes als ein eben solches nur feinkörnigeres Gemenge von Olivin und Anorthit ist, wie es die grobkörnigen Partien sind.* Der H. von Bialystock verhielte sich also in dieser Rücksicht wie der weiter unten zu erwähnende Eukrit von Stannern, bei dem sich auch an ein und demselben Stücke fein- und grobkörnige Abänderungen finden; nur mit dem Unterschiede, dass letzterer größtenteils grobkörnig, und nur selten und an einzelnen Stellen feinkörnig ist, der H. von Bialystock dagegen größtenteils feinkörnig, und nur an einzelnen Stellen grobkörnig ist.
 

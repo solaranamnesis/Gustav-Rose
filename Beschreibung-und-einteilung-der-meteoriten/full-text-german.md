@@ -220,7 +220,7 @@ II\. Die Steinmeteorit sind in 7 Arten zu teilen, für die ich die folgenden Nam
 
 7\. Eukrit von εὔϰϱιτοϛ wohl bestimmbar, da die mineralogische Beschaffenheit dieser Art bis auf einige Nebendinge ganz klar ist, und ihre wesentlichen Gemengteil vollkommen bestimmbar sind. Ein hauptsächlich aus Augit und Anorthit bestehendes körniges Gemenge mit einer geringen Menge Magnetkies, meistens noch geringerer Menge Nickeleisen, zuweilen mit kleinen, näher zu bestimmenden tafelartigen Kristallen (Juvenas) und mit etwas Olivin (Petersburg, V. St.). Es gehören hierhin die Meteoriten von Juvenas, Stannern, Jonzac und Petersburg.
 
-## I. Eisenmeteorit.
+## I\. Eisenmeteorit.
 
 Die ersten bestimmten Angaben über die Natur des Meteoreisens haben wir von Howard im Jahre 1802 erhalten, der bei Gelegenheit der chemischen Analyse des 1798 bei Benares in Bengalen gefallenen Meteorsteins die merkwürdige Entdeckung machte, dass das in demselben eingesprengte Eisen Nickel enthalte.* Er fand darin 35 pC. und einen ähnlichen Gehalt in andern gediegenen Eisenmassen, die für meteorisch angesehen wurden, in dem Eisen von Otumpa in Brasilien, von Krasnojarsk in Sibirien (dem Pallas-Eisen), dem Eisen aus Böhmen und vom Senegal.
 
@@ -758,9 +758,9 @@ Die natürliche Oberfläche ist nur wenig uneben; das Nickeleisen ist hier wohl 
 
 An der Oberfläche ist dieser Meteorit schon stärker zersetzt, besonders stellenweise. Dieselbe ist im Allgemeinen braun, einzelne Eisenkörnchen ragen daraus hervor, auch erkennt man auf ihr zum Teil noch die großen Olivin-Kristalle. Als das Stück der Sammlung durchschnitten wurde, bildeten sich nach nicht langer Zeit auf gewissen Stellen kleine Bläschen von Eisenchlorid. Ich ließ daher die Stücke auf den Rat des Baron Reichenbach einige Zeit in reinem Wasser liegen. Dadurch wurde das Eisen an diesen Stellen noch stärker oxydiert und braun, aber obgleich dies schon vor länger als anderthalb Jahren geschah, so hat doch das Rosten seit der Zeit nicht weiter zugenommen. Bei dem Eisen der Sierra de Chaco zeigt sich keine Neigung zum Rosten.
 
-2\. Steinmeteorit.
+## II\. Steinmeteorit.
 
-1\. Chondrit.
+### 1\. Chondrit.
 
 Diese Art ist unter den verschiedenen Arten der Steinmeteorit die bei weiten zahlreichste und zugleich diejenige, mit der sich Berzelius vorzugsweise beschäftigt hat, der, wenn er auch vorzugsweise nur die chemische Beschaffenheit ermittelte, doch dadurch zugleich die wichtigsten Anhaltspunkte für die Beurteilung der mineralogischen Beschaffenheit gegeben hat.
 
@@ -1013,7 +1013,7 @@ Später sind sie bei der Analyse wenig beachtet. Berzelius stellte bei der Analy
 
 Aus der mikroskopischen Untersuchung der Kugeln geht hervor, dass dieselben zweierlei Art ist, die einen vielleicht nur Olivin, die andern mit fasriger Struktur davon verschieden, ein wahrscheinlich Tonerde-haltiges Doppelsilicat. Es bleiben demnach von wirklich bestimmten Gemengteilen in den Chondriten immer nur noch Nickeleisen, Magnetkies, Olivin und Chromeisenerz, von nicht bestimmten die fragliche Grundmasse, der schwarze Gemengteil neben dem Chromeisenerz und die Kugeln mit fasriger Struktur, wenn die übrigen Olivin sind.
 
-2\. Howardit.
+### 2\. Howardit.
 
 Zu dieser Art gehören nur wenige Meteorit; von den im mineralogischen Museum befindlichen nur der von
 

@@ -1183,6 +1183,12 @@ welche die des Hyalosiderit vom Kaiserstuhl ist. Der in der Analyse angeführte 
 
 Die vierte Art enthält wie die dritte nur einen Meteoriten, den, welcher zu Bishopville im nördlichen Teil des Sumter-Distrikts in Süd-Carolina im März 1843 gefallen ist. Es fiel dort nur ein Stein von ungefähr 13 Pfd., der bald nach seinem Falle in den Besitz des Prof. Shepard gelangte, dem wir auch die erste Beschreibung und Analyse dieses merkwürdigen Steins verdanken.* Nachher haben noch Sartorius* und Rammelsberg* Untersuchungen damit angestellt. Die Berliner Sammlung besitzt davon ein größeres Stück von 4,86 Loth und mehrere kleinere.
 
+*) Silliman American Journal of Science and arts, sec. Ser. t. 2, p. 337.
+
+*) Ann. d. Chem. u. Pharm. B. 79, S. 369.
+
+*) Monatsber. d. k. Akad. d. Wiss. zu Berlin 1861 S. 895.
+
 Der Stein ist von äußerst geringem Zusammenhalt und zerfällt in Stücke bei dem geringsten Druck. Er ist im Allgemeinen von porphyrartigkörniger Struktur. In einer hellgrauen, weiß gefleckten, kleinkörnigen Grundmasse finden sich außer einigen andern Einmengungen von geringerer Bedeutung nur schneeweiße Kristalle von verschiedener Größe und in großer Menge eingeschlossen, oft sich gegenseitig begrenzend und in der Ausbildung sich störend. Der größte Kristall auf den Stücken des Berliner Museums zeigt auf der Bruchfläche des Gesteins einen Durchschnitt von der Gestalt eines Rechtecks mit schwach abgestumpften Ecken, dessen Länge einen halben Zoll beträgt und dessen Breite etwas geringer ist; ein anderer zeigt den eines symmetrischen Sechsecks mit zwei parallelen längeren Seiten, das etwas über einen halben Zoll lang und etwas weniger als ein Viertel Zoll breit ist; doch sind bei beiden die Seiten der Durchschnitte nicht sehr geradlinig, die Umrisse aller übrigen Kristalle indessen noch undeutlicher. Die beiden ersteren Kristalle sind parallel einer Spaltungsfläche durchgebrochen, die aber nicht sehr vollkommen, sondern durch unebenen Bruch unterbrochen ist. Die Bruchfläche ist glänzend von Perlmutterglanz und wird von matten Streifen parallel den längeren Seiten der Durchschnitte durchzogen. Wodurch diese hervorgebracht werden, kann ich nicht angeben, man sieht aber dasselbe Aussehen auch bei den Durchschnitten anderer Kristalle, dagegen wieder andere ganz glatte Spaltungsflächen in einer Richtung zeigen. Endlich finden sich auch runde weiße Körner von verschiedener bis Erbsengroße, die beim Herausnehmen runde, aber unebene Höhlungen in dem Gestein hinterlassen, auch nur durchscheinend sind, aber Glasglanz haben. Nimmt man die Kristalle oder Körner aus dem Gestein heraus, so zerfallen sie in kleine Stückchen, da sie mit vielen geraden und krummen Klüften nach den verschiedensten Richtungen durchsetzt sind, und dann ist es nicht mehr möglich, die einzelnen Teilchen zu unterscheiden.
 
 Es ist wahrscheinlich, dass die Körner von den Kristallen verschieden sind und bei diesen sich vielleicht auch noch die mit glatten und gestreiften Spaltungsflächen unterscheiden. Shepard erwähnt auch der runden Körner und trennt sie von den Kristallen; er erklärt die ersteren für Anorthit, ohne jedoch etwas anders zu ihrer Charakterisierung anzuführen als einige Lötrohrversuche, die keine wesentlichen Verschiedenheiten von den mit den Kristallen angestellten gaben. Die Kristalle bezeichnet er als eine neue Mineralgattung, der er, wie schon S. 29 angeführt, den Namen Chladnit gegeben hat und den ich mir erlaubt habe, wie ebenfalls angegeben, in den von Shepardit umzuändern. Von der Form dieses Shepardit macht Shepard auch nur unbestimmte Angaben, wenngleich er Kristalle beobachtet hat, die nach seiner Angabe beinahe einen Zoll im Durchmesser haben. Im Allgemeinen haben sie nach ihm das Ansehen der gewöhnlichen Formen des Feldspats oder Albits; die primitive Form wäre ein doppelt schiefes Prisma; durch Spaltung, die sich mit Leichtigkeit bewerkstelligen ließe, wären Winkel von 120° und 60° zu erhalten.
@@ -1193,7 +1199,11 @@ Die Härte des Shepardit ist nach diesen Beobachtern die des Feldspats, das spez
 
 Vor dem Lötrohr schmilzt der Shepardit nur an den Kanten zu einem weißen Email*; in Borax löst er sich in Pulverform leicht zu einem klaren Glase auf; in Phosphorsalz in Stücken langsam, in Pulverform leicht zu einem Glase, das, solange es heiß ist, wasserhell ist und ein Kieselskelett einschließt, beim Erkalten aber opalisiert.
 
+*) Nach Shepard schmilzt er ohne Schwierigkeit.
+
 Von heißer Chlorwasserstoffsäure wird der Shepardit nur sehr schwer angegriffen. Diess ist auch mit den runden Körnern der Fall, die Shepard für Anorthit hält; fein gerieben und mit Chlorwasserstoffsäure längere Zeit gekocht, gibt die verdünnte und filtrierte Auflösung derselben mit Ammoniak erst nach einiger Zeit einige bräunliche Flocken und das zurückbleibende Pulver knirscht nach wie vor mit dem Glasstab. Wenn ich Körner derselben Art wie Shepard untersucht habe, so können diese kein Anorthit sein; denn dieser gibt gepulvert und mit Chlorwasserstoffsäure gekocht sehr leicht eine Gallerte.*
+
+*) Vergl. darüber die Anmerkung beim Anorthit des Eukrit.
 
 Die chemische Zusammensetzung des Shepardit wird von Shepard (a), Sartorius (b) und Rammelsberg (c) folgendermaßen angegeben:
 
@@ -1246,11 +1256,17 @@ Die äußere glasige Rinde ist sehr merkwürdig; ganz unähnlich der der übrige
 
 Diese Art enthält auch nur einen Meteoriten, den M. von Shalka in Bankoora, Ostindien, nach welchem Fundort ich den Namen der Art gebildet habe. Haidinger hat die Nachrichten darüber zusammengestellt und den Stein beschrieben.* Er fiel den 30. November 1850 als ein einziger Stein und schlug in den nicht harten Boden gegen 4 Fuß ein, wobei er in viele Trümmer zerschellte, und Bruchstücke bis 20 Fuß weit umherflogen. Der Stein mochte einen Umfang von 3 1/2 Fuß gehabt haben; die schwarze Rinde war stellenweise abgetrennt. Haidinger erhielt durch die k. Asiatische Gesellschaft in Bengalen mehrere Stücke zusammen über 199 Centigr. schwer; ein größeres Stück von 6 Pfund 3529 Grains wurde an das Britische Museum in London gesandt, von welchem Dr. Auerbach aus Moskau einige Stücke erhielt, von denen er mir ein kleines haselnussgroßsen Stück überließ. Späterhin erhielt ich selbst durch Hrn. Maskelyne aus dem Britischen Museum ein viel größeres Stück von 4,79 Lth. Gewicht.
 
+*) Sitzungsber. d. math.-naturw. Kl. d. k. Akad. d. Wiss. 1860. Bd. 41. S. 251.
+
 Nach diesen Stücken ist die Masse ein kleinkörniges Gemenge von kleinen schneeweißen, in einer Richtung deutlich spaltbaren Körnern mit andern meistens etwas größeren grünlichgrauen, worin wieder noch größere, oft ganz scharf begrenzt liegen, die eine schwärzlichgrüne Farbe haben. Beide Farben geben aber stellenweise bei denselben Körnern in eine lichtere grünlichgelbe über, in welchem Fall dann die Körner eine große Ähnlichkeit mit Olivin erhalten, wie auch schon der erste Beschreiber dieses Meteorsteins, Piddington in Calcutta, bemerkt hat.* Die grünen Körner haben zuweilen einen Durchmesser von einem Zoll, sind dann aber sehr klüftig; sie haben einen kleinmuschligen Bruch, Glasglanz, der in den Fettglanz übergeht, sind an den Kanten mehr oder weniger durchscheinend, bei lichterer Farbe mehr, und unvollkommen nach einer Richtung spaltbar. Die Masse zum Teil sehr bröcklig, das kleine Stück, was auch im Allgemeinen feinkörniger ist, mehr als das große.
+
+*) A. a. O. S. 257.
 
 Nach Haidinger besteht dieser Meteorstein ebenfalls aus feinkörnigen weißlichen mit gröber körnigen dunkelaschgrauen Teilen, die bis 2 Linien in jeder Richtung groß sind und selbst wieder in kugligen Massen von mehrzölligem Durchmesser in den weißen feinkörnigen eingeschlossen sind, oder von denselben wie Gangweise durchsetzt werden. Bei den größeren Körnern sah er eine ziemlich deutliche Spaltungsfläche, die einen unvollkommene Winkel von 100° und 80° macht, ihre Härte ist 6,5; indessen ist Haidinger der Meinung, dass diese ganze Masse nur eine einzige Spezies bilde, da ihre Teile zwar eine verschiedene Farbe hätten, aber vollkommen ineinander übergingen.
 
 In dieser Masse kommen nun noch Körner von Chromeisenerz eingemengt vor, die zwar gewöhnlich nur sehr klein und fein, doch in dem größeren Stücke fast die Größe einer kleinen Erbse erreichen. Sie sind schwarz, stark glänzend von unvollkommenem Metallglanz, haben einen braunen Strich, und sind gewöhnlich unregelmäßig begrenzt, doch auch in Oktaedern kristallisiert. K. v. Hauer beobachtete schon ein solches*; in dem größeren Stücke sind deren mehrere enthalten; ihre Flächen sind so glänzend, dass man mit ziemlicher Genauigkeit ihre Winkel messen kann. Körner und Kristalle kommen öfter in den grünen Körnern eingewachsen vor, sie sind schwer aus denselben vollständig herauszulösen, da auch sie klüftig und bröcklig sind.
+
+*) A. a. O. S. 257.
 
 Haidinger fand das spezifische Gewicht eines ziemlich reinen Stückes (d.h. wo wohl weniger Chromeisenerz eingemengt war) 3,412, Piddington gibt 3,66 an.
 
@@ -1274,6 +1290,8 @@ bei dieser Spezies = 1:2,42.
 
 Dieses Verhältnis nähere sich dem, welches Stromeyer bei dem olivinähnlichen Mineral aus der angeblich von Grimma (Steinbach) stammenden Eisenmasse gefunden habe, wo jenes Verhältnis = 1:2,6 ist, und für welches Mineral Rammelsberg die Formel RSi+2R2Si3 aufgestellt habe.* Er schlägt demnach für dies Mineral den Namen Piddingtonit vor.
 
+*) Diess giebt das Verhaltniss = 1:2,8; besser passt zu dem obigen die Formel RSi+R2Si3.
+
 Dieser Meinung von der Gleichartigkeit der Masse möchte ich nicht beistimmen. Die Farbe der dunklen Körner geht wohl in die grünlichgelbe über, aber nicht in die weiße. Die Körner mit grünlichgelber bis schwärzlichgrüner Farbe haben alle Eigenschaften des Olivins; ist dies aber der Fall, dann können die weißen Körner nichts anderes als Shepardit sein, und der Shalkit wäre hiernach ein Gemenge von Olivin, Shepardit und Chromeisenerz, und von dem Chassignit nur durch die Anwesenheit des Shepardit verschieden.
 
 Mit dieser Annahme stimmt auch das chemische Verhalten überein, denn sehr fein zerrieben, wird er von heißer Chlorwasserstoffsäure zum Teil zersetzt, wie ein Gemenge von Olivin und Shepardit; das feine Pulver ist nur an den äußersten Kanten schmelzbar, noch schwerer als der Chassignit, und wird wie dieser schwarz.
@@ -1288,7 +1306,9 @@ Der Shalkit ist hiernach ein Gemenge von basisch und saurer kieselsaurer Magnesi
 
 Mg2Si+MgSi+2H
 
-und es wäre daher wohl möglich, dass wie der Shalkit alle Gebirgesarten die Gemengteil in ebenso einfachen Verhältnissen enthalten, wie die Mineralien die Bestandteile (').
+und es wäre daher wohl möglich, dass wie der Shalkit alle Gebirgesarten die Gemengteil in ebenso einfachen Verhältnissen enthalten, wie die Mineralien die Bestandteile.*
+
+*) Vergl. weiter unten die Anmerkung S. 134.
 
 6\. Die kohligen Meteorit.
 
@@ -1316,6 +1336,8 @@ Es gehören zu dieser Abteilung nur wenige Meteoriten; von den Meteoriten des Be
 
 1\. Der E. von Juvenas ist meistenteils deutlich körnig und die Gemengteil über liniengroß; was ihn indessen für die Untersuchung besonders wichtigmacht, stellenweise auch voller Höhlungen‚ an deren Wänden sich die Gemengteil regelmäßig begrenzt haben. Diess ist namentlich mit dem Augit der Fall, der überhaupt der vorwaltende Gemengteil ist. Derselbe erscheint hier in der Form, in welcher er sich gewöhnlich in vulkanischen Gesteinen findet, als Kombination des rhombischen Prismas von ungefähr 88° mit der Quer- und Längsfläche und dem schiefen Prisma von ungefähr 120°.* Er hat glatte und glänzende Flächen, so dass er ziemlich gut mit dem Reflexionsgoniometer gemessen werden kann. Die Neigung, die sich am besten bestimmen ließ, war die Neigung der Längsfläche zur Fläche des vertikalen Prismas, die ich von 136° 3'-5' fand. Eine Spaltbarkeit war weder bei den aufgewachsenen noch bei den unregelmäßig begrenzten eingewachsenen Kristallen bei ihrer Kleinheit zu bemerken; sie sind im Bruch uneben, von Farbe schwärzlichbraun, ungefähr wie der Nosean vom Laacher See, glänzend von Fettglanz und nur aus den äußersten Kanten durchscheinend. Vor dem Lötrohr schmilzt dieses Augit in der Platinzange zu einem schwarzen Glase, das von Magneten angezogen wird, was vor der Schmelzung nicht der Fall ist. In Borax wird er zu einem von Eisen schwach gefärbten Glase aufgelöst, in Phosphorsalz ebenso, nur schwerer und unter Ausscheidung von Kieselsäure. Mit wenig Soda schmilzt er zu einer schwarzen Kugel, mit mehr Soda geht die Masse in die Kohle und das Eisenoxydul wird reduziert.
 
+*) Vergl. die ausführliche Beschreibung in meiner ersten Arbeit über diesen Meteoriten in Poggendorffs Ann. von 1825 B. 4, S. 173.
+
 Der Anorthit ist in den Höhlungen gewöhnlich kleiner und viel undeutlicher Kristallisiert als das Augit, indessen sieht man doch das gewöhnliche rhomboedrische Prisma mit der Längsfläche _M_, durch deren Vorherrschen die Kristalle gewöhnlich ein tafelartiges Ansehen erhalten, sowie die schiefe Endfläche _P_, parallel welcher die Kristalle immer sehr deutlich spaltbar erscheinen. Die Endfläche ist meistenteils glatt, nur zuweilen zeigt sie den der Kante mit der Längsfläche parallel gehenden einspringenden Winkel, der den Zwillingskristall verkündet. Winkel sind nicht zu messen, aber das ganze Ansehen der Kristalle zeigt den ein- und eingliedrigen Feldspat. Er ist schneeweiß und auf den Spaltungsflächen stark perlmutterartig glänzend. Vor dem Lötrohr nur sehr schwer an den Kanten schmelzbar. Gepulvert und mit heißer Chlorwasserstoffsäure behandelt, gelatiniert er und gibt sich dadurch bestimmt als Anorthit zu erkennen.*
 
 *) Dass der Anorthit, mit heißer Chlorwasserstoffsäure digeriert, gelatiniert, ist bisher noch nicht angegeben, ist aber ein leichtes Mittel, ihn vom Labrador zu unterscheiden. In meiner ersten Beschreibung dieser Kristalle (a. a. O. S. 176) hatte ich sie gestützt auf die Angabe von Laugier, dass der Meteorit von Juvenas von Säuren nur schwierig angegriffen würde, und auf eine von mir ausgeführte Untersuchung des alkalischen Bestandteils für Labrador gehalten. Shepard hatte die Kristalle zuerst für Anorthit ausgegeben (Report on American meteorites p. 7. New Haven 1848), ohne weitere Beweise für seine Behauptung zu liefern; Rammelsberg hat dies zuerst durch seine Analyse bewiesen (Pongendorffs Ann. von 1848 B. 73, S. 585).
@@ -1336,6 +1358,8 @@ Diese letztgenannten Gemengteil sind jedoch nur wie angegeben in sehr geringer M
 
 Das spezifische Gewicht des E. von Juvenas ist nach Rummler 3,11, nach Flangergues 3,09.*
 
+*) Partsch, Meteoriten S. 147.
+
 Die schwarze Rinde ist wie die der Howardit stark glänzend und adrig, also ganz verschieden von der der Chondrit.
 
 In einer dünn geschliffenen Platte unter dem Mikroskop erscheint der Anorthit durchsichtig und ziemlich wasserhell, und mit nur wenigen Rissen durchsetzt, der Augit hellbraun durchscheinend, aber mit vielen gröberen braunen Sprüngen und feineren Streifen durchzogen. Ein größerer Kristall zeigte gerade, untereinander parallele, sich in kleinen Entfernungen wiederholende dunkelbraune Sprünge, die von andern ähnlichen aber unregelmäßig verlaufenden durchsetzt wurden, und außer diesen noch feinere gerade, eng nebeneinander liegende, braune Streifen, die die geraden Sprünge unter einem Winkel von etwa 80° schnitten. Auf eine ähnliche Weise verhalten sich die Sprünge und Streifen bei allen übrigen Kristallen. Nickeleisen in sehr kleinen Körnern macht sich hin und wieder durch seinen Metallglanz kenntlich, Magnetkies war bei seiner unregelmäßigen Verteilung in dem Gestein auf der Platte gerade nicht vorhanden. Der Anorthit erscheint im Allgemeinen in kleineren Kristallen als das Augit, aber sie sind fast überall regelmäßig begrenzt, und namentlich sind die Querdurchschnitte durch seine tafelartigen Kristalle häufig zu sehen, dagegen das Augit bei größeren Individuen nie regelmäßige Umrisse hat. Man sieht so bestimmt, dass Anorthit der zuerst, Augit der später kristallisierte ist, wie auch der erstere schwerer, der letztere weniger schwer vor dem Lötrohr schmelzbar ist.
@@ -1345,6 +1369,8 @@ Vor dem Lötrohr schmilzt das Gestein fein zerrieben sehr leicht zu einem schwar
 Fein gepulvert und mit heißer Chlorwasserstoffsäure digeriert, gelatiniert der Anorthit, und die Gelatine schließt das Augit unverändert ein, der daher auf diese Weise leicht und bestimmt von dem Anorthit zu trennen ist.
 
 Auf diese Weise ist nun auch der E. von Juvenas von Rammelsberg analysiert worden.* Er erhielt so:
+
+*) Poggendorffs Annalen von 1848, Bd. 73, S. 585 und Rammelsbergs Mineralchemie S. 937.
 
 A. mit Säuren Zersetzbares 36,77
 B. mit Säuren Unzersetzbares 63,23
@@ -1413,6 +1439,8 @@ Sie verhalten sich also fast genau wie 1:2. Da nun der Anorthit 2, das Augit nur
 
 4\. Der E. von Petersburg. Ein auf den ersten Anblick sehr fremdartig aussehender Eukrit. Er fiel etwa 3 Pfd. schwer zu Petersburg in Tennessee den 5. Aug. 1855 und ist hauptsächlich durch die Nachrichten, die Shepard* darüber mitgeteilt hat, bekannt geworden. Das mineralogische Museum besitzt zwei nicht sehr große Stücke, die zu ihm von Shepard durch Dr. Bondi gelangt sind. Der größte Teil des Steins besteht nach diesen aus einer graulichweißen, feinkörnigen, zerreiblichen Masse, die, mit der Lupe betrachtet, doch nur ein feines Gemenge vor kleinen braunen und schneeweißen Körnern ist, worin aber einzelne 1 bis 2 Linien große, grünlichgelbe Körner von Olivin, auch sehr kleine Körner von Magnetkies liegen, und kleine Rostflecke anzeigen, dass auch Nickeleisen darin vorkommt, wie man denn auch aus dem Pulver mit dem Magnet eine für einen Eukrit nicht unbeträchtliche Menge von Nickeleisen ausziehen kann. In dieser so beschaffenen Masse liegen einzelne einen halben Zoll im Durchmesser haltende Partien eines gröberen Gemenges der braunen und weißen Körner, die sich nun deutlich als ein Gemenge von Augit und Anorthit darstellen und mit andern, die bei den E. von Juvenas und Stannern vorkommen, die größte Ähnlichkeit haben; daher denn auch die grauen Partien nur für ein feinkörniges Gemenge von Augit und Anorthit zu halten sind. Auf der andern Seite finden sich auch in der grauen Masse 2 bis 3 Linien dicke eckige schwarze Partien, die an der umliegenden Masse scharf abschneiden, und einen ebenen matten Bruch haben und worin auch mit der Lupe ein Gemenge nicht zu erkennen ist, die dennoch aber nur ein inniges Gemenge sein möchten, da es wie das graue vor dem Lötrohr an den Kanten zu einem schwarzen Glase schmilzt, das vom Magnete schwach angezogen wird und sich in Phosphorsalz mit Hinterlassung der Kieselsäure zu einem von Eisen schwach grün gefärbten Glase auflöst.
 
+*) Silliman American Journ. of Sc. and arts 1857 Sec. ser. v. 24, p. 134.
+
 Das spezifische Gewicht nach Prof. Smith in Louisville 3,28.
 
 Äußerlich eine schwarze glänzende Rinde wie bei den E. von Juvenas und Stannern.
@@ -1438,6 +1466,8 @@ Shepard fand die Menge des eingemengten Nickeleisens bei einem Versuche 2,5 pC.
 Der E. von Petersburg ist also ein mit den übrigen im Allgemeinen übereinstimmender Eukrit, der sich von diesen nur durch etwas eingemengten Olivin und eine noch etwas größere Menge von Nickeleisen unterscheidet.
 
 Shepard, der das ganze gefundene Stück zu untersuchen Gelegenhatte, beschreibt den Stein als bestehend aus einer aschgrauen Masse, die er für Anorthit hält, mit eingewachsenen, mehr oder weniger abgerundeten Kristallen von schneeweißem Chladnit, grünem Augit, gelblichgrünem Olivin und Chromeisenerz. Die graue Masse macht nach ihm etwa 3/5 des ganzen Steins aus, die Kristalle von Augit erreichen zuweilen eine Größe von 1/4 Zoll und von eben dieser Größe kommen auch Kristalle von Anorthit* vor. Außer diesen Einmengungen beobachtete Shepard noch ein hartes rotes, scheinbar in Dodekaedern Kristallisiertes Mineral, von dem er sagt, dass es die größte Ähnlichkeit mit dem in dem Meteorit von Nobleborough (Maine) vorkommenden und von ihm für Granat erklärten Minerale habe. Diese Beschreibung weicht wesentlich von der meinigen ab, ich habe zwar nur zwei kleine Stücke zur Benutzung gehabt, doch wäre es wünschenswert gewesen, dass die Anwesenheit von mehreren der von Shepard genannten Mineralien wie namentlich des Chladnit näher bewiesen wäre. Die von mir beschriebenen schwarzen Partien sind nicht erwähnt. Shepard gibt nun auch hier noch nach Smiths und seinen Analysen eine ungefähre Berechnung der Gewichtsmengen der Gemengteil, die ich auch hier nicht anführe, da sie auf zu unsicher Annahmen beruht. Von Augit gibt er nur 1 pC. an.
+
+*) Wenn ich die Beschreibung (a. a. O. S. 136) richtig verstehe.
 
 ---
 
@@ -1523,9 +1553,15 @@ Fast alle diesen Meteorit sind durch den Olivin, den sie enthalten, ausgezeichne
 
 Vergleicht man die Meteoriten, die kosmischen Gebirgsarten, mit den tellurischen, so ergibt sich, dass sie gänzlich von diesen verschieden sind bis auf den Eukrit, der doch unter den tellurischen Gebirgsarten auch nur selten vorkommt und erst in der neuern Zeit aufgefunden ist. Haughton in Dublin beschrieb zuerst ein solches Gemenge von Carlingfors in Irland, wo es in Gängen im Steinkohlengebirge vorkommt,* gab aber das den Anorthit begleitende Mineral für Hornblende aus, was nach den Stücken, die ich Hrn. Skott verdanke, Augit ist; doch sind ja auch Gesteine, die Gemenge von Anorthit und Hornblende sind, in der neuern Zeit bekannt geworden, wie z. B. das bisher für Diorit gehaltene Gestein vom Kontschekowskoj Kamen im Ural nach Potyka ein solches ist,* und solche mögen auch in Irland vorkommen. Die Anorthitgesteine und namentlich der Eukrit sind gewiss aber noch viel häufiger, als man glaubt. Durch das Gelatinieren des Anorthits mit Chlorwasserstoffsäure war ein leichtes Mittel gegeben, denselben vom Labrador zu unterscheiden; ich fand so, dass viele für Hypersthenfels gehaltene Gesteine nichts anderes als Eukrit sind, wie z. B. der sogenannte Hypersthenfels von der Insel Skye, der hier so verbreitet ist, und von dem das Berliner Museum viele und schöne Stücke besitzt, die die Hrn. v. Dechen und v. Oeynhausen dort gesammelt und dem Berliner Museum übergeben haben. Die tellurischen Eukrit unterscheiden sich zwar dadurch von den meteorischen, dass sie grobkörniger sind und das Augit in ihnen nicht braun, sondern grün ist, doch sind dies unwesentliche Unterschiede. Einen wichtigen Unterschied würde das Vorkommen des gediegenen Eisens in den meteorischen Eukriten machen, doch ist dieses ja in den meisten, wie in dem von Stannern und Juvenas, nur in solcher geringen Menge vorhanden, dass es bisher in ihnen ganz übersehen ist, und also einen wesentlichen Gemengteil nicht abgeben kann.
 
+*) Vergl. Roth: Gesteinsanalysen S. 52.
+
+*) A. a. O. S. 52.
+
 Ein Unterschied zwischen dem tellurischen und meteorischen Eukrit findet aber immer statt; der erstere verhält sich zu diesem wie die älteren vulkanischen Gebirgsarten zu den neuern, wie die Gebirgsarten der Granit- und Grünsteingruppe zu denen der Trachyt- und Basaltgruppe. Wie jene dieselben Gemengteil haben wie diese, und beide sich oft nur in unwesentlichen Eigenschaften voneinander unterscheiden, so ist dies auch hier der Fall. Der tellurische Eukrit gehört zu den Gebirgsarten der Grünsteingruppe, der meteorische zu denen der Basaltgruppe.
 
 Indessen wäre es wohl möglich, dass auch unter den Gebirgsarten der Basaltgruppe, namentlich unter dem, was man Dolerit genannt hat, ein Eukrit vorkäme, der dann in seinen Eigenschaften noch mehr mit dem meteorischen Übereinstimmen würde. Unter den in Island vorkommenden Laven ist schon mehrfach Anorthit als Gemengteil beobachtet; die von Genth analysierte Tjorsa-Lava kommt in der Zusammensetzung dem Eukrit von Stannern sehr nahe; es ist wohl möglich, dass dies ein Eukrit ist, wie ihn Roth auch schon vorläufig dazu gestellt hat.*
+
+*) A. a. O. S. 52.
 
 Mit diesen Gebirgsarten der Basaltgruppe sind überhaupt auch nur die Meteoriten zu vergleichen. Sie kommen mit diesen überein durch die meistenteils körnige Struktur, durch den gänzlichen Mangel freier und die verhältnismäßig geringe Menge der gebundenen Kieselsäure* und durch den Reichtum an Olivin. Dies sind aber ziemlich alle Vergleichungspunkte, die den Meteorit darbieten. Letztere unterscheiden sich wesentlich durch das metallische, stets nickelhaltige Eisen und die übrigen, unter den tellurischen Mineralien nicht beobachteten Verbindungen, die sie enthalten, durch die geringe Menge von Silicaten mit Tonerde und Alkali und ferner durch die gänzliche Abwesenheit des Magneteisenerzes, das in den neuern vulkanischen Gebirgsarten der Erde so verbreitet ist. Bei den Meteoriten ist, wie schon bemerkt, das Magneteisenerz durch das Chromeisenerz vertreten. Dieses kommt in den tellurischen Gebirgsarten auch vor, hat hier aber ein ganz anderes geognostisches Vorkommen, indem es hier nicht an den Olivin gebunden ist; indessen kommt es doch auch hier mit einem Magnesiasilicat vor, wenn auch einem wasserhaltigen, dem Serpentin, der nun freilich häufig eine Metamorphose von Olivin ist, aber doch nicht gewöhnlich in den Fällen, wo der Olivin in den Gebirgsarten der Basaltgruppe vorkommt.*
 
@@ -1548,6 +1584,10 @@ Nachtrag.
 Während des Druckes der letzten Bogen erhielt ich noch einige neue Meteoriten, über welche ich hier noch Einiges hinzufüge.
 
 1\. Mesosiderit von Atacama in Chile. Er wurde auf einem Bergpasse 50 engl. Meilen von Copiapo gefunden, von Hrn. Brower erworben, der ihn nach New York brachte und dem Union College in Schenectady übergab, wo er vom Professor Joy analysiert und beschrieben wurde.* Durch Hrn. Prof. Chandler in Schenectady erhielt ich eine kleine Probe und ein Modell des ursprünglichen Meteoriten. Er hat hiernach eine ellipsoidische Gestalt mit ziemlich ebener Oberfläche und eine Länge, Breite und Höhe von etwa 4, 3 1/2 und 3 Zoll. Sein Gewicht betrug nach Joy 1784 Grammen, sein spez. Gew. 4,35. Nach der übersandten Probe hat er auf den ersten Anblick so große Ähnlichkeit mit dem Mesosiderit von der Sierra de Chaco in Atacama (vergl. oben S. 81), dass man geneigt sein könnte, ihn mit diesem für identisch zu halten. Nach der Analyse von Joy enthält er 57,657 metallische Teile und 42,419 Silicate, die wieder bestehen in 100 Teilen aus:
+
+*) Silliman, Amer. Journ. of Sc. and arts 1864, v. 37, p. 243.
+
+*) Mit 8,17 Eisen zu 12,84 FeS verbunden.
 
 Eisen 83,76  
 Nickel 9,18  
@@ -1588,9 +1628,13 @@ Phosphor 0,010
 
 Ein zweiter Versuch bestimmte den Nickelgehalt zu 7,080.*
 
+*) Sillimann, Amer. Journ. of sc. and arts, 1863, v. 36. p. 259.
+
 Ich erhielt von Hrn. Prof. Shepard eine von dem Stücke des Dr. Jackson abgeschnittene, 4 Linien dicke und 3,319 Loth schwere Platte, die an den Rändern zum Teil noch mit der natürlichen Oberfläche begrenzt und hier mit einer nur ganz dünnen Rinde von Eisenoxydhydrat bedeckt ist. Das Eisen zeigt geätzt die Ätzunglinien, die über die ganze Fläche fortlaufen, wie bei dem Eisen von Braunau, und ebenso die kleinen eingewachsenen Rhabditkristalle, gehört also zu der bis jetzt nur selten vorgekommenen Abteilung des Meteoreisens, das nur aus einem Individuum ohne schalige Zusammensetzung besteht. Beim Zerreißen des Eisens würden also die hexaedrischen Spaltungsflächen sichtbar werden. — Außer dem Rhabdit findet sich in der Platte Schreibersit in mehreren ungewöhnlich großen Partien, die an einer Stelle zusammengehäuft sind, eingewachsen.
 
 3\. Meteoreisen von Tucson (s. oben S. 73). Ich erhielt von diesem Eisen von Hrn. Shepard eine dünne 1,635 Loth schwere Platte. Die polierte Fläche ist voller kleiner runder Höhlungen. Geätzt zeigt sie grobkörnige Zusammensetzungsstücke, von denen einige bei einer gewissen Beleuchtung eine lichte graue, andere eine dunklere graue Farbe haben; bei anderer Beleuchtung verhalten sie sich umgekehrt. Die Zusammensetzungsstücke haben eine sehr dünne Einfassung von Tänit, und viele der kleinen Höhlungen haben nun glänzende Wände erhalten, die auf der übrigen matten Fläche hervorleuchten. Die Zusammensetzungsflächen zeigen feine linienartige gerade Furchen, die eine von den Ätzunglinien etwas verschiedene Beschaffenheit haben. Da nun bei diesem Eisen auch oktaedrische Spaltbarkeit* (soll wohl heißen oktaedrische Zusammensetzung) angegeben wird, so habe ich dieses Eisen in der folgenden Übersicht auf das Eisen von Seeläsgen und Tucuman folgen lassen.
+
+*) Buchners Meteoriten S. 183.
 
 4\. Meteoreisen von Wayne County, Ohio Ver. St. 1859. Eine kleine geätzte Platte mit deutlichen Widmanst. Fig. von Hrn. Shepard erhalten. Das Eisen folgt in der Übersicht nach dem von Nebraska.
 

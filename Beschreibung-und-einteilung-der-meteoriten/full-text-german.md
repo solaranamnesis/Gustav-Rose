@@ -661,7 +661,7 @@ Anhang.
 
 58\. Cranburne, Melbourne, Australien, 1861. Drei kleine Stückchen.
 
-2\. Pallasit.
+### 2\. Pallasit.
 
 Gemenge von Meteoreisen mit Olivin. Das Meteoreisen bildet hier eine Grundmasse, in welcher Olivin-Kristalle porphyrartig eingewachsen sind.* Es gehören hierher die Eisenmeteorit von Krasnojarsk (das Pallas-Eisen), von Brahin, Atacama, Steinbach, Rittersgrün, Breitenbach* und Bitburg.
 
@@ -738,7 +738,7 @@ Außer dem Olivin und dem Meteoreisen, die die wesentlichen Gemengteil des Palla
 
 2\. Chromeisenerz von samtschwarzer Farbe, unvollkommenem Metallglanz, braunem Strich, und vor dem Lötrohr mit Phosphorsalz ein smaragdgrünes Glas gebend. Es ist in der Regel vollkommen in dem Meteoreisen eingewachsen und grenzt an dasselbe in geraden Flächen, ist also kristallisiert; zuweilen grenzt es aber auch an den Olivin, es bildet dann mit ihm eine unregelmäßige Grenze und nimmt Eindrücke von diesem an, scheint also später als dieser kristallisiert zu sein. Man erkennt das Chromeisenerz auch nur auf geschliffenen Flächen; es scheint aber überall nur sparsam vorzukommen; ich habe es bestimmt gesehen nur in den Pallasiten von Brahin und Atacama. Doch muss es auch in den übrigen, wenigstens in dem von Krasnojarsk und Steinbach vorkommen, weil Laugier in dem ersteren und Stromeyer in dem Steinbach- (Grimma-) Olivin etwas Chromoxyd angibt, was doch wahrscheinlich von eingemengtem Chromeisenerz herrührt.*
 
-3\. Mesosiderit.
+### 3\. Mesosiderit.
 
 Ein körniges Gemenge von Meteoreisen, Troilit, Olivin und Augit. Es gehören hierher die Eisenmeteorit der Sierra de Chaco und von Hainholz.
 

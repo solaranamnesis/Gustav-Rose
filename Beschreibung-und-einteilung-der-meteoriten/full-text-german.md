@@ -517,7 +517,7 @@ Verschieden von diesem Meteoreisen ist ein anderes, welches Hr. Ehrenberg ohne n
 
 19\. Toluca-Thal, Mexico 1784. Von den vielen Eisenmassen, die in dem fast 3 Meilen langen Raume des Toluca-Thales von einigen Unzen bis zu mehreren Ctrn. schwer, gefunden sind, und wahrscheinlich alle von einem Falle herrühren,* besitzt das Berliner Museum mehrere schöne Stücke; eine große Platte, einen Fuß lang, 7 Zoll breit und 10 Pfund 12,8 Loth wiegend, von Hrn. Shepard erhalten; eine kleinere Platte 5 1/2, Zoll lang und beinahe 4 Zoll breit, von Hrn. G. A. Stein erhalten, der die 230 Pfund schwere Masse, von der sie abgeschnitten, selbst aus Mexiko mitgebracht halte; ein überall mit Rinde umgebenes, größeres Stück von der Form einer plattgedrückten Kugel, von Hrn. Krantz erhalten, vor ihrer Teilung in 2 platte Stücke 3 Pfund 1,814 Loth schwer; ein kleineres, mehr zylinderförmiges Stück 24,93 Loth schwer, von dem k. Pr. Minister-Residenten in Washington Hrn. von Gerolt zum Geschenk erhalten, und mehrere andere kleinere Stücke, darunter eins aus der Chladnischen Sammlung, bei welchem freilich nur als Fundort Mexico angegeben war, das über den durch Ätzung erhaltenen Figuren nach hierhergehört. Alle diese Stücke verhalten sich bei der Ätzung sehr ähnlich; sie geben alle sehr schöne, überall gleiche Widmanst. Figuren und beweisen dadurch, dass sie alle einem Falle angehören. Die Schalen sind mehr als liniendick, sehr gerade und deutlich gestreift. Der Rhabdit ist darin sehr fein, in den meisten Stücken der Sammlung sieht man größtenteils nur die Querschnitte der kleinen Kristalle, was ein geflecktes Ansehen der Schalen hervorbringt. Bei gewisser Beleuchtung sind dieselben 1heils glänzend teils matt, wie besonders bei dem Stücke des Dr. Krantz, und zwar sind auch hier nach allen Richtungen laufende Schalen teils glänzend, teils matt, Schreibersit findet sich nicht, dagegen noch Partien von Troilit und Grafit. Die große Platte enthält ersteren in großer Menge und in Partien, die über 2 Zoll lang sind. Gewöhnlich kommen Troilit und Grafit miteinander verbunden vor, doch finden sie sich auch voneinander getrennt, und ebenso kommen beide mit einer Hülle einer speisgelb gefärbten, metallischen Substanz umgeben vor, finden sich aber auch ohne dieselbe. Das Steinsche Stück enthält den Troilit nur in kleineren Partien; Grafit habe ich darin nicht bemerkt. Dass in diesem Eisen zuweilen auch Quarz in sehr kleinen Kristallen vorkommt, zeigt das Stück im Besitz des Dr. Nagel in Berlin (vgl. oben S. 42), wo er allerdings nur in der oxydierten Rinde beobachtet ist, und endlich haben Wöhler und v. Reichenbach in einem von Stein erhaltenen, ursprünglich 19 Pfund wiegenden Stücke etwas Olivin beobachtet, der indessen in den Stücken der Berliner Sammlung nicht zu sehen ist. Das Krantzsche und Geroltsche Stück, welche beide rundum mit natürlicher Oberfläche begrenzt sind, zeigen auf ihr dieselben runden Vertiefungen wie das Braunauer Eisen, die Oberfläche ist indessen meistenteils schon in Eisenoxydhydrat umgeändert, und die durch Schmelzung entstandene Rinde von Magneteisenerz nur stellenweise erhalten. Dass an der Oberfläche des Toluca-Eisens Krantz kleine Oktaeder von Magneteisenerz beobachtet hat, ist oben angegeben (S. 43).
 
-*) Vgl. Burkart in Leonhard u. Bronns n. Jahrb. f. Mineral. etc. von 1856 S. 297.
+*) Vgl. Burkart in Leonhard u. Bronns n. Jahrb. f. Mineral. etc. von 1856, S. 297.
 
 Das Toluca- Eisen ist vielfach chemisch untersucht. Die Analysen, die in Wöhlers Laboratorium nach denselben Methoden mit Teilen von sehr verschiedenen Stücken angestellt sind,* haben kein völlig übereinstimmendes Resultat gegeben; die Analysen von Uricoechea und Pugh z. B. Abweichungen im Nickelgehalt von 5,02 bis 9,05 pC., doch bemerkt darüber schon Wöhler, dass bei der gemengten Beschaffenheit des Meteoreisens, wovon immer nur ein sehr kleiner Teil untersucht werden könnte, dies kein Beweis wäre, dass die analysierten Stücke von verschiedenen Meteoriten berührten. Die Übereinstimmung der Widmanst, Figuren beweist in diesem Fall besser den gleichen Ursprung aller dieser Massen als. die chemische Analyse. Sind aber die vielen in dem Toluca-Thal gefundenen Eisenmassen eines und desselben Ursprungs, so gehören sie einem der bedeutendsten Meteoritenfälle an, von denen man Kunde hat. Bemerkenswert ist, dass Pugh nur in der oxydierten Rinde, die er auch untersucht hat, Kieselsäure, und zwar 7,47 pC. gefunden bat, In dem Rückstande von Teilen der vom Dr. Stein mitgebrachten Stücke fanden Uricoechea und Pugh auch Körner von Olivin und einigen anderen nicht bestimmten rubinroten und himmelblauen Mineralien. Dergleichen fand auch Böking, ohne sie näher zu bestimmen, und außerdem noch etwas Grafit.
 
@@ -601,7 +601,7 @@ d\. Meteoreisenmassen, die Aggregate großkörniger, schalig zusammengesetzter I
 
 47\. Zacatecas, Mexico, 1792. Ein Meteoreisen von sehr eigentümlicher Struktur, die nur in einem größeren Stücke erkannt werden kann. Das Berliner Museum besitzt davon neben mehreren kleinen Stücken eine ungefähr rechtwinklige zolldicke Platte, die ungefähr 3 Zoll breit und 3 1/2 Zoll lang, von einem größeren Stücke abgeschnitten ist, das der Geh. Bergrath Burkart aus Mexico selbst mitgebracht hat.* Die Seiten der Platte werden zum Teil durch natürliche Oberfläche gebildet. Auf der geätzten Hauptfläche, die in Fig. 1 Taf. II dargestellt ist, sieht man, dass dies Meteoreisen aus grobkörnigen Zusammensetzungsstücken besteht, die über zollgroß und unregelmäßig begrenzt sind, und selbst wieder aus Zusammensetzungsstücken bestehen, die parallel den Flächen des Oktaeders liegen, wie bei dem Meteoreisen, das Widmanst. Fig. gibt. Diese schaligen Zusammensetzungsstücke sind auch nicht sehr regelmäßig begrenzt, ihre Richtung ist aber doch sehr gerade, was man aus dem eingemengten Schreibersit sehen kann, der in der Mitte derselben enthalten ist, und auf der Schnittfläche oft fast zusammenhängende, wenn auch meistenteils sehr dünne Streifen bildet. Unter dem Mikroskop sieht man jedoch, dass diese Streifen stets aus einzelnen Stücken bestehen, die in einer oder mehreren Reihen nebeneinander liegen. Die einzelnen Stücke sind zum Teil regelmäßig begrenzt und liegen in paralleler Stellung nebeneinander, sind also unvollkommen ausgebildete Kristalle. Fig. 2 stellt die Stelle bei a (Fig. 1), Fig. 3 bei b (Fig. 1) bei 90-maliger Vergrößerung in einen der größten Zusammensetzungsstücke der Platte dar. In Fig. 1 sind die Schalen, woraus die Zusammensetzungsstücke bestehen, nur unvollständig wiedergegeben, da sie sehr fein sind, der Schreibersit ist aber möglichst vollständig dargestellt. Die Schalen zeigen feine, doch deutliche Ätzlinien; eingewachsene Kristalle von Rhabdit kommen nicht vor, wenn auch der eingemengte Schreibersit in manchen Zusammensetzungsstücken so häufig und fein ist, dass man ihn leicht damit verwechseln kann. Auch hier sieht man bei einer bestimmten Beleuchtung einen Teil der schaligen Zusammensetzungsstücke glänzen, einen andern nicht, der dann bei anderer Beleuchtung glänzt, während es nun bei dem ersten nicht der Fall ist. Troilit in kleinen unregelmäßigen Partien ist häufig eingemengt und in den Figuren durch schwarze Farbe bezeichnet; er hat häufig eine dünne, metallisch glänzende Einfassung, die, soweit man es erkennen kann, von dem Schreibersit nickt verschieden erscheint; auch kleine Partien von Grafit kommen darin vor. Auf der natürlichen Oberfläche sieht man zwei runde, rinnenförmige Eindrücke, der eine davon 3 Zoll lang und 3/8 Zoll breit, die Baron Reichenbach, der sie hier gesehen, für Höhlungen hält, die durch ausgewitterten Troilit entstanden sind.
 
-*) Vergl. N. Jahrbuch für Min. etc. von Leonhard und Bronn von 1856 S. 288.
+*) Vergl. N. Jahrbuch für Min. etc. von Leonhard und Bronn von 1856, S. 288.
 
 e\. Meteoreisenmassen, welche Aggregate feinkörniger Zusammensetzungstücke sind.
 
@@ -613,7 +613,7 @@ Diese Eisenmassen erscheinen im Bruche fein- bis kleinkörnig, zeigen geschliffe
 
 Von dem Eisen von Rasgata besitzt das Museum eine 4,79 Loth schwere Platte, die an den Seiten von 2 Schnittflächen, im Übrigen von der natürlichen Oberfläche begrenzt ist. Das Berliner Museum hatte sie vom Direktor Partsch aus dem Wiener Kabinette erhalten, wo es von einem Stücke abgeschnitten war, das aus der Meteoritensammlung von Heuland stammt, der es selbst von Mariano de Rivero erhalten hatte.* Die geätzte Schnittfläche gleicht denen der vorigen Stücke; die kleinen glänzend gebliebenen Teile sind vielleicht noch häufiger und vorzugsweise linienartig, zum Teil auch untereinander parallel. Sie sind meistenteils sehr fein, liegen aber wie bei den vorigen Stücken auf schon etwas erhabenen Teilen der Grundmasse.
 
-*) Partsch Meteoriten S. 127.
+*) Partsch Meteoriten, S. 127.
 
 Die Stücke stammen demnach sämtlich von Boussingault und Mariano de Rivero, weiche beide zusammen an den Fundörtern derselben waren und darüber die erste Nachricht gegeben haben.* Sie sahen in St. Rosa bei Tunja, 20 spanische (?) Meilen NO. von Bogota, eine große Eisenmasse, deren Gewicht sie auf 750 Kilogramme schätzten, bei einer Schmiede, der sich ihrer als Amboss bediente. Dieselbe hatte sich auf einem Hügel Tocavita, 1/4 Meile von St. Rosa, mit anderen kleineren Stücken in der Nähe gefunden. Andere Eisenmassen sahen sie in dem Dorfe Rasgata in der Nähe der Saline Zipaquira bei Bogota, darunter Massen von 41 und 22 Kilogramme.
 
@@ -629,11 +629,11 @@ Das von Prof. Karsten mitgebrachte und oben (S. 64) erwähnte Eisen von Santa Ro
 
 53\. Salt River, Kentucky, V. St. 1851. Eine dünne, quadratzollgroße, 1,197 Loth schwere Platte. Graue matte Grundmasse, worin häufige lichtere längliche Teile schon etwas regelmäßig nach den Seiten eines ungefähr gleichseitigen Dreiecks liegen, in deren Mitte sich glänzende Teile befinden, die auch meistenteils von einer länglichen Form sind. Die eine Hälfte der geätzten Schnittfläche ist bei einer bestimmten Beleuchtung von lichter grauer Farbe, die andere dunkler; bei anderer Beleuchtung umgekehrt, die erste Hälfte dunkel und die andere licht. Das Eisen ist dem vom Senegal zu vergleichen, unterscheidet sich aber durch die regelmäßige Lage der lichtern Teile, die sehr rätselhaft ist.* Es wäre wichtig, den Bruch zu sehen, der bei der dünnen Platte nicht zu beobachten ist.
 
-*) Um die bei diesen wie den vorigen Meteoriten angegebenen Erscheinungen zu sehen, ist es nöthig, dass die Schnittfläche gut polirt und dann nur schwach geätzt wird; bei starker Aetzung bildet sich nur eine körnige, graue Fläche, an der nichts weiter zu erkennen ist.
+*) Um die bei diesen wie den vorigen Meteoriten angegebenen Erscheinungen zu sehen, ist es nötig, dass die Schnittfläche gut poliert und dann nur schwach geätzt wird; bei starker Ätzung bildet sich nur eine körnige, graue Fläche, an der nichts weiter zu erkennen ist.
 
 54\. Cap der guten Hoffnung (zwischen Sonntags- und Boschmanns-Fluss), S. A. 1801. Eine dicke Platte (Fig. 9 und 10 Taf. III) von Hrn. Prof. Breda in Harlem erhalten, und ein kleines Stück aus der Chladnischen Sammlung. Die Platte ist ein Abschnitt der großen, in dem Museum von Harlem aufbewahrten, angeblich 171 Pfd. schweren Masse.* Sie ist an einer Seite mit einer Schnittfläche, an den übrigen mit natürlicher Oberfläche begrenzt, die nur eine sehr dünne braune Rinde hat. Um den Bruch zu sehen, wurde, parallel der Fläche AF, an der gegenüberliegenden Seite der Platte eine Scheibe abgeschnitten und zum Teil abgebrochen, was nicht ohne Schwierigkeiten ausgeführt werden konnte, da das Eisen sehr weich und sehr dehnbar ist, und darin einen großen Gegensatz mit dem Eisen von St. Rosa (S. 67) bildet. Es musste von zwei Seiten tief eingeschnitten werden, ehe sich die dünne Scheibe abbrechen ließ, so dass nur ein 3 Linien dicker Streifen mit Bruch entstand, an dem man jedoch deutlich seine Beschaffenheit wahrnehmen kann. Er ist ganz feinkörnig und lichte stahlgrau. Das übrig gebliebene, große Stück war wohl an einigen Stellen der Oberfläche angerostet, zeigte aber sonst keine merkliche Verschiedenheit. Als die Schnittflächen AF und AC der Platte geschliffen und poliert wurden, rosteten sie in sehr kurzer Zeit an den 3 Stellen B, D, G, wie in der Fig. angegeben ist, und als sie darauf schwach geätzt wurden, zeigte sich der Rost auf denselben Stellen sehr bald wieder, ohne aber später merklich weiter fortzuschreiten; die übrigen Teile der Flächen wurden aber dabei merkwürdig verändert. Man sieht nun verschiedene, abwechselnd lichte und dunkelstahlgraue, mehr oder weniger breite Streifen in paralleler Richtung und mit scharfer Grenze über dieselben fortlaufen, die ihren Farbenton umtauschen, je nachdem das Licht in der einen oder die andere Richtung auf das Stück fällt. Hält man dasselbe so, dass die Kante AB dem Beobachter zugekehrt und ungefähr horizontal ist, so erscheinen die Streifen so, wie sie in Fig. 9 angegeben sind: a, c, e, g sind hell, mit Ausnahme einiger feiner, dunkler Streifen in e und g; a, d, f, h dunkel, mit Ausnahme des hellen, feinen Streifen in d. Hält man dagegen die Fläche AC so, dass die Streifen dem Beobachter parallel gehen, wie in Fig. 10, so sind die Streifen, die früher hell waren, dunkel; dabei erscheint diese Fläche, wie auch schon in der früheren Lage, gefleckt und auf diesen Flecken teilweise mit feinen Streifen, die die breiten, schräg durchsetzen, gestreift. Hält man die Fläche so, dass sie etwas nach hinten geneigt ist, so ist die Stelle bei B, wie in der Zeichnung angegeben, hell; ist die Fläche AC ganz horizontal, so wird die Ecke bei B dunkel, ist sie nach vorn geneigt, wieder hell.
 
-*) Vergl. Partsch Meteoriten S. 132.
+*) Vergl. Partsch Meteoriten, S. 132.
 
 Unebenheiten, die diese Veränderungen in dem Ton der Streifen bedingen könnten, sind mit den bloßen Augen und auch kaum mit den Mikroskopen wahrzunehmen. Ich habe von der Fläche AC einen Hausenblasenabdruck gemacht; unter dem Mikroskop erschien der lichte Streifen h Fig. 10 ganz gekörnt, wie in Fig. 11; in dem dunklen g waren diese Körner ebenfalls, aber mit andern gemengt, die in die Länge gezogen waren. Die die breiten Streifen durchsetzenden feinen Streifen entstehen dadurch, dass die Körner hier gedrängter liegen. Wie dadurch aber der Wechsel von hell und dunkel in den Streifen bewirkt wird, ist nicht einzusehen. Es müssten dazu noch weitere Untersuchungen angestellt, und namentlich noch Schnitte parallel und rechtwinklig auf den breiten Streifen gemacht, auch nachgesehen werden, ob die Lagen, die durch die Streifen auf den Schnittflächen des Stückes Fig. 9 angezeigt werden, durch die ganze Masse des großen Stückes in dem Museum von Harlem, wovon das beschriebene abgeschnitten ist, hindurchgehen.
 
@@ -647,7 +647,7 @@ außerdem noch Spuren von Kupfer und Chrom, welches letztere auch schon Stromeye
 
 *) Ann. d. Chem. und Pharm. B. 91, S. 252 und B. 95, S. 246.
 
-*) Nach einer brieflichen Mitteilung, die ich mit seiner Erlaubniss hier bekannt mache.
+*) Nach einer brieflichen Mitteilung, die ich mit seiner Erlaubnis hier bekannt mache.
 
 55\. Babbs Mill, Greenville, Green County, Tennessee, Ver. St. 1845. Zwei kleine flache Stücke; bei dem größeren zwei Schnittflächen, die übrige Begrenzung natürliche Oberfläche, die in Eisenoxydhydrat umgeändert ist. Die große Schnittfläche ist geätzt, matt, die eine Hälfte dunkelgrau, die andere viel heller. Beide Schattierungen verlaufen ineinander, wie dies auch bei den Flecken in dem Eisen vom Cap vorkommt; ebenso derselbe Wechsel des Farbentons bei dem Wechsel in der Lage des Stücks; aber die geradlinigen Streifen sind in dem kleinen Stücke nicht sichtbar; ein Bruch auch nicht wahrnehmbar. In dem kleineren Stücke sieht man glänzende Einmengungen in Gestalt von gebogenen Linien, die bei dem größeren nicht sichtbar sind.
 
@@ -772,7 +772,7 @@ Die Grundmasse ist teils bedeutend fest, wie bei dem Chondrit von Erxleben, Chan
 
 Die Kugeln, die in dieser Grundmasse auf eine ähnliche Weise wie in den Varioliten oder vielen roten Porphyren eingewachsen vorkommen und die die kuglige Struktur dieser Meteorit bedingen, sind gewöhnlich nur so klein wie Schrotkörner oder Hirsekörner, zuweilen aber auch grösser, selbst 3 bis 4 Linien groß, wie bei dem Ch. von Ausson und New-Concord.* Sie sind ferner mit Ausnahme der größeren, die mehr unregelmäßig gerundet und in die Länge gezogen sind, gewöhnlich regelmäßig gerundet, sind aber selten an einem Stücke von gleicher oder ungefähr gleicher Größe, besonders wenn darunter solche von der Größe wie in dem Ch. von Ausson und New-Concord vorkommen. Ihre Oberfläche ist rau und selbst drusig (Richmond), seltener glatt (Poltava), und im Bruche erscheinen sie teils uneben, teils fasrig, im letzteren Fall jedoch stets nur sehr feinfasrig, indessen doch immer bestimmt erkennbar fasrig, besonders unter der Lupe; was mir aber dabei sehr bemerkenswert scheint und sie von den Kugeln der irdischen Gebirgsarten, namentlich der Diorit unterscheidet, nie radial, sondern immer exzentrisch fasrig; so bei den Ch. von Erxleben, Stauropol, Forsyth, Bachmut, Ausson etc. Ihre Farbe ist wie die der Grundmasse, unterscheidet sich aber doch immer etwas von ihr; sie sind gewöhnlich grünlichgrau oder braun, dabei von einem nur geringen Glanze, der etwas fettartig ist und stets nur äußerst schwach an den Kanten durchscheinend, fast undurchsichtig. Sie sind wie die Grundmasse bald heller, bald dunkler, und gewöhnlich finden sich beide Arten zusammen in einem und demselben Meteoriten, wo denn bald die helleren, bald die dunkleren vorherrschen. Das erstere, was der gewöhnlichere Fall ist, findet z. B. statt bei dem Ch. von Mezö Madaras, Okniny, Cabarras, das letztere bei den von Güterslohe, Ausson. In dem Ch. von Krasnoi-Ugol sah ich auch eine graue Kugel eine kleinere weiße einschließen,* und in dem von Mauerkirchen, wo meistenteils nur lichtere Kugeln vorkommen, sind dieselben doch öfter nach der Oberfläche zu etwas dunkler gefärbt. Sie sind ferner mit der Grundmasse mehr oder weniger fest verwachsen, und ersteres gewöhnlich da, wo die Grundmasse fester, letzteres, wo sie zerreiblich ist. Im ersteren Fall fallen sie beim Zerschlagen des Gesteins nicht heraus, und man sieht dann auf der Bruchfläche des Gesteins auch ihren Bruch, in letzteren Fall fallen sie heraus oder lösen sich zum Teil von der Grundmasse, so dass man auf dem Bruch die halbkugelförmigen Höhlungen oder Erhabenheit der sich herausgelösten oder sitzengebliebenen Kugeln sieht. Die Kugeln finden sich in der Regel häufig, in manchen Fällen jedoch nur sparsam, wie in dem Ch. von Erxleben, Klein-Wenden, Ensisheim und Chantonnay, in andern aber wiederum so häufig, dass sie ganz gedrängt nebeneinander liegen und sich öfter gegenseitig in der Ausbildung stören, wie in dem Ch. von Timochin, Richmond, Benares und Mezö-Madaras.*
 
-*) In dem von Mezo Madaras beobachtete Reichenbach sogar eine Kugel von einem halben Zoll Durchmesser (Poggendorffs Ann. 1860 B. 111, S. 366).
+*) In dem von Mezö-Madaras beobachtete Reichenbach sogar eine Kugel eines halben Zolls Durchmesser (Poggendorffs Ann. 1860 B. 111, S. 366).
 
 Der Olivin ist nur selten in der Grundmasse erkennbar und findet sich dann in kleinen, nur höchstens liniengroßen, gelblichgrünen, durchsichtigen Körnern, wie in dem Ch. von Erxleben, Klein-Wenden, Krasnoi-Ugol, Timochin und Pultava. Durchschnitte von ausgebildeten Kristallen, und zwar von rektangulärer Form, habe ich nur etwa bei dem Olivin in dem Ch. von Pultava und Erxleben gesehen.
 
@@ -782,7 +782,7 @@ Der Olivin ist nur selten in der Grundmasse erkennbar und findet sich dann in kl
 
 Das Nickeleisen ist dagegen ein beständiger und häufiger Gemengteil. Es findet sich in den Meteorsteinen gewöhnlich nur fein eingesprengt, doch kommen unter den feineren Körnern mitunter einzelne größere vor; so sieht man in einem der Stücke des Ch. von Barbotan ein längliches Korn von 3 Linien Länge,* ein ähnliches ragt bei dem von Klein-Wenden aus der Oberfläche hervor, und andere ähnliche, wenn auch nicht ganz so große Körner enthalten die Ch. von Luce (Toulouse?), Seres und Macao. Die feinen Körner sind zackig und eckig, die größeren haben meistenteils eine rundliche Oberfläche, kristallisiert findet es sich in den Stücken der Berliner Sammlung nicht, daher ich auch die unvollkommenen Hexaeder, die Partsch bei dem Nickeleisen der Wiener Stücke des Ch. von Barbotan beobachtet haben will (Meteoriten, S. 77), nur für solche rundliche Körner erklären möchte. Indessen Individuen sind diese Körner doch, denn das oben erwähnte Korn in dem Ch. von Barbotan, wie auch ein anderes in dem von Ausson zeigen geschliffen und geätzt die Linien des Meteoreisens von Braunan.* Es umschließt auch, wie man auf der geschliffenen Fläche sehen kann, kleine Teile der Grundmasse. Die Menge des eingesprengten Eisens ist oft sehr beträchtlich, wie in dem Ch. von Erxleben und Kl. Wenden; wie groß aber die Menge desselben eigentlich ist, erkennt man erst, wenn die Stücke angeschliffen und poliert sind, wo sein Metallglanz und seine stahlgraue in die silberweiße übergehende Farbe erst recht stark hervortreten und es auf diese Weise kenntlich machen. Die ganz feinen Körner sind da überhaupt erst zu erkennen, und man sieht dann, dass solche auch in den Kugeln enthalten sind, wo in solchen feinen Teilen das Nickeleisen nie fehlt, wenn es auch gewöhnlich nur in sehr geringer Menge vorhanden ist In der Umgebung der Kugeln ist es dagegen häufig in größerer Menge angehäuft, wie z. B. in dem Ch. von Mezö-Madaras, Krasnoi-Ugol und Ausson. Der feuchten Luft ausgesetzt, oxydiert sich das Nickeleisen leicht und das gebildete Eisenoxyd färbt die Umgebung braun, wie man dies bei so vielen Stücken in den Sammlungen sehen kann.*
 
-*) Partsch spricht von linsen- und hohnengroßen Körnern in den Stücken dieses Meteoriten in dem Wiener Mineralien-Kabinette (Meteoriten, S. 77).
+*) Partsch spricht von linsen- und höhnen großen Körnern in den Stücken dieses Meteoriten in dem Wiener Mineralien-Kabinette (Meteoriten, S. 77).
 
 *) Partsch (Meteoriten, S. 82) und Reichenbach (Pongendorffs Annalen B. 111, S. 365) erhielten bei den Eisenkörnern in den Meteoriten von Macao und Blansko selbst Widmanstättensche Figuren.
 
@@ -1017,7 +1017,7 @@ Aus der mikroskopischen Untersuchung der Kugeln geht hervor, dass dieselben zwei
 
 Zu dieser Art gehören nur wenige Meteorit; von den im mineralogischen Museum befindlichen nur der von
 
-1\. Loutolax in Finnland, gef. 1813, 13. Dec.*
+1\. Loutolax in Finnland, gef. 1813, 13. Dez.*
 
 2\. Bialystok in Russland, gef. 1827, 5. Okt.
 
@@ -1073,7 +1073,7 @@ Die unzersetzten 6.45 wurden mit Flusssäure behandelt, wodurch ungefähr 1 pC. 
 
 2\. Bialystok (Dorf Knasta) in Russland. Das mineralogische Museum besitzt noch jetzt, nachdem davon ein Teil an das kais. Mineralienkabinett in Wien abgegeben, ein 4,857 Loth schweres Stück, das die kais. Akademie der Wiss. in Petersburg Hrn. A. v. Humboldt verehrte und das von diesem dem mineralogischen Museum in Berlin übergeben ist.*
 
-*) Vgl. Reise nach dem Ural, Altai und dem kaspischen Meere von G. Rose Th. I, S. 77.
+*) Vgl. Reise nach dem Ural, Altai und die kaspischen Meere von G. Rose Th. I, S. 77.
 
 Der H. von Bialystock hat die größte Ähnlichkeit mit dem vorigen und enthält in der feinkörnigen weißen Grundmasse dieselben Gemengteil, nämlich:
 
@@ -1189,7 +1189,7 @@ Die vierte Art enthält wie die dritte nur einen Meteoriten, den, welcher zu Bis
 
 *) Ann. d. Chem. u. Pharm. B. 79, S. 369.
 
-*) Monatsber. d. k. Akad. d. Wiss. zu Berlin 1861 S. 895.
+*) Monatsber. d. k. Akad. d. Wiss. zu Berlin 1861, S. 895.
 
 Der Stein ist von äußerst geringem Zusammenhalt und zerfällt in Stücke bei dem geringsten Druck. Er ist im Allgemeinen von porphyrartigkörniger Struktur. In einer hellgrauen, weiß gefleckten, kleinkörnigen Grundmasse finden sich außer einigen andern Einmengungen von geringerer Bedeutung nur schneeweiße Kristalle von verschiedener Größe und in großer Menge eingeschlossen, oft sich gegenseitig begrenzend und in der Ausbildung sich störend. Der größte Kristall auf den Stücken des Berliner Museums zeigt auf der Bruchfläche des Gesteins einen Durchschnitt von der Gestalt eines Rechtecks mit schwach abgestumpften Ecken, dessen Länge einen halben Zoll beträgt und dessen Breite etwas geringer ist; ein anderer zeigt den eines symmetrischen Sechsecks mit zwei parallelen längeren Seiten, das etwas über einen halben Zoll lang und etwas weniger als ein Viertel Zoll breit ist; doch sind bei beiden die Seiten der Durchschnitte nicht sehr geradlinig, die Umrisse aller übrigen Kristalle indessen noch undeutlicher. Die beiden ersteren Kristalle sind parallel einer Spaltungsfläche durchgebrochen, die aber nicht sehr vollkommen, sondern durch unebenen Bruch unterbrochen ist. Die Bruchfläche ist glänzend von Perlmutterglanz und wird von matten Streifen parallel den längeren Seiten der Durchschnitte durchzogen. Wodurch diese hervorgebracht werden, kann ich nicht angeben, man sieht aber dasselbe Aussehen auch bei den Durchschnitten anderer Kristalle, dagegen wieder andere ganz glatte Spaltungsflächen in einer Richtung zeigen. Endlich finden sich auch runde weiße Körner von verschiedener bis Erbsengroße, die beim Herausnehmen runde, aber unebene Höhlungen in dem Gestein hinterlassen, auch nur durchscheinend sind, aber Glasglanz haben. Nimmt man die Kristalle oder Körner aus dem Gestein heraus, so zerfallen sie in kleine Stückchen, da sie mit vielen geraden und krummen Klüften nach den verschiedensten Richtungen durchsetzt sind, und dann ist es nicht mehr möglich, die einzelnen Teilchen zu unterscheiden.
 
@@ -1292,7 +1292,7 @@ bei dieser Spezies = 1:2,42.
 
 Dieses Verhältnis nähere sich dem, welches Stromeyer bei dem olivinähnlichen Mineral aus der angeblich von Grimma (Steinbach) stammenden Eisenmasse gefunden habe, wo jenes Verhältnis = 1:2,6 ist, und für welches Mineral Rammelsberg die Formel RSi+2R2Si3 aufgestellt habe.* Er schlägt demnach für dies Mineral den Namen Piddingtonit vor.
 
-*) Diess giebt das Verhaltniss = 1:2,8; besser passt zu dem obigen die Formel RSi+R2Si3.
+*) Diess gibt das Verhältnis = 1:2,8; besser passt zu dem obigen die Formel RSi+R2Si3.
 
 Dieser Meinung von der Gleichartigkeit der Masse möchte ich nicht beistimmen. Die Farbe der dunklen Körner geht wohl in die grünlichgelbe über, aber nicht in die weiße. Die Körner mit grünlichgelber bis schwärzlichgrüner Farbe haben alle Eigenschaften des Olivins; ist dies aber der Fall, dann können die weißen Körner nichts anderes als Shepardit sein, und der Shalkit wäre hiernach ein Gemenge von Olivin, Shepardit und Chromeisenerz, und von dem Chassignit nur durch die Anwesenheit des Shepardit verschieden.
 
@@ -1302,15 +1302,15 @@ Legt man die Hauersche Analyse zum Grunde, so würde der Shalkit auf 1 Atom Oliv
 
 R2Si + 2MgSi3
 
-bestehen, denn in diesem würde der Sauerstoll von BR: Si sein = 6 : 14, d.i..=1:?23J.
+bestehen, denn in diesem würde der Sauerstoff von R:Si sein = 6:14, d. i. = 1:2,33.
 
-Der Shalkit ist hiernach ein Gemenge von basisch und saurer kieselsaurer Magnesia oder von 2 Silicaten, die gleiche Basen in verschiedenen Sättigungsstufen enthalten, ein Gemenge wie es der Art unter den Gebirgsarten der Erde nicht vorkommt, wenngleich der Granit, wenn er Feldspat und Kaliglimmer enthält, etwas Ähnliches darstellt. Das Gemenge des Shalkit ist aber noch dadurch ausgezeichnet, dass die beiden Silicate in demselben in einem sehr einfachen Verhältnisse gegeneinander zu stehen scheinen, so dass sie sehr gut eine chemische Verbindung bilden könnten, ähnlich dem Serpentin, der eine wasserhaltige Verbindung von basischer und neutraler Magnesia ist:
+Der Shalkit ist hiernach ein Gemenge von basisch und saurer kieselsaurer Magnesia oder von 2 Silicaten, die gleiche Basen in verschiedenen Sättigungsstufen enthalten, ein Gemenge wie es der Art unter den Gebirgsarten der Erde nicht vorkommt, wenngleich der Granit, wenn er Feldspat und Kaliglimmer enthält, etwas Ähnliches darstellt. Das Gemenge des Shalkit ist aber noch dadurch ausgezeichnet, dass die beiden Silicate in demselben in einem sehr einfachen Verhältnis gegeneinander zu stehen scheinen, so dass sie sehr gut eine chemische Verbindung bilden könnten, ähnlich dem Serpentin, der eine wasserhaltige Verbindung von basischer und neutraler Magnesia ist:
 
 Mg2Si+MgSi+2H
 
 und es wäre daher wohl möglich, dass wie der Shalkit alle Gebirgesarten die Gemengteil in ebenso einfachen Verhältnissen enthalten, wie die Mineralien die Bestandteile.*
 
-*) Vergl. weiter unten die Anmerkung S. 134.
+*) Vergl. weiter unten die Anmerkung, S. 134.
 
 ### 6\. Die kohligen Meteorit.
 
@@ -1360,7 +1360,7 @@ Diese letztgenannten Gemengteil sind jedoch nur wie angegeben in sehr geringer M
 
 Das spezifische Gewicht des E. von Juvenas ist nach Rummler 3,11, nach Flangergues 3,09.*
 
-*) Partsch, Meteoriten S. 147.
+*) Partsch, Meteoriten, S. 147.
 
 Die schwarze Rinde ist wie die der Howardit stark glänzend und adrig, also ganz verschieden von der der Chondrit.
 
@@ -1372,7 +1372,7 @@ Fein gepulvert und mit heißer Chlorwasserstoffsäure digeriert, gelatiniert der
 
 Auf diese Weise ist nun auch der E. von Juvenas von Rammelsberg analysiert worden.* Er erhielt so:
 
-*) Poggendorffs Annalen von 1848, Bd. 73, S. 585 und Rammelsbergs Mineralchemie S. 937.
+*) Poggendorffs Annalen von 1848, Bd. 73, S. 585 und Rammelsbergs Mineralchemie, S. 937.
 
 A. mit Säuren Zersetzbares 36,77
 B. mit Säuren Unzersetzbares 63,23
@@ -1555,7 +1555,7 @@ Fast alle diesen Meteorit sind durch den Olivin, den sie enthalten, ausgezeichne
 
 Vergleicht man die Meteoriten, die kosmischen Gebirgsarten, mit den tellurischen, so ergibt sich, dass sie gänzlich von diesen verschieden sind bis auf den Eukrit, der doch unter den tellurischen Gebirgsarten auch nur selten vorkommt und erst in der neuern Zeit aufgefunden ist. Haughton in Dublin beschrieb zuerst ein solches Gemenge von Carlingfors in Irland, wo es in Gängen im Steinkohlengebirge vorkommt,* gab aber das den Anorthit begleitende Mineral für Hornblende aus, was nach den Stücken, die ich Hrn. Skott verdanke, Augit ist; doch sind ja auch Gesteine, die Gemenge von Anorthit und Hornblende sind, in der neuern Zeit bekannt geworden, wie z. B. das bisher für Diorit gehaltene Gestein vom Kontschekowskoj Kamen im Ural nach Potyka ein solches ist,* und solche mögen auch in Irland vorkommen. Die Anorthitgesteine und namentlich der Eukrit sind gewiss aber noch viel häufiger, als man glaubt. Durch das Gelatinieren des Anorthits mit Chlorwasserstoffsäure war ein leichtes Mittel gegeben, denselben vom Labrador zu unterscheiden; ich fand so, dass viele für Hypersthenfels gehaltene Gesteine nichts anderes als Eukrit sind, wie z. B. der sogenannte Hypersthenfels von der Insel Skye, der hier so verbreitet ist, und von dem das Berliner Museum viele und schöne Stücke besitzt, die die Hrn. v. Dechen und v. Oeynhausen dort gesammelt und dem Berliner Museum übergeben haben. Die tellurischen Eukrit unterscheiden sich zwar dadurch von den meteorischen, dass sie grobkörniger sind und das Augit in ihnen nicht braun, sondern grün ist, doch sind dies unwesentliche Unterschiede. Einen wichtigen Unterschied würde das Vorkommen des gediegenen Eisens in den meteorischen Eukriten machen, doch ist dieses ja in den meisten, wie in dem von Stannern und Juvenas, nur in solcher geringen Menge vorhanden, dass es bisher in ihnen ganz übersehen ist, und also einen wesentlichen Gemengteil nicht abgeben kann.
 
-*) Vergl. Roth: Gesteinsanalysen S. 52.
+*) Vergl. Roth: Gesteinsanalysen, S. 52.
 
 *) A. a. O. S. 52.
 
@@ -1636,7 +1636,7 @@ Ich erhielt von Hrn. Prof. Shepard eine von dem Stücke des Dr. Jackson abgeschn
 
 3\. Meteoreisen von Tucson (s. oben S. 73). Ich erhielt von diesem Eisen von Hrn. Shepard eine dünne 1,635 Loth schwere Platte. Die polierte Fläche ist voller kleiner runder Höhlungen. Geätzt zeigt sie grobkörnige Zusammensetzungsstücke, von denen einige bei einer gewissen Beleuchtung eine lichte graue, andere eine dunklere graue Farbe haben; bei anderer Beleuchtung verhalten sie sich umgekehrt. Die Zusammensetzungsstücke haben eine sehr dünne Einfassung von Tänit, und viele der kleinen Höhlungen haben nun glänzende Wände erhalten, die auf der übrigen matten Fläche hervorleuchten. Die Zusammensetzungsflächen zeigen feine linienartige gerade Furchen, die eine von den Ätzunglinien etwas verschiedene Beschaffenheit haben. Da nun bei diesem Eisen auch oktaedrische Spaltbarkeit* (soll wohl heißen oktaedrische Zusammensetzung) angegeben wird, so habe ich dieses Eisen in der folgenden Übersicht auf das Eisen von Seeläsgen und Tucuman folgen lassen.
 
-*) Buchners Meteoriten S. 183.
+*) Buchners Meteoriten, S. 183.
 
 4\. Meteoreisen von Wayne County, Ohio Ver. St. 1859. Eine kleine geätzte Platte mit deutlichen Widmanst. Fig. von Hrn. Shepard erhalten. Das Eisen folgt in der Übersicht nach dem von Nebraska.
 
@@ -1762,7 +1762,7 @@ Fortl. Zahl|Jahr der Auffundg.|Datum des Falles|Name und Fundort|Gewicht des Hau
 1|1843|16. Sept.|Klein Wenden, Nordhausen, Erfurt, Preuss.|4 Pfd. 23,10 Lth.|5 Pfd. 1,85 Lth.|  
 2|1812|15. April|Erxleben, Magdeburg, Preussen|3,39 Lth.|11,88 Lth.|  
 3|1863|8. Aug.|Pillistser, Livland|1,10 Lth.|1,23 Lth.|  
-4|1862|7. Oct.|Klein Menow, Alt-Strelitz, Meklenburg|0,74 Lth.|1,12 Lth.|  
+4|1862|7. Okt.|Klein Menow, Alt-Strelitz, Meklenburg|0,74 Lth.|1,12 Lth.|  
 5|1857|24. März|Stauropol, nördliche Seite des Kaukasus|0,97 Lth.|0,97 Lth.|  
 6|1861|12. Mai|Butsura (Qutahar), Bengalen, Ostindien|5,47 Lth.|5,47 Lth.|  
 7|1492|7. Nov.|Ensisheim, Elsass, Frankreich|25,63 Lth.|1 Pfd. 23,66 Lth.|  
@@ -1800,7 +1800,7 @@ Fortl. Zahl|Jahr der Auffundg.|Datum des Falles|Name und Fundort|Gewicht des Hau
 39|1833|25. Nov.|Blansko, Brünn, Mähren|1,62 Lth.|1,62 Lth.|  
 40|1828|4. Juni|Richmond, Virginia, V. St.|0,96 Lth.|1,50 Lth.|  
 41|1822|13. Sept.|La Baffe, Epinal, Vosges, Frankreich|0,64 Lth.|0,64 Lth.|  
-42|1857|10. Oct.|Ohaba, O. von Karlsburg, Siebenbürgen|0,06 Lth.|0,06 Lth.|  
+42|1857|10. Okt.|Ohaba, O. von Karlsburg, Siebenbürgen|0,06 Lth.|0,06 Lth.|  
 43|1838||Gouv. Pultava, Russland|0,48 Lth.|0,48 Lth.|  
 44|1836|11. Nov.|Macao, Rio Grande del Norte, Brasilien|2,24 Lth.|2,24 Lth.|  
 45|1851|17. April|Güterslohe, Minden, Preussen|1 Pfd. 21,34 Lth.|1 Pfd. 23,44 Lth.|  
@@ -1808,21 +1808,21 @@ Fortl. Zahl|Jahr der Auffundg.|Datum des Falles|Name und Fundort|Gewicht des Hau
 47|1794|16. Juni|Siena, Toscana, Italien|3,13 Lth.|3,62 Lth.|  
 48|1857|28. Febr.|Parnallee, S. von Madura, S. Hindostan|24,50 Lth.|24,97 Lth.|  
 49|1855|13. Mai|Bremervörde, Stade, Hannover|16,94 Lth.|16,94 Lth.|  
-50|1858|9. Dec.|Ausson, Haute Garonne, Frankreich|28,85 Lth.|1 Pfd. 2,88 Lth.|  
+50|1858|9. Dez.|Ausson, Haute Garonne, Frankreich|28,85 Lth.|1 Pfd. 2,88 Lth.|  
 51|1815|18. Febr.|Durala, Petialah, Delhi, Ostindien|1,84 Lth.|1,84 Lth.|  
 52|1768|20. Nov.|Mauernkirchen, Oestreich ob der Enns|9,93 Lth.|13,79 Lth.|  
-53|1863|7. Dec.|Tirlemont (Tourinnes-la-Grosse), Belgien|15,20 Lth.|15,20 Lth.|  
+53|1863|7. Dez.|Tirlemont (Tourinnes-la-Grosse), Belgien|15,20 Lth.|15,20 Lth.|  
 54|1863|2. Juni|Buschhof, Kurland|4,52 Lth.|4,52 Lth.|  
 55|1847|25. Febr.|Linn County, Iowa, V. St.|17,72 Lth.|18,71 Lth.|  
 56|1854|5. Sept.|Linum, Fehrbellin, Potsdam, Preussen|3 Pfd. 13,83 Lth.|3 Pfd. 13,83 Lth.|  
-57|1803|3. Oct.|Apt (Saurette), Vancluse, Frankreich|0,96 Lth.|0,96 Lth.|  
+57|1803|3. Okt.|Apt (Saurette), Vancluse, Frankreich|0,96 Lth.|0,96 Lth.|  
 58|1814|15. Febr.|Bachmut, Jekaterinoslaw, Russland|3,84 Lth.|3,84 Lth.|  
 59|1860|1. Mai|New-Concord, Muskinjum Cty, Ohio, V. St.|26 Pfd. 24,30 Lth.|27 Pfd. 4,39 Lth.|  
 60|1825|14. Sept.|Hanaruru, Owahu, Sandwich-Inseln|3,86 Lth.|3,86 Lth.|  
 61|1834|12. Juni|Charwallas, Ostindien|0,05 Lth.|0,05 Lth.|  
 62|1858|19. Mai|Kakowa, NW. von Orawitza, Tem. Banat|0,58 Lth.|0,58 Lth.|  
-63|1787|13. Oct.|Charkow (Bobrik), Russland|0,15 Lth.|0,25 Lth.|  
-64|1795|13. Dec.|Wold Cottage, Yorkshire, England|0,18 Lth.|0,18 Lth.|  
+63|1787|13. Okt.|Charkow (Bobrik), Russland|0,15 Lth.|0,25 Lth.|  
+64|1795|13. Dez.|Wold Cottage, Yorkshire, England|0,18 Lth.|0,18 Lth.|  
 65|1798|8. od. 12. Mz.|Sales, Villefranche, Rhone, Frankreich|0,96 Lth.|0,96 Lth.|  
 66|1715|11. April|Schellin, Garz, Stargard, Pommern|0,34 Lth.|0,34 Lth.|  
 67|1803|26. April|Aigle, Orne, Normandie, Frankreich|1 Pfd. 1,83 Lth.|4 Pfd. 1,12 Lth.|  
@@ -1837,11 +1837,11 @@ Fortl. Zahl|Jahr der Auffundg.|Datum des Falles|Name und Fundort|Gewicht des Hau
 76|1814|5. Sept.|Agen, Lot und Garonne, Frankreich|1,09 Lth.|1,09 Lth.|  
 77|1818|10. April|Zaborzika, Volhynien, Russland|2,65 Lth.|3,25 Lth.|  
 78|1818|10. Aug.|Slobodka, Juchnow, Smolensk, Russland|7,45 Lth.|7,45 Lth.|  
-79|1819|13. Oct.|Politz, Köstritz, Gera, Fürstenth. Reuss|1 Pfd. 11,49 Lth.|1 Pfd. 13,43 Lth.|  
+79|1819|13. Okt.|Politz, Köstritz, Gera, Fürstenth. Reuss|1 Pfd. 11,49 Lth.|1 Pfd. 13,43 Lth.|  
 80|1829|8. Mai|Forsyth, Monroe County, Georgia, V. St.|1,11 Lth.|1,22 Lth.|  
 81|1852|gefunden|Mainz, Grossherzogtum Hessen|0,12 Lth.|0,17 Lth.|  
 82|1831|18. Juli|Vouille, Poitiers, Vienne, Frankreich|0,25 Lth.|0,25 Lth.|  
-83|1833|27. Dec.|Okniny, Kremenetz, Volhynien, Russland|3,92 Lth.|3,92 Lth.|  
+83|1833|27. Dez.|Okniny, Kremenetz, Volhynien, Russland|3,92 Lth.|3,92 Lth.|  
 84|1839|13. Febr.|Little Piney, Loiret, Missouri, V. St.|0,82 Lth.|0,87 Lth.|  
 85|1841|12. Juni|Chateau-Renard, Loiret, Frankreich|15,81 Lth.|26,93 Lth.|  
 86|1827|16. Febr.|Mhow, Ghazeepore, Allahabad, Ostindien|0,09 Lth.|0,09 Lth.|  
@@ -1855,15 +1855,15 @@ Fortl. Zahl|Jahr der Auffundg.|Datum des Falles|Name und Fundort|Gewicht des Hau
 
 2\. Howardit.
 
-94|1813|13. Dec.|Loutolax, Wiborg, Finland|0,24 Lth.|0,33 Lth.|  
-95|1827|5. Oct.|Bialystok (Dorf Knasta), Russland|4,86 Lth.|5,09 Lth.|  
-96|1803|13. Dec.|Mässing (Dorf St. Nicolas), Baiern|1,43 Lth.|1,43 Lth.|  
+94|1813|13. Dez.|Loutolax, Wiborg, Finland|0,24 Lth.|0,33 Lth.|  
+95|1827|5. Okt.|Bialystok (Dorf Knasta), Russland|4,86 Lth.|5,09 Lth.|  
+96|1803|13. Dez.|Mässing (Dorf St. Nicolas), Baiern|1,43 Lth.|1,43 Lth.|  
 97|1823|7. Aug.|Nobleborough, Maine, V. St. N. A.|0,04 Lth.|0,04 Lth.|  
 98|1843|26. Juli|Mallygaum, Kandeish, Ostindien|0,03 Lth.|0,03 Lth.|  
 
 3\. Chassignit.  
 
-99|1815|3. Oct.|Chassigny, Langres, Haute Marne, Frankr.|0,79 Lth.|0,99 Lth.|  
+99|1815|3. Okt.|Chassigny, Langres, Haute Marne, Frankr.|0,79 Lth.|0,99 Lth.|  
 
 d\. Shalkit.  
 
@@ -1876,7 +1876,7 @@ d\. Shalkit.
 6\. Kohligen Meteorit.  
 
 102|1806|15. März|Alais, Gard, Frankreich|1,49 Lth.|1,49 Lth.|  
-103|1838|13. Oct.|Cold Bokkeveld, Cap d. g. Hoffn., S. Africa|0,55 Lth.|1,29 Lth.|  
+103|1838|13. Okt.|Cold Bokkeveld, Cap d. g. Hoffn., S. Africa|0,55 Lth.|1,29 Lth.|  
 104|1857|15. April|Kaba, SW. v. Debreczin, Ungarn|0,05 Lth.|0,05 Lth.|  
 105|1864|14. Mai|Orgueil (Montauban), Frankreich|7,875 Lth.|7,875 Lth.|  
 

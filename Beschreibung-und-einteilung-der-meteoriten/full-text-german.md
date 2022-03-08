@@ -32,7 +32,7 @@ von Reichenbachs systematische Einteilung der Meteoriten
 
 Neue systematische Einteilung der Meteoriten
 
-### [I\. Eisenmeteorit](#i-eisenmeteorit)
+### [I\. Eisenmeteorit](#i-eisenmeteorit-1)
 
 #### Geschichte der Untersuchungen über die Natur der Eisenmeteorit
 

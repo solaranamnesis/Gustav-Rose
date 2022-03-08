@@ -1473,7 +1473,7 @@ Shepard, der das ganze gefundene Stück zu untersuchen Gelegenhatte, beschreibt 
 
 ---
 
-Schlussbemerkungen.
+## Schlussbemerkungen.
 
 Aus dem Bisherigen ergibt sich, dass die Meteoriten Gemenge verschiedener Mineralien sind, wie die tellurischen Gebirgsarten, und es scheint daher von Interesse, eine Vergleichung der kosmischen Mineralien und Gebirgsarten (Meteoritenarten) mit den tellurischen Mineralien und Gebirgsarten anzustellen.
 
@@ -1581,7 +1581,7 @@ Ungeachtet aller der genannten Verschiedenheiten haben die Steinmeteorit doch ei
 
 *) Besonders schön sollen die Drusen zu sehen sein bei dem großen, 42 Kilogramm schweren Bruchstück dieses Meteoriten, welches sich in dem Muse d'histoire naturelle in Paris befindet und das größte ist, welches existiert.
 
-Nachtrag.
+## Nachtrag.
 
 Während des Druckes der letzten Bogen erhielt ich noch einige neue Meteoriten, über welche ich hier noch Einiges hinzufüge.
 

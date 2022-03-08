@@ -72,7 +72,7 @@ Die Meteoreisenmassen sind:
 
 #### [5\. Shalkit](#5-shalkit-1)
 
-#### [6\. Kohligen Meteorit](#6-kohligen-meteorit-1)
+#### [6\. Kohligen Meteorit](#6-die-kohligen-meteorit)
 
 #### [7\. Eukrit](#7-eukrit-1)
 

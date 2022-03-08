@@ -64,17 +64,17 @@ Die Meteoreisenmassen sind:
 
 ##### [Chemische Beschaffenheit](#chemische-beschaffenheit-1)
 
-#### 2\. Howardit
+#### [2\. Howardit](#2-howardit-1)
 
-#### 3\. Chassignit
+#### [3\. Chassignit](#3-chassignit-1)
 
-#### 4\. Chladnit
+#### [4\. Chladnit](#4-chladnit-1)
 
-#### 5\. Shalkit
+#### [5\. Shalkit](#5-shalkit-1)
 
-#### 6\. Kohligen Meteorit
+#### [6\. Kohligen Meteorit](#6-kohligen-meteorit-1)
 
-#### 7\. Eukrit
+#### [7\. Eukrit](#7-eukrit-1)
 
 ### Schlussbemerkungen
 

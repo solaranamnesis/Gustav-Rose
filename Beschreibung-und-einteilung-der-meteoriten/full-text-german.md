@@ -76,7 +76,7 @@ Die Meteoreisenmassen sind:
 
 #### [7\. Eukrit](#7-eukrit-1)
 
-### Schlussbemerkungen
+### [Schlussbemerkungen](#schlussbemerkungen-1)
 
 #### Die in den Meteoriten beobachteten bestimmten Mineralien
 
@@ -102,7 +102,7 @@ Die Meteoreisenmassen sind:
 
 #### Unterschied der Meteoriten von den Gebirgsarten auch in der Struktur
 
-### Nachtrag
+### [Nachtrag](#nachtrag-1)
 
 ## [Erklärung der Kupfertafeln](#erklärung-der-kupfertafeln-1)
 

@@ -36,7 +36,7 @@ Neue systematische Einteilung der Meteoriten
 
 #### Geschichte der Untersuchungen über die Natur der Eisenmeteorit
 
-#### [Meteoreisen](#1-meteoreisen)
+#### [1\. Meteoreisen](#1-meteoreisen)
 
 Die Meteoreisenmassen sind:
 
@@ -56,7 +56,7 @@ Die Meteoreisenmassen sind:
 
 ### 2\. Steinmeteorit
 
-#### Chondrit
+#### 1\. Chondrit
 
 ##### Äußere Beschaffenheit
 
@@ -64,15 +64,17 @@ Die Meteoreisenmassen sind:
 
 ##### Chemische Beschaffenheit
 
-#### Howardit
+#### 2\. Howardit
 
-#### Chassignit
+#### 3\. Chassignit
 
-#### Shalkit
+#### 4\. Chladnit
 
-#### Kohligen Meteorit
+#### 5\. Shalkit
 
-#### Eukrit
+#### 6\. Kohligen Meteorit
+
+#### 7\. Eukrit
 
 ### Schlussbemerkungen
 

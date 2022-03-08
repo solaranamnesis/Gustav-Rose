@@ -54,9 +54,9 @@ Die Meteoreisenmassen sind:
 
 #### Mesosiderit
 
-### II\. Steinmeteorit
+### [II\. Steinmeteorit](#ii-steinmeteorit-1)
 
-#### 1\. Chondrit
+#### [1\. Chondrit](#1-chondrit-1)
 
 ##### Äußere Beschaffenheit
 

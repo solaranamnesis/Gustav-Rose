@@ -1312,7 +1312,7 @@ und es wäre daher wohl möglich, dass wie der Shalkit alle Gebirgesarten die Ge
 
 *) Vergl. weiter unten die Anmerkung S. 134.
 
-6\. Die kohligen Meteorit.
+### 6\. Die kohligen Meteorit.
 
 1\. von Alais, Dep. du Gard, Frankreich, gef. 1806 den 15. März.
 
@@ -1324,7 +1324,7 @@ und es wäre daher wohl möglich, dass wie der Shalkit alle Gebirgesarten die Ge
 
 Ich habe mit diesen keine besondere Untersuchungen angestellt, und verweise daher auf die vorhandenen Beschreibungen der drei ersten in Buchners Meteoriten, S. 19, 60 und 94 und des letzten in den _Comptes rendus_ 1864, t. 58.
 
-7\. Eukrit.
+### 7\. Eukrit.
 
 Es gehören zu dieser Abteilung nur wenige Meteoriten; von den Meteoriten des Berliner mineralogischen Museums nur der von:
 
@@ -1873,7 +1873,7 @@ d\. Shalkit.
 
 101|1843|25. März|Bishopville, Süd-Carolina, V. St.|10,73 Lth.|13,90 Lth.|  
 
-### 6\. Kohligen Meteorit.  
+6\. Kohligen Meteorit.  
 
 102|1806|15. März|Alais, Gard, Frankreich|1,49 Lth.|1,49 Lth.|  
 103|1838|13. Oct.|Cold Bokkeveld, Cap d. g. Hoffn., S. Africa|0,55 Lth.|1,29 Lth.|  

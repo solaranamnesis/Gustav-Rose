@@ -36,7 +36,7 @@ Neue systematische Einteilung der Meteoriten
 
 #### Geschichte der Untersuchungen über die Natur der Eisenmeteorit
 
-#### [1\. Meteoreisen](#1-meteoreisen)
+#### [1\. Meteoreisen](#1-meteoreisen-1)
 
 Die Meteoreisenmassen sind:
 

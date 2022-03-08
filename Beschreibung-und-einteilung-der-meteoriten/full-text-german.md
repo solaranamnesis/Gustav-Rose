@@ -764,7 +764,7 @@ An der Oberfläche ist dieser Meteorit schon stärker zersetzt, besonders stelle
 
 Diese Art ist unter den verschiedenen Arten der Steinmeteorit die bei weiten zahlreichste und zugleich diejenige, mit der sich Berzelius vorzugsweise beschäftigt hat, der, wenn er auch vorzugsweise nur die chemische Beschaffenheit ermittelte, doch dadurch zugleich die wichtigsten Anhaltspunkte für die Beurteilung der mineralogischen Beschaffenheit gegeben hat.
 
-Äußere Beschaffenheit.
+#### Äußere Beschaffenheit.
 
 Diese Meteoriten sind besonders durch ihre kugliche Struktur ausgezeichnet, worauf sich ihr Name bezieht. Sie bestehen nämlich aus einer mehr oder weniger feinkörnigen Grundmasse, in der mehr oder weniger häufig kleine Kugeln neben vielen andern Gemengteilen, wie Olivin, Nickeleisen, Magnetkies, Chromeisen und anderen schwarzen Körnern liegen.
 
@@ -822,7 +822,7 @@ Dem Ch. von Grüneberg sehr ähnlich sind eine große Menge von Meteoriten, wenn
 
 Dem Ch. von Mauerkirchen sehr ähnlich sind die von Iowa (nicht zu unterscheiden), Linum, Apt, Bachmut, Lissa, Politz, New-Concord, Slobodka u. s. w.
 
-Mikroskopische Untersuchung.
+#### Mikroskopische Untersuchung.
 
 Wenn man von diesen Meteoriten möglichst dünne Platten schleift, so werden oft mehrere der Gemengteil so durchsichtig, dass man unter dem Mikroskop ihre Struktur und Form erkennen kann. Diess gelingt zwar nur vollkommen bei den festeren, wie bei den Ch. von Erxleben, Klein-Wenden, Stauropol; bei andern, die weniger fest und mehr bröcklig sind, wie bei den Ch. von Aigle, Mauerkirchen, Timochin, nur teilweise, indem nur einzelne ihrer Gemengteil wie die Kugeln durchsichtig oder zum Teil durchsichtig werden; dennoch sind auch diese belehrend. Ich will daher das Aussehen einiger dieser Platten beschreiben und die Resultate angeben, die diese Art der Untersuchung ergeben hat.
 
@@ -858,7 +858,7 @@ Die Platten von den Ch. von Timochin, Ausson, Aigle und Mauerkirchen nahmen scho
 
 Aus der mikroskopischen Untersuchung der dünn geschliffenen Platten ergibt sich also, dass die unter dem Mikroskop schwarz erscheinende Masse außer Nickeleisen, Magnetkies und Chromeisenerz wahrscheinlich noch eine andere schwarze Substanz enthält, deren Natur noch nicht gekannt ist, und ferner, dass die eingewachsenen Kugeln bestimmt zweierlei Art sind, teils solche, die nur runde, zerklüftete Kristalle und offenbar Olivin-Kristalle, ähnlich denen in dem Pallas-Eisen oder Zusammenhäufungen derselben sind, teils solche, die aus fasrigen Zusammensetzungsstücken bestehen, die, wie auch die Beobachtung dieser Kugeln auf der Bruchfläche der Meteoriten mit bloßen Augen oder mit der Lupe gelehrt hat, immer exzentrisch fasrig, nie radial fasrig sind.
 
-Chemische Beschaffenheit.
+#### Chemische Beschaffenheit.
 
 Kleine Splitter sowohl von der Grundmasse als von den Kugeln in der Platinzange gehalten und vor dem Lötrohr erhitzt, verändern wohl die Farbe und werden schwarz, schmelzen aber nicht.* Nur das sehr fein geriebene Pulver schmilzt an den äußersten dünnen Rändern zu einer grünlichgrauen oder graulichgrünen Schlacke.*
 
@@ -1125,7 +1125,7 @@ Die H. von Nobleborough und Mallygaum sind nach den Proben in dem mineralogische
 
 Hiernach ist also der Howardit wahrscheinlich nur ein mehr oder weniger feinkörniges Gemenge von vorherrschendem Olivin mit Anorthit und einer geringen Menge von Chromeisenerz, Nickeleisen und Magnetkies.
 
-3\. Chassignit.
+### 3\. Chassignit.
 
 Zu dieser Art gehört unter den Meteoriten des Berliner Museums nur ein einziger, nämlich der am 3. Oktober 1815 zu Chassigny bei Langres (Dep. der haute Marne) gefallene Meteorit, daher ich nach ihm die Art Chassignit zu nennen vorgeschlagen habe. Nachrichten über die Erscheinungen bei seinem Falle und eine Beschreibung seiner Masse haben Pistolet, Calmelet und Gillet de Laumont, eine chemische Analyse der Masse hat Vauquelin geliefert.* Er hatte bei seinem Falle in dem Boden ein Loch von einem viertel Meter Tiefe und einem halben Meter Breite eingeschlagen, und zersprang dabei in viele Stücke, die weit herumgeworfen wurden, eins sogar bis zu einer Entfernung von 240 Schritt. Alle Steine, die man gesammelt hat, wogen beinahe 4 Kilogramm.* Das Berliner Museum besitzt davon nur ein kleines 0,79 Loth schweres, jedoch deutliches Stück, das aus der Chladnischen Sammlung stammt, und einige kleine Proben, die später erworben wurden.
 
@@ -1181,7 +1181,7 @@ Es folgt hieraus die genauere Formel
 (2Mg+Fe)2 Si  
 welche die des Hyalosiderit vom Kaiserstuhl ist. Der in der Analyse angeführte Augit ist nur angenommen, nicht bewiesen. Das spezifische Gewicht gibt Damour zu 3,57 an.
 
-4\. Chladnit.
+### 4\. Chladnit.
 
 Die vierte Art enthält wie die dritte nur einen Meteoriten, den, welcher zu Bishopville im nördlichen Teil des Sumter-Distrikts in Süd-Carolina im März 1843 gefallen ist. Es fiel dort nur ein Stein von ungefähr 13 Pfd., der bald nach seinem Falle in den Besitz des Prof. Shepard gelangte, dem wir auch die erste Beschreibung und Analyse dieses merkwürdigen Steins verdanken.* Nachher haben noch Sartorius* und Rammelsberg* Untersuchungen damit angestellt. Die Berliner Sammlung besitzt davon ein größeres Stück von 4,86 Loth und mehrere kleinere.
 
@@ -1254,7 +1254,7 @@ Weiter habe ich nichts beobachtet. Shepard gibt ein blaues Mineral an, was er Jo
 
 Die äußere glasige Rinde ist sehr merkwürdig; ganz unähnlich der der übrigen Meteorsteine ist sie, wie sie auch Shepard beschreibt, gefleckt, schwarz, weiß, bläulichgrau, die schwarzen Stellen glänzend und Obsidian-ähnlich, die weißen und grauen meistenteils matt, die weißen doch auch glänzend und durchscheinend wie Porzellan und Email. Sie ist von einer Menge Risse und Sprünge durchzogen.
 
-5\. Shalkit.
+### 5\. Shalkit.
 
 Diese Art enthält auch nur einen Meteoriten, den M. von Shalka in Bankoora, Ostindien, nach welchem Fundort ich den Namen der Art gebildet habe. Haidinger hat die Nachrichten darüber zusammengestellt und den Stein beschrieben.* Er fiel den 30. November 1850 als ein einziger Stein und schlug in den nicht harten Boden gegen 4 Fuß ein, wobei er in viele Trümmer zerschellte, und Bruchstücke bis 20 Fuß weit umherflogen. Der Stein mochte einen Umfang von 3 1/2 Fuß gehabt haben; die schwarze Rinde war stellenweise abgetrennt. Haidinger erhielt durch die k. Asiatische Gesellschaft in Bengalen mehrere Stücke zusammen über 199 Centigr. schwer; ein größeres Stück von 6 Pfund 3529 Grains wurde an das Britische Museum in London gesandt, von welchem Dr. Auerbach aus Moskau einige Stücke erhielt, von denen er mir ein kleines haselnussgroßsen Stück überließ. Späterhin erhielt ich selbst durch Hrn. Maskelyne aus dem Britischen Museum ein viel größeres Stück von 4,79 Lth. Gewicht.
 
@@ -1873,7 +1873,7 @@ d\. Shalkit.
 
 101|1843|25. März|Bishopville, Süd-Carolina, V. St.|10,73 Lth.|13,90 Lth.|  
 
-6\. Kohligen Meteorit.  
+### 6\. Kohligen Meteorit.  
 
 102|1806|15. März|Alais, Gard, Frankreich|1,49 Lth.|1,49 Lth.|  
 103|1838|13. Oct.|Cold Bokkeveld, Cap d. g. Hoffn., S. Africa|0,55 Lth.|1,29 Lth.|  

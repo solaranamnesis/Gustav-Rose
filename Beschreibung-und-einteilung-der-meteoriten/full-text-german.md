@@ -1087,7 +1087,7 @@ Es wird hiernach wahrscheinlich, dass auch die Grundmasse wenigstens hauptsächl
 
 Die feinkörnige Grundmasse ist vor dem Lötrohr zu einem schwarzen Glase schmelzbar, das in dünnen Splittern nur bräunlich gefärbt, und durchsichtig ist, wie die Grundmasse von Loutolax.*
 
-*)
+*) Diess ist kein Beweis gegen die Annahme von Anorthit und Olivin in derselben, die beide unschmelzbar sind, da ein künstliches Gemenge von Anorthit und Olivin auch vor dem Lötrohr schmelzbar ist.
 
 Gediegen Eisen findet sich ebenfalls in dem H. von Bialystock; man sieht es in äußerst kleinen Körnern in den groben körnigen und besonders den dunkleren Partien liegen; besser erkennt man es noch, wenn man kleine Stücke zu Pulver reibt, wo man dann die feinen Eisenkörner mit dem Magnete ausziehen kann. Ebenso kann man auch einzelne feine Körner von Magnetkies erkennen.
 
@@ -1095,7 +1095,11 @@ Spezifisches Gewicht nach Rummler 3,17. äußerlich schwarze glänzende Rinde.
 
 Fein gerieben, und mit Chlorwasserstoffsäure in einem Reagenzglase gekocht, wird er zersetzt* und gelatiniert. Mit Wasser geschüttelt, kann die abgeschiedene Kieselsäure durch Abschlämmen von kleinen schwarzen Körnern, wenn auch nicht vollständig getrennt werden, die sehr wahrscheinlich Chromeisenerz sind, doch in zu geringer Menge in der kleinen Probe, die zu den Versuchen genommen, vorhanden waren, um weitere Versuche damit anstellen zu können.
 
+*) Ob vollständig, habe ich leider nicht untersucht.
+
 3\. Mässing (Dorf St. Nicolas) Landgericht Eggenfelde in Bayern; ein Stück 1,433 Lth. schwer, von den dort einzeln gefallenen Steinen von 3 1/4 Pfund,* aus der Chladnischen Sammlung.
+
+*) Vergl. den Bericht daruber vom Prof. Imhof in Munchen in Gilberts Annalen von 1804. Bd. 18, S. 330.
 
 Gleicht dem H. von Bialystock vollkommen. In der graulichweißen feinkörnigen zerreiblichen Grundmasse liegen häufig Körner von Olivin von verschiedener Größe und Farbe, grünlichgelb bis grasgrün, von der Größe eines Hirsekorns bis zu der eines groben Schrotes, dann wieder größere unvollkommen ausgebildete Kristalle von schmutzig grünlichgrauer Farbe, die kleine weiße Körner eingewachsen enthalten. Diese liegen auch sonst in der Masse, haben einen unebenen Bruch, und ließen von Spaltbarkeit nichts sehen.
 

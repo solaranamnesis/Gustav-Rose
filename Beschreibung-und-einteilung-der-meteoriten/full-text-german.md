@@ -714,11 +714,11 @@ Glühverlust|-|-|0,45
 
 Die beiden ersteren Abänderungen haben also vollkommen die Zusammensetzung des terrestrischen Olivins, die erste enthält etwas weniger Eisenoxydul als die zweite und ist:
 
-(7Mg + Fe)2Si,
+(7Mg + Fe)²Si,
 
 die zweite:
 
-(4Mg + Fe)2Si.*
+(4Mg + Fe)²Si.*
 
 Beide sind dadurch ausgezeichnet, dass sie, obgleich mitten in einem nickelhaltigen Eisen vorkommend, kein Nickeloxyd enthalten, welches doch Stromeyer, wenn auch nur in geringer Menge, in allen terrestrischen Olivinen nachgewiesen hat, was aber nur beweist, wie auch schon Stromeyer anführt, dass das Nickeloxyd so leicht reduzierbar ist und weniger Verwandtschaft zur Kieselsäure als das reine Metall zum Eisen hat. Merkwürdig ist ferner die, wenn auch nur geringe Menge von Zinnsäure in dem Olivin des Pallas-Eisens, die aber Berzelius neben etwas Kupferoxyd auch in dem Olivin von Boscovich bei Aufsig in Böhmen und in einem aus dem Dep. Puy de Dome gefunden hat. Sie ersetzt eine geringe Menge der Kieselsäure.
 
@@ -920,7 +920,7 @@ Kieselsäure 46,18 44,16 48,95 44,68
 
 *) Das Verhältnis der metallischen zu den nicht metallischen Gemengteilen ist bei dieser Analyse von Berzelius nicht angegeben.
 
-*) Das Schwefeleisen ist von Rammelsberg als Sulphuret Fe berechnet. Die Annahme als Magnetkies Fe5Fe (Fe7S8) ändert die Rechnung nur wenig.
+*) Das Schwefeleisen ist von Rammelsberg als Sulphuret Fe berechnet. Die Annahme als Magnetkies Fe⁵Fe (Fe⁷S⁸) ändert die Rechnung nur wenig.
 
 *) Das Chromeisenerz ist als FeCr berechnet.
 
@@ -1178,7 +1178,7 @@ Chromoxyd 0,75
 Kieselsäure 35,20 18,33  
 Chromeisenerz u. Augit 3,77  
 Es folgt hieraus die genauere Formel  
-(2Mg+Fe)2 Si  
+(2Mg+Fe)² Si  
 welche die des Hyalosiderit vom Kaiserstuhl ist. Der in der Analyse angeführte Augit ist nur angenommen, nicht bewiesen. Das spezifische Gewicht gibt Damour zu 3,57 an.
 
 ### 4\. Chladnit.
@@ -1223,7 +1223,7 @@ Wasser - 0,67 0,80
 
 Nach Shepard wäre also der Shepardit, abgesehen von der geringen Menge Natron, nur eine Verbindung von Kieselsäure mit Magnesia. Shepard allein hat keine Tonerde gefunden, was wahrscheinlich daher rührt, dass er die reinsten Kristalle zur Analyse genommen hat, wie er auch die größte Masse zu seiner Benutzung hatte und bei den analysierten Proben der beiden andern Chemiker, die nur kleinere Bruchstücke anwenden konnten, noch ein anderes Silicat beigemengt gewesen ist. Der Shepardit hat hiernach also dieselben Bestandteile wie der Olivin, nur in anderen Verhältnissen; bei dem Shepardit ist der Sauerstoff der Magnesia (mit Einschluss des Natrons) zu dem der Kieselsäure wie 1:3, während er beim Olivin nur wie 1:1 ist. Der Shepardit ist also anderthalb kieselsaure Magnesia:
 
-Mg2Si3
+Mg²Si³
 
 und die berechnete Zusammensetzung:
 
@@ -1232,7 +1232,7 @@ Kieselsäure 69,8
 
 während der Olivin nur eine halb kieselsaure Magnesia ist:
 
-Mg2Si
+Mg²Si
 
 Sartorius von der Ansicht ausgehend, dass er ein Gemenge analysiert habe, nimmt an, dass die gefundene Tonerde von einem sogenannten Kalk-Labrador, d. i. von einem solchen Labrador herrühre, der nur Kalkerde als einatomige Basis enthielte. Er berechnet nach der Tonerde einen solchen Labrador, dessen Menge etwa 5 pC. beträgt, zieht diesen von dem Ganzen ab und findet nun für den Rückstand, den seiner Meinung nach reinen Shepardit, dieselbe Formel wie Shepard. Dessen ungeachtet scheint mir eine solche Annahme nicht gerechtfertigt; denn einmal kennt man einen Labrador von solcher Zusammensetzung überhaupt nicht, und dann kann man Kristalle von der Form des Labradors nicht allein nicht in dem Chladnit erkennen, derselbe ist auch noch nie in den Meteoriten beobachtet worden. Eher könnte man als Beimengung Anorthit annehmen, da dieser doch in gewissen Meteorsteinen bestimmt beobachtet ist; aber auch diese Annahme ist nach dem oben Angeführten nicht wahrscheinlich.
 
@@ -1290,9 +1290,9 @@ beim Olivin = 1:1, und
 beim Shepardit = 1:3, wäre er  
 bei dieser Spezies = 1:2,42.  
 
-Dieses Verhältnis nähere sich dem, welches Stromeyer bei dem olivinähnlichen Mineral aus der angeblich von Grimma (Steinbach) stammenden Eisenmasse gefunden habe, wo jenes Verhältnis = 1:2,6 ist, und für welches Mineral Rammelsberg die Formel RSi+2R2Si3 aufgestellt habe.* Er schlägt demnach für dies Mineral den Namen Piddingtonit vor.
+Dieses Verhältnis nähere sich dem, welches Stromeyer bei dem olivinähnlichen Mineral aus der angeblich von Grimma (Steinbach) stammenden Eisenmasse gefunden habe, wo jenes Verhältnis = 1:2,6 ist, und für welches Mineral Rammelsberg die Formel RSi+2R²Si³ aufgestellt habe.* Er schlägt demnach für dies Mineral den Namen Piddingtonit vor.
 
-*) Diess gibt das Verhältnis = 1:2,8; besser passt zu dem obigen die Formel RSi+R2Si3.
+*) Diess gibt das Verhältnis = 1:2,8; besser passt zu dem obigen die Formel RSi+R²Si³.
 
 Dieser Meinung von der Gleichartigkeit der Masse möchte ich nicht beistimmen. Die Farbe der dunklen Körner geht wohl in die grünlichgelbe über, aber nicht in die weiße. Die Körner mit grünlichgelber bis schwärzlichgrüner Farbe haben alle Eigenschaften des Olivins; ist dies aber der Fall, dann können die weißen Körner nichts anderes als Shepardit sein, und der Shalkit wäre hiernach ein Gemenge von Olivin, Shepardit und Chromeisenerz, und von dem Chassignit nur durch die Anwesenheit des Shepardit verschieden.
 
@@ -1300,13 +1300,13 @@ Mit dieser Annahme stimmt auch das chemische Verhalten überein, denn sehr fein 
 
 Legt man die Hauersche Analyse zum Grunde, so würde der Shalkit auf 1 Atom Olivin 2 Atome Shepardit enthalten, also aus
 
-R2Si + 2MgSi3
+R²Si + 2Mg²Si³
 
 bestehen, denn in diesem würde der Sauerstoff von R:Si sein = 6:14, d. i. = 1:2,33.
 
 Der Shalkit ist hiernach ein Gemenge von basisch und saurer kieselsaurer Magnesia oder von 2 Silicaten, die gleiche Basen in verschiedenen Sättigungsstufen enthalten, ein Gemenge wie es der Art unter den Gebirgsarten der Erde nicht vorkommt, wenngleich der Granit, wenn er Feldspat und Kaliglimmer enthält, etwas Ähnliches darstellt. Das Gemenge des Shalkit ist aber noch dadurch ausgezeichnet, dass die beiden Silicate in demselben in einem sehr einfachen Verhältnis gegeneinander zu stehen scheinen, so dass sie sehr gut eine chemische Verbindung bilden könnten, ähnlich dem Serpentin, der eine wasserhaltige Verbindung von basischer und neutraler Magnesia ist:
 
-Mg2Si+MgSi+2H
+Mg²Si+MgSi+2H
 
 und es wäre daher wohl möglich, dass wie der Shalkit alle Gebirgesarten die Gemengteil in ebenso einfachen Verhältnissen enthalten, wie die Mineralien die Bestandteile.*
 
@@ -1328,7 +1328,7 @@ Ich habe mit diesen keine besondere Untersuchungen angestellt, und verweise dahe
 
 Es gehören zu dieser Abteilung nur wenige Meteoriten; von den Meteoriten des Berliner mineralogischen Museums nur der von:
 
-1\. Juvenas, Dep. Ardeche, Frankreich, gef. 1821 den 15. Juni.
+1\. Juvenas, Dep. Ardèche, Frankreich, gef. 1821 den 15. Juni.
 
 2\. Stannern bei Iglau, Mähren, gef. 1808 den 22. Mai.
 
@@ -1882,7 +1882,7 @@ d\. Shalkit.
 
 7\. Eukrit.  
 
-106|1821|15. Juni|Juvenas, Ardeche, Frankreich|1 Pfd. 4,28 Lth.|2 Pfd. 1,42 Lth.|  
+106|1821|15. Juni|Juvenas, Ardèche, Frankreich|1 Pfd. 4,28 Lth.|2 Pfd. 1,42 Lth.|  
 107|1808|22. Mai|Stannern, Iglau, Mähren|26,99 Lth.|6 Pfd. 27,65 Lth.|  
 108|1819|13. Juni|Jonzac, Charente, Frankreich|0,13 Lth.|0,13 Lth.|  
 109|1855|5. Aug.|Petersburg, Lincoln Cty, Tennessee, V. St.|3,47 Lth.|4,52 Lth.|  

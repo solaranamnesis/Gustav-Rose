@@ -50,9 +50,9 @@ Die Meteoreisenmassen sind:
 
 ##### e) Aggregate mit feinkörnigen Zusammensetzungsstücken
 
-#### [Pallasit](#2-pallasit)
+#### [2\. Pallasit](#2-pallasit-1)
 
-#### [Mesosiderit](#3-mesosiderit)
+#### [3\. Mesosiderit](#3-mesosiderit-1)
 
 ### [II\. Steinmeteorit](#ii-steinmeteorit-1)
 

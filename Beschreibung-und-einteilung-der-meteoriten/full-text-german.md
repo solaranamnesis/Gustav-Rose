@@ -58,11 +58,11 @@ Die Meteoreisenmassen sind:
 
 #### [1\. Chondrit](#1-chondrit-1)
 
-##### Äußere Beschaffenheit
+##### [Äußere Beschaffenheit](#äußere-beschaffenheit-1)
 
-##### Mikroskopische Untersuchung
+##### [Mikroskopische Untersuchung](#mikroskopische-untersuchung-1)
 
-##### Chemische Beschaffenheit
+##### [Chemische Beschaffenheit](#chemische-beschaffenheit-1)
 
 #### 2\. Howardit
 

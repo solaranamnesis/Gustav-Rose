@@ -78,29 +78,29 @@ Die Meteoreisenmassen sind:
 
 ### Schlussbemerkungen
 
-### Die in den Meteoriten beobachteten bestimmten Mineralien
+#### Die in den Meteoriten beobachteten bestimmten Mineralien
 
-### Die in den Meteoriten beobachteten nicht bestimmten Mineralien
+#### Die in den Meteoriten beobachteten nicht bestimmten Mineralien
 
-### Mineralien auf deren Vorhandensein man aus den gefundenen Bestandteilen schließen kann
+#### Mineralien auf deren Vorhandensein man aus den gefundenen Bestandteilen schließen kann
 
-### Mineralien die irrtümlich in den Meteoriten angegeben werden
+#### Mineralien die irrtümlich in den Meteoriten angegeben werden
 
-### Die kosmischen Mineralien kommen nur zum Teil mit den tellurischen überein
+#### Die kosmischen Mineralien kommen nur zum Teil mit den tellurischen überein
 
-### Die Meteoriten sind kosmische Mineralien oder Gemenge derselben wie die Gebirgsarten tellurische Mineralien oder Gemenge derselben sind
+#### Die Meteoriten sind kosmische Mineralien oder Gemenge derselben wie die Gebirgsarten tellurische Mineralien oder Gemenge derselben sind
 
-### Die Meteoriten sind hauptsächlich nur zweierlei Art, Meteoreisen und Chondrit
+#### Die Meteoriten sind hauptsächlich nur zweierlei Art, Meteoreisen und Chondrit
 
-### Übrige Meteoriten
+#### Übrige Meteoriten
 
-### Die Meteoriten sind bis auf den Eukrit von den Gebirgsarten verschieden
+#### Die Meteoriten sind bis auf den Eukrit von den Gebirgsarten verschieden
 
-### Unterschied des kosmischen und tellurischen Eukrit
+#### Unterschied des kosmischen und tellurischen Eukrit
 
-### Die Meteoriten haben die meiste Ähnlichkeit mit den Gebirgsarten der Basaltgruppe
+#### Die Meteoriten haben die meiste Ähnlichkeit mit den Gebirgsarten der Basaltgruppe
 
-### Unterschied der Meteoriten von den Gebirgsarten auch in der Struktur
+#### Unterschied der Meteoriten von den Gebirgsarten auch in der Struktur
 
 ### Nachtrag
 

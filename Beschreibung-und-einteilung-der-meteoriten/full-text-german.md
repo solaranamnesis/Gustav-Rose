@@ -32,7 +32,7 @@ von Reichenbachs systematische Einteilung der Meteoriten
 
 Neue systematische Einteilung der Meteoriten
 
-### [1\. Eisenmeteorit](#i-eisenmeteorit)
+### [I\. Eisenmeteorit](#i-eisenmeteorit)
 
 #### Geschichte der Untersuchungen über die Natur der Eisenmeteorit
 
@@ -54,7 +54,7 @@ Die Meteoreisenmassen sind:
 
 #### Mesosiderit
 
-### 2\. Steinmeteorit
+### II\. Steinmeteorit
 
 #### 1\. Chondrit
 

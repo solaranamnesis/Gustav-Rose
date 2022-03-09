@@ -1,4 +1,4 @@
-# Beschreibung und Einteilung der Meteoriten auf Grund der Sammlung im Mineralogischen Museum zu Berlin
+# Beschreibung und Einteilung der Meteoriten auf Grund der Sammlung im Mineralogischen Museum zu Berlin.
 
 ## Von Gustav Rose.
 

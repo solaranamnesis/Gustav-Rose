@@ -361,7 +361,7 @@ Die Widmanstättenschen Figuren waren früher in den Olivin-haltigen Eisenmeteor
 
 *) Die Meteoriten, S. 91.
 
-Zu den feiner Einmengungen, die sich in den Eisenmeteoriten finden, gehören eine Menge kleiner mikroskopischer, meist farbloser, doch auch farbiger glänzender Steinchen von mehr als Quarzhärte, die Wöhler außer dem Schreibersit als Rückstand bei der Auflösung des Eisens von Rasgatà erhielt, jedoch nicht weiter untersuchte und einige kleine Quarzkrystalle, die ich in dem Eisen von Toluca beobachtete* und die noch so groß und glänzend waren, dass ich ihre Winkel mit Genauigkeit bestimmen konnte. Sie steckten zwar nur in der äußern oxydierten Rinde, doch so, dass man nicht daran zweifeln konnte, dass sie sich in dem Meteoreisen gebildet hatten und nicht erst später hineingekommen waren.
+Zu den feiner Einmengungen, die sich in den Eisenmeteoriten finden, gehören eine Menge kleiner mikroskopischer, meist farbloser, doch auch farbiger glänzender Steinchen von mehr als Quarzhärte, die Wöhler außer dem Schreibersit als Rückstand bei der Auflösung des Eisens von Rasgatà erhielt, jedoch nicht weiter untersuchte und einige kleine Quarzkristalle, die ich in dem Eisen von Toluca beobachtete* und die noch so groß und glänzend waren, dass ich ihre Winkel mit Genauigkeit bestimmen konnte. Sie steckten zwar nur in der äußern oxydierten Rinde, doch so, dass man nicht daran zweifeln konnte, dass sie sich in dem Meteoreisen gebildet hatten und nicht erst später hineingekommen waren.
 
 *) Pongendorffs Ann. 1861 B. 113, S. 184.
 

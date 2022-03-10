@@ -164,7 +164,7 @@ b) Grobkörnige (De Kalb, Ashville, Guildford, Carthago).
 
 2\. Sekt.: Legierte (Otsego County).
 
-II\. Classe: Steinmeteorit.
+II\. Klasse: Steinmeteorit.
 
 1\. Ordnung: Trachytische.
 
@@ -371,7 +371,7 @@ Alle diese Eisenmeteorit, die man zufällig auf der Oberfläche der Erde findet,
 
 *) A. a. O. 1862 B. 115, S. 135.
 
-*) Sitzungsberichte der math.-naturw. Classe d. k. Akad. der Wissenschaft. 1855 B. 15, S. 354, Fig. 5.
+*) Sitzungsberichte der math.-naturw. Klasse d. k. Akad. der Wissenschaft. 1855 B. 15, S. 354, Fig. 5.
 
 *) Pongendorffs Ann. 1857, B. 101, S. 152.
 
@@ -407,7 +407,7 @@ Neumann zeigte,* dass, wenn man eine polierte Schnittfläche dieses Meteoreisens
 
 Es ist schwer zu sagen, wofür man diese Linien halten soll. Sie charakterisieren keineswegs das Meteoreisen allein, sie finden sich vollkommen ebenso bei dem künstlich dargestellten Eisen, wie Prestel gezeigt hat* und, wie ich mich selbst überzeugt habe, unter andern bei einem schönen Spaltungsstück von solchem künstlich dargestellten Eisen, das ich noch Mitscherlich verdanke, bei welchem eine Hexaederkante 1 1/2 Zoll lang ist; die Linien sind feiner als bei dem Meteoreisen, sonst von derselben Art. Da sie auf der Hexaederfläche parallel gehen den Durchschnittslinien von einem Hexaeder mit 4 andern, die in Zwillingsstellung mit dem erster stehen, so dass mit den 4 Eckenaxen des erster immer eine Eckenaxe der 4 andere Individuen parallel ist, um welche diese um 180 gedreht erscheinen, so hielt sie Neumann bei dem Braunauer Eisen auch für die Durchschnittslinien von 5 auf diese Weise regelmäßig verwachsenen Individuen. Andere halten diese Linien für Anzeigen von versteckten Spaltungsflächen, und allerdings würden die Durchschnitte des Hexaeders mit dem Ikositetraeder (_a_:_a_:1/2 _a_) oder dem Triakisoktaeder (1/2 _a_:1/2 _a_:_a_) ganz dieselben Linien geben. Ich möchte sie am liebsten mit den Eindrücken vergleichen, die bei allen Kristallen durch die Ätzung entstehen und die namentlich Leydolt, der sie Vertiefungsgestalten nennt, beim Quarz und Aragonit so schön dargestellt und beschrieben hat. Sie haben bei diesen zwar keine Linienform, sondern erscheinen wie vertiefte Ecken, sind aber doch häufig linienartig aneinandergereiht. Man hat diese Eindrücke erst bei so wenigen Körpern genau untersucht; sie werden sich gewiss in den verschiedenen Fällen sehr verschieden verhalten.
 
-*) Sitzungsberichte der math. naturw. Classe der k. k. Akad. der Wiss. B. 15, S. 355. 
+*) Sitzungsberichte der math. naturw. Klasse der k. k. Akad. der Wiss. B. 15, S. 355. 
 
 Ich habe an dem Stücke Fig. 4 versucht, die Fortsetzung der Linien einer Fläche auf den benachbarten zu verfolgen, um zu entscheiden, ob die Linien den Durchschnitten des Hexaeders mit dem Triakisoktaeder oder dem Leucitoaeder parallel gehen, aber ich fand, dass bald das eine, bald das andre der Fall war, wie aus Fig. 1 zu ersehen ist. Die meisten dieser Linien, wie _lm_ und _mn_, _rs_ und _st_, _ps_ und _sq_, gehen allerdings parallel den Durchschnitten mit dem Leucitoaeder, doch andere wie _uv_ und _vw_ parallel den Durchschnitten mit dem Triakisoktaeder. Es ist freilich oft schwer die zusammengehörigen Linien zu erkennen, doch glaube ich mich nicht zu irren, wenn ich annehme, dass die Durchschnittslinien nach beiden Formen vorkommen.
 

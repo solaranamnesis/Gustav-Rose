@@ -699,7 +699,7 @@ Das spezifische Gewicht des Olivins aus dem Pallas-Eisen wird von Stromeyer zu 3
 
 Vor dem Lötrohr und gegen Säuren verhält sich dieser Olivin wie der der Basalte. Vor dem Lötrohr schmilzt er nicht und verändert sich nicht.
 
-In Rücksicht der chemischen Zusammensetzung ist der aus dem Pallas-Eisen außer Stromeyer und Walmstedt von Berzelius,* der von Atacama von Schmid* und der von Steinbach (Grimma) von Stromeyer* analysiert:
+In Rücksicht der chemischen Zusammensetzung ist der aus dem Pallas-Eisen außer Stromeyer und Walmstedt von Berzelius (1), der von Atacama von Schmid (2) und der von Steinbach (Grimma) von Stromeyer (3) analysiert:
 
  1|2|3  
 Magnesia|47,35|43,16|25,83  

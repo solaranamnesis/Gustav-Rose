@@ -1011,6 +1011,8 @@ Später sind sie bei der Analyse wenig beachtet. Berzelius stellte bei der Analy
 
 *) _Comptes rendus_ 1859 t. 49, p. 31.
 
+*) _Comptes rendus_ 1859, t. 49, p. 247.
+
 Aus der mikroskopischen Untersuchung der Kugeln geht hervor, dass dieselben zweierlei Art ist, die einen vielleicht nur Olivin, die andern mit fasriger Struktur davon verschieden, ein wahrscheinlich Tonerde-haltiges Doppelsilicat. Es bleiben demnach von wirklich bestimmten Gemengteilen in den Chondriten immer nur noch Nickeleisen, Magnetkies, Olivin und Chromeisenerz, von nicht bestimmten die fragliche Grundmasse, der schwarze Gemengteil neben dem Chromeisenerz und die Kugeln mit fasriger Struktur, wenn die übrigen Olivin sind.
 
 ### 2\. Howardit.
@@ -1026,8 +1028,6 @@ Zu dieser Art gehören nur wenige Meteorit; von den im mineralogischen Museum be
 4\. Nobleborough in Maine, Ver. St. 1823, 7. Aug.
 
 5\. Mallygaum in Kandeish, Ostindien 1843, 26. Juli.
-
-*) _Comptes rendus_ 1859, t. 49, p. 247.
 
 *) Nicht Lontolax, wie gewöhnlich geschrieben wird (s. Nordenskiöld in der weiter unten zitierten Schrift, auch Berzelius in Poggendorffs Ann. 1834 B. 33 letzte Seite unter den Berichtigungen, die von Berzelius herrühren. Lautolax, wie hier steht, ist nur die schwedische Aussprache von Loutolax). Nach Buchner müsste es heißen Luotolaks, welches finnische Wort „Felsenbucht” bedeutet. (Poggendorffs Ann. 1862 B. 116, S. 643.)
 

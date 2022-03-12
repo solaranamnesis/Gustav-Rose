@@ -1599,7 +1599,7 @@ Kobalt 1,45
 Mangan 0,65  
 Kupfer 0,07  
 Phosphor 0,20  
-Schwefel 4,67  
+Schwefel 4,67*  
 99,98 
 
 Eisenoxydul 24,47  

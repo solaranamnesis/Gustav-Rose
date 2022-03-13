@@ -433,7 +433,7 @@ Die beiden oben S. 34 und S. 46 erwähnten Stücke des Braunauer Eisens in dem B
 
 2\. Claiborne, County Alabama V. St., gefunden 1838. Eine 3 Zoll lange und 1 Zoll breite geschnittene Platte von Hrn. v. Reichenbach in Tausch erhalten. Sie gleicht der Platte des Braunauer Eisens, die parallel der Oktaederfläche geschnitten ist und zeigt daher außer den Ätzungslinien die Querschnitte des eingemengten Rhabdit. Außerdem kommen noch einige größere graue, metallisch glänzende Einmengungen vor, die teils eine Körnerteils eine Nadelform haben. Eine Bruchfläche befindet sich daran nicht.
 
-3\. Saltillo (Santa Rosa), Neu-Mexico, gefunden 1860. Zwei kleine Platten vom Prof, Shepard durch Tausch erhalten. Sie zeigen die Ätzelinien und Rhabdit-Kristalle sehr deutlich.
+3\. Saltillo (Santa Rosa), Neu-Mexico, gefunden 1860. Zwei kleine Platten vom Prof. Shepard durch Tausch erhalten. Sie zeigen die Ätzelinien und Rhabdit-Kristalle sehr deutlich.
 
 5\. Meteoreisenmassen, welche Aggregate grobkörniger Individuen ohne schalige Zusammensetzung sind,
 

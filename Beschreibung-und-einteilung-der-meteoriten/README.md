@@ -9,4 +9,4 @@ Attempt at a translation of Gustav Rose's 1863 (separate print in 1864) work, I 
 [English - Plain Text](full-text-english.md)  
 [English - PDF]()  
 [German - Plain Text](full-text-german.md)  
-[German - PDF]()  
+[German - PDF](https://cdn.solaranamnesis.com/GustavRose/gustav_rose_meteorit_german_PDFlaTex.pdf) | [Fraktur](https://cdn.solaranamnesis.com/GustavRose/gustav_rose_meteorit_german_PDFlaTex-frak.pdf) | [Schwabacher](https://cdn.solaranamnesis.com/GustavRose/gustav_rose_meteorit_german_PDFlaTex-swab.pdf)  

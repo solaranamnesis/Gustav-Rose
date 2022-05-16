@@ -7,4 +7,4 @@ Attempt at a translation of Gustav Rose's work, I welcome all pull requests of s
 [English - Plain Text](Beschreibung-und-einteilung-der-meteoriten/full-text-english.md)  
 English - PDF  
 [German - Plain Text](Beschreibung-und-einteilung-der-meteoriten/full-text-german.md)  
-[German - PDF](https://cdn.solaranamnesis.com/GustavRose/gustav_rose_meteorit_german_PDFlaTex.pdf) [Fraktur](https://cdn.solaranamnesis.com/GustavRose/gustav_rose_meteorit_german_PDFlaTex-frak.pdf) [Schwabacher](https://cdn.solaranamnesis.com/GustavRose/gustav_rose_meteorit_german_PDFlaTex-swab.pdf) 
+[German - PDF](https://cdn.solaranamnesis.com/GustavRose/gustav_rose_meteorit_german_PDFlaTex.pdf) | [Fraktur](https://cdn.solaranamnesis.com/GustavRose/gustav_rose_meteorit_german_PDFlaTex-frak.pdf) | [Schwabacher](https://cdn.solaranamnesis.com/GustavRose/gustav_rose_meteorit_german_PDFlaTex-swab.pdf)  

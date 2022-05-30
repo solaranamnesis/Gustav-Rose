@@ -10,7 +10,30 @@
 \usepackage{graphicx}
 \usepackage{microtype}
 \graphicspath{ {./} }
+\usepackage[titles]{tocloft}
+\usepackage{sectsty}
+
+\sectionfont{\Huge}
+\subsectionfont{\LARGE}
+\subsubsectionfont{\LARGE}
 \begin{document}
+\renewcommand{\contentsname}{
+\frakfamily{Inhaltsverzeichnis}
+}
+% fix toc page numbers
+\let\origcftsecfont\cft
+\let\origcftsecpagefont\cftsecpagefont
+\let\origcftsecafterpnum\cftsecafterpnum
+\renewcommand{\cftsecpagefont}{\frakfamily{\origcftsecpagefont}}
+\renewcommand{\cftsecafterpnum}{\frakfamily{\origcftsecafterpnum}}
+\let\origcftsubsecpagefont\cftsubsecpagefont
+\let\origcftsubsecafterpnum\cftsubsecafterpnum
+\renewcommand{\cftsubsecpagefont}{\frakfamily{\origcftsubsecpagefont}}
+\renewcommand{\cftsubsecafterpnum}{\frakfamily{\origcftsubsecafterpnum}}
+\let\origcftsubsubsecpagefont\cftsubsubsecpagefont
+\let\origcftsubsubsecafterpnum\cftsubsubsecafterpnum
+\renewcommand{\cftsubsubsecpagefont}{\frakfamily{\origcftsubsubsecpagefont}}
+\renewcommand{\cftsubsubsecafterpnum}{\frakfamily{\origcftsubsubsecafterpnum}}
 \frakfamily
 \begin{titlepage} % Suppresses headers and footers on the title page
 	\centering % Centre everything on the title page
@@ -25,15 +48,15 @@
 	
 	\vspace{1.5\baselineskip} % Whitespace above the title
 	
-	{\scshape\LARGE Beschreibung und Einteilung}
+	{\scshape\Huge Beschreibung und Einteilung}
 	
 	\vspace{1\baselineskip} % Whitespace after the title block
 
-	{\scshape\LARGE der Meteoriten auf Grund der Sammlung}
+	{\scshape\Huge der Meteoriten auf Grund der Sammlung}
 
 	\vspace{1\baselineskip} % Whitespace after the title block
 
-	{\scshape\LARGE im Mineralogischen Museum zu Berlin.}
+	{\scshape\Huge im Mineralogischen Museum zu Berlin.}
 
 	\vspace{1.5\baselineskip} % Whitespace above the title
 
@@ -46,11 +69,11 @@
 	%	Subtitle
 	%------------------------------------------------
 	
-	{\scshape Von Gustav Rose.} % Subtitle or further description
+	{\LARGE Von Gustav Rose.} % Subtitle or further description
 	
 	\vspace*{1\baselineskip} % Whitespace under the subtitle
 	
-    {\scshape\small Aus den Abhandlungen der K"onigliche Akademie\\ der Wissenschaften zu Berlin 1863.\\Mit vier Kupfertafeln.} % Subtitle or further description
+    {Aus den Abhandlungen der K"onigliche Akademie\\ der Wissenschaften zu Berlin 1863.\\Mit vier Kupfertafeln.} % Subtitle or further description
     
 	%------------------------------------------------
 	%	Editor(s)
@@ -75,6 +98,10 @@
 \tableofcontents
 }
 \clearpage
+\LARGE
+\pagestyle{fancy}
+\fancyhf{}
+\cfoot{\frakfamily{\thepage}}
 \section*{\frakfamily{Geschichte der Meteoritensammlung in dem mineralogischen Museum von Berlin auf Grund deren die neue Einteilung der Meteoriten gemacht ist.}}
 \paragraph{}
 Die Meteoritensammlung macht einen besonderen Teil des mineralogischen Museums der Berliner Universit"at aus. Als bei der Gr"undung der Universit"at im Jahre 1810 auch das mineralogische Museum durch "ubernahme der Mineraliensammlung der fr"uheren General-Bergbau-Direktion gegr"undet wurde, waren die wenigen Meteoriten, die sich in derselben befanden, noch nicht getrennt und mit den "ubrigen Mineralien vereinigt. Wie viele Meteoriten sich schon damals in ihr befanden, l"asst sich nicht angeben, da dar"uber die Nachweisungen fehlen, indessen enthielt sie doch schon manche kostbare St"ucke, wie ein gro"ses prachtvolles Exemplar von dem Pallas-Eisen, das in einer Sammlung Russischer Mineralien enthalten war, die Kaiser Alexander I dem K"onige Friedrich Wilhelm III im Jahre 1803 zum Geschenk gemacht hatte, so wie ein gro"ses St"uck von dem Durango-Eisen, welches Al. von Humboldt aus Mexiko mitgebracht und dem damaligen Direktor Dietrich Karsten f"ur die Sammlung "ubergeben hatte. Wei"s, der nach Karstens Tode Direktor des mineralogischen Museums wurde, hatte ein gro"ses Interesse f"ur die Meteoriten und lie"s keine Gelegenheit vor"ubergehen, die sich ihm zur Erwerbung von Meteoriten darbot, doch fand sich dieselbe im Anfang, wo das Interesse f"ur die Meteoriten "uberhaupt noch nicht so lebhaft war wie jetzt, nicht h"aufig. Die erste gr"o"sere Bereicherung erhielt das Museum erst durch den Ankauf der Mineraliensammlung von Klaproth nach dessen im Jahre 1817 erfolgten Tode, indem sich darin nach Weglassung aller Arten, die sich sp"ater als unecht erwiesen haben, Steinmeteorit von 12 Fund"ortern und Eisenmeteorit von 5 Fund"ortern befanden, und mehrere derselben in mehreren Exemplaren vertreten waren. In dem im Jahre 1826 vollendeten Kataloge des Museums sind Meteorit von 31 Fund"ortern aufgef"uhrt, und zwar Steinmeteorit von 21 und Eisenmeteorit von 9 Fund"ortern. Aber schon im n"achsten Jahre vermehrte sich die Sammlung um mehr als das Doppelte durch das Verm"achtnis Chladni's, wodurch die ganze ber"uhmte Meteoritensammlung dieses um die Meteoritenkunde so verdienten Gelehrten dem Berliner Museum zufiel.\footnote{\frakfamily{Chladni starb den 3. April 1827 auf einer Reise in Breslau. Er stand in den freundschaftlichsten Beziehungen zu dem damaligen Direktor des Berliner Museums, wie "uberhaupt zu den Berliner Gelehrten, und dies Verh"altnis hatte ihn bei dem Wunsche seine Sammlung gemeinn"utzig zu machen, den er in seine Testamente ausdr"ucklich ausgesprochen hatte, wohl besonders bewogen, seine Sammlung dem Berliner Museum zu vermachen.}} Sie bestand in Steinmeteoriten von 31 und Eisenmeteoriten von 10 verschiedenen Fund"ortern, unter denen 18 neue Meteorit sich befanden.
